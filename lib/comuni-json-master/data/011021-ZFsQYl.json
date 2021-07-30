@@ -1,0 +1,22 @@
+{
+	"nome": "Pignone",
+	"codice": "011021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "G664",
+	"cap": [
+		"19020"
+	],
+	"popolazione": 599
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelbelforte",
+	"codice": "020013",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "C059",
+	"cap": [
+		"46032"
+	],
+	"popolazione": 3069
+}

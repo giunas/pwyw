@@ -1,0 +1,22 @@
+{
+	"nome": "Baia e Latina",
+	"codice": "061006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "A579",
+	"cap": [
+		"81010"
+	],
+	"popolazione": 2251
+}

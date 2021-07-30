@@ -1,0 +1,22 @@
+{
+	"nome": "Coriano",
+	"codice": "099003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "D004",
+	"cap": [
+		"47853"
+	],
+	"popolazione": 10028
+}

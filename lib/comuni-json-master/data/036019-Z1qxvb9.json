@@ -1,0 +1,22 @@
+{
+	"nome": "Maranello",
+	"codice": "036019",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "E904",
+	"cap": [
+		"41053"
+	],
+	"popolazione": 16622
+}

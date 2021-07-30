@@ -1,0 +1,22 @@
+{
+	"nome": "Piglio",
+	"codice": "060053",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "G659",
+	"cap": [
+		"03010"
+	],
+	"popolazione": 4657
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montecosaro",
+	"codice": "043028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "F482",
+	"cap": [
+		"62010"
+	],
+	"popolazione": 6918
+}

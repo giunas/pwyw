@@ -1,0 +1,22 @@
+{
+	"nome": "Villanova Monteleone",
+	"codice": "090078",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "L989",
+	"cap": [
+		"07019"
+	],
+	"popolazione": 2375
+}

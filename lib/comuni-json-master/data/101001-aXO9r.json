@@ -1,0 +1,22 @@
+{
+	"nome": "Belvedere di Spinello",
+	"codice": "101001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "101",
+		"nome": "Crotone"
+	},
+	"sigla": "KR",
+	"codiceCatastale": "A772",
+	"cap": [
+		"88824"
+	],
+	"popolazione": 2327
+}

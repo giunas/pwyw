@@ -1,0 +1,22 @@
+{
+	"nome": "Pralungo",
+	"codice": "096049",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "G980",
+	"cap": [
+		"13899"
+	],
+	"popolazione": 2639
+}

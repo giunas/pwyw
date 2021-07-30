@@ -1,0 +1,22 @@
+{
+	"nome": "Coli",
+	"codice": "033016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "033",
+		"nome": "Piacenza"
+	},
+	"sigla": "PC",
+	"codiceCatastale": "C838",
+	"cap": [
+		"29020"
+	],
+	"popolazione": 955
+}

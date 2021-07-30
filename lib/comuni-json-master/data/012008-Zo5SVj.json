@@ -1,0 +1,22 @@
+{
+	"nome": "Barasso",
+	"codice": "012008",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A619",
+	"cap": [
+		"21020"
+	],
+	"popolazione": 1710
+}

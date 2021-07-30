@@ -1,0 +1,22 @@
+{
+	"nome": "Fontana Liri",
+	"codice": "060036",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "D667",
+	"cap": [
+		"03035"
+	],
+	"popolazione": 2993
+}

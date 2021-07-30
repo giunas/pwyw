@@ -1,0 +1,22 @@
+{
+	"nome": "Lercara Friddi",
+	"codice": "082045",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "E541",
+	"cap": [
+		"90025"
+	],
+	"popolazione": 6935
+}

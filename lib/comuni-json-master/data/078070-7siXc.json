@@ -1,0 +1,22 @@
+{
+	"nome": "Luzzi",
+	"codice": "078070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "E773",
+	"cap": [
+		"87040"
+	],
+	"popolazione": 9568
+}

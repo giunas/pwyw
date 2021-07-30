@@ -1,0 +1,22 @@
+{
+	"nome": "Aiello del Friuli",
+	"codice": "030001",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "A103",
+	"cap": [
+		"33041"
+	],
+	"popolazione": 2272
+}

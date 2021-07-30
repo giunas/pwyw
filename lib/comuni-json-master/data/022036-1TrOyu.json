@@ -1,0 +1,22 @@
+{
+	"nome": "Campitello di Fassa",
+	"codice": "022036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "B514",
+	"cap": [
+		"38031"
+	],
+	"popolazione": 737
+}

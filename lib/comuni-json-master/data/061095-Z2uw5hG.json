@@ -1,0 +1,22 @@
+{
+	"nome": "Vairano Patenora",
+	"codice": "061095",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "L540",
+	"cap": [
+		"81058"
+	],
+	"popolazione": 6658
+}

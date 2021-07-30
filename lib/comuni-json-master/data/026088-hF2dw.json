@@ -1,0 +1,22 @@
+{
+	"nome": "Vazzola",
+	"codice": "026088",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "L700",
+	"cap": [
+		"31028"
+	],
+	"popolazione": 7009
+}

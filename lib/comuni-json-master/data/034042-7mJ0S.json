@@ -1,0 +1,22 @@
+{
+	"nome": "Traversetolo",
+	"codice": "034042",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "L346",
+	"cap": [
+		"43029"
+	],
+	"popolazione": 9275
+}

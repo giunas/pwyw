@@ -1,0 +1,22 @@
+{
+	"nome": "Velletri",
+	"codice": "058111",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "L719",
+	"cap": [
+		"00049"
+	],
+	"popolazione": 52295
+}

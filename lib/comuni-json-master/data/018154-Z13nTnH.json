@@ -1,0 +1,22 @@
+{
+	"nome": "Suardi",
+	"codice": "018154",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B014",
+	"cap": [
+		"27030"
+	],
+	"popolazione": 651
+}

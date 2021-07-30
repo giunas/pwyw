@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione d'Orcia",
+	"codice": "052007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "C313",
+	"cap": [
+		"53023"
+	],
+	"popolazione": 2453
+}

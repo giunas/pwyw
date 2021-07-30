@@ -1,0 +1,22 @@
+{
+	"nome": "Monreale",
+	"codice": "082049",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "F377",
+	"cap": [
+		"90046"
+	],
+	"popolazione": 38018
+}

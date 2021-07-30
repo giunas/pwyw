@@ -1,0 +1,22 @@
+{
+	"nome": "Angrogna",
+	"codice": "001011",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A295",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 870
+}

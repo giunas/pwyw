@@ -1,0 +1,22 @@
+{
+	"nome": "Afragola",
+	"codice": "063002",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A064",
+	"cap": [
+		"80021"
+	],
+	"popolazione": 63820
+}

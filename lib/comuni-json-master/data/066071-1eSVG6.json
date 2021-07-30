@@ -1,0 +1,22 @@
+{
+	"nome": "Pettorano sul Gizio",
+	"codice": "066071",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "G524",
+	"cap": [
+		"67034"
+	],
+	"popolazione": 1363
+}

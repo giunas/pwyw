@@ -1,0 +1,22 @@
+{
+	"nome": "Brennero",
+	"codice": "021010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "B145",
+	"cap": [
+		"39041"
+	],
+	"popolazione": 2087
+}

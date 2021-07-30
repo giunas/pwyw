@@ -1,0 +1,22 @@
+{
+	"nome": "Ortona",
+	"codice": "069058",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G141",
+	"cap": [
+		"66026"
+	],
+	"popolazione": 23425
+}

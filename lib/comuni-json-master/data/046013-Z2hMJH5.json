@@ -1,0 +1,22 @@
+{
+	"nome": "Forte dei Marmi",
+	"codice": "046013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "D730",
+	"cap": [
+		"55042"
+	],
+	"popolazione": 7660
+}

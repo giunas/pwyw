@@ -1,0 +1,22 @@
+{
+	"nome": "Chiarano",
+	"codice": "026016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "C614",
+	"cap": [
+		"31040"
+	],
+	"popolazione": 3695
+}

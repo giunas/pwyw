@@ -1,0 +1,22 @@
+{
+	"nome": "Giussano",
+	"codice": "108024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "E063",
+	"cap": [
+		"20833"
+	],
+	"popolazione": 24527
+}

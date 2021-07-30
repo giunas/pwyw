@@ -1,0 +1,22 @@
+{
+	"nome": "Riccò del Golfo di Spezia",
+	"codice": "011023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "H275",
+	"cap": [
+		"19020"
+	],
+	"popolazione": 3537
+}

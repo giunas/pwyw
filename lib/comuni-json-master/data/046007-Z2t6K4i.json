@@ -1,0 +1,22 @@
+{
+	"nome": "Capannori",
+	"codice": "046007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "B648",
+	"cap": [
+		"55012"
+	],
+	"popolazione": 44898
+}

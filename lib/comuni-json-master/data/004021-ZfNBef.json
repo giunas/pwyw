@@ -1,0 +1,22 @@
+{
+	"nome": "Bergolo",
+	"codice": "004021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "A798",
+	"cap": [
+		"12074"
+	],
+	"popolazione": 67
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Celano",
+	"codice": "066032",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "C426",
+	"cap": [
+		"67043"
+	],
+	"popolazione": 10828
+}

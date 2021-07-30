@@ -1,0 +1,22 @@
+{
+	"nome": "Soverzene",
+	"codice": "025057",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "I876",
+	"cap": [
+		"32010"
+	],
+	"popolazione": 418
+}

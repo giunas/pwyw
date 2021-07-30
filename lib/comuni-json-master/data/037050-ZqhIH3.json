@@ -1,0 +1,22 @@
+{
+	"nome": "Sala Bolognese",
+	"codice": "037050",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "H678",
+	"cap": [
+		"40010"
+	],
+	"popolazione": 8245
+}

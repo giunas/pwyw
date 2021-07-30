@@ -1,0 +1,22 @@
+{
+	"nome": "Castelletto sopra Ticino",
+	"codice": "003043",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "C166",
+	"cap": [
+		"28053"
+	],
+	"popolazione": 10005
+}

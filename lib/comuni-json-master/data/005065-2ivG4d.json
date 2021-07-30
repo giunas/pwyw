@@ -1,0 +1,22 @@
+{
+	"nome": "Mombaruzzo",
+	"codice": "005065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F311",
+	"cap": [
+		"14046"
+	],
+	"popolazione": 1153
+}

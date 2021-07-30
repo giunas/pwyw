@@ -1,0 +1,22 @@
+{
+	"nome": "Follonica",
+	"codice": "053009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "D656",
+	"cap": [
+		"58022"
+	],
+	"popolazione": 21479
+}

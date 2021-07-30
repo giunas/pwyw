@@ -1,0 +1,22 @@
+{
+	"nome": "Radda in Chianti",
+	"codice": "052023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "H153",
+	"cap": [
+		"53017"
+	],
+	"popolazione": 1693
+}

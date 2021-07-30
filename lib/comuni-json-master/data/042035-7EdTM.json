@@ -1,0 +1,22 @@
+{
+	"nome": "Ostra",
+	"codice": "042035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "F401",
+	"cap": [
+		"60010"
+	],
+	"popolazione": 6743
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sessano del Molise",
+	"codice": "094049",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "I679",
+	"cap": [
+		"86097"
+	],
+	"popolazione": 744
+}

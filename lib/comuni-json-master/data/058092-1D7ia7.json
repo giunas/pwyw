@@ -1,0 +1,22 @@
+{
+	"nome": "Roviano",
+	"codice": "058092",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "H618",
+	"cap": [
+		"00027"
+	],
+	"popolazione": 1392
+}

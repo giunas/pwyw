@@ -1,0 +1,22 @@
+{
+	"nome": "Forano",
+	"codice": "057029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "D689",
+	"cap": [
+		"02044"
+	],
+	"popolazione": 2933
+}

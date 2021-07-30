@@ -1,0 +1,22 @@
+{
+	"nome": "Bassano del Grappa",
+	"codice": "024012",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "A703",
+	"cap": [
+		"36061"
+	],
+	"popolazione": 42984
+}

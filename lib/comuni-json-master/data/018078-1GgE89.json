@@ -1,0 +1,22 @@
+{
+	"nome": "Landriano",
+	"codice": "018078",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "E437",
+	"cap": [
+		"27015"
+	],
+	"popolazione": 5917
+}

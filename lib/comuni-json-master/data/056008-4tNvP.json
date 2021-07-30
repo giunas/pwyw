@@ -1,0 +1,22 @@
+{
+	"nome": "Bolsena",
+	"codice": "056008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "A949",
+	"cap": [
+		"01023"
+	],
+	"popolazione": 4137
+}

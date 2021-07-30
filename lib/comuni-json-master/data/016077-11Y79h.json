@@ -1,0 +1,22 @@
+{
+	"nome": "Clusone",
+	"codice": "016077",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "C800",
+	"cap": [
+		"24023"
+	],
+	"popolazione": 8678
+}

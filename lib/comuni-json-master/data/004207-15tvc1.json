@@ -1,0 +1,22 @@
+{
+	"nome": "San Damiano Macra",
+	"codice": "004207",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H812",
+	"cap": [
+		"12029"
+	],
+	"popolazione": 439
+}

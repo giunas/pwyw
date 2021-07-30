@@ -1,0 +1,25 @@
+{
+	"nome": "Rimini",
+	"codice": "099014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "H294",
+	"cap": [
+		"47921",
+		"47922",
+		"47923",
+		"47924"
+	],
+	"popolazione": 139601
+}

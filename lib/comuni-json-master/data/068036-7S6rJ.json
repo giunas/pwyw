@@ -1,0 +1,22 @@
+{
+	"nome": "Salle",
+	"codice": "068036",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "H715",
+	"cap": [
+		"65020"
+	],
+	"popolazione": 317
+}

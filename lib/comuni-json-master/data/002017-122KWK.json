@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo Vercelli",
+	"codice": "002017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "B046",
+	"cap": [
+		"13012"
+	],
+	"popolazione": 2295
+}

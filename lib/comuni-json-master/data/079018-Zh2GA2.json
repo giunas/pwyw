@@ -1,0 +1,22 @@
+{
+	"nome": "Cardinale",
+	"codice": "079018",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "B758",
+	"cap": [
+		"88062"
+	],
+	"popolazione": 2334
+}

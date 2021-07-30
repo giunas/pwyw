@@ -1,0 +1,22 @@
+{
+	"nome": "Norcia",
+	"codice": "054035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "F935",
+	"cap": [
+		"06046"
+	],
+	"popolazione": 4915
+}

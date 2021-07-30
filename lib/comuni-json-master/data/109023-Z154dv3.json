@@ -1,0 +1,22 @@
+{
+	"nome": "Monte San Pietrangeli",
+	"codice": "109023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F626",
+	"cap": [
+		"63815"
+	],
+	"popolazione": 2547
+}

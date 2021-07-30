@@ -1,0 +1,22 @@
+{
+	"nome": "Breme",
+	"codice": "018022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B142",
+	"cap": [
+		"27020"
+	],
+	"popolazione": 853
+}

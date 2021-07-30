@@ -1,0 +1,22 @@
+{
+	"nome": "Genuri",
+	"codice": "111024",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "D970",
+	"cap": [
+		"09020"
+	],
+	"popolazione": 345
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montirone",
+	"codice": "017114",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "F680",
+	"cap": [
+		"25010"
+	],
+	"popolazione": 5044
+}

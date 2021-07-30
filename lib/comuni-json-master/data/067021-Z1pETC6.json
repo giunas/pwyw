@@ -1,0 +1,22 @@
+{
+	"nome": "Corropoli",
+	"codice": "067021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "D043",
+	"cap": [
+		"64013"
+	],
+	"popolazione": 4750
+}

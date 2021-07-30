@@ -1,0 +1,22 @@
+{
+	"nome": "Riofreddo",
+	"codice": "058083",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "H300",
+	"cap": [
+		"00020"
+	],
+	"popolazione": 762
+}

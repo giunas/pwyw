@@ -1,0 +1,22 @@
+{
+	"nome": "Samarate",
+	"codice": "012118",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "H736",
+	"cap": [
+		"21017"
+	],
+	"popolazione": 16168
+}

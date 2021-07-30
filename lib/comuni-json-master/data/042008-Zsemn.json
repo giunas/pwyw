@@ -1,0 +1,22 @@
+{
+	"nome": "Castelbellino",
+	"codice": "042008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "C060",
+	"cap": [
+		"60030"
+	],
+	"popolazione": 4763
+}

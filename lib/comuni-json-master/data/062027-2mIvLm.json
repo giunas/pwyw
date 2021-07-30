@@ -1,0 +1,22 @@
+{
+	"nome": "Dugenta",
+	"codice": "062027",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "D380",
+	"cap": [
+		"82030"
+	],
+	"popolazione": 2752
+}

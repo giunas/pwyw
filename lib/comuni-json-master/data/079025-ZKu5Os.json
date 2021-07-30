@@ -1,0 +1,22 @@
+{
+	"nome": "Centrache",
+	"codice": "079025",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "C472",
+	"cap": [
+		"88067"
+	],
+	"popolazione": 415
+}

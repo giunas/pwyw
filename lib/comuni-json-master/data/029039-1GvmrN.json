@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Tolle",
+	"codice": "029039",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "G923",
+	"cap": [
+		"45018"
+	],
+	"popolazione": 10058
+}

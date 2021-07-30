@@ -1,0 +1,22 @@
+{
+	"nome": "Pontirolo Nuovo",
+	"codice": "016172",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "G867",
+	"cap": [
+		"24040"
+	],
+	"popolazione": 4993
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Buonabitacolo",
+	"codice": "065018",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B266",
+	"cap": [
+		"84032"
+	],
+	"popolazione": 2571
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Coggiola",
+	"codice": "096019",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "C819",
+	"cap": [
+		"13863"
+	],
+	"popolazione": 1996
+}

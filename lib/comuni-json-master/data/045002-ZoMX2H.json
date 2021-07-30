@@ -1,0 +1,22 @@
+{
+	"nome": "Bagnone",
+	"codice": "045002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "A576",
+	"cap": [
+		"54021"
+	],
+	"popolazione": 1926
+}

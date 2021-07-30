@@ -1,0 +1,22 @@
+{
+	"nome": "Baiano",
+	"codice": "064010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "A580",
+	"cap": [
+		"83022"
+	],
+	"popolazione": 4730
+}

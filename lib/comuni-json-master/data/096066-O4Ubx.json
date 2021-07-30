@@ -1,0 +1,22 @@
+{
+	"nome": "Tavigliano",
+	"codice": "096066",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "L075",
+	"cap": [
+		"13811"
+	],
+	"popolazione": 960
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelcivita",
+	"codice": "065030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C069",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 1834
+}

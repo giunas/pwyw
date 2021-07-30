@@ -1,0 +1,22 @@
+{
+	"nome": "Montebruno",
+	"codice": "010038",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "F445",
+	"cap": [
+		"16025"
+	],
+	"popolazione": 217
+}

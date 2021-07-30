@@ -1,0 +1,22 @@
+{
+	"nome": "Avolasca",
+	"codice": "006010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "A523",
+	"cap": [
+		"15050"
+	],
+	"popolazione": 306
+}

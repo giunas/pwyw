@@ -1,0 +1,22 @@
+{
+	"nome": "Vicalvi",
+	"codice": "060086",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "L836",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 806
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Borno",
+	"codice": "017022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B054",
+	"cap": [
+		"25042"
+	],
+	"popolazione": 2630
+}

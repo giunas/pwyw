@@ -1,0 +1,22 @@
+{
+	"nome": "Lardirago",
+	"codice": "018080",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "E454",
+	"cap": [
+		"27016"
+	],
+	"popolazione": 1200
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Paluzza",
+	"codice": "030071",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "G300",
+	"cap": [
+		"33026"
+	],
+	"popolazione": 2372
+}

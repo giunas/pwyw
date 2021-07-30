@@ -1,0 +1,22 @@
+{
+	"nome": "Borghetto Santo Spirito",
+	"codice": "009012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "A999",
+	"cap": [
+		"17052"
+	],
+	"popolazione": 5154
+}

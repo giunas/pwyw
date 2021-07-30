@@ -1,0 +1,22 @@
+{
+	"nome": "Poggiofiorito",
+	"codice": "069067",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G760",
+	"cap": [
+		"66030"
+	],
+	"popolazione": 943
+}

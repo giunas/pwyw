@@ -1,0 +1,22 @@
+{
+	"nome": "Quiliano",
+	"codice": "009052",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "H126",
+	"cap": [
+		"17047"
+	],
+	"popolazione": 7336
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Andora",
+	"codice": "009006",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "A278",
+	"cap": [
+		"17051"
+	],
+	"popolazione": 7470
+}

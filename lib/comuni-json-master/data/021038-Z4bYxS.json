@@ -1,0 +1,22 @@
+{
+	"nome": "Lagundo",
+	"codice": "021038",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "E412",
+	"cap": [
+		"39022"
+	],
+	"popolazione": 4873
+}

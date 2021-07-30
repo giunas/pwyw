@@ -1,0 +1,22 @@
+{
+	"nome": "Idro",
+	"codice": "017082",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E280",
+	"cap": [
+		"25074"
+	],
+	"popolazione": 1892
+}

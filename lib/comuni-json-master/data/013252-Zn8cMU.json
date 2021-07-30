@@ -1,0 +1,22 @@
+{
+	"nome": "Tremezzina",
+	"codice": "013252",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "M341",
+	"cap": [
+		"22016"
+	],
+	"popolazione": 5078
+}

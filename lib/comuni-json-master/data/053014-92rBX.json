@@ -1,0 +1,22 @@
+{
+	"nome": "Manciano",
+	"codice": "053014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "E875",
+	"cap": [
+		"58014"
+	],
+	"popolazione": 7259
+}

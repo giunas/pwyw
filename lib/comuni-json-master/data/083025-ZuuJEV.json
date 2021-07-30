@@ -1,0 +1,22 @@
+{
+	"nome": "Francavilla di Sicilia",
+	"codice": "083025",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D765",
+	"cap": [
+		"98034"
+	],
+	"popolazione": 3901
+}

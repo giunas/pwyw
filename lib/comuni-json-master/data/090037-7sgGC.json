@@ -1,0 +1,22 @@
+{
+	"nome": "Luras",
+	"codice": "090037",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "E752",
+	"cap": [
+		"07025"
+	],
+	"popolazione": 2651
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Scano di Montiferro",
+	"codice": "095051",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "I503",
+	"cap": [
+		"09078"
+	],
+	"popolazione": 1580
+}

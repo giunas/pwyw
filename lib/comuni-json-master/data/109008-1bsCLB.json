@@ -1,0 +1,22 @@
+{
+	"nome": "Grottazzolina",
+	"codice": "109008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "E208",
+	"cap": [
+		"63844"
+	],
+	"popolazione": 3287
+}

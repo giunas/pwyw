@@ -1,0 +1,22 @@
+{
+	"nome": "Avio",
+	"codice": "022007",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "A520",
+	"cap": [
+		"38063"
+	],
+	"popolazione": 4115
+}

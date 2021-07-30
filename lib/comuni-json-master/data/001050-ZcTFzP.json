@@ -1,0 +1,22 @@
+{
+	"nome": "Candia Canavese",
+	"codice": "001050",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B588",
+	"cap": [
+		"10010"
+	],
+	"popolazione": 1286
+}

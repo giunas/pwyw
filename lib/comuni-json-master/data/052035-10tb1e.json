@@ -1,0 +1,22 @@
+{
+	"nome": "Torrita di Siena",
+	"codice": "052035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "L303",
+	"cap": [
+		"53049"
+	],
+	"popolazione": 7357
+}

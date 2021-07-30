@@ -1,0 +1,22 @@
+{
+	"nome": "Formia",
+	"codice": "059008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "D708",
+	"cap": [
+		"04023"
+	],
+	"popolazione": 36331
+}

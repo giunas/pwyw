@@ -1,0 +1,22 @@
+{
+	"nome": "Bellinzago Novarese",
+	"codice": "003016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "A752",
+	"cap": [
+		"28043"
+	],
+	"popolazione": 9375
+}

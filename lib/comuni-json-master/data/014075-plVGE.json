@@ -1,0 +1,22 @@
+{
+	"nome": "Verceia",
+	"codice": "014075",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "L749",
+	"cap": [
+		"23020"
+	],
+	"popolazione": 1093
+}

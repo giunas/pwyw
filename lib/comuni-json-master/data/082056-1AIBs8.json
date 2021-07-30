@@ -1,0 +1,22 @@
+{
+	"nome": "Petralia Sottana",
+	"codice": "082056",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "G511",
+	"cap": [
+		"90027"
+	],
+	"popolazione": 2975
+}

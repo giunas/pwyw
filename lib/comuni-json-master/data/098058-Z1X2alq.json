@@ -1,0 +1,22 @@
+{
+	"nome": "Turano Lodigiano",
+	"codice": "098058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "L469",
+	"cap": [
+		"26828"
+	],
+	"popolazione": 1538
+}

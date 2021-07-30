@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca de' Baldi",
+	"codice": "004189",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H395",
+	"cap": [
+		"12047"
+	],
+	"popolazione": 1698
+}

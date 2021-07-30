@@ -1,0 +1,22 @@
+{
+	"nome": "San Marcellino",
+	"codice": "061077",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H978",
+	"cap": [
+		"81030"
+	],
+	"popolazione": 12643
+}

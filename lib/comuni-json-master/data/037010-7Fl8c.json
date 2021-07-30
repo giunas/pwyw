@@ -1,0 +1,22 @@
+{
+	"nome": "Camugnano",
+	"codice": "037010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "B572",
+	"cap": [
+		"40032"
+	],
+	"popolazione": 2000
+}

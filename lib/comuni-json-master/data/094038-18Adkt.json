@@ -1,0 +1,22 @@
+{
+	"nome": "Pozzilli",
+	"codice": "094038",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "G954",
+	"cap": [
+		"86077"
+	],
+	"popolazione": 2275
+}

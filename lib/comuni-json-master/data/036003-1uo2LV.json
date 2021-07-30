@@ -1,0 +1,22 @@
+{
+	"nome": "Campogalliano",
+	"codice": "036003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "B539",
+	"cap": [
+		"41011"
+	],
+	"popolazione": 8514
+}

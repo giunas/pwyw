@@ -1,0 +1,22 @@
+{
+	"nome": "Mazzarrà Sant'Andrea",
+	"codice": "083046",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F066",
+	"cap": [
+		"98056"
+	],
+	"popolazione": 1567
+}

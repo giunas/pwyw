@@ -1,0 +1,22 @@
+{
+	"nome": "Siamanna",
+	"codice": "095057",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "I718",
+	"cap": [
+		"09080"
+	],
+	"popolazione": 824
+}

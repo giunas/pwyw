@@ -1,0 +1,22 @@
+{
+	"nome": "Terzorio",
+	"codice": "008060",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "L146",
+	"cap": [
+		"18010"
+	],
+	"popolazione": 232
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sulmona",
+	"codice": "066098",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "I804",
+	"cap": [
+		"67039"
+	],
+	"popolazione": 24275
+}

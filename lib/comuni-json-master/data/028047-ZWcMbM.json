@@ -1,0 +1,22 @@
+{
+	"nome": "Lozzo Atestino",
+	"codice": "028047",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "E709",
+	"cap": [
+		"35034"
+	],
+	"popolazione": 3179
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Calizzano",
+	"codice": "009017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "B416",
+	"cap": [
+		"17057"
+	],
+	"popolazione": 1550
+}

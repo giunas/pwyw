@@ -1,0 +1,22 @@
+{
+	"nome": "Francavilla Bisio",
+	"codice": "006070",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "D759",
+	"cap": [
+		"15060"
+	],
+	"popolazione": 518
+}

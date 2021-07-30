@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Carcina",
+	"codice": "017199",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "L919",
+	"cap": [
+		"25069"
+	],
+	"popolazione": 10755
+}

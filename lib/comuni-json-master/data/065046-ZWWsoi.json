@@ -1,0 +1,22 @@
+{
+	"nome": "Contursi Terme",
+	"codice": "065046",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C974",
+	"cap": [
+		"84024"
+	],
+	"popolazione": 3337
+}

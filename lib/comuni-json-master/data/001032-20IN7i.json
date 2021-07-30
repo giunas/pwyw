@@ -1,0 +1,22 @@
+{
+	"nome": "Borgone Susa",
+	"codice": "001032",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B024",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 2320
+}

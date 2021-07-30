@@ -1,0 +1,22 @@
+{
+	"nome": "Polizzi Generosa",
+	"codice": "082058",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "G792",
+	"cap": [
+		"90028"
+	],
+	"popolazione": 3607
+}

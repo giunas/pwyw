@@ -1,0 +1,22 @@
+{
+	"nome": "Breganze",
+	"codice": "024014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "B132",
+	"cap": [
+		"36042"
+	],
+	"popolazione": 8693
+}

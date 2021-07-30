@@ -1,0 +1,22 @@
+{
+	"nome": "Fino Mornasco",
+	"codice": "013102",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "D605",
+	"cap": [
+		"22073"
+	],
+	"popolazione": 9569
+}

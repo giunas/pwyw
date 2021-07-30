@@ -1,0 +1,22 @@
+{
+	"nome": "Ucria",
+	"codice": "083102",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "L482",
+	"cap": [
+		"98060"
+	],
+	"popolazione": 1105
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Rionero Sannitico",
+	"codice": "094039",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "H308",
+	"cap": [
+		"86087"
+	],
+	"popolazione": 1129
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Niardo",
+	"codice": "017118",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "F884",
+	"cap": [
+		"25050"
+	],
+	"popolazione": 1950
+}

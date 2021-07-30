@@ -1,0 +1,22 @@
+{
+	"nome": "Montegrino Valtravaglia",
+	"codice": "012103",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "F526",
+	"cap": [
+		"21010"
+	],
+	"popolazione": 1414
+}

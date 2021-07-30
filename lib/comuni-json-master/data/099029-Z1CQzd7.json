@@ -1,0 +1,22 @@
+{
+	"nome": "Montescudo-Monte Colombo",
+	"codice": "099029",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "M368",
+	"cap": [
+		"47854"
+	],
+	"popolazione": 6606
+}

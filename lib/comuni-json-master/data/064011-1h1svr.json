@@ -1,0 +1,22 @@
+{
+	"nome": "Bisaccia",
+	"codice": "064011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "A881",
+	"cap": [
+		"83044"
+	],
+	"popolazione": 3919
+}

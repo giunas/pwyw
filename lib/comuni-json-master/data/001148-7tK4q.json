@@ -1,0 +1,22 @@
+{
+	"nome": "Mazzè",
+	"codice": "001148",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F067",
+	"cap": [
+		"10035"
+	],
+	"popolazione": 4152
+}

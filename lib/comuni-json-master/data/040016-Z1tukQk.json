@@ -1,0 +1,22 @@
+{
+	"nome": "Gatteo",
+	"codice": "040016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "D935",
+	"cap": [
+		"47043"
+	],
+	"popolazione": 8910
+}

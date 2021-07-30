@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca d'Arce",
+	"codice": "060059",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "H393",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 971
+}

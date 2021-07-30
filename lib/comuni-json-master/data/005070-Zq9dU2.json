@@ -1,0 +1,22 @@
+{
+	"nome": "Moncucco Torinese",
+	"codice": "005070",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F343",
+	"cap": [
+		"14024"
+	],
+	"popolazione": 878
+}

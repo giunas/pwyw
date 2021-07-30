@@ -1,0 +1,22 @@
+{
+	"nome": "Castelsaraceno",
+	"codice": "076025",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "C271",
+	"cap": [
+		"85031"
+	],
+	"popolazione": 1480
+}

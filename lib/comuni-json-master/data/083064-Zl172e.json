@@ -1,0 +1,22 @@
+{
+	"nome": "Pace del Mela",
+	"codice": "083064",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "G209",
+	"cap": [
+		"98042"
+	],
+	"popolazione": 6388
+}

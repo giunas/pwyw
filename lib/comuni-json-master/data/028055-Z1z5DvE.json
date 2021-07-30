@@ -1,0 +1,22 @@
+{
+	"nome": "Monselice",
+	"codice": "028055",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "F382",
+	"cap": [
+		"35043"
+	],
+	"popolazione": 17451
+}

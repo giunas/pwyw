@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo di Garfagnana",
+	"codice": "046009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "C236",
+	"cap": [
+		"55032"
+	],
+	"popolazione": 6059
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Perdasdefogu",
+	"codice": "091072",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "G445",
+	"cap": [
+		"08046"
+	],
+	"popolazione": 2042
+}

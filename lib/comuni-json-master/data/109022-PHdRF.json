@@ -1,0 +1,22 @@
+{
+	"nome": "Monterubbiano",
+	"codice": "109022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F614",
+	"cap": [
+		"63825"
+	],
+	"popolazione": 2351
+}

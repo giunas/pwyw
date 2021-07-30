@@ -1,0 +1,22 @@
+{
+	"nome": "Valdidentro",
+	"codice": "014071",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "L557",
+	"cap": [
+		"23038"
+	],
+	"popolazione": 4045
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Lavena Ponte Tresa",
+	"codice": "012086",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "E494",
+	"cap": [
+		"21037"
+	],
+	"popolazione": 5414
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Valbrevenna",
+	"codice": "010065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "L546",
+	"cap": [
+		"16010"
+	],
+	"popolazione": 812
+}

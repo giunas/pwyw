@@ -1,0 +1,22 @@
+{
+	"nome": "Montefranco",
+	"codice": "055019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "F510",
+	"cap": [
+		"05030"
+	],
+	"popolazione": 1289
+}

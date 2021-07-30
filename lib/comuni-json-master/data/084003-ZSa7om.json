@@ -1,0 +1,22 @@
+{
+	"nome": "Aragona",
+	"codice": "084003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "A351",
+	"cap": [
+		"92021"
+	],
+	"popolazione": 9493
+}

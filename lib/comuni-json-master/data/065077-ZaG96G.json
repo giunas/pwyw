@@ -1,0 +1,22 @@
+{
+	"nome": "Morigerati",
+	"codice": "065077",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F731",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 699
+}

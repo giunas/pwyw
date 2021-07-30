@@ -1,0 +1,22 @@
+{
+	"nome": "Agliano Terme",
+	"codice": "005001",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "A072",
+	"cap": [
+		"14041"
+	],
+	"popolazione": 1673
+}

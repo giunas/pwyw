@@ -1,0 +1,22 @@
+{
+	"nome": "Pescantina",
+	"codice": "023058",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "G481",
+	"cap": [
+		"37026"
+	],
+	"popolazione": 16326
+}

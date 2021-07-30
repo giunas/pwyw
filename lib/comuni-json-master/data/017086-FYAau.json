@@ -1,0 +1,22 @@
+{
+	"nome": "Isorella",
+	"codice": "017086",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E364",
+	"cap": [
+		"25010"
+	],
+	"popolazione": 4091
+}

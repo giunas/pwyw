@@ -1,0 +1,22 @@
+{
+	"nome": "Roncofreddo",
+	"codice": "040037",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "H542",
+	"cap": [
+		"47020"
+	],
+	"popolazione": 3395
+}

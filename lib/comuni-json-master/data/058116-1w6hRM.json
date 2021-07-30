@@ -1,0 +1,22 @@
+{
+	"nome": "Ladispoli",
+	"codice": "058116",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "M212",
+	"cap": [
+		"00055"
+	],
+	"popolazione": 37293
+}

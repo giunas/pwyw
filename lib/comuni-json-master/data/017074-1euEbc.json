@@ -1,0 +1,22 @@
+{
+	"nome": "Gardone Riviera",
+	"codice": "017074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "D917",
+	"cap": [
+		"25083"
+	],
+	"popolazione": 2713
+}

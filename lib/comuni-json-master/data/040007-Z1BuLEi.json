@@ -1,0 +1,23 @@
+{
+	"nome": "Cesena",
+	"codice": "040007",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "C573",
+	"cap": [
+		"47521",
+		"47522"
+	],
+	"popolazione": 95990
+}

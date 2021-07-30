@@ -1,0 +1,22 @@
+{
+	"nome": "Villalfonsina",
+	"codice": "069100",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "L961",
+	"cap": [
+		"66020"
+	],
+	"popolazione": 977
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Roccarainola",
+	"codice": "063065",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "H433",
+	"cap": [
+		"80030"
+	],
+	"popolazione": 7164
+}

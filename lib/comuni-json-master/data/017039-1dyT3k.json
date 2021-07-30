@@ -1,0 +1,22 @@
+{
+	"nome": "Carpenedolo",
+	"codice": "017039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B817",
+	"cap": [
+		"25013"
+	],
+	"popolazione": 12649
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Valloriate",
+	"codice": "004235",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "L631",
+	"cap": [
+		"12010"
+	],
+	"popolazione": 121
+}

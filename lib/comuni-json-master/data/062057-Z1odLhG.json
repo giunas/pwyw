@@ -1,0 +1,22 @@
+{
+	"nome": "San Bartolomeo in Galdo",
+	"codice": "062057",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "H764",
+	"cap": [
+		"82028"
+	],
+	"popolazione": 5090
+}

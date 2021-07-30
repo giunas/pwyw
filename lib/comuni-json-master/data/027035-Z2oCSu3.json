@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Maria di Sala",
+	"codice": "027035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "I242",
+	"cap": [
+		"30036"
+	],
+	"popolazione": 17295
+}

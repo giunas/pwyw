@@ -1,0 +1,22 @@
+{
+	"nome": "Ambivere",
+	"codice": "016009",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A259",
+	"cap": [
+		"24030"
+	],
+	"popolazione": 2354
+}

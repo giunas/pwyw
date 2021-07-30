@@ -1,0 +1,22 @@
+{
+	"nome": "Oschiri",
+	"codice": "090049",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "G153",
+	"cap": [
+		"07027"
+	],
+	"popolazione": 3436
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Giardini-Naxos",
+	"codice": "083032",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E014",
+	"cap": [
+		"98035"
+	],
+	"popolazione": 9268
+}

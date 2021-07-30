@@ -1,0 +1,22 @@
+{
+	"nome": "Poggio Nativo",
+	"codice": "057055",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "G765",
+	"cap": [
+		"02030"
+	],
+	"popolazione": 2456
+}

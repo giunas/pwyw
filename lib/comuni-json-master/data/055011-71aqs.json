@@ -1,0 +1,22 @@
+{
+	"nome": "Fabro",
+	"codice": "055011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "D454",
+	"cap": [
+		"05015"
+	],
+	"popolazione": 2906
+}

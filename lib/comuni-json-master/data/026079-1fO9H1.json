@@ -1,0 +1,22 @@
+{
+	"nome": "Segusino",
+	"codice": "026079",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "I578",
+	"cap": [
+		"31040"
+	],
+	"popolazione": 1941
+}

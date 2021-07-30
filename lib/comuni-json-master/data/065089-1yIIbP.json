@@ -1,0 +1,22 @@
+{
+	"nome": "Palomonte",
+	"codice": "065089",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G292",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 4049
+}

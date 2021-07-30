@@ -1,0 +1,22 @@
+{
+	"nome": "Marradi",
+	"codice": "048026",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "E971",
+	"cap": [
+		"50034"
+	],
+	"popolazione": 3257
+}

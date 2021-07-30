@@ -1,0 +1,22 @@
+{
+	"nome": "Campolongo Maggiore",
+	"codice": "027003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "B546",
+	"cap": [
+		"30010"
+	],
+	"popolazione": 10342
+}

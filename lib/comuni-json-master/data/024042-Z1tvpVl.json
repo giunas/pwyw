@@ -1,0 +1,22 @@
+{
+	"nome": "Gallio",
+	"codice": "024042",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D882",
+	"cap": [
+		"36032"
+	],
+	"popolazione": 2413
+}

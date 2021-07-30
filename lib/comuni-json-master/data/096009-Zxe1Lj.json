@@ -1,0 +1,22 @@
+{
+	"nome": "Camandona",
+	"codice": "096009",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "B457",
+	"cap": [
+		"13821"
+	],
+	"popolazione": 359
+}

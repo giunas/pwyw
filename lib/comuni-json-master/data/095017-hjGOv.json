@@ -1,0 +1,22 @@
+{
+	"nome": "Busachi",
+	"codice": "095017",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "B281",
+	"cap": [
+		"09082"
+	],
+	"popolazione": 1379
+}

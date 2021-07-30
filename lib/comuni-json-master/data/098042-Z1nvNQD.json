@@ -1,0 +1,22 @@
+{
+	"nome": "Orio Litta",
+	"codice": "098042",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "G107",
+	"cap": [
+		"26863"
+	],
+	"popolazione": 2023
+}

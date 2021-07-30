@@ -1,0 +1,22 @@
+{
+	"nome": "Avella",
+	"codice": "064007",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "A508",
+	"cap": [
+		"83021"
+	],
+	"popolazione": 7788
+}

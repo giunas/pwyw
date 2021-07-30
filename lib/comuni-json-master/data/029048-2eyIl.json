@@ -1,0 +1,22 @@
+{
+	"nome": "Villadose",
+	"codice": "029048",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "L939",
+	"cap": [
+		"45010"
+	],
+	"popolazione": 5188
+}

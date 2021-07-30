@@ -1,0 +1,22 @@
+{
+	"nome": "Noventa Vicentina",
+	"codice": "024074",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "F964",
+	"cap": [
+		"36025"
+	],
+	"popolazione": 8810
+}

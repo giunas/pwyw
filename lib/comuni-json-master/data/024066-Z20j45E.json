@@ -1,0 +1,22 @@
+{
+	"nome": "Monteviale",
+	"codice": "024066",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "F662",
+	"cap": [
+		"36050"
+	],
+	"popolazione": 2600
+}

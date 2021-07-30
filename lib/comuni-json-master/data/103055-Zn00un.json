@@ -1,0 +1,22 @@
+{
+	"nome": "Premeno",
+	"codice": "103055",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "H030",
+	"cap": [
+		"28818"
+	],
+	"popolazione": 746
+}

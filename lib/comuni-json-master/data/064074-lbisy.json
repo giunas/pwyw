@@ -1,0 +1,22 @@
+{
+	"nome": "Prata di Principato Ultra",
+	"codice": "064074",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "G990",
+	"cap": [
+		"83030"
+	],
+	"popolazione": 2978
+}

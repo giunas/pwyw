@@ -1,0 +1,22 @@
+{
+	"nome": "Sustinente",
+	"codice": "020064",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "L015",
+	"cap": [
+		"46030"
+	],
+	"popolazione": 2240
+}

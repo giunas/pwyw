@@ -1,0 +1,22 @@
+{
+	"nome": "Bomporto",
+	"codice": "036002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "A959",
+	"cap": [
+		"41030"
+	],
+	"popolazione": 9761
+}

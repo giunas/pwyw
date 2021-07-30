@@ -1,0 +1,22 @@
+{
+	"nome": "Borgomaro",
+	"codice": "008010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "B020",
+	"cap": [
+		"18021"
+	],
+	"popolazione": 873
+}

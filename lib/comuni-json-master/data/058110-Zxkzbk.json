@@ -1,0 +1,22 @@
+{
+	"nome": "Valmontone",
+	"codice": "058110",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "L639",
+	"cap": [
+		"00038"
+	],
+	"popolazione": 14975
+}

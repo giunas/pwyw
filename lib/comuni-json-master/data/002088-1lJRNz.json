@@ -1,0 +1,22 @@
+{
+	"nome": "Olcenengo",
+	"codice": "002088",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "G016",
+	"cap": [
+		"13047"
+	],
+	"popolazione": 754
+}

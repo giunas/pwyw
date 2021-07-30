@@ -1,0 +1,22 @@
+{
+	"nome": "Altavilla Vicentina",
+	"codice": "024004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "A231",
+	"cap": [
+		"36077"
+	],
+	"popolazione": 11760
+}

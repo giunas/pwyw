@@ -1,0 +1,22 @@
+{
+	"nome": "Casto",
+	"codice": "017044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C330",
+	"cap": [
+		"25070"
+	],
+	"popolazione": 1864
+}

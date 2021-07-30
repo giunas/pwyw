@@ -1,0 +1,22 @@
+{
+	"nome": "Dalmine",
+	"codice": "016091",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "D245",
+	"cap": [
+		"24044"
+	],
+	"popolazione": 22881
+}

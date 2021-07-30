@@ -1,0 +1,22 @@
+{
+	"nome": "Castelletto di Branduzzo",
+	"codice": "018038",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "C157",
+	"cap": [
+		"27040"
+	],
+	"popolazione": 1037
+}

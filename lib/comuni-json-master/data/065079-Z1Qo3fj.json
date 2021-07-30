@@ -1,0 +1,22 @@
+{
+	"nome": "Nocera Superiore",
+	"codice": "065079",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F913",
+	"cap": [
+		"84015"
+	],
+	"popolazione": 24151
+}

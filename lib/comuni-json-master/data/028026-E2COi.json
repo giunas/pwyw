@@ -1,0 +1,22 @@
+{
+	"nome": "Cartura",
+	"codice": "028026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "B848",
+	"cap": [
+		"35025"
+	],
+	"popolazione": 4623
+}

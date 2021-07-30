@@ -1,0 +1,22 @@
+{
+	"nome": "Fano",
+	"codice": "041013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "D488",
+	"cap": [
+		"61032"
+	],
+	"popolazione": 62901
+}

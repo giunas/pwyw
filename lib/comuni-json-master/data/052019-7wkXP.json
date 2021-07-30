@@ -1,0 +1,22 @@
+{
+	"nome": "Murlo",
+	"codice": "052019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "F815",
+	"cap": [
+		"53016"
+	],
+	"popolazione": 2388
+}

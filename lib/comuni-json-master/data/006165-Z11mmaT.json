@@ -1,0 +1,22 @@
+{
+	"nome": "Spigno Monferrato",
+	"codice": "006165",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "I901",
+	"cap": [
+		"15018"
+	],
+	"popolazione": 1126
+}

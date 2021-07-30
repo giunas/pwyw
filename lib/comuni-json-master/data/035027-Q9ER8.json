@@ -1,0 +1,22 @@
+{
+	"nome": "Montecchio Emilia",
+	"codice": "035027",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "F463",
+	"cap": [
+		"42027"
+	],
+	"popolazione": 10201
+}

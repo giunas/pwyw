@@ -1,0 +1,22 @@
+{
+	"nome": "Arosio",
+	"codice": "013012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "A430",
+	"cap": [
+		"22060"
+	],
+	"popolazione": 4987
+}

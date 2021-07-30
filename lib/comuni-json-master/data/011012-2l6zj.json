@@ -1,0 +1,22 @@
+{
+	"nome": "Deiva Marina",
+	"codice": "011012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "D265",
+	"cap": [
+		"19013"
+	],
+	"popolazione": 1438
+}

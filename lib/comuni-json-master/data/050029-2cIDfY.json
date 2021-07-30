@@ -1,0 +1,22 @@
+{
+	"nome": "Pontedera",
+	"codice": "050029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "G843",
+	"cap": [
+		"56025"
+	],
+	"popolazione": 28061
+}

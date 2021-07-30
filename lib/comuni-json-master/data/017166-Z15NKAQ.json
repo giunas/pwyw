@@ -1,0 +1,22 @@
+{
+	"nome": "Rovato",
+	"codice": "017166",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "H598",
+	"cap": [
+		"25038"
+	],
+	"popolazione": 17562
+}

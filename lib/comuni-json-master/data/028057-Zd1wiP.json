@@ -1,0 +1,22 @@
+{
+	"nome": "Montegrotto Terme",
+	"codice": "028057",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "F529",
+	"cap": [
+		"35036"
+	],
+	"popolazione": 11074
+}

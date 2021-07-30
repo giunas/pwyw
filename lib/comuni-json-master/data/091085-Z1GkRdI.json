@@ -1,0 +1,22 @@
+{
+	"nome": "Siniscola",
+	"codice": "091085",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "I751",
+	"cap": [
+		"08029"
+	],
+	"popolazione": 11469
+}

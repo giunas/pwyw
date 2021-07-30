@@ -1,0 +1,22 @@
+{
+	"nome": "Cesate",
+	"codice": "015076",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C569",
+	"cap": [
+		"20020"
+	],
+	"popolazione": 13858
+}

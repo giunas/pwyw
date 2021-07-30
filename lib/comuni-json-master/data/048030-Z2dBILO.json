@@ -1,0 +1,22 @@
+{
+	"nome": "Montespertoli",
+	"codice": "048030",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "F648",
+	"cap": [
+		"50025"
+	],
+	"popolazione": 13195
+}

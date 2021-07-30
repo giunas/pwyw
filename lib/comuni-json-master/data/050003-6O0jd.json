@@ -1,0 +1,22 @@
+{
+	"nome": "Calci",
+	"codice": "050003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "B390",
+	"cap": [
+		"56011"
+	],
+	"popolazione": 6409
+}

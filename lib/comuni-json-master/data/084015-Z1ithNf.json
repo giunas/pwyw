@@ -1,0 +1,22 @@
+{
+	"nome": "Cianciana",
+	"codice": "084015",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "C668",
+	"cap": [
+		"92012"
+	],
+	"popolazione": 3517
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Tagliolo Monferrato",
+	"codice": "006169",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "L027",
+	"cap": [
+		"15070"
+	],
+	"popolazione": 1606
+}

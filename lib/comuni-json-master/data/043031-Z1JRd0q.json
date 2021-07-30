@@ -1,0 +1,22 @@
+{
+	"nome": "Monte San Giusto",
+	"codice": "043031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "F621",
+	"cap": [
+		"62015"
+	],
+	"popolazione": 8071
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Albairate",
+	"codice": "015005",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "A127",
+	"cap": [
+		"20080"
+	],
+	"popolazione": 4621
+}

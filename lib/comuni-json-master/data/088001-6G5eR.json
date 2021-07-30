@@ -1,0 +1,22 @@
+{
+	"nome": "Acate",
+	"codice": "088001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "A014",
+	"cap": [
+		"97011"
+	],
+	"popolazione": 9574
+}

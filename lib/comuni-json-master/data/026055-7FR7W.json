@@ -1,0 +1,22 @@
+{
+	"nome": "Paese",
+	"codice": "026055",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "G229",
+	"cap": [
+		"31038"
+	],
+	"popolazione": 21432
+}

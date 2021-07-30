@@ -1,0 +1,22 @@
+{
+	"nome": "Ponti sul Mincio",
+	"codice": "020044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "G862",
+	"cap": [
+		"46040"
+	],
+	"popolazione": 2272
+}

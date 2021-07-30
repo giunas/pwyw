@@ -1,0 +1,22 @@
+{
+	"nome": "Barrafranca",
+	"codice": "086004",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "A676",
+	"cap": [
+		"94012"
+	],
+	"popolazione": 13977
+}

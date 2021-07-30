@@ -1,0 +1,22 @@
+{
+	"nome": "Meltina",
+	"codice": "021050",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "F118",
+	"cap": [
+		"39010"
+	],
+	"popolazione": 1648
+}

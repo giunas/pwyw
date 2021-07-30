@@ -1,0 +1,22 @@
+{
+	"nome": "Valera Fratta",
+	"codice": "098059",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "L572",
+	"cap": [
+		"26859"
+	],
+	"popolazione": 1669
+}

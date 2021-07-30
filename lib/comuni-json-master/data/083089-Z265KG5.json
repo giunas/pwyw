@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Teresa di Riva",
+	"codice": "083089",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I311",
+	"cap": [
+		"98028"
+	],
+	"popolazione": 9240
+}

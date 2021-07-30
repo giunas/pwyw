@@ -1,0 +1,22 @@
+{
+	"nome": "Villar San Costanzo",
+	"codice": "004247",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "M015",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 1502
+}

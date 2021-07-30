@@ -1,0 +1,22 @@
+{
+	"nome": "Accettura",
+	"codice": "077001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "A017",
+	"cap": [
+		"75011"
+	],
+	"popolazione": 1980
+}

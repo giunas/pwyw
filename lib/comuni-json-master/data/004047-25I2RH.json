@@ -1,0 +1,22 @@
+{
+	"nome": "Casteldelfino",
+	"codice": "004047",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "C081",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 179
+}

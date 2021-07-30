@@ -1,0 +1,22 @@
+{
+	"nome": "Cossano Belbo",
+	"codice": "004074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D093",
+	"cap": [
+		"12054"
+	],
+	"popolazione": 1030
+}

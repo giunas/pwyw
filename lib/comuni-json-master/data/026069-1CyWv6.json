@@ -1,0 +1,22 @@
+{
+	"nome": "Roncade",
+	"codice": "026069",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "H523",
+	"cap": [
+		"31056"
+	],
+	"popolazione": 14037
+}

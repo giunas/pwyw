@@ -1,0 +1,22 @@
+{
+	"nome": "Maletto",
+	"codice": "087022",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "E854",
+	"cap": [
+		"95035"
+	],
+	"popolazione": 4015
+}

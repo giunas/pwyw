@@ -1,0 +1,22 @@
+{
+	"nome": "Scillato",
+	"codice": "082081",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "I538",
+	"cap": [
+		"90020"
+	],
+	"popolazione": 627
+}

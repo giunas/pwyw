@@ -1,0 +1,22 @@
+{
+	"nome": "Monteforte d'Alpone",
+	"codice": "023050",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "F508",
+	"cap": [
+		"37032"
+	],
+	"popolazione": 8410
+}

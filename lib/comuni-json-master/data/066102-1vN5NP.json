@@ -1,0 +1,22 @@
+{
+	"nome": "Trasacco",
+	"codice": "066102",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "L334",
+	"cap": [
+		"67059"
+	],
+	"popolazione": 6144
+}

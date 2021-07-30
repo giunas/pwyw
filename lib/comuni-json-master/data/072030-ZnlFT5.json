@@ -1,0 +1,22 @@
+{
+	"nome": "Monopoli",
+	"codice": "072030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": "Bari"
+	},
+	"sigla": "BA",
+	"codiceCatastale": "F376",
+	"cap": [
+		"70043"
+	],
+	"popolazione": 48529
+}

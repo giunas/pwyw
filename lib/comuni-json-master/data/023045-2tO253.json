@@ -1,0 +1,22 @@
+{
+	"nome": "Malcesine",
+	"codice": "023045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "E848",
+	"cap": [
+		"37018"
+	],
+	"popolazione": 3685
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Luino",
+	"codice": "012092",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "E734",
+	"cap": [
+		"21016"
+	],
+	"popolazione": 14276
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montedinove",
+	"codice": "044034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "F487",
+	"cap": [
+		"63069"
+	],
+	"popolazione": 505
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Asciano",
+	"codice": "052002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "A461",
+	"cap": [
+		"53041"
+	],
+	"popolazione": 7228
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Carrara",
+	"codice": "045003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "B832",
+	"cap": [
+		"54033"
+	],
+	"popolazione": 64689
+}

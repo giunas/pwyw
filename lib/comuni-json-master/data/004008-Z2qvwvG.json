@@ -1,0 +1,22 @@
+{
+	"nome": "Bagnasco",
+	"codice": "004008",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "A555",
+	"cap": [
+		"12071"
+	],
+	"popolazione": 1038
+}

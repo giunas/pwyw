@@ -1,0 +1,22 @@
+{
+	"nome": "Vezza d'Alba",
+	"codice": "004241",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "L817",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 2206
+}

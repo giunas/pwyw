@@ -1,0 +1,22 @@
+{
+	"nome": "Galliate",
+	"codice": "003068",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "D872",
+	"cap": [
+		"28066"
+	],
+	"popolazione": 15008
+}

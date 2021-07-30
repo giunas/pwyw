@@ -1,0 +1,22 @@
+{
+	"nome": "Camposampiero",
+	"codice": "028019",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "B563",
+	"cap": [
+		"35012"
+	],
+	"popolazione": 12019
+}

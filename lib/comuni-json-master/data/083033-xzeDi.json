@@ -1,0 +1,22 @@
+{
+	"nome": "Gioiosa Marea",
+	"codice": "083033",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E043",
+	"cap": [
+		"98063"
+	],
+	"popolazione": 7114
+}

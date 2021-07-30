@@ -1,0 +1,22 @@
+{
+	"nome": "Binasco",
+	"codice": "015024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "A872",
+	"cap": [
+		"20082"
+	],
+	"popolazione": 7158
+}

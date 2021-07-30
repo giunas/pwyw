@@ -1,0 +1,22 @@
+{
+	"nome": "Gonnosfanadiga",
+	"codice": "111031",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "E085",
+	"cap": [
+		"09035"
+	],
+	"popolazione": 6702
+}

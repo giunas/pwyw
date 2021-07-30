@@ -1,0 +1,22 @@
+{
+	"nome": "Castelbianco",
+	"codice": "009020",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "C063",
+	"cap": [
+		"17030"
+	],
+	"popolazione": 321
+}

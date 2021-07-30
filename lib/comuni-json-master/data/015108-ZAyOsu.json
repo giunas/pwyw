@@ -1,0 +1,22 @@
+{
+	"nome": "Gorgonzola",
+	"codice": "015108",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E094",
+	"cap": [
+		"20064"
+	],
+	"popolazione": 19402
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Borgofranco d'Ivrea",
+	"codice": "001030",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B015",
+	"cap": [
+		"10013"
+	],
+	"popolazione": 3643
+}

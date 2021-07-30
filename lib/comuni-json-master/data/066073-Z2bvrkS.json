@@ -1,0 +1,22 @@
+{
+	"nome": "Poggio Picenze",
+	"codice": "066073",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "G766",
+	"cap": [
+		"67026"
+	],
+	"popolazione": 1068
+}

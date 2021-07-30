@@ -1,0 +1,22 @@
+{
+	"nome": "Moncenisio",
+	"codice": "001157",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "D553",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 42
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Olivetta San Michele",
+	"codice": "008038",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G041",
+	"cap": [
+		"18030"
+	],
+	"popolazione": 225
+}

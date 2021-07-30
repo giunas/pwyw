@@ -1,0 +1,22 @@
+{
+	"nome": "Ticengo",
+	"codice": "019104",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "L164",
+	"cap": [
+		"26020"
+	],
+	"popolazione": 448
+}

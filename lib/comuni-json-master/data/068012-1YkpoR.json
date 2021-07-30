@@ -1,0 +1,22 @@
+{
+	"nome": "Città Sant'Angelo",
+	"codice": "068012",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "C750",
+	"cap": [
+		"65013"
+	],
+	"popolazione": 14379
+}

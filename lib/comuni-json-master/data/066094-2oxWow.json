@@ -1,0 +1,22 @@
+{
+	"nome": "Scontrone",
+	"codice": "066094",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "I543",
+	"cap": [
+		"67030"
+	],
+	"popolazione": 590
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Villar Focchiardo",
+	"codice": "001305",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M007",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 2068
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Villanova Marchesana",
+	"codice": "029051",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "L988",
+	"cap": [
+		"45030"
+	],
+	"popolazione": 1000
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Teresa Gallura",
+	"codice": "090063",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "I312",
+	"cap": [
+		"07028"
+	],
+	"popolazione": 5018
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelplanio",
+	"codice": "042012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "C248",
+	"cap": [
+		"60031"
+	],
+	"popolazione": 3482
+}

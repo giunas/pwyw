@@ -1,0 +1,22 @@
+{
+	"nome": "Cetona",
+	"codice": "052008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "C587",
+	"cap": [
+		"53040"
+	],
+	"popolazione": 2845
+}

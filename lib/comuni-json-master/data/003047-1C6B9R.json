@@ -1,0 +1,22 @@
+{
+	"nome": "Cavallirio",
+	"codice": "003047",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "C378",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 1249
+}

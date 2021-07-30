@@ -1,0 +1,22 @@
+{
+	"nome": "Falerone",
+	"codice": "109005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "D477",
+	"cap": [
+		"63837"
+	],
+	"popolazione": 3395
+}

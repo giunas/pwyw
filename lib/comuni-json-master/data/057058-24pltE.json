@@ -1,0 +1,22 @@
+{
+	"nome": "Pozzaglia Sabina",
+	"codice": "057058",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "G951",
+	"cap": [
+		"02030"
+	],
+	"popolazione": 361
+}

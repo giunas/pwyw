@@ -1,0 +1,22 @@
+{
+	"nome": "Buguggiate",
+	"codice": "012025",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B258",
+	"cap": [
+		"21020"
+	],
+	"popolazione": 3115
+}

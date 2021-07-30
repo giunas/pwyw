@@ -1,0 +1,22 @@
+{
+	"nome": "Istrana",
+	"codice": "026035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "E373",
+	"cap": [
+		"31036"
+	],
+	"popolazione": 9041
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Tortorici",
+	"codice": "083099",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "L308",
+	"cap": [
+		"98078"
+	],
+	"popolazione": 6732
+}

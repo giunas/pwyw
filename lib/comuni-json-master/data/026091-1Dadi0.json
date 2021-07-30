@@ -1,0 +1,22 @@
+{
+	"nome": "Villorba",
+	"codice": "026091",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "M048",
+	"cap": [
+		"31020"
+	],
+	"popolazione": 17883
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Lei",
+	"codice": "091038",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "E517",
+	"cap": [
+		"08010"
+	],
+	"popolazione": 566
+}

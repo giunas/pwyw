@@ -1,0 +1,22 @@
+{
+	"nome": "Porlezza",
+	"codice": "013189",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "G889",
+	"cap": [
+		"22018"
+	],
+	"popolazione": 4661
+}

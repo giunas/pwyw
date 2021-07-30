@@ -1,0 +1,22 @@
+{
+	"nome": "Panicale",
+	"codice": "054037",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "G308",
+	"cap": [
+		"06064"
+	],
+	"popolazione": 5734
+}

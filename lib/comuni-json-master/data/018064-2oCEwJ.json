@@ -1,0 +1,22 @@
+{
+	"nome": "Fortunago",
+	"codice": "018064",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "D732",
+	"cap": [
+		"27040"
+	],
+	"popolazione": 383
+}

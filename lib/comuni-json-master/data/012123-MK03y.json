@@ -1,0 +1,22 @@
+{
+	"nome": "Somma Lombardo",
+	"codice": "012123",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "I819",
+	"cap": [
+		"21019"
+	],
+	"popolazione": 16905
+}

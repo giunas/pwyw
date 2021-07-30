@@ -1,0 +1,22 @@
+{
+	"nome": "Manta",
+	"codice": "004116",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "E894",
+	"cap": [
+		"12030"
+	],
+	"popolazione": 3735
+}

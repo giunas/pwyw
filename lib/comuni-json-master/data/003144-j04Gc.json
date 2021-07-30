@@ -1,0 +1,22 @@
+{
+	"nome": "Terdobbiate",
+	"codice": "003144",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L104",
+	"cap": [
+		"28070"
+	],
+	"popolazione": 500
+}

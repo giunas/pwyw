@@ -1,0 +1,22 @@
+{
+	"nome": "Pompei",
+	"codice": "063058",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G813",
+	"cap": [
+		"80045"
+	],
+	"popolazione": 25440
+}

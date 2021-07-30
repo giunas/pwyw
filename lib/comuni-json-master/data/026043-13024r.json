@@ -1,0 +1,22 @@
+{
+	"nome": "Mogliano Veneto",
+	"codice": "026043",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "F269",
+	"cap": [
+		"31021"
+	],
+	"popolazione": 27608
+}

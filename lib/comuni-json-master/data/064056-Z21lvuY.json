@@ -1,0 +1,22 @@
+{
+	"nome": "Montefusco",
+	"codice": "064056",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F512",
+	"cap": [
+		"83030"
+	],
+	"popolazione": 1393
+}

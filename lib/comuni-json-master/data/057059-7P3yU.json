@@ -1,0 +1,22 @@
+{
+	"nome": "Rieti",
+	"codice": "057059",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "H282",
+	"cap": [
+		"02100"
+	],
+	"popolazione": 46187
+}

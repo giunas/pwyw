@@ -1,0 +1,22 @@
+{
+	"nome": "Magliano de' Marsi",
+	"codice": "066053",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "E811",
+	"cap": [
+		"67062"
+	],
+	"popolazione": 3753
+}

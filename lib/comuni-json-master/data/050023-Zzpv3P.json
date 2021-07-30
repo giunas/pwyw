@@ -1,0 +1,22 @@
+{
+	"nome": "Orciano Pisano",
+	"codice": "050023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "G090",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 635
+}

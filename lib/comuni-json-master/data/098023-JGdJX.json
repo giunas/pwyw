@@ -1,0 +1,22 @@
+{
+	"nome": "Cornovecchio",
+	"codice": "098023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "D029",
+	"cap": [
+		"26842"
+	],
+	"popolazione": 226
+}

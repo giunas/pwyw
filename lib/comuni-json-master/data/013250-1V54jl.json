@@ -1,0 +1,22 @@
+{
+	"nome": "Bellagio",
+	"codice": "013250",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "M335",
+	"cap": [
+		"22021"
+	],
+	"popolazione": 3796
+}

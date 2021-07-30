@@ -1,0 +1,22 @@
+{
+	"nome": "Ottati",
+	"codice": "065086",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G192",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 680
+}

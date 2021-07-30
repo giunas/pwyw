@@ -1,0 +1,22 @@
+{
+	"nome": "Arpaia",
+	"codice": "062005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "A431",
+	"cap": [
+		"82011"
+	],
+	"popolazione": 2016
+}

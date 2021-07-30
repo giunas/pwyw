@@ -1,0 +1,22 @@
+{
+	"nome": "Ilbono",
+	"codice": "091032",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "E283",
+	"cap": [
+		"08040"
+	],
+	"popolazione": 2207
+}

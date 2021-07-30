@@ -1,0 +1,22 @@
+{
+	"nome": "Orani",
+	"codice": "091061",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "G084",
+	"cap": [
+		"08026"
+	],
+	"popolazione": 3007
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Brentino Belluno",
+	"codice": "023013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "B152",
+	"cap": [
+		"37020"
+	],
+	"popolazione": 1406
+}

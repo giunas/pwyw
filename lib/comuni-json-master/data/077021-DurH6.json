@@ -1,0 +1,22 @@
+{
+	"nome": "Policoro",
+	"codice": "077021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "G786",
+	"cap": [
+		"75025"
+	],
+	"popolazione": 15976
+}

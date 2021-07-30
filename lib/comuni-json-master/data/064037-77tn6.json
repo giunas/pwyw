@@ -1,0 +1,22 @@
+{
+	"nome": "Greci",
+	"codice": "064037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "E161",
+	"cap": [
+		"83030"
+	],
+	"popolazione": 736
+}

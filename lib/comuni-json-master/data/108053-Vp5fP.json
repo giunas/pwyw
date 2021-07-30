@@ -1,0 +1,22 @@
+{
+	"nome": "Cornate d'Adda",
+	"codice": "108053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "D019",
+	"cap": [
+		"20872"
+	],
+	"popolazione": 10363
+}

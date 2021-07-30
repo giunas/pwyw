@@ -1,0 +1,22 @@
+{
+	"nome": "Prazzo",
+	"codice": "004174",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H011",
+	"cap": [
+		"12028"
+	],
+	"popolazione": 175
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Orbassano",
+	"codice": "001171",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G087",
+	"cap": [
+		"10043"
+	],
+	"popolazione": 22537
+}

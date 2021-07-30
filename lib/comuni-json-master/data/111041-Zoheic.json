@@ -1,0 +1,22 @@
+{
+	"nome": "Monastir",
+	"codice": "111041",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "F333",
+	"cap": [
+		"09023"
+	],
+	"popolazione": 4505
+}

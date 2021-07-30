@@ -1,0 +1,22 @@
+{
+	"nome": "Varano Borghi",
+	"codice": "012132",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "L671",
+	"cap": [
+		"21020"
+	],
+	"popolazione": 2418
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sortino",
+	"codice": "089019",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "I864",
+	"cap": [
+		"96010"
+	],
+	"popolazione": 8907
+}

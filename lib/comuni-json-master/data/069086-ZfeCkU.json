@@ -1,0 +1,22 @@
+{
+	"nome": "San Vito Chietino",
+	"codice": "069086",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "I394",
+	"cap": [
+		"66038"
+	],
+	"popolazione": 5226
+}

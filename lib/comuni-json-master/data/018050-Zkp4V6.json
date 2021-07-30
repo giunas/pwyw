@@ -1,0 +1,22 @@
+{
+	"nome": "Cilavegna",
+	"codice": "018050",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "C686",
+	"cap": [
+		"27024"
+	],
+	"popolazione": 5656
+}

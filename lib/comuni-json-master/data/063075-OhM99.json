@@ -1,0 +1,22 @@
+{
+	"nome": "San Vitaliano",
+	"codice": "063075",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I391",
+	"cap": [
+		"80030"
+	],
+	"popolazione": 6220
+}

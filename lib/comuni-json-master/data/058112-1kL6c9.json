@@ -1,0 +1,22 @@
+{
+	"nome": "Vicovaro",
+	"codice": "058112",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "L851",
+	"cap": [
+		"00029"
+	],
+	"popolazione": 3937
+}

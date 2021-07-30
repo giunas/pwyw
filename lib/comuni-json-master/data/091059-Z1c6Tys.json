@@ -1,0 +1,22 @@
+{
+	"nome": "Onifai",
+	"codice": "091059",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "G070",
+	"cap": [
+		"08020"
+	],
+	"popolazione": 742
+}

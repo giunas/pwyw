@@ -1,0 +1,22 @@
+{
+	"nome": "Bientina",
+	"codice": "050001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "A864",
+	"cap": [
+		"56031"
+	],
+	"popolazione": 7766
+}

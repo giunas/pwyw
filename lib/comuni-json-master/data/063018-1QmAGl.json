@@ -1,0 +1,22 @@
+{
+	"nome": "Casamarciano",
+	"codice": "063018",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B922",
+	"cap": [
+		"80032"
+	],
+	"popolazione": 3272
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Acquapendente",
+	"codice": "056001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "A040",
+	"cap": [
+		"01021"
+	],
+	"popolazione": 5655
+}

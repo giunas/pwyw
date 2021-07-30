@@ -1,0 +1,22 @@
+{
+	"nome": "Cassano delle Murge",
+	"codice": "072016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": "Bari"
+	},
+	"sigla": "BA",
+	"codiceCatastale": "B998",
+	"cap": [
+		"70020"
+	],
+	"popolazione": 14270
+}

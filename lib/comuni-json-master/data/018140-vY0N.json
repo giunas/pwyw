@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Giuletta",
+	"codice": "018140",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "I203",
+	"cap": [
+		"27046"
+	],
+	"popolazione": 1685
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Ribordone",
+	"codice": "001212",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H270",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 67
+}

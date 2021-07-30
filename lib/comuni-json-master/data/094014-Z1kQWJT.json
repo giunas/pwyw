@@ -1,0 +1,22 @@
+{
+	"nome": "Cerro al Volturno",
+	"codice": "094014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "C534",
+	"cap": [
+		"86072"
+	],
+	"popolazione": 1341
+}

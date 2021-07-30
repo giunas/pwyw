@@ -1,0 +1,22 @@
+{
+	"nome": "Antrodoco",
+	"codice": "057003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "A315",
+	"cap": [
+		"02013"
+	],
+	"popolazione": 2704
+}

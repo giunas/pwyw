@@ -1,0 +1,22 @@
+{
+	"nome": "Guiglia",
+	"codice": "036017",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "E264",
+	"cap": [
+		"41052"
+	],
+	"popolazione": 3999
+}

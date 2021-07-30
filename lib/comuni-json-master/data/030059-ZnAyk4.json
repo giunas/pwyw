@@ -1,0 +1,22 @@
+{
+	"nome": "Moggio Udinese",
+	"codice": "030059",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "F266",
+	"cap": [
+		"33015"
+	],
+	"popolazione": 1814
+}

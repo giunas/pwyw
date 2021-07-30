@@ -1,0 +1,22 @@
+{
+	"nome": "Cesana Brianza",
+	"codice": "097021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "C563",
+	"cap": [
+		"23861"
+	],
+	"popolazione": 2348
+}

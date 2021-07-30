@@ -1,0 +1,22 @@
+{
+	"nome": "Polinago",
+	"codice": "036032",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "G789",
+	"cap": [
+		"41040"
+	],
+	"popolazione": 1742
+}

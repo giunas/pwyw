@@ -1,0 +1,22 @@
+{
+	"nome": "Cellio con Breia",
+	"codice": "002171",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "M398",
+	"cap": [
+		"13024"
+	],
+	"popolazione": 1027
+}

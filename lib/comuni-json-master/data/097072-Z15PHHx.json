@@ -1,0 +1,22 @@
+{
+	"nome": "Rogeno",
+	"codice": "097072",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "H486",
+	"cap": [
+		"23849"
+	],
+	"popolazione": 3197
+}

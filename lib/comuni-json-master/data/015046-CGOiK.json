@@ -1,0 +1,22 @@
+{
+	"nome": "Canegrate",
+	"codice": "015046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "B593",
+	"cap": [
+		"20010"
+	],
+	"popolazione": 12438
+}

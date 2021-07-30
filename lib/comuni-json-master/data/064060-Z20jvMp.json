@@ -1,0 +1,22 @@
+{
+	"nome": "Monteverde",
+	"codice": "064060",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F660",
+	"cap": [
+		"83049"
+	],
+	"popolazione": 831
+}

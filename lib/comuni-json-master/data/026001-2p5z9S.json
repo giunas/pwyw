@@ -1,0 +1,22 @@
+{
+	"nome": "Altivole",
+	"codice": "026001",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "A237",
+	"cap": [
+		"31030"
+	],
+	"popolazione": 6720
+}

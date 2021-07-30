@@ -1,0 +1,22 @@
+{
+	"nome": "Mezzana Bigli",
+	"codice": "018090",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "F170",
+	"cap": [
+		"27030"
+	],
+	"popolazione": 1108
+}

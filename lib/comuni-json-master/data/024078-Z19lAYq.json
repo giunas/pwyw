@@ -1,0 +1,22 @@
+{
+	"nome": "Piovene Rocchette",
+	"codice": "024078",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "G694",
+	"cap": [
+		"36013"
+	],
+	"popolazione": 8295
+}

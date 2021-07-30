@@ -1,0 +1,22 @@
+{
+	"nome": "Montefelcino",
+	"codice": "041034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "F497",
+	"cap": [
+		"61030"
+	],
+	"popolazione": 2726
+}

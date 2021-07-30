@@ -1,0 +1,22 @@
+{
+	"nome": "Vottignasco",
+	"codice": "004250",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "M136",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 547
+}

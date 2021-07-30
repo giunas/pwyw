@@ -1,0 +1,22 @@
+{
+	"nome": "Cervignano del Friuli",
+	"codice": "030023",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "C556",
+	"cap": [
+		"33052"
+	],
+	"popolazione": 13409
+}

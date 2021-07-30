@@ -1,0 +1,22 @@
+{
+	"nome": "Quincinetto",
+	"codice": "001210",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H127",
+	"cap": [
+		"10010"
+	],
+	"popolazione": 1048
+}

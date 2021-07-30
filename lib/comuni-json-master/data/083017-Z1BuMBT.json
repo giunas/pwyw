@@ -1,0 +1,22 @@
+{
+	"nome": "Cesarò",
+	"codice": "083017",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "C568",
+	"cap": [
+		"98033"
+	],
+	"popolazione": 2572
+}

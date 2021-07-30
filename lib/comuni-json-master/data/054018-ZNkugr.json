@@ -1,0 +1,22 @@
+{
+	"nome": "Foligno",
+	"codice": "054018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "D653",
+	"cap": [
+		"06034"
+	],
+	"popolazione": 56045
+}

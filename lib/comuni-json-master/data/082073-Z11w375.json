@@ -1,0 +1,22 @@
+{
+	"nome": "Trabia",
+	"codice": "082073",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "L317",
+	"cap": [
+		"90019"
+	],
+	"popolazione": 10360
+}

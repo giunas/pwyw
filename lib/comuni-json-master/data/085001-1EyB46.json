@@ -1,0 +1,22 @@
+{
+	"nome": "Acquaviva Platani",
+	"codice": "085001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "085",
+		"nome": "Caltanissetta"
+	},
+	"sigla": "CL",
+	"codiceCatastale": "A049",
+	"cap": [
+		"93010"
+	],
+	"popolazione": 1041
+}

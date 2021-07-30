@@ -1,0 +1,22 @@
+{
+	"nome": "Forino",
+	"codice": "064034",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "D701",
+	"cap": [
+		"83020"
+	],
+	"popolazione": 5397
+}

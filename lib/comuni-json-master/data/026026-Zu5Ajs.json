@@ -1,0 +1,22 @@
+{
+	"nome": "Farra di Soligo",
+	"codice": "026026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "D505",
+	"cap": [
+		"31010"
+	],
+	"popolazione": 8956
+}

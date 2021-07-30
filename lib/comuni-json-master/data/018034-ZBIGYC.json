@@ -1,0 +1,22 @@
+{
+	"nome": "Casorate Primo",
+	"codice": "018034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B988",
+	"cap": [
+		"27022"
+	],
+	"popolazione": 8480
+}

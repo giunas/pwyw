@@ -1,0 +1,22 @@
+{
+	"nome": "Sabbio Chiese",
+	"codice": "017168",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "H650",
+	"cap": [
+		"25070"
+	],
+	"popolazione": 3831
+}

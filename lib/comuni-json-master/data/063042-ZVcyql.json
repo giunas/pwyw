@@ -1,0 +1,22 @@
+{
+	"nome": "Mariglianella",
+	"codice": "063042",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E954",
+	"cap": [
+		"80030"
+	],
+	"popolazione": 7572
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Venticano",
+	"codice": "064116",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L739",
+	"cap": [
+		"83030"
+	],
+	"popolazione": 2532
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montebello Vicentino",
+	"codice": "024060",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "F442",
+	"cap": [
+		"36054"
+	],
+	"popolazione": 6531
+}

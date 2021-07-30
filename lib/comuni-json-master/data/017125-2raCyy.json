@@ -1,0 +1,22 @@
+{
+	"nome": "Orzinuovi",
+	"codice": "017125",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G149",
+	"cap": [
+		"25034"
+	],
+	"popolazione": 12343
+}

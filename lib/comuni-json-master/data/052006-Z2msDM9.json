@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo Berardenga",
+	"codice": "052006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "C227",
+	"cap": [
+		"53019"
+	],
+	"popolazione": 8787
+}

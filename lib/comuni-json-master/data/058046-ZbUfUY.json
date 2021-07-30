@@ -1,0 +1,22 @@
+{
+	"nome": "Grottaferrata",
+	"codice": "058046",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "E204",
+	"cap": [
+		"00046"
+	],
+	"popolazione": 19156
+}

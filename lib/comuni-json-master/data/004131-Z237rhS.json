@@ -1,0 +1,22 @@
+{
+	"nome": "Monesiglio",
+	"codice": "004131",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F355",
+	"cap": [
+		"12077"
+	],
+	"popolazione": 712
+}

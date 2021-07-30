@@ -1,0 +1,22 @@
+{
+	"nome": "Tursi",
+	"codice": "077029",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "L477",
+	"cap": [
+		"75028"
+	],
+	"popolazione": 5151
+}

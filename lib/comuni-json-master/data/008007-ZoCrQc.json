@@ -1,0 +1,22 @@
+{
+	"nome": "Bajardo",
+	"codice": "008007",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "A581",
+	"cap": [
+		"18031"
+	],
+	"popolazione": 312
+}

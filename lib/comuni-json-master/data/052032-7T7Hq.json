@@ -1,0 +1,22 @@
+{
+	"nome": "Siena",
+	"codice": "052032",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "I726",
+	"cap": [
+		"53100"
+	],
+	"popolazione": 52839
+}

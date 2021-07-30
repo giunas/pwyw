@@ -1,0 +1,22 @@
+{
+	"nome": "San Clemente",
+	"codice": "099016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "H801",
+	"cap": [
+		"47832"
+	],
+	"popolazione": 5234
+}

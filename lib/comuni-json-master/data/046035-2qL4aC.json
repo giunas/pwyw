@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Collemandina",
+	"codice": "046035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "L926",
+	"cap": [
+		"55030"
+	],
+	"popolazione": 1363
+}

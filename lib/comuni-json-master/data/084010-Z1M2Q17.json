@@ -1,0 +1,22 @@
+{
+	"nome": "Campobello di Licata",
+	"codice": "084010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "B520",
+	"cap": [
+		"92023"
+	],
+	"popolazione": 10438
+}

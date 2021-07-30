@@ -1,0 +1,22 @@
+{
+	"nome": "Bellinzago Lombardo",
+	"codice": "015016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "A751",
+	"cap": [
+		"20060"
+	],
+	"popolazione": 3810
+}

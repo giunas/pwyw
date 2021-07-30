@@ -1,0 +1,22 @@
+{
+	"nome": "Mappano",
+	"codice": "001316",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M316",
+	"cap": [
+		"10079"
+	],
+	"popolazione": 7012
+}

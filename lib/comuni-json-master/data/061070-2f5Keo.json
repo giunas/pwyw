@@ -1,0 +1,22 @@
+{
+	"nome": "Roccamonfina",
+	"codice": "061070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H423",
+	"cap": [
+		"81035"
+	],
+	"popolazione": 3626
+}

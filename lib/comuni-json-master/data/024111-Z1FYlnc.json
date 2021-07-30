@@ -1,0 +1,22 @@
+{
+	"nome": "Valdagno",
+	"codice": "024111",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "L551",
+	"cap": [
+		"36078"
+	],
+	"popolazione": 26575
+}

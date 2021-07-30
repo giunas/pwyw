@@ -1,0 +1,22 @@
+{
+	"nome": "Gaiarine",
+	"codice": "026031",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "D854",
+	"cap": [
+		"31018"
+	],
+	"popolazione": 6136
+}

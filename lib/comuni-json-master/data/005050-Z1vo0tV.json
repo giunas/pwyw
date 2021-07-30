@@ -1,0 +1,22 @@
+{
+	"nome": "Costigliole d'Asti",
+	"codice": "005050",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "D119",
+	"cap": [
+		"14055"
+	],
+	"popolazione": 5969
+}

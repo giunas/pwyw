@@ -1,0 +1,22 @@
+{
+	"nome": "Cattolica Eraclea",
+	"codice": "084014",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "C356",
+	"cap": [
+		"92011"
+	],
+	"popolazione": 3975
+}

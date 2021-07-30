@@ -1,0 +1,22 @@
+{
+	"nome": "Gambugliano",
+	"codice": "024044",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D902",
+	"cap": [
+		"36050"
+	],
+	"popolazione": 851
+}

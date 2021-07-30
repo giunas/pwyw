@@ -1,0 +1,22 @@
+{
+	"nome": "Pietrafitta",
+	"codice": "078098",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "G615",
+	"cap": [
+		"87050"
+	],
+	"popolazione": 1377
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castel Focognano",
+	"codice": "051008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C102",
+	"cap": [
+		"52016"
+	],
+	"popolazione": 3239
+}

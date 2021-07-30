@@ -1,0 +1,22 @@
+{
+	"nome": "Navelli",
+	"codice": "066058",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "F852",
+	"cap": [
+		"67020"
+	],
+	"popolazione": 550
+}

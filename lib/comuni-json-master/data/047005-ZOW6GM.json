@@ -1,0 +1,22 @@
+{
+	"nome": "Lamporecchio",
+	"codice": "047005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "E432",
+	"cap": [
+		"51035"
+	],
+	"popolazione": 7583
+}

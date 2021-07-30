@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve del Cairo",
+	"codice": "018113",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "G639",
+	"cap": [
+		"27037"
+	],
+	"popolazione": 2108
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro al Natisone",
+	"codice": "030103",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "I092",
+	"cap": [
+		"33049"
+	],
+	"popolazione": 2223
+}

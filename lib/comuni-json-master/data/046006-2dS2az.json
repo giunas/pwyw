@@ -1,0 +1,22 @@
+{
+	"nome": "Camporgiano",
+	"codice": "046006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "B557",
+	"cap": [
+		"55031"
+	],
+	"popolazione": 2285
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Gussago",
+	"codice": "017081",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E271",
+	"cap": [
+		"25064"
+	],
+	"popolazione": 16403
+}

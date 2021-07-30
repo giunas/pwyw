@@ -1,0 +1,22 @@
+{
+	"nome": "Roccalbegna",
+	"codice": "053020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "H417",
+	"cap": [
+		"58053"
+	],
+	"popolazione": 1099
+}

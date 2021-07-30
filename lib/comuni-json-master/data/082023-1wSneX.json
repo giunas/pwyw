@@ -1,0 +1,22 @@
+{
+	"nome": "Casteldaccia",
+	"codice": "082023",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "C074",
+	"cap": [
+		"90014"
+	],
+	"popolazione": 10884
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Casagiove",
+	"codice": "061018",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B860",
+	"cap": [
+		"81022"
+	],
+	"popolazione": 13705
+}

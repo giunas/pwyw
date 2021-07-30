@@ -1,0 +1,22 @@
+{
+	"nome": "Ceggia",
+	"codice": "027007",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "C422",
+	"cap": [
+		"30022"
+	],
+	"popolazione": 6213
+}

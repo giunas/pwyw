@@ -1,0 +1,22 @@
+{
+	"nome": "Chieri",
+	"codice": "001078",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C627",
+	"cap": [
+		"10023"
+	],
+	"popolazione": 35962
+}

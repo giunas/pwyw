@@ -1,0 +1,22 @@
+{
+	"nome": "Vedelago",
+	"codice": "026089",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "L706",
+	"cap": [
+		"31050"
+	],
+	"popolazione": 16434
+}

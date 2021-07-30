@@ -1,0 +1,22 @@
+{
+	"nome": "Padula",
+	"codice": "065087",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G226",
+	"cap": [
+		"84034"
+	],
+	"popolazione": 5279
+}

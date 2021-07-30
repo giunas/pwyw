@@ -1,0 +1,22 @@
+{
+	"nome": "Vigarano Mainarda",
+	"codice": "038022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "L868",
+	"cap": [
+		"44049"
+	],
+	"popolazione": 7431
+}

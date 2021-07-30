@@ -1,0 +1,22 @@
+{
+	"nome": "Ghiffa",
+	"codice": "103033",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "E003",
+	"cap": [
+		"28823"
+	],
+	"popolazione": 2394
+}

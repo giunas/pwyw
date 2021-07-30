@@ -1,0 +1,22 @@
+{
+	"nome": "Grassano",
+	"codice": "077011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "E147",
+	"cap": [
+		"75014"
+	],
+	"popolazione": 5395
+}

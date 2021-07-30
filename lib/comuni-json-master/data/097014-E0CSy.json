@@ -1,0 +1,22 @@
+{
+	"nome": "Carenno",
+	"codice": "097014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "B763",
+	"cap": [
+		"23802"
+	],
+	"popolazione": 1496
+}

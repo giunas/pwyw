@@ -1,0 +1,22 @@
+{
+	"nome": "Casazza",
+	"codice": "016058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "B947",
+	"cap": [
+		"24060"
+	],
+	"popolazione": 4021
+}

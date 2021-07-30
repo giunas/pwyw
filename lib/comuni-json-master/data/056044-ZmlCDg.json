@@ -1,0 +1,22 @@
+{
+	"nome": "Proceno",
+	"codice": "056044",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "H071",
+	"cap": [
+		"01020"
+	],
+	"popolazione": 605
+}

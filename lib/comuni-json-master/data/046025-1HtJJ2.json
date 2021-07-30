@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve Fosciana",
+	"codice": "046025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "G648",
+	"cap": [
+		"55036"
+	],
+	"popolazione": 2418
+}

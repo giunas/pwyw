@@ -1,0 +1,22 @@
+{
+	"nome": "Selvazzano Dentro",
+	"codice": "028086",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "I595",
+	"cap": [
+		"35030"
+	],
+	"popolazione": 22145
+}

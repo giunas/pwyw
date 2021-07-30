@@ -1,0 +1,22 @@
+{
+	"nome": "Barcis",
+	"codice": "093006",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "A640",
+	"cap": [
+		"33080"
+	],
+	"popolazione": 261
+}

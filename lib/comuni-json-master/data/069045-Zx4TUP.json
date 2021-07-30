@@ -1,0 +1,22 @@
+{
+	"nome": "Lama dei Peligni",
+	"codice": "069045",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "E424",
+	"cap": [
+		"66010"
+	],
+	"popolazione": 1364
+}

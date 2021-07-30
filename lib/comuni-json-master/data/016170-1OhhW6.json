@@ -1,0 +1,22 @@
+{
+	"nome": "Ponte San Pietro",
+	"codice": "016170",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "G856",
+	"cap": [
+		"24036"
+	],
+	"popolazione": 11273
+}

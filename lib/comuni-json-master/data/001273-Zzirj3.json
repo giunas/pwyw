@@ -1,0 +1,22 @@
+{
+	"nome": "Torrazza Piemonte",
+	"codice": "001273",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L238",
+	"cap": [
+		"10037"
+	],
+	"popolazione": 2816
+}

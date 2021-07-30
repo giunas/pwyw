@@ -1,0 +1,22 @@
+{
+	"nome": "Rezzoaglio",
+	"codice": "010048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "H258",
+	"cap": [
+		"16048"
+	],
+	"popolazione": 1080
+}

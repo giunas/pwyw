@@ -1,0 +1,22 @@
+{
+	"nome": "Malgrate",
+	"codice": "097045",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "E858",
+	"cap": [
+		"23864"
+	],
+	"popolazione": 4216
+}

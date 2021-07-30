@@ -1,0 +1,22 @@
+{
+	"nome": "Santopadre",
+	"codice": "060069",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "I351",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 1410
+}

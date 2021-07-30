@@ -1,0 +1,22 @@
+{
+	"nome": "Valdieri",
+	"codice": "004233",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "L558",
+	"cap": [
+		"12010"
+	],
+	"popolazione": 924
+}

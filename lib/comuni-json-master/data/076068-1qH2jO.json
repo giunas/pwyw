@@ -1,0 +1,22 @@
+{
+	"nome": "Rivello",
+	"codice": "076068",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "H348",
+	"cap": [
+		"85040"
+	],
+	"popolazione": 2843
+}

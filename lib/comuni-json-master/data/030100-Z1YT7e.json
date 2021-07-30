@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorgio di Nogaro",
+	"codice": "030100",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "H895",
+	"cap": [
+		"33058"
+	],
+	"popolazione": 7681
+}

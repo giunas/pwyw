@@ -1,0 +1,22 @@
+{
+	"nome": "Castellaro",
+	"codice": "008014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "C143",
+	"cap": [
+		"18011"
+	],
+	"popolazione": 1233
+}

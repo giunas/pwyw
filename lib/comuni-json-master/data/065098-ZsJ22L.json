@@ -1,0 +1,22 @@
+{
+	"nome": "Pollica",
+	"codice": "065098",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G796",
+	"cap": [
+		"84068"
+	],
+	"popolazione": 2393
+}

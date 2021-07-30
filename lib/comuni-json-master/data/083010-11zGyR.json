@@ -1,0 +1,22 @@
+{
+	"nome": "Capri Leone",
+	"codice": "083010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "B695",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 4516
+}

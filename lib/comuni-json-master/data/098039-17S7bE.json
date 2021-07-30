@@ -1,0 +1,22 @@
+{
+	"nome": "Merlino",
+	"codice": "098039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "F149",
+	"cap": [
+		"26833"
+	],
+	"popolazione": 1772
+}

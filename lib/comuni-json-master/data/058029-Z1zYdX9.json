@@ -1,0 +1,22 @@
+{
+	"nome": "Cerveteri",
+	"codice": "058029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C552",
+	"cap": [
+		"00052"
+	],
+	"popolazione": 35207
+}

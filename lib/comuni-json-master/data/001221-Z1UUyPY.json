@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca Canavese",
+	"codice": "001221",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H386",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 1754
+}

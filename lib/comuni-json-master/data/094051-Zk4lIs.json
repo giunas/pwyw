@@ -1,0 +1,22 @@
+{
+	"nome": "Vastogirardi",
+	"codice": "094051",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "L696",
+	"cap": [
+		"86089"
+	],
+	"popolazione": 728
+}

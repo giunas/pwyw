@@ -1,0 +1,22 @@
+{
+	"nome": "Muzzana del Turgnano",
+	"codice": "030064",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "F832",
+	"cap": [
+		"33055"
+	],
+	"popolazione": 2641
+}

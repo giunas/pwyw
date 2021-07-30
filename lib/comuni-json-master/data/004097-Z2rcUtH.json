@@ -1,0 +1,22 @@
+{
+	"nome": "Gorzegno",
+	"codice": "004097",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "E111",
+	"cap": [
+		"12070"
+	],
+	"popolazione": 322
+}

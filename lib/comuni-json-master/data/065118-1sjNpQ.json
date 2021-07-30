@@ -1,0 +1,22 @@
+{
+	"nome": "San Cipriano Picentino",
+	"codice": "065118",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H800",
+	"cap": [
+		"84099"
+	],
+	"popolazione": 6643
+}

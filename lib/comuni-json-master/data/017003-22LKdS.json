@@ -1,0 +1,22 @@
+{
+	"nome": "Agnosine",
+	"codice": "017003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "A082",
+	"cap": [
+		"25071"
+	],
+	"popolazione": 1833
+}

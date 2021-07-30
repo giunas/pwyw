@@ -1,0 +1,22 @@
+{
+	"nome": "Farra d'Isonzo",
+	"codice": "031005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "D504",
+	"cap": [
+		"34072"
+	],
+	"popolazione": 1752
+}

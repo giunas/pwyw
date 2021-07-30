@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Anastasia",
+	"codice": "063072",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I262",
+	"cap": [
+		"80048"
+	],
+	"popolazione": 27296
+}

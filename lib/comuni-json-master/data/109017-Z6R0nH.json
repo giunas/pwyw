@@ -1,0 +1,22 @@
+{
+	"nome": "Montegiorgio",
+	"codice": "109017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F520",
+	"cap": [
+		"63833"
+	],
+	"popolazione": 6965
+}

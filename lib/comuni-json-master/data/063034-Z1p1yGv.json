@@ -1,0 +1,22 @@
+{
+	"nome": "Giugliano in Campania",
+	"codice": "063034",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E054",
+	"cap": [
+		"80014"
+	],
+	"popolazione": 108793
+}

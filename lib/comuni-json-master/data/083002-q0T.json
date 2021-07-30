@@ -1,0 +1,22 @@
+{
+	"nome": "Alì",
+	"codice": "083002",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "A194",
+	"cap": [
+		"98020"
+	],
+	"popolazione": 823
+}

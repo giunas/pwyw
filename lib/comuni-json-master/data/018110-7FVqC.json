@@ -1,0 +1,22 @@
+{
+	"nome": "Pavia",
+	"codice": "018110",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "G388",
+	"cap": [
+		"27100"
+	],
+	"popolazione": 68280
+}

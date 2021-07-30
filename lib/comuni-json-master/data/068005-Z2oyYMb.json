@@ -1,0 +1,22 @@
+{
+	"nome": "Bussi sul Tirino",
+	"codice": "068005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "B294",
+	"cap": [
+		"65022"
+	],
+	"popolazione": 2636
+}

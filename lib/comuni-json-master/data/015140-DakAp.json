@@ -1,0 +1,22 @@
+{
+	"nome": "Melegnano",
+	"codice": "015140",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "F100",
+	"cap": [
+		"20077"
+	],
+	"popolazione": 16774
+}

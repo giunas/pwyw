@@ -1,0 +1,22 @@
+{
+	"nome": "Sedini",
+	"codice": "090065",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "I565",
+	"cap": [
+		"07035"
+	],
+	"popolazione": 1378
+}

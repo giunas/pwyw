@@ -1,0 +1,22 @@
+{
+	"nome": "Finale Ligure",
+	"codice": "009029",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "D600",
+	"cap": [
+		"17024"
+	],
+	"popolazione": 11724
+}

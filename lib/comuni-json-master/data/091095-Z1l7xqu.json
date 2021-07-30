@@ -1,0 +1,22 @@
+{
+	"nome": "Tortolì",
+	"codice": "091095",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "A355",
+	"cap": [
+		"08048"
+	],
+	"popolazione": 10743
+}

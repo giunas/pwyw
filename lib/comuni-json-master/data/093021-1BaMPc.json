@@ -1,0 +1,22 @@
+{
+	"nome": "Fiume Veneto",
+	"codice": "093021",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "D621",
+	"cap": [
+		"33080"
+	],
+	"popolazione": 11486
+}

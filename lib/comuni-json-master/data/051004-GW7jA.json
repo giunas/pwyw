@@ -1,0 +1,22 @@
+{
+	"nome": "Bibbiena",
+	"codice": "051004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "A851",
+	"cap": [
+		"52011"
+	],
+	"popolazione": 12284
+}

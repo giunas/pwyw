@@ -1,0 +1,22 @@
+{
+	"nome": "Lacchiarella",
+	"codice": "015115",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E395",
+	"cap": [
+		"20084"
+	],
+	"popolazione": 8390
+}

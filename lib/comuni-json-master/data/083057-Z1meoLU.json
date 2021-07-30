@@ -1,0 +1,22 @@
+{
+	"nome": "Montalbano Elicona",
+	"codice": "083057",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F400",
+	"cap": [
+		"98065"
+	],
+	"popolazione": 2420
+}

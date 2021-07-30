@@ -1,0 +1,22 @@
+{
+	"nome": "Carimate",
+	"codice": "013046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B778",
+	"cap": [
+		"22060"
+	],
+	"popolazione": 4327
+}

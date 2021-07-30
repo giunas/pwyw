@@ -1,0 +1,22 @@
+{
+	"nome": "San Possidonio",
+	"codice": "036038",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "I128",
+	"cap": [
+		"41039"
+	],
+	"popolazione": 3621
+}

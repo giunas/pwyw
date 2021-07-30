@@ -1,0 +1,22 @@
+{
+	"nome": "Limena",
+	"codice": "028045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "E592",
+	"cap": [
+		"35010"
+	],
+	"popolazione": 7699
+}

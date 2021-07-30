@@ -1,0 +1,22 @@
+{
+	"nome": "Graglia",
+	"codice": "096028",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "E130",
+	"cap": [
+		"13895"
+	],
+	"popolazione": 1588
+}

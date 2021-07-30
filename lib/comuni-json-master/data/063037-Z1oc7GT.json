@@ -1,0 +1,22 @@
+{
+	"nome": "Ischia",
+	"codice": "063037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E329",
+	"cap": [
+		"80077"
+	],
+	"popolazione": 18688
+}

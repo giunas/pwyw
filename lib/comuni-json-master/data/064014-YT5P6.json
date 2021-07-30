@@ -1,0 +1,22 @@
+{
+	"nome": "Calabritto",
+	"codice": "064014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "B374",
+	"cap": [
+		"83040"
+	],
+	"popolazione": 2500
+}

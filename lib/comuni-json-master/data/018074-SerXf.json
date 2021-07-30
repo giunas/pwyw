@@ -1,0 +1,22 @@
+{
+	"nome": "Golferenzo",
+	"codice": "018074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "E081",
+	"cap": [
+		"27047"
+	],
+	"popolazione": 206
+}

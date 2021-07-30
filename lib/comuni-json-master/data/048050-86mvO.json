@@ -1,0 +1,22 @@
+{
+	"nome": "Vinci",
+	"codice": "048050",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "M059",
+	"cap": [
+		"50059"
+	],
+	"popolazione": 14105
+}

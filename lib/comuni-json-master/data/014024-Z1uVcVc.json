@@ -1,0 +1,22 @@
+{
+	"nome": "Cosio Valtellino",
+	"codice": "014024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "D088",
+	"cap": [
+		"23013"
+	],
+	"popolazione": 5400
+}

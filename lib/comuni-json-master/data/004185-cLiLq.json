@@ -1,0 +1,22 @@
+{
+	"nome": "Robilante",
+	"codice": "004185",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H377",
+	"cap": [
+		"12017"
+	],
+	"popolazione": 2424
+}

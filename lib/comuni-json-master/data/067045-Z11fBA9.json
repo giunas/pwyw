@@ -1,0 +1,22 @@
+{
+	"nome": "Tossicia",
+	"codice": "067045",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "L314",
+	"cap": [
+		"64049"
+	],
+	"popolazione": 1418
+}

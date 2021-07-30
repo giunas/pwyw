@@ -1,0 +1,22 @@
+{
+	"nome": "Bresso",
+	"codice": "015032",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "B162",
+	"cap": [
+		"20091"
+	],
+	"popolazione": 25712
+}

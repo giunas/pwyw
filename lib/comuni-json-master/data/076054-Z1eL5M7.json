@@ -1,0 +1,22 @@
+{
+	"nome": "Nemoli",
+	"codice": "076054",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "F866",
+	"cap": [
+		"85040"
+	],
+	"popolazione": 1512
+}

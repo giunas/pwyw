@@ -1,0 +1,22 @@
+{
+	"nome": "Lenola",
+	"codice": "059012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "E527",
+	"cap": [
+		"04025"
+	],
+	"popolazione": 4155
+}

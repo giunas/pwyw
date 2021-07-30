@@ -1,0 +1,22 @@
+{
+	"nome": "Cercenasco",
+	"codice": "001071",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C487",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 1857
+}

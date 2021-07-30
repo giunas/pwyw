@@ -1,0 +1,22 @@
+{
+	"nome": "Montecatini Val di Cecina",
+	"codice": "050019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "F458",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 1820
+}

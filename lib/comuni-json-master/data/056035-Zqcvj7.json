@@ -1,0 +1,22 @@
+{
+	"nome": "Montalto di Castro",
+	"codice": "056035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "F419",
+	"cap": [
+		"01014"
+	],
+	"popolazione": 8770
+}

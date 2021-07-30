@@ -1,0 +1,22 @@
+{
+	"nome": "Ponzano Veneto",
+	"codice": "026059",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "G875",
+	"cap": [
+		"31050"
+	],
+	"popolazione": 12194
+}

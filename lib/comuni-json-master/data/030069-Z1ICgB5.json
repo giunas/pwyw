@@ -1,0 +1,22 @@
+{
+	"nome": "Palazzolo dello Stella",
+	"codice": "030069",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "G268",
+	"cap": [
+		"33056"
+	],
+	"popolazione": 3008
+}

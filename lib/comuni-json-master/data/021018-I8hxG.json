@@ -1,0 +1,22 @@
+{
+	"nome": "Castelbello-Ciardes",
+	"codice": "021018",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "C062",
+	"cap": [
+		"39020"
+	],
+	"popolazione": 2378
+}

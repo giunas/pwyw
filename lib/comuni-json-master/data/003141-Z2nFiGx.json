@@ -1,0 +1,22 @@
+{
+	"nome": "Sozzago",
+	"codice": "003141",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "I880",
+	"cap": [
+		"28060"
+	],
+	"popolazione": 1055
+}

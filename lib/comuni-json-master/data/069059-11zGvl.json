@@ -1,0 +1,22 @@
+{
+	"nome": "Paglieta",
+	"codice": "069059",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G237",
+	"cap": [
+		"66020"
+	],
+	"popolazione": 4466
+}

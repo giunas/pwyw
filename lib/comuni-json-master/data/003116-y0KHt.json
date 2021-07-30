@@ -1,0 +1,22 @@
+{
+	"nome": "Pettenasco",
+	"codice": "003116",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "G520",
+	"cap": [
+		"28028"
+	],
+	"popolazione": 1368
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Frattaminore",
+	"codice": "063033",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "D790",
+	"cap": [
+		"80020"
+	],
+	"popolazione": 15708
+}

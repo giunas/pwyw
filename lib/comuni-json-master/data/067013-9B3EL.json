@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione Messer Raimondo",
+	"codice": "067013",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C316",
+	"cap": [
+		"64034"
+	],
+	"popolazione": 2364
+}

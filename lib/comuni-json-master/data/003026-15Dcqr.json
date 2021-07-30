@@ -1,0 +1,22 @@
+{
+	"nome": "Briga Novarese",
+	"codice": "003026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "B176",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 3050
+}

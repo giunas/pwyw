@@ -1,0 +1,22 @@
+{
+	"nome": "Fresagrandinaria",
+	"codice": "069036",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "D796",
+	"cap": [
+		"66050"
+	],
+	"popolazione": 1056
+}

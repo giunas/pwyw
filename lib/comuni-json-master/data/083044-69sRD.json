@@ -1,0 +1,22 @@
+{
+	"nome": "Malvagna",
+	"codice": "083044",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E869",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 794
+}

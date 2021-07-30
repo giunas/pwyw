@@ -1,0 +1,22 @@
+{
+	"nome": "Valprato Soana",
+	"codice": "001288",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B510",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 112
+}

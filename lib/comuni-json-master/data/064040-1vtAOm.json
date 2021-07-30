@@ -1,0 +1,22 @@
+{
+	"nome": "Guardia Lombardi",
+	"codice": "064040",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "E245",
+	"cap": [
+		"83040"
+	],
+	"popolazione": 1803
+}

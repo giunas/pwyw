@@ -1,0 +1,22 @@
+{
+	"nome": "Lauco",
+	"codice": "030047",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "E476",
+	"cap": [
+		"33029"
+	],
+	"popolazione": 784
+}

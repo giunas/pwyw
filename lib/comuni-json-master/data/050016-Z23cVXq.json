@@ -1,0 +1,22 @@
+{
+	"nome": "Lajatico",
+	"codice": "050016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "E413",
+	"cap": [
+		"56030"
+	],
+	"popolazione": 1376
+}

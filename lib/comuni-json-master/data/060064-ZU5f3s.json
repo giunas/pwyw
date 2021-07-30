@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni Incarico",
+	"codice": "060064",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "H917",
+	"cap": [
+		"03028"
+	],
+	"popolazione": 3410
+}

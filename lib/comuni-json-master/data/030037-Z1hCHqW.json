@@ -1,0 +1,22 @@
+{
+	"nome": "Fagagna",
+	"codice": "030037",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "D461",
+	"cap": [
+		"33034"
+	],
+	"popolazione": 6279
+}

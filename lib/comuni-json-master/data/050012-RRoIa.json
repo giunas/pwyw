@@ -1,0 +1,22 @@
+{
+	"nome": "Chianni",
+	"codice": "050012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "C609",
+	"cap": [
+		"56034"
+	],
+	"popolazione": 1457
+}

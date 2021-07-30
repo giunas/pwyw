@@ -1,0 +1,22 @@
+{
+	"nome": "Socchieve",
+	"codice": "030110",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "I777",
+	"cap": [
+		"33020"
+	],
+	"popolazione": 941
+}

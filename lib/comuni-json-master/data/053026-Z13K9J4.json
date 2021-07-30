@@ -1,0 +1,22 @@
+{
+	"nome": "Sorano",
+	"codice": "053026",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "I841",
+	"cap": [
+		"58010"
+	],
+	"popolazione": 3596
+}

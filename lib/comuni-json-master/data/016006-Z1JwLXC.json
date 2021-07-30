@@ -1,0 +1,22 @@
+{
+	"nome": "Almenno San Bartolomeo",
+	"codice": "016006",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A216",
+	"cap": [
+		"24030"
+	],
+	"popolazione": 6030
+}

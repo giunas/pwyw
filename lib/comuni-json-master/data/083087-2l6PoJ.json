@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Marina Salina",
+	"codice": "083087",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I254",
+	"cap": [
+		"98050"
+	],
+	"popolazione": 892
+}

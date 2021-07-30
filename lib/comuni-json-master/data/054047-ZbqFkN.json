@@ -1,0 +1,22 @@
+{
+	"nome": "Scheggino",
+	"codice": "054047",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "I523",
+	"cap": [
+		"06040"
+	],
+	"popolazione": 481
+}

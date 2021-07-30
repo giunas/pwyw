@@ -1,0 +1,22 @@
+{
+	"nome": "Sperlinga",
+	"codice": "086017",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "I891",
+	"cap": [
+		"94010"
+	],
+	"popolazione": 833
+}

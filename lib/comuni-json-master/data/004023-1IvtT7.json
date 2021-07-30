@@ -1,0 +1,22 @@
+{
+	"nome": "Bonvicino",
+	"codice": "004023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "A979",
+	"cap": [
+		"12060"
+	],
+	"popolazione": 107
+}

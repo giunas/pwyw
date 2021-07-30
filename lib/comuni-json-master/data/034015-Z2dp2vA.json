@@ -1,0 +1,22 @@
+{
+	"nome": "Fontanellato",
+	"codice": "034015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "D673",
+	"cap": [
+		"43012"
+	],
+	"popolazione": 6963
+}

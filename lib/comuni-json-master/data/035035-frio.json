@@ -1,0 +1,22 @@
+{
+	"nome": "Rolo",
+	"codice": "035035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "H500",
+	"cap": [
+		"42047"
+	],
+	"popolazione": 4038
+}

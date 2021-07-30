@@ -1,0 +1,22 @@
+{
+	"nome": "Mulazzano",
+	"codice": "098041",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "F801",
+	"cap": [
+		"26837"
+	],
+	"popolazione": 5733
+}

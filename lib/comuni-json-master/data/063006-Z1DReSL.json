@@ -1,0 +1,22 @@
+{
+	"nome": "Bacoli",
+	"codice": "063006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A535",
+	"cap": [
+		"80070"
+	],
+	"popolazione": 26648
+}

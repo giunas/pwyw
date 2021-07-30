@@ -1,0 +1,22 @@
+{
+	"nome": "Gambettola",
+	"codice": "040015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "D899",
+	"cap": [
+		"47035"
+	],
+	"popolazione": 10238
+}

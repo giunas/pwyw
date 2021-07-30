@@ -1,0 +1,22 @@
+{
+	"nome": "Taglio di Po",
+	"codice": "029046",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "L026",
+	"cap": [
+		"45019"
+	],
+	"popolazione": 8495
+}

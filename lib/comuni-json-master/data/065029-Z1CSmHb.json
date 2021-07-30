@@ -1,0 +1,22 @@
+{
+	"nome": "Caselle in Pittari",
+	"codice": "065029",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B959",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 1972
+}

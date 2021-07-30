@@ -1,0 +1,22 @@
+{
+	"nome": "Vizzolo Predabissi",
+	"codice": "015244",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "M102",
+	"cap": [
+		"20070"
+	],
+	"popolazione": 4045
+}

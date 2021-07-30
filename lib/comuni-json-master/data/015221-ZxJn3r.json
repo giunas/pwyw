@@ -1,0 +1,22 @@
+{
+	"nome": "Trezzo sull'Adda",
+	"codice": "015221",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "L411",
+	"cap": [
+		"20056"
+	],
+	"popolazione": 11883
+}

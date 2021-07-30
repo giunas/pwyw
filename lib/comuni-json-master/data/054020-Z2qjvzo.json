@@ -1,0 +1,22 @@
+{
+	"nome": "Fratta Todina",
+	"codice": "054020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "D787",
+	"cap": [
+		"06054"
+	],
+	"popolazione": 1840
+}

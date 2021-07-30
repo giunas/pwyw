@@ -1,0 +1,22 @@
+{
+	"nome": "Roccamena",
+	"codice": "082061",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "H422",
+	"cap": [
+		"90040"
+	],
+	"popolazione": 1562
+}

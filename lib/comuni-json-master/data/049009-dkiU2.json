@@ -1,0 +1,29 @@
+{
+	"nome": "Livorno",
+	"codice": "049009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "E625",
+	"cap": [
+		"57121",
+		"57122",
+		"57123",
+		"57124",
+		"57125",
+		"57126",
+		"57127",
+		"57128"
+	],
+	"popolazione": 157052
+}

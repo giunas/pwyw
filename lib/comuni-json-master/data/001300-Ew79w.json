@@ -1,0 +1,22 @@
+{
+	"nome": "Villafranca Piemonte",
+	"codice": "001300",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L948",
+	"cap": [
+		"10068"
+	],
+	"popolazione": 4825
+}

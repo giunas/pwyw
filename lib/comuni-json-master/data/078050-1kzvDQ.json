@@ -1,0 +1,22 @@
+{
+	"nome": "Domanico",
+	"codice": "078050",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "D328",
+	"cap": [
+		"87030"
+	],
+	"popolazione": 943
+}

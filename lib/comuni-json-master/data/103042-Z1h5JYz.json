@@ -1,0 +1,22 @@
+{
+	"nome": "Masera",
+	"codice": "103042",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "F010",
+	"cap": [
+		"28855"
+	],
+	"popolazione": 1527
+}

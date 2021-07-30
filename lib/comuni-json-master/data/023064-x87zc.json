@@ -1,0 +1,22 @@
+{
+	"nome": "Ronco all'Adige",
+	"codice": "023064",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H540",
+	"cap": [
+		"37055"
+	],
+	"popolazione": 6179
+}

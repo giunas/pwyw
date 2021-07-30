@@ -1,0 +1,22 @@
+{
+	"nome": "Ripi",
+	"codice": "060058",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "H324",
+	"cap": [
+		"03027"
+	],
+	"popolazione": 5346
+}

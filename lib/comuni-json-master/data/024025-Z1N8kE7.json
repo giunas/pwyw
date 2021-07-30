@@ -1,0 +1,22 @@
+{
+	"nome": "Cartigliano",
+	"codice": "024025",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "B844",
+	"cap": [
+		"36050"
+	],
+	"popolazione": 3802
+}

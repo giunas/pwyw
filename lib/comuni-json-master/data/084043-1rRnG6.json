@@ -1,0 +1,22 @@
+{
+	"nome": "Villafranca Sicula",
+	"codice": "084043",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "L944",
+	"cap": [
+		"92020"
+	],
+	"popolazione": 1426
+}

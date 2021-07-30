@@ -1,0 +1,22 @@
+{
+	"nome": "Pomigliano d'Arco",
+	"codice": "063057",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G812",
+	"cap": [
+		"80038"
+	],
+	"popolazione": 40083
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cortona",
+	"codice": "051017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "D077",
+	"cap": [
+		"52044"
+	],
+	"popolazione": 22495
+}

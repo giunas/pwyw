@@ -1,0 +1,22 @@
+{
+	"nome": "Giffoni Sei Casali",
+	"codice": "065055",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "E026",
+	"cap": [
+		"84090"
+	],
+	"popolazione": 5262
+}

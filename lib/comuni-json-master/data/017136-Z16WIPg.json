@@ -1,0 +1,22 @@
+{
+	"nome": "Passirano",
+	"codice": "017136",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G361",
+	"cap": [
+		"25050"
+	],
+	"popolazione": 7114
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sassofeltrio",
+	"codice": "041060",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "I460",
+	"cap": [
+		"61013"
+	],
+	"popolazione": 1445
+}

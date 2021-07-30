@@ -1,0 +1,22 @@
+{
+	"nome": "Riparbella",
+	"codice": "050030",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "H319",
+	"cap": [
+		"56046"
+	],
+	"popolazione": 1631
+}

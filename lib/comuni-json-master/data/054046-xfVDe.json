@@ -1,0 +1,22 @@
+{
+	"nome": "Scheggia e Pascelupo",
+	"codice": "054046",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "I522",
+	"cap": [
+		"06027"
+	],
+	"popolazione": 1442
+}

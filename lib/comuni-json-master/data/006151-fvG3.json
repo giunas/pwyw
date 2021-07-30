@@ -1,0 +1,22 @@
+{
+	"nome": "Sale",
+	"codice": "006151",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "H694",
+	"cap": [
+		"15045"
+	],
+	"popolazione": 4218
+}

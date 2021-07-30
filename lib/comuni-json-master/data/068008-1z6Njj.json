@@ -1,0 +1,22 @@
+{
+	"nome": "Carpineto della Nora",
+	"codice": "068008",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "B827",
+	"cap": [
+		"65010"
+	],
+	"popolazione": 680
+}

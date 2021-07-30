@@ -1,0 +1,22 @@
+{
+	"nome": "Ranzo",
+	"codice": "008048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "H180",
+	"cap": [
+		"18020"
+	],
+	"popolazione": 556
+}

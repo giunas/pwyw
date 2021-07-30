@@ -1,0 +1,22 @@
+{
+	"nome": "Tergu",
+	"codice": "090086",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "M282",
+	"cap": [
+		"07030"
+	],
+	"popolazione": 614
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cotignola",
+	"codice": "039009",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "D121",
+	"cap": [
+		"48033"
+	],
+	"popolazione": 7384
+}

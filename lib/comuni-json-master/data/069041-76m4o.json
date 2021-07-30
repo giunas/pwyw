@@ -1,0 +1,22 @@
+{
+	"nome": "Gissi",
+	"codice": "069041",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "E052",
+	"cap": [
+		"66052"
+	],
+	"popolazione": 2935
+}

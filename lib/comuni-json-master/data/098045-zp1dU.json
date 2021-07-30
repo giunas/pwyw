@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve Fissiraga",
+	"codice": "098045",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "G096",
+	"cap": [
+		"26854"
+	],
+	"popolazione": 1604
+}

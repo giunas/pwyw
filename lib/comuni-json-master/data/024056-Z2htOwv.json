@@ -1,0 +1,22 @@
+{
+	"nome": "Marano Vicentino",
+	"codice": "024056",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "E912",
+	"cap": [
+		"36035"
+	],
+	"popolazione": 9662
+}

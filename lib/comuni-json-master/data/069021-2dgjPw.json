@@ -1,0 +1,22 @@
+{
+	"nome": "Celenza sul Trigno",
+	"codice": "069021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "C428",
+	"cap": [
+		"66050"
+	],
+	"popolazione": 974
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Celle Ligure",
+	"codice": "009022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "C443",
+	"cap": [
+		"17015"
+	],
+	"popolazione": 5353
+}

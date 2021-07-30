@@ -1,0 +1,22 @@
+{
+	"nome": "Licata",
+	"codice": "084021",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "E573",
+	"cap": [
+		"92027"
+	],
+	"popolazione": 38125
+}

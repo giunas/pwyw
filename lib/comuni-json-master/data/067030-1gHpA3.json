@@ -1,0 +1,22 @@
+{
+	"nome": "Mosciano Sant'Angelo",
+	"codice": "067030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "F764",
+	"cap": [
+		"64023"
+	],
+	"popolazione": 9251
+}

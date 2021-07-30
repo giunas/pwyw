@@ -1,0 +1,22 @@
+{
+	"nome": "Romans d'Isonzo",
+	"codice": "031015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "H514",
+	"cap": [
+		"34076"
+	],
+	"popolazione": 3702
+}

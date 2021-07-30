@@ -1,0 +1,22 @@
+{
+	"nome": "Piane Crati",
+	"codice": "078097",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "G553",
+	"cap": [
+		"87050"
+	],
+	"popolazione": 1414
+}

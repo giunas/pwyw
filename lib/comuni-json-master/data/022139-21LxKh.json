@@ -1,0 +1,22 @@
+{
+	"nome": "Pergine Valsugana",
+	"codice": "022139",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "G452",
+	"cap": [
+		"38057"
+	],
+	"popolazione": 20446
+}

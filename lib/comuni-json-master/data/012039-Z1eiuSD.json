@@ -1,0 +1,22 @@
+{
+	"nome": "Casorate Sempione",
+	"codice": "012039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B987",
+	"cap": [
+		"21011"
+	],
+	"popolazione": 5726
+}

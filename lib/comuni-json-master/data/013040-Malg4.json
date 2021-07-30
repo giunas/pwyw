@@ -1,0 +1,22 @@
+{
+	"nome": "Campione d'Italia",
+	"codice": "013040",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B513",
+	"cap": [
+		"22060"
+	],
+	"popolazione": 2158
+}

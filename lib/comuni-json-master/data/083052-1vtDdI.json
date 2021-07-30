@@ -1,0 +1,22 @@
+{
+	"nome": "Mistretta",
+	"codice": "083052",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F251",
+	"cap": [
+		"98073"
+	],
+	"popolazione": 5014
+}

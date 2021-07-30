@@ -1,0 +1,22 @@
+{
+	"nome": "San Benigno Canavese",
+	"codice": "001236",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H775",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 5615
+}

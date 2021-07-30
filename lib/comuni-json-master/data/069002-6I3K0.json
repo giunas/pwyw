@@ -1,0 +1,22 @@
+{
+	"nome": "Archi",
+	"codice": "069002",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "A367",
+	"cap": [
+		"66044"
+	],
+	"popolazione": 2282
+}

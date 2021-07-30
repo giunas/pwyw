@@ -1,0 +1,22 @@
+{
+	"nome": "Pollutri",
+	"codice": "069068",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G799",
+	"cap": [
+		"66020"
+	],
+	"popolazione": 2306
+}

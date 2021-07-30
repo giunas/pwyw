@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Venerina",
+	"codice": "087048",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "I314",
+	"cap": [
+		"95010"
+	],
+	"popolazione": 8351
+}

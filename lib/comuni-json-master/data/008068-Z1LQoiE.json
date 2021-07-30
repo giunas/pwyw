@@ -1,0 +1,22 @@
+{
+	"nome": "Montalto Carpasio",
+	"codice": "008068",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "M387",
+	"cap": [
+		"18028"
+	],
+	"popolazione": 517
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo d'Ale",
+	"codice": "002015",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "B009",
+	"cap": [
+		"13040"
+	],
+	"popolazione": 2588
+}

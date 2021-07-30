@@ -1,0 +1,22 @@
+{
+	"nome": "Cerreto d'Asti",
+	"codice": "005035",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "C528",
+	"cap": [
+		"14020"
+	],
+	"popolazione": 220
+}

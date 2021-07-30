@@ -1,0 +1,22 @@
+{
+	"nome": "Agordo",
+	"codice": "025001",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "A083",
+	"cap": [
+		"32021"
+	],
+	"popolazione": 4249
+}

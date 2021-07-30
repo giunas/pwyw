@@ -1,0 +1,22 @@
+{
+	"nome": "Chienes",
+	"codice": "021021",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "C625",
+	"cap": [
+		"39030"
+	],
+	"popolazione": 2695
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Solbiate Olona",
+	"codice": "012122",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "I794",
+	"cap": [
+		"21058"
+	],
+	"popolazione": 5579
+}

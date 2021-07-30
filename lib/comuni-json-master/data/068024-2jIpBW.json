@@ -1,0 +1,22 @@
+{
+	"nome": "Montesilvano",
+	"codice": "068024",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "F646",
+	"cap": [
+		"65015"
+	],
+	"popolazione": 50413
+}

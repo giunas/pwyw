@@ -1,0 +1,22 @@
+{
+	"nome": "Soriso",
+	"codice": "003140",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "I857",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 781
+}

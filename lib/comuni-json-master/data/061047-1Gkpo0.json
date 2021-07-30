@@ -1,0 +1,22 @@
+{
+	"nome": "Macerata Campania",
+	"codice": "061047",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "E784",
+	"cap": [
+		"81047"
+	],
+	"popolazione": 10558
+}

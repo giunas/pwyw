@@ -1,0 +1,22 @@
+{
+	"nome": "Pratola Peligna",
+	"codice": "066075",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "H007",
+	"cap": [
+		"67035"
+	],
+	"popolazione": 7840
+}

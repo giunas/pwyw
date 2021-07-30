@@ -1,0 +1,22 @@
+{
+	"nome": "Paisco Loveno",
+	"codice": "017131",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G247",
+	"cap": [
+		"25050"
+	],
+	"popolazione": 198
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Casasco",
+	"codice": "006041",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "B941",
+	"cap": [
+		"15050"
+	],
+	"popolazione": 124
+}

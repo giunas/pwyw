@@ -1,0 +1,22 @@
+{
+	"nome": "Recale",
+	"codice": "061067",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H210",
+	"cap": [
+		"81020"
+	],
+	"popolazione": 7611
+}

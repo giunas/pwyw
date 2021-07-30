@@ -1,0 +1,22 @@
+{
+	"nome": "Montesano sulla Marcellana",
+	"codice": "065076",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F625",
+	"cap": [
+		"84033"
+	],
+	"popolazione": 6781
+}

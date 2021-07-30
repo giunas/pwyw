@@ -1,0 +1,22 @@
+{
+	"nome": "Massa Fermana",
+	"codice": "109011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F021",
+	"cap": [
+		"63834"
+	],
+	"popolazione": 1002
+}

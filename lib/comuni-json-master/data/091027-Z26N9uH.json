@@ -1,0 +1,22 @@
+{
+	"nome": "Galtellì",
+	"codice": "091027",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "D888",
+	"cap": [
+		"08020"
+	],
+	"popolazione": 2472
+}

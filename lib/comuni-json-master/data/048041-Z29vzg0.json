@@ -1,0 +1,22 @@
+{
+	"nome": "Scandicci",
+	"codice": "048041",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "B962",
+	"cap": [
+		"50018"
+	],
+	"popolazione": 49765
+}

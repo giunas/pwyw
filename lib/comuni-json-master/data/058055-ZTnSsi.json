@@ -1,0 +1,22 @@
+{
+	"nome": "Marano Equo",
+	"codice": "058055",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "E908",
+	"cap": [
+		"00020"
+	],
+	"popolazione": 786
+}

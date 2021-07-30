@@ -1,0 +1,22 @@
+{
+	"nome": "San Biagio Platani",
+	"codice": "084035",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "H778",
+	"cap": [
+		"92020"
+	],
+	"popolazione": 3501
+}

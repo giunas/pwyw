@@ -1,0 +1,22 @@
+{
+	"nome": "Montagnareale",
+	"codice": "083056",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F395",
+	"cap": [
+		"98060"
+	],
+	"popolazione": 1631
+}

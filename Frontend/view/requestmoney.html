@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>PWYW - Richiedi denaro</title>
+  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="login-register.css">
+  <script src="../../lib/jquery.min.js"></script>
+  <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="../../Frontend/controller/richiedi.js"></script>
+  <script src="../../Frontend/controller/requestmoney.js"></script>
+  <script src="../controller/logout.js"></script>
+
+
+</head>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">PWYW</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="panel.html">Home</a>
+            </li>
+            <li class="nav-item">
+                    <a class="nav-link" href="transactions.html">Movimenti</a>
+            </li>
+            <li class="nav-item">
+                    <a class="nav-link" href="sendmoney.html">Invia Denaro</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="sendcommoney.html">Paga Esercizi Commerciali</a>
+            </li>
+            <li class="nav-item">
+                    <a class="nav-link" href="requestmoney.html">Richiedi Denaro</a>
+            </li>
+            <li class="nav-item">
+                    <a class="nav-link" href="periodicalpayments.html">Pagamenti Periodici</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="profile.html">Gestisci Profilo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" style="cursor:pointer;" onclick="slogga()">Logout</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+            <div class="card card-signin my-5">
+              <div class="card-body">
+                <h5 class="card-title text-center">Richiedi</h5>
+                <form class="form-signin" onSubmit="return richiedidenaro(document.getElementById('inputImporto').value,document.getElementById('inputEmail').value)">
+                  <div class="form-label-group">
+                    <input type="email" id="inputEmail" class="form-control" placeholder="nome@example.com" required autofocus>
+                    <label for="inputEmail">Email</label>
+                  </div>
+    
+                  <div class="form-label-group">
+                    <input type="importo" id="inputImporto" class="form-control" placeholder="0.00" required pattern="[0-9]*\.[0-9]*">
+                    <label for="inputImporto">Importo</label>
+                  </div>
+    
+                  <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Richiedi</button>
+
+                  <hr class="my-4">
+                  <div id="popup"></div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+</body>
+</html>

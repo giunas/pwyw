@@ -1,0 +1,22 @@
+{
+	"nome": "Castelfranci",
+	"codice": "064023",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "C105",
+	"cap": [
+		"83040"
+	],
+	"popolazione": 2104
+}

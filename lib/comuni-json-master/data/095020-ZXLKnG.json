@@ -1,0 +1,22 @@
+{
+	"nome": "Fordongianus",
+	"codice": "095020",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "D695",
+	"cap": [
+		"09083"
+	],
+	"popolazione": 939
+}

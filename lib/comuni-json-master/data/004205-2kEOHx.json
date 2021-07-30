@@ -1,0 +1,22 @@
+{
+	"nome": "Sampeyre",
+	"codice": "004205",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H755",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 1069
+}

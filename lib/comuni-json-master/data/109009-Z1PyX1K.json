@@ -1,0 +1,22 @@
+{
+	"nome": "Lapedona",
+	"codice": "109009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "E447",
+	"cap": [
+		"63823"
+	],
+	"popolazione": 1175
+}

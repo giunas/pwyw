@@ -1,0 +1,22 @@
+{
+	"nome": "Castelverrino",
+	"codice": "094013",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "C200",
+	"cap": [
+		"86080"
+	],
+	"popolazione": 124
+}

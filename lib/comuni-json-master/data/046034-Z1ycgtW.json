@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Basilica",
+	"codice": "046034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "L913",
+	"cap": [
+		"55019"
+	],
+	"popolazione": 1700
+}

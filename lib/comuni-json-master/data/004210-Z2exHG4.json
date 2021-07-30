@@ -1,0 +1,22 @@
+{
+	"nome": "San Michele Mondovì",
+	"codice": "004210",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "I037",
+	"cap": [
+		"12080"
+	],
+	"popolazione": 2034
+}

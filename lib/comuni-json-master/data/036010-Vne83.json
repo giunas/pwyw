@@ -1,0 +1,22 @@
+{
+	"nome": "Concordia sulla Secchia",
+	"codice": "036010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "C951",
+	"cap": [
+		"41033"
+	],
+	"popolazione": 8968
+}

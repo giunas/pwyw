@@ -1,0 +1,22 @@
+{
+	"nome": "Piana degli Albanesi",
+	"codice": "082057",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "G543",
+	"cap": [
+		"90037"
+	],
+	"popolazione": 6010
+}

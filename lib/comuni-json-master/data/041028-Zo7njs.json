@@ -1,0 +1,22 @@
+{
+	"nome": "Mondavio",
+	"codice": "041028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "F347",
+	"cap": [
+		"61040"
+	],
+	"popolazione": 3929
+}

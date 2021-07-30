@@ -1,0 +1,22 @@
+{
+	"nome": "Ala",
+	"codice": "022001",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "A116",
+	"cap": [
+		"38061"
+	],
+	"popolazione": 8887
+}

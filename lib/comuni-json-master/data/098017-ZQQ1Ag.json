@@ -1,0 +1,22 @@
+{
+	"nome": "Cavenago d'Adda",
+	"codice": "098017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "C394",
+	"cap": [
+		"26824"
+	],
+	"popolazione": 2259
+}

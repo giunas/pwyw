@@ -1,0 +1,22 @@
+{
+	"nome": "Govone",
+	"codice": "004099",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "E118",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 2157
+}

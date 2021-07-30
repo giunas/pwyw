@@ -1,0 +1,22 @@
+{
+	"nome": "Cannara",
+	"codice": "054006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "B609",
+	"cap": [
+		"06033"
+	],
+	"popolazione": 4308
+}

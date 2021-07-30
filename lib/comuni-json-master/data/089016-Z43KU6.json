@@ -1,0 +1,22 @@
+{
+	"nome": "Rosolini",
+	"codice": "089016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "H574",
+	"cap": [
+		"96019"
+	],
+	"popolazione": 21526
+}

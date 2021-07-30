@@ -1,0 +1,22 @@
+{
+	"nome": "Fonzaso",
+	"codice": "025022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "D686",
+	"cap": [
+		"32030"
+	],
+	"popolazione": 3322
+}

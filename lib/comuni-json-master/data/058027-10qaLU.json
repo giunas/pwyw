@@ -1,0 +1,22 @@
+{
+	"nome": "Cerreto Laziale",
+	"codice": "058027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C518",
+	"cap": [
+		"00020"
+	],
+	"popolazione": 1192
+}

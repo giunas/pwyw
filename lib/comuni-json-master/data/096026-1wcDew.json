@@ -1,0 +1,22 @@
+{
+	"nome": "Gaglianico",
+	"codice": "096026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "D848",
+	"cap": [
+		"13894"
+	],
+	"popolazione": 3899
+}

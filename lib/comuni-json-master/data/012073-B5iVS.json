@@ -1,0 +1,22 @@
+{
+	"nome": "Gazzada Schianno",
+	"codice": "012073",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "D951",
+	"cap": [
+		"21045"
+	],
+	"popolazione": 4644
+}

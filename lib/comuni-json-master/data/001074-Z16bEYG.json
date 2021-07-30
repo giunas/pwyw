@@ -1,0 +1,22 @@
+{
+	"nome": "Cesana Torinese",
+	"codice": "001074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C564",
+	"cap": [
+		"10054"
+	],
+	"popolazione": 1007
+}

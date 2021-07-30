@@ -1,0 +1,22 @@
+{
+	"nome": "Cagnò",
+	"codice": "022030",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "B360",
+	"cap": [
+		"38028"
+	],
+	"popolazione": 360
+}

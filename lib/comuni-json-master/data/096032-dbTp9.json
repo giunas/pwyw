@@ -1,0 +1,22 @@
+{
+	"nome": "Masserano",
+	"codice": "096032",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "F042",
+	"cap": [
+		"13866"
+	],
+	"popolazione": 2202
+}

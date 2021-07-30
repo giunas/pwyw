@@ -1,0 +1,22 @@
+{
+	"nome": "Sesto San Giovanni",
+	"codice": "015209",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I690",
+	"cap": [
+		"20099"
+	],
+	"popolazione": 76514
+}

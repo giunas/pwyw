@@ -1,0 +1,22 @@
+{
+	"nome": "Rhêmes-Saint-Georges",
+	"codice": "007056",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "02",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"provincia": {
+		"codice": "007",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"sigla": "AO",
+	"codiceCatastale": "H263",
+	"cap": [
+		"11010"
+	],
+	"popolazione": 196
+}

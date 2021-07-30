@@ -1,0 +1,22 @@
+{
+	"nome": "Montemagno",
+	"codice": "005077",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F556",
+	"cap": [
+		"14030"
+	],
+	"popolazione": 1162
+}

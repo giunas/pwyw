@@ -1,0 +1,22 @@
+{
+	"nome": "Averara",
+	"codice": "016014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A511",
+	"cap": [
+		"24010"
+	],
+	"popolazione": 182
+}

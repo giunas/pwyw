@@ -1,0 +1,22 @@
+{
+	"nome": "Oggiono",
+	"codice": "097057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "G009",
+	"cap": [
+		"23848"
+	],
+	"popolazione": 8750
+}

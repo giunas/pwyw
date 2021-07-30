@@ -1,0 +1,22 @@
+{
+	"nome": "Monteleone di Fermo",
+	"codice": "109019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F536",
+	"cap": [
+		"63841"
+	],
+	"popolazione": 436
+}

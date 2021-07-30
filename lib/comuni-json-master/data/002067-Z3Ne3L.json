@@ -1,0 +1,22 @@
+{
+	"nome": "Lamporo",
+	"codice": "002067",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "E433",
+	"cap": [
+		"13046"
+	],
+	"popolazione": 546
+}

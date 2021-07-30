@@ -1,0 +1,22 @@
+{
+	"nome": "Mira",
+	"codice": "027023",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "F229",
+	"cap": [
+		"30034"
+	],
+	"popolazione": 38552
+}

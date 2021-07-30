@@ -1,0 +1,22 @@
+{
+	"nome": "Scisciano",
+	"codice": "063077",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I540",
+	"cap": [
+		"80030"
+	],
+	"popolazione": 5775
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cabras",
+	"codice": "095018",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "B314",
+	"cap": [
+		"09072"
+	],
+	"popolazione": 9032
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Caorle",
+	"codice": "027005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "B642",
+	"cap": [
+		"30021"
+	],
+	"popolazione": 11793
+}

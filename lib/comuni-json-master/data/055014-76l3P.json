@@ -1,0 +1,22 @@
+{
+	"nome": "Giove",
+	"codice": "055014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "E045",
+	"cap": [
+		"05024"
+	],
+	"popolazione": 1900
+}

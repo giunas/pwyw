@@ -1,0 +1,22 @@
+{
+	"nome": "Pontremoli",
+	"codice": "045014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "G870",
+	"cap": [
+		"54027"
+	],
+	"popolazione": 7633
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Santa Maria",
+	"codice": "069102",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "M022",
+	"cap": [
+		"66047"
+	],
+	"popolazione": 1433
+}

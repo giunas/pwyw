@@ -1,0 +1,22 @@
+{
+	"nome": "Sedico",
+	"codice": "025053",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "I563",
+	"cap": [
+		"32036"
+	],
+	"popolazione": 9906
+}

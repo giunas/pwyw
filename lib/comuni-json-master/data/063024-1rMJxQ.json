@@ -1,0 +1,22 @@
+{
+	"nome": "Castellammare di Stabia",
+	"codice": "063024",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "C129",
+	"cap": [
+		"80053"
+	],
+	"popolazione": 65944
+}

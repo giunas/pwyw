@@ -1,0 +1,22 @@
+{
+	"nome": "Conselice",
+	"codice": "039008",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "C963",
+	"cap": [
+		"48017"
+	],
+	"popolazione": 9837
+}

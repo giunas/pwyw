@@ -1,0 +1,22 @@
+{
+	"nome": "Caselle Lurani",
+	"codice": "098012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "B958",
+	"cap": [
+		"26853"
+	],
+	"popolazione": 3100
+}

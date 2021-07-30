@@ -1,0 +1,22 @@
+{
+	"nome": "Quarna Sopra",
+	"codice": "103058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "H106",
+	"cap": [
+		"28898"
+	],
+	"popolazione": 289
+}

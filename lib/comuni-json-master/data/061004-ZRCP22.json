@@ -1,0 +1,22 @@
+{
+	"nome": "Arienzo",
+	"codice": "061004",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "A403",
+	"cap": [
+		"81021"
+	],
+	"popolazione": 5333
+}

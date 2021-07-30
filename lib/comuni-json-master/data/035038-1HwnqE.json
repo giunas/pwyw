@@ -1,0 +1,22 @@
+{
+	"nome": "San Polo d'Enza",
+	"codice": "035038",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "I123",
+	"cap": [
+		"42020"
+	],
+	"popolazione": 5949
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Borghetto di Borbera",
+	"codice": "006018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "A998",
+	"cap": [
+		"15060"
+	],
+	"popolazione": 1991
+}

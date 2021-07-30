@@ -1,0 +1,22 @@
+{
+	"nome": "Rosignano Marittimo",
+	"codice": "049017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "H570",
+	"cap": [
+		"57016"
+	],
+	"popolazione": 31752
+}

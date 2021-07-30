@@ -1,0 +1,22 @@
+{
+	"nome": "Baragiano",
+	"codice": "076010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "A615",
+	"cap": [
+		"85050"
+	],
+	"popolazione": 2675
+}

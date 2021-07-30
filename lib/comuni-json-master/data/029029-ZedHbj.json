@@ -1,0 +1,22 @@
+{
+	"nome": "Lendinara",
+	"codice": "029029",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "E522",
+	"cap": [
+		"45026"
+	],
+	"popolazione": 12024
+}

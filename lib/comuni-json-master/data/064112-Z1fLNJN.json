@@ -1,0 +1,22 @@
+{
+	"nome": "Trevico",
+	"codice": "064112",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L399",
+	"cap": [
+		"83058"
+	],
+	"popolazione": 1072
+}

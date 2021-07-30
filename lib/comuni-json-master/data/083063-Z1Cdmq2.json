@@ -1,0 +1,22 @@
+{
+	"nome": "Oliveri",
+	"codice": "083063",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "G036",
+	"cap": [
+		"98060"
+	],
+	"popolazione": 2157
+}

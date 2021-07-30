@@ -1,0 +1,22 @@
+{
+	"nome": "Morciano di Romagna",
+	"codice": "099011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "F715",
+	"cap": [
+		"47833"
+	],
+	"popolazione": 6892
+}

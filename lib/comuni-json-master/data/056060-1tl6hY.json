@@ -1,0 +1,22 @@
+{
+	"nome": "Vitorchiano",
+	"codice": "056060",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "M086",
+	"cap": [
+		"01030"
+	],
+	"popolazione": 4956
+}

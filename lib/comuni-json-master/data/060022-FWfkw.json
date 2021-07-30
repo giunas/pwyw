@@ -1,0 +1,22 @@
+{
+	"nome": "Castrocielo",
+	"codice": "060022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "C340",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 3969
+}

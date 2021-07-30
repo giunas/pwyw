@@ -1,0 +1,22 @@
+{
+	"nome": "Cino",
+	"codice": "014021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "C709",
+	"cap": [
+		"23010"
+	],
+	"popolazione": 373
+}

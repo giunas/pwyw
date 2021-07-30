@@ -1,0 +1,22 @@
+{
+	"nome": "Angera",
+	"codice": "012003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A290",
+	"cap": [
+		"21021"
+	],
+	"popolazione": 5622
+}

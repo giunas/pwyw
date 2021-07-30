@@ -1,0 +1,22 @@
+{
+	"nome": "Mondragone",
+	"codice": "061052",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "F352",
+	"cap": [
+		"81034"
+	],
+	"popolazione": 27070
+}

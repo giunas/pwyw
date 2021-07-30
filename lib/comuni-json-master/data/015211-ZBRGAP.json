@@ -1,0 +1,22 @@
+{
+	"nome": "Settimo Milanese",
+	"codice": "015211",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I700",
+	"cap": [
+		"20019"
+	],
+	"popolazione": 19148
+}

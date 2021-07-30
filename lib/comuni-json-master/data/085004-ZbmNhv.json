@@ -1,0 +1,22 @@
+{
+	"nome": "Caltanissetta",
+	"codice": "085004",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "085",
+		"nome": "Caltanissetta"
+	},
+	"sigla": "CL",
+	"codiceCatastale": "B429",
+	"cap": [
+		"93100"
+	],
+	"popolazione": 61711
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Vejano",
+	"codice": "056056",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "L713",
+	"cap": [
+		"01010"
+	],
+	"popolazione": 2298
+}

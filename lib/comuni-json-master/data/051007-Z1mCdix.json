@@ -1,0 +1,22 @@
+{
+	"nome": "Caprese Michelangelo",
+	"codice": "051007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "B693",
+	"cap": [
+		"52033"
+	],
+	"popolazione": 1516
+}

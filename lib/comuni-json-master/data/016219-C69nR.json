@@ -1,0 +1,22 @@
+{
+	"nome": "Treviglio",
+	"codice": "016219",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "L400",
+	"cap": [
+		"24047"
+	],
+	"popolazione": 28410
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Lorenzo Nuovo",
+	"codice": "056047",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "H969",
+	"cap": [
+		"01020"
+	],
+	"popolazione": 2166
+}

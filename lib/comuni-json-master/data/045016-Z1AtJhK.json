@@ -1,0 +1,22 @@
+{
+	"nome": "Villafranca in Lunigiana",
+	"codice": "045016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "L946",
+	"cap": [
+		"54028"
+	],
+	"popolazione": 4730
+}

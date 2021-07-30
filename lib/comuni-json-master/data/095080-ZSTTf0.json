@@ -1,0 +1,22 @@
+{
+	"nome": "Flussio",
+	"codice": "095080",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "D640",
+	"cap": [
+		"08010"
+	],
+	"popolazione": 454
+}

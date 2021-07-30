@@ -1,0 +1,22 @@
+{
+	"nome": "Pontebba",
+	"codice": "030076",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "G831",
+	"cap": [
+		"33016"
+	],
+	"popolazione": 1503
+}

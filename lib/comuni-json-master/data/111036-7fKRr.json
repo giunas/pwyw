@@ -1,0 +1,22 @@
+{
+	"nome": "Isili",
+	"codice": "111036",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "E336",
+	"cap": [
+		"09056"
+	],
+	"popolazione": 2842
+}

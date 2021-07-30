@@ -1,0 +1,22 @@
+{
+	"nome": "Pienza",
+	"codice": "052021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "G602",
+	"cap": [
+		"53026"
+	],
+	"popolazione": 2141
+}

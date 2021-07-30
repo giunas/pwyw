@@ -1,0 +1,22 @@
+{
+	"nome": "Bracciano",
+	"codice": "058013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "B114",
+	"cap": [
+		"00062"
+	],
+	"popolazione": 18549
+}

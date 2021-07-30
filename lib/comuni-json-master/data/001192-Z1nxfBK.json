@@ -1,0 +1,22 @@
+{
+	"nome": "Pino Torinese",
+	"codice": "001192",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G678",
+	"cap": [
+		"10025"
+	],
+	"popolazione": 8481
+}

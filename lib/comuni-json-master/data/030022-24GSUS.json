@@ -1,0 +1,22 @@
+{
+	"nome": "Cercivento",
+	"codice": "030022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "C494",
+	"cap": [
+		"33020"
+	],
+	"popolazione": 696
+}

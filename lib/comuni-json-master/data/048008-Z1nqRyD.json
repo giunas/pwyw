@@ -1,0 +1,22 @@
+{
+	"nome": "Capraia e Limite",
+	"codice": "048008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "B684",
+	"cap": [
+		"50050"
+	],
+	"popolazione": 7298
+}

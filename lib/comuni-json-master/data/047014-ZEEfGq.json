@@ -1,0 +1,22 @@
+{
+	"nome": "Pistoia",
+	"codice": "047014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "G713",
+	"cap": [
+		"51100"
+	],
+	"popolazione": 89101
+}

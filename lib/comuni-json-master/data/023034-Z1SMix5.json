@@ -1,0 +1,22 @@
+{
+	"nome": "Ferrara di Monte Baldo",
+	"codice": "023034",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "D549",
+	"cap": [
+		"37020"
+	],
+	"popolazione": 221
+}

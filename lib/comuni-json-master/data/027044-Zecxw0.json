@@ -1,0 +1,22 @@
+{
+	"nome": "Cavallino-Treporti",
+	"codice": "027044",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "M308",
+	"cap": [
+		"30013"
+	],
+	"popolazione": 13162
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Massa Lombarda",
+	"codice": "039013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "F029",
+	"cap": [
+		"48024"
+	],
+	"popolazione": 10449
+}

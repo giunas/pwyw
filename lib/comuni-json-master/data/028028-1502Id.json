@@ -1,0 +1,22 @@
+{
+	"nome": "Casalserugo",
+	"codice": "028028",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "B912",
+	"cap": [
+		"35020"
+	],
+	"popolazione": 5452
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sovizzo",
+	"codice": "024103",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "I879",
+	"cap": [
+		"36050"
+	],
+	"popolazione": 7034
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cermenate",
+	"codice": "013064",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C516",
+	"cap": [
+		"22072"
+	],
+	"popolazione": 9023
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Crespina Lorenzana",
+	"codice": "050041",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "M328",
+	"cap": [
+		"56042"
+	],
+	"popolazione": 5325
+}

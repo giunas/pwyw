@@ -1,0 +1,22 @@
+{
+	"nome": "Barete",
+	"codice": "066008",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "A656",
+	"cap": [
+		"67010"
+	],
+	"popolazione": 679
+}

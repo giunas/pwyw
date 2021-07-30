@@ -1,0 +1,22 @@
+{
+	"nome": "Piedimonte San Germano",
+	"codice": "060052",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "G598",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 6036
+}

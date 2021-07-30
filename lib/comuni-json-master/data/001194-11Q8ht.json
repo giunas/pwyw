@@ -1,0 +1,22 @@
+{
+	"nome": "Piossasco",
+	"codice": "001194",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G691",
+	"cap": [
+		"10045"
+	],
+	"popolazione": 18186
+}

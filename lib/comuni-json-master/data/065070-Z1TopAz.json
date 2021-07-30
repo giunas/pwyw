@@ -1,0 +1,22 @@
+{
+	"nome": "Montano Antilia",
+	"codice": "065070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F426",
+	"cap": [
+		"84060"
+	],
+	"popolazione": 2233
+}

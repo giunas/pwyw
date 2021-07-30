@@ -1,0 +1,22 @@
+{
+	"nome": "Noventa Padovana",
+	"codice": "028058",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "F962",
+	"cap": [
+		"35027"
+	],
+	"popolazione": 10881
+}

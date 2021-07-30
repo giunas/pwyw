@@ -1,0 +1,22 @@
+{
+	"nome": "Tornaco",
+	"codice": "003146",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L223",
+	"cap": [
+		"28070"
+	],
+	"popolazione": 876
+}

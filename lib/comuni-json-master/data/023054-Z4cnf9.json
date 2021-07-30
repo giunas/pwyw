@@ -1,0 +1,22 @@
+{
+	"nome": "Nogarole Rocca",
+	"codice": "023054",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "F921",
+	"cap": [
+		"37060"
+	],
+	"popolazione": 3455
+}

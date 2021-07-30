@@ -1,0 +1,22 @@
+{
+	"nome": "Norma",
+	"codice": "059016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "F937",
+	"cap": [
+		"04010"
+	],
+	"popolazione": 4035
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Cesario sul Panaro",
+	"codice": "036036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "H794",
+	"cap": [
+		"41018"
+	],
+	"popolazione": 6117
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Antonino di Susa",
+	"codice": "001256",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I296",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 4333
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Viganò",
+	"codice": "097090",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "L866",
+	"cap": [
+		"23897"
+	],
+	"popolazione": 2012
+}

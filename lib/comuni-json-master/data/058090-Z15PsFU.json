@@ -1,0 +1,22 @@
+{
+	"nome": "Roiate",
+	"codice": "058090",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "H494",
+	"cap": [
+		"00030"
+	],
+	"popolazione": 749
+}

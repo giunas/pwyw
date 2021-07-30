@@ -1,0 +1,22 @@
+{
+	"nome": "Valguarnera Caropepe",
+	"codice": "086019",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "L583",
+	"cap": [
+		"94019"
+	],
+	"popolazione": 8182
+}

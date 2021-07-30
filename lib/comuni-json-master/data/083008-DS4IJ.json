@@ -1,0 +1,22 @@
+{
+	"nome": "Capizzi",
+	"codice": "083008",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "B660",
+	"cap": [
+		"98031"
+	],
+	"popolazione": 3347
+}

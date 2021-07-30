@@ -1,0 +1,22 @@
+{
+	"nome": "Lunamatrona",
+	"codice": "111038",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "E742",
+	"cap": [
+		"09022"
+	],
+	"popolazione": 1783
+}

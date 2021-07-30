@@ -1,0 +1,22 @@
+{
+	"nome": "Bardonecchia",
+	"codice": "001022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A651",
+	"cap": [
+		"10052"
+	],
+	"popolazione": 3212
+}

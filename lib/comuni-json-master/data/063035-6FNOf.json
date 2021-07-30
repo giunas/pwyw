@@ -1,0 +1,22 @@
+{
+	"nome": "Gragnano",
+	"codice": "063035",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E131",
+	"cap": [
+		"80054"
+	],
+	"popolazione": 29509
+}

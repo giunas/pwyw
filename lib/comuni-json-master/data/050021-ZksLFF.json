@@ -1,0 +1,22 @@
+{
+	"nome": "Monteverdi Marittimo",
+	"codice": "050021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "F661",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 778
+}

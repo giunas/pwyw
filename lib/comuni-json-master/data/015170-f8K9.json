@@ -1,0 +1,22 @@
+{
+	"nome": "Pero",
+	"codice": "015170",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C013",
+	"cap": [
+		"20016"
+	],
+	"popolazione": 10291
+}

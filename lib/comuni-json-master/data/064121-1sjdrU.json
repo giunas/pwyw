@@ -1,0 +1,22 @@
+{
+	"nome": "Montoro",
+	"codice": "064121",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "M330",
+	"cap": [
+		"83025"
+	],
+	"popolazione": 19456
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Tremosine sul Garda",
+	"codice": "017189",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "L372",
+	"cap": [
+		"25010"
+	],
+	"popolazione": 2125
+}

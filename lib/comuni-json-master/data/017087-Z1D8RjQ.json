@@ -1,0 +1,22 @@
+{
+	"nome": "Lavenone",
+	"codice": "017087",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E497",
+	"cap": [
+		"25074"
+	],
+	"popolazione": 607
+}

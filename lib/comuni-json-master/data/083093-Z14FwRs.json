@@ -1,0 +1,22 @@
+{
+	"nome": "Savoca",
+	"codice": "083093",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I477",
+	"cap": [
+		"98038"
+	],
+	"popolazione": 1766
+}

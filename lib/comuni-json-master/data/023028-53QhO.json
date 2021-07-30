@@ -1,0 +1,22 @@
+{
+	"nome": "Colognola ai Colli",
+	"codice": "023028",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "C897",
+	"cap": [
+		"37030"
+	],
+	"popolazione": 8141
+}

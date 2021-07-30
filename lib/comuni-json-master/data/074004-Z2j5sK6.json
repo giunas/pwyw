@@ -1,0 +1,22 @@
+{
+	"nome": "Cellino San Marco",
+	"codice": "074004",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "074",
+		"nome": "Brindisi"
+	},
+	"sigla": "BR",
+	"codiceCatastale": "C448",
+	"cap": [
+		"72020"
+	],
+	"popolazione": 6799
+}

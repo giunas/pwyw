@@ -1,0 +1,22 @@
+{
+	"nome": "Pozzolengo",
+	"codice": "017151",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G959",
+	"cap": [
+		"25010"
+	],
+	"popolazione": 3438
+}

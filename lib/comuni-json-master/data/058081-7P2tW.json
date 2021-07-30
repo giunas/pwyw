@@ -1,0 +1,22 @@
+{
+	"nome": "Riano",
+	"codice": "058081",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "H267",
+	"cap": [
+		"00060"
+	],
+	"popolazione": 9536
+}

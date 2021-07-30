@@ -1,0 +1,22 @@
+{
+	"nome": "Vedano al Lambro",
+	"codice": "108046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "L704",
+	"cap": [
+		"20854"
+	],
+	"popolazione": 7426
+}

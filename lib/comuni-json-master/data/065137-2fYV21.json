@@ -1,0 +1,22 @@
+{
+	"nome": "Scafati",
+	"codice": "065137",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I483",
+	"cap": [
+		"84018"
+	],
+	"popolazione": 50013
+}

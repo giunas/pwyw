@@ -1,0 +1,22 @@
+{
+	"nome": "Selva di Cadore",
+	"codice": "025054",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "I592",
+	"cap": [
+		"32020"
+	],
+	"popolazione": 517
+}

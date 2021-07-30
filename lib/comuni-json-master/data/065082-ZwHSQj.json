@@ -1,0 +1,22 @@
+{
+	"nome": "Olevano sul Tusciano",
+	"codice": "065082",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G023",
+	"cap": [
+		"84062"
+	],
+	"popolazione": 6883
+}

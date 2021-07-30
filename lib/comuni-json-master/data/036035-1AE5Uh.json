@@ -1,0 +1,22 @@
+{
+	"nome": "Riolunato",
+	"codice": "036035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "H303",
+	"cap": [
+		"41020"
+	],
+	"popolazione": 759
+}

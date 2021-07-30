@@ -1,0 +1,22 @@
+{
+	"nome": "Carema",
+	"codice": "001057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B762",
+	"cap": [
+		"10010"
+	],
+	"popolazione": 772
+}

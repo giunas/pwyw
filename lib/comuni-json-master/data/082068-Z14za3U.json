@@ -1,0 +1,22 @@
+{
+	"nome": "Sciara",
+	"codice": "082068",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "I534",
+	"cap": [
+		"90020"
+	],
+	"popolazione": 2787
+}

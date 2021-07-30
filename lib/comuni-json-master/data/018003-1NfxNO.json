@@ -1,0 +1,22 @@
+{
+	"nome": "Albonese",
+	"codice": "018003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "A171",
+	"cap": [
+		"27020"
+	],
+	"popolazione": 565
+}

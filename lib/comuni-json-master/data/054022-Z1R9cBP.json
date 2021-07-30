@@ -1,0 +1,22 @@
+{
+	"nome": "Gualdo Cattaneo",
+	"codice": "054022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "E229",
+	"cap": [
+		"06035"
+	],
+	"popolazione": 6278
+}

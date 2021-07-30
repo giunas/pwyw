@@ -1,0 +1,22 @@
+{
+	"nome": "Peia",
+	"codice": "016161",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "G418",
+	"cap": [
+		"24020"
+	],
+	"popolazione": 1864
+}

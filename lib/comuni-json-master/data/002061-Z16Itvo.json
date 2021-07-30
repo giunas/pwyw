@@ -1,0 +1,22 @@
+{
+	"nome": "Gattinara",
+	"codice": "002061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "D938",
+	"cap": [
+		"13045"
+	],
+	"popolazione": 8272
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Calcata",
+	"codice": "056010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "B388",
+	"cap": [
+		"01030"
+	],
+	"popolazione": 905
+}

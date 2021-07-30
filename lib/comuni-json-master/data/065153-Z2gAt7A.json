@@ -1,0 +1,22 @@
+{
+	"nome": "Valle dell'Angelo",
+	"codice": "065153",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G540",
+	"cap": [
+		"84070"
+	],
+	"popolazione": 280
+}

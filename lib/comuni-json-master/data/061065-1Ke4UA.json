@@ -1,0 +1,22 @@
+{
+	"nome": "Presenzano",
+	"codice": "061065",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H045",
+	"cap": [
+		"81050"
+	],
+	"popolazione": 1747
+}

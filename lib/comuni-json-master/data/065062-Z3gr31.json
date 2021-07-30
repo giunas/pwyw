@@ -1,0 +1,22 @@
+{
+	"nome": "Laurito",
+	"codice": "065062",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "E486",
+	"cap": [
+		"84050"
+	],
+	"popolazione": 843
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Ariano Irpino",
+	"codice": "064005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "A399",
+	"cap": [
+		"83031"
+	],
+	"popolazione": 22517
+}

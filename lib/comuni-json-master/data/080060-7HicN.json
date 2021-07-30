@@ -1,0 +1,22 @@
+{
+	"nome": "Platì",
+	"codice": "080060",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "G735",
+	"cap": [
+		"89039"
+	],
+	"popolazione": 3711
+}

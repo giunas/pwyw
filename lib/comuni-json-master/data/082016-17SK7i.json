@@ -1,0 +1,22 @@
+{
+	"nome": "Campofelice di Fitalia",
+	"codice": "082016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "B533",
+	"cap": [
+		"90030"
+	],
+	"popolazione": 548
+}

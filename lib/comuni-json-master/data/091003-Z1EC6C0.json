@@ -1,0 +1,22 @@
+{
+	"nome": "Atzara",
+	"codice": "091003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "A492",
+	"cap": [
+		"08030"
+	],
+	"popolazione": 1210
+}

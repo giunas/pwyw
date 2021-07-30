@@ -1,0 +1,22 @@
+{
+	"nome": "Alfedena",
+	"codice": "066003",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "A187",
+	"cap": [
+		"67030"
+	],
+	"popolazione": 785
+}

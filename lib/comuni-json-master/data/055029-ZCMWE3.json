@@ -1,0 +1,22 @@
+{
+	"nome": "San Gemini",
+	"codice": "055029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "H857",
+	"cap": [
+		"05029"
+	],
+	"popolazione": 4921
+}

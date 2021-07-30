@@ -1,0 +1,22 @@
+{
+	"nome": "Roccella Ionica",
+	"codice": "080067",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "H456",
+	"cap": [
+		"89047"
+	],
+	"popolazione": 6434
+}

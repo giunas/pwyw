@@ -1,0 +1,22 @@
+{
+	"nome": "Soriano nel Cimino",
+	"codice": "056048",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "I855",
+	"cap": [
+		"01038"
+	],
+	"popolazione": 8544
+}

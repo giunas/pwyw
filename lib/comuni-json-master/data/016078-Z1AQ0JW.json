@@ -1,0 +1,22 @@
+{
+	"nome": "Colere",
+	"codice": "016078",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "C835",
+	"cap": [
+		"24020"
+	],
+	"popolazione": 1137
+}

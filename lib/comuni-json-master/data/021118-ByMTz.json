@@ -1,0 +1,22 @@
+{
+	"nome": "Senale-San Felice",
+	"codice": "021118",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "I603",
+	"cap": [
+		"39010"
+	],
+	"popolazione": 782
+}

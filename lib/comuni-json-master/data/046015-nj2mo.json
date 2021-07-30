@@ -1,0 +1,22 @@
+{
+	"nome": "Gallicano",
+	"codice": "046015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "D874",
+	"cap": [
+		"55027"
+	],
+	"popolazione": 3882
+}

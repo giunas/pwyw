@@ -1,0 +1,23 @@
+{
+	"nome": "Colli Verdi",
+	"codice": "018193",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "M419",
+	"cap": [
+		"27040",
+		"27050"
+	],
+	"popolazione": 1156
+}

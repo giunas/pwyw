@@ -1,0 +1,22 @@
+{
+	"nome": "Gorla Minore",
+	"codice": "012079",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "E102",
+	"cap": [
+		"21055"
+	],
+	"popolazione": 8398
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Maschito",
+	"codice": "076047",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "F006",
+	"cap": [
+		"85020"
+	],
+	"popolazione": 1730
+}

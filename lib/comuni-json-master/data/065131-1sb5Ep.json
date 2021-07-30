@@ -1,0 +1,22 @@
+{
+	"nome": "Santomenna",
+	"codice": "065131",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I260",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 473
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Arquà Polesine",
+	"codice": "029003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "A435",
+	"cap": [
+		"45031"
+	],
+	"popolazione": 2811
+}

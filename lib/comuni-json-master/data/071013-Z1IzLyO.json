@@ -1,0 +1,22 @@
+{
+	"nome": "Casalnuovo Monterotaro",
+	"codice": "071013",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "071",
+		"nome": "Foggia"
+	},
+	"sigla": "FG",
+	"codiceCatastale": "B904",
+	"cap": [
+		"71033"
+	],
+	"popolazione": 1663
+}

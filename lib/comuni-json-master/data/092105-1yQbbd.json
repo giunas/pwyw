@@ -1,0 +1,22 @@
+{
+	"nome": "Quartucciu",
+	"codice": "092105",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": "Cagliari"
+	},
+	"sigla": "CA",
+	"codiceCatastale": "H119",
+	"cap": [
+		"09044"
+	],
+	"popolazione": 12825
+}

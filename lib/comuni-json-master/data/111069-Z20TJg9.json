@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Andrea Frius",
+	"codice": "111069",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "I271",
+	"cap": [
+		"09040"
+	],
+	"popolazione": 1834
+}

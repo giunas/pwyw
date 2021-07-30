@@ -1,0 +1,22 @@
+{
+	"nome": "Carlino",
+	"codice": "030018",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "B788",
+	"cap": [
+		"33050"
+	],
+	"popolazione": 2790
+}

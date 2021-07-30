@@ -1,0 +1,22 @@
+{
+	"nome": "Campi Bisenzio",
+	"codice": "048006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "B507",
+	"cap": [
+		"50013"
+	],
+	"popolazione": 42929
+}

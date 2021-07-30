@@ -1,0 +1,22 @@
+{
+	"nome": "Lavis",
+	"codice": "022103",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "E500",
+	"cap": [
+		"38015"
+	],
+	"popolazione": 8636
+}

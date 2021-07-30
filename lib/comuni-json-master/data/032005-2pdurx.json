@@ -1,0 +1,22 @@
+{
+	"nome": "Sgonico",
+	"codice": "032005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "032",
+		"nome": "Trieste"
+	},
+	"sigla": "TS",
+	"codiceCatastale": "I715",
+	"cap": [
+		"34010"
+	],
+	"popolazione": 2077
+}

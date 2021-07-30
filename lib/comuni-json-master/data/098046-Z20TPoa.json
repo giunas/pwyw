@@ -1,0 +1,22 @@
+{
+	"nome": "Salerano sul Lambro",
+	"codice": "098046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "H701",
+	"cap": [
+		"26857"
+	],
+	"popolazione": 2653
+}

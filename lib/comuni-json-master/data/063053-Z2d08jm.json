@@ -1,0 +1,22 @@
+{
+	"nome": "Piano di Sorrento",
+	"codice": "063053",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G568",
+	"cap": [
+		"80063"
+	],
+	"popolazione": 12991
+}

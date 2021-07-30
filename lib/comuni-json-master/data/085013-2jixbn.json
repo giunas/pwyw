@@ -1,0 +1,22 @@
+{
+	"nome": "Niscemi",
+	"codice": "085013",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "085",
+		"nome": "Caltanissetta"
+	},
+	"sigla": "CL",
+	"codiceCatastale": "F899",
+	"cap": [
+		"93015"
+	],
+	"popolazione": 27975
+}

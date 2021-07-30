@@ -1,0 +1,22 @@
+{
+	"nome": "Martignacco",
+	"codice": "030057",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "E982",
+	"cap": [
+		"33035"
+	],
+	"popolazione": 6796
+}

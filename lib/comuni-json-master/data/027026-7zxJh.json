@@ -1,0 +1,22 @@
+{
+	"nome": "Noale",
+	"codice": "027026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "F904",
+	"cap": [
+		"30033"
+	],
+	"popolazione": 15708
+}

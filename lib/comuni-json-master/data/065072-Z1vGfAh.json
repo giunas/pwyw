@@ -1,0 +1,22 @@
+{
+	"nome": "Montecorvino Pugliano",
+	"codice": "065072",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F480",
+	"cap": [
+		"84090"
+	],
+	"popolazione": 10019
+}

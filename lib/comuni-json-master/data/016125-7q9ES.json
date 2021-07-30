@@ -1,0 +1,22 @@
+{
+	"nome": "Lenna",
+	"codice": "016125",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "E524",
+	"cap": [
+		"24010"
+	],
+	"popolazione": 641
+}

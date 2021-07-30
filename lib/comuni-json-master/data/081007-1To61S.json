@@ -1,0 +1,22 @@
+{
+	"nome": "Custonaci",
+	"codice": "081007",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "D234",
+	"cap": [
+		"91015"
+	],
+	"popolazione": 5392
+}

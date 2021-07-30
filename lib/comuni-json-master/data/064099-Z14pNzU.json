@@ -1,0 +1,22 @@
+{
+	"nome": "Serino",
+	"codice": "064099",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "I630",
+	"cap": [
+		"83028"
+	],
+	"popolazione": 7129
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Granozzo con Monticello",
+	"codice": "003077",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "E143",
+	"cap": [
+		"28060"
+	],
+	"popolazione": 1432
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Caronia",
+	"codice": "083011",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "B804",
+	"cap": [
+		"98072"
+	],
+	"popolazione": 3463
+}

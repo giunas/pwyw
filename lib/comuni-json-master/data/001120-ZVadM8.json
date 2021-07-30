@@ -1,0 +1,22 @@
+{
+	"nome": "Grugliasco",
+	"codice": "001120",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "E216",
+	"cap": [
+		"10095"
+	],
+	"popolazione": 37194
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Abbadia San Salvatore",
+	"codice": "052001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "A006",
+	"cap": [
+		"53021"
+	],
+	"popolazione": 6557
+}

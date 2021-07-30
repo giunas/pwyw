@@ -1,0 +1,22 @@
+{
+	"nome": "Gonzaga",
+	"codice": "020027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "E089",
+	"cap": [
+		"46023"
+	],
+	"popolazione": 9138
+}

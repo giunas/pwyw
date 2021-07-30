@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni in Croce",
+	"codice": "019090",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "H918",
+	"cap": [
+		"26037"
+	],
+	"popolazione": 1875
+}

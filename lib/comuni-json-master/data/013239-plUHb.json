@@ -1,0 +1,22 @@
+{
+	"nome": "Vercana",
+	"codice": "013239",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "L748",
+	"cap": [
+		"22013"
+	],
+	"popolazione": 751
+}

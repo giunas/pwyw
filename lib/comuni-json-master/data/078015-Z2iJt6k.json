@@ -1,0 +1,22 @@
+{
+	"nome": "Belvedere Marittimo",
+	"codice": "078015",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "A773",
+	"cap": [
+		"87021"
+	],
+	"popolazione": 9120
+}

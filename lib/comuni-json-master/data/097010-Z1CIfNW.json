@@ -1,0 +1,22 @@
+{
+	"nome": "Brivio",
+	"codice": "097010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "B194",
+	"cap": [
+		"23883"
+	],
+	"popolazione": 4686
+}

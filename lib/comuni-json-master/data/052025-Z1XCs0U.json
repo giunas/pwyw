@@ -1,0 +1,22 @@
+{
+	"nome": "Radicondoli",
+	"codice": "052025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "H157",
+	"cap": [
+		"53030"
+	],
+	"popolazione": 931
+}

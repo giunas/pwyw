@@ -1,0 +1,22 @@
+{
+	"nome": "Basciano",
+	"codice": "067005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "A692",
+	"cap": [
+		"64030"
+	],
+	"popolazione": 2438
+}

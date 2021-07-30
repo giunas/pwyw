@@ -1,0 +1,22 @@
+{
+	"nome": "Costermano sul Garda",
+	"codice": "023030",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "D118",
+	"cap": [
+		"37010"
+	],
+	"popolazione": 3586
+}

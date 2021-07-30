@@ -1,0 +1,22 @@
+{
+	"nome": "Canzo",
+	"codice": "013042",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B641",
+	"cap": [
+		"22035"
+	],
+	"popolazione": 5109
+}

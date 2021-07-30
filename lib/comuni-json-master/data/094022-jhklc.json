@@ -1,0 +1,22 @@
+{
+	"nome": "Frosolone",
+	"codice": "094022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "D811",
+	"cap": [
+		"86095"
+	],
+	"popolazione": 3255
+}

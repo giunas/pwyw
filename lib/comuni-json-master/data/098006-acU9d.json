@@ -1,0 +1,22 @@
+{
+	"nome": "Brembio",
+	"codice": "098006",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "B141",
+	"cap": [
+		"26822"
+	],
+	"popolazione": 2647
+}

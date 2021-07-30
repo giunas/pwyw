@@ -1,0 +1,22 @@
+{
+	"nome": "Dronero",
+	"codice": "004082",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D372",
+	"cap": [
+		"12025"
+	],
+	"popolazione": 7205
+}

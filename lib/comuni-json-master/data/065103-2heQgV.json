@@ -1,0 +1,22 @@
+{
+	"nome": "Prignano Cilento",
+	"codice": "065103",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H062",
+	"cap": [
+		"84060"
+	],
+	"popolazione": 997
+}

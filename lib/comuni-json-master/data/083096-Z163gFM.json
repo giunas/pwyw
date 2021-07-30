@@ -1,0 +1,22 @@
+{
+	"nome": "Spadafora",
+	"codice": "083096",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I881",
+	"cap": [
+		"98048"
+	],
+	"popolazione": 5091
+}

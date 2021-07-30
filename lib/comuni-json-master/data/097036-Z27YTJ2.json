@@ -1,0 +1,22 @@
+{
+	"nome": "Galbiate",
+	"codice": "097036",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "D865",
+	"cap": [
+		"23851"
+	],
+	"popolazione": 8587
+}

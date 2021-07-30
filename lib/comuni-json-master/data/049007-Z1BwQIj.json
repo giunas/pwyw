@@ -1,0 +1,22 @@
+{
+	"nome": "Cecina",
+	"codice": "049007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "C415",
+	"cap": [
+		"57023"
+	],
+	"popolazione": 27992
+}

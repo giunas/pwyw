@@ -1,0 +1,22 @@
+{
+	"nome": "Tollo",
+	"codice": "069090",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "L194",
+	"cap": [
+		"66010"
+	],
+	"popolazione": 4071
+}

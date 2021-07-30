@@ -1,0 +1,22 @@
+{
+	"nome": "Pontinia",
+	"codice": "059017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "G865",
+	"cap": [
+		"04014"
+	],
+	"popolazione": 13812
+}

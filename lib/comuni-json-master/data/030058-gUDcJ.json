@@ -1,0 +1,22 @@
+{
+	"nome": "Mereto di Tomba",
+	"codice": "030058",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "F144",
+	"cap": [
+		"33036"
+	],
+	"popolazione": 2709
+}

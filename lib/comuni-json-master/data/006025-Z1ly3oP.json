@@ -1,0 +1,22 @@
+{
+	"nome": "Cabella Ligure",
+	"codice": "006025",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "B311",
+	"cap": [
+		"15060"
+	],
+	"popolazione": 554
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Peccioli",
+	"codice": "050025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "G395",
+	"cap": [
+		"56037"
+	],
+	"popolazione": 4939
+}

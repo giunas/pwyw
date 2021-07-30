@@ -1,0 +1,22 @@
+{
+	"nome": "Gudo Visconti",
+	"codice": "015112",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E258",
+	"cap": [
+		"20088"
+	],
+	"popolazione": 1711
+}

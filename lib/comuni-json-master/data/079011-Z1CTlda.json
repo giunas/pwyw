@@ -1,0 +1,22 @@
+{
+	"nome": "Borgia",
+	"codice": "079011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "B002",
+	"cap": [
+		"88021"
+	],
+	"popolazione": 7418
+}

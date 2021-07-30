@@ -1,0 +1,22 @@
+{
+	"nome": "Castel d'Ario",
+	"codice": "020014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "C076",
+	"cap": [
+		"46033"
+	],
+	"popolazione": 4787
+}

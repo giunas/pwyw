@@ -1,0 +1,22 @@
+{
+	"nome": "Menfi",
+	"codice": "084023",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "F126",
+	"cap": [
+		"92013"
+	],
+	"popolazione": 12711
+}

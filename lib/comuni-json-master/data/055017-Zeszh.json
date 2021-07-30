@@ -1,0 +1,22 @@
+{
+	"nome": "Montecastrilli",
+	"codice": "055017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "F457",
+	"cap": [
+		"05026"
+	],
+	"popolazione": 5190
+}

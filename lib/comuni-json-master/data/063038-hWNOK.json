@@ -1,0 +1,22 @@
+{
+	"nome": "Lacco Ameno",
+	"codice": "063038",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E396",
+	"cap": [
+		"80076"
+	],
+	"popolazione": 4675
+}

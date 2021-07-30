@@ -1,0 +1,22 @@
+{
+	"nome": "Valdina",
+	"codice": "083103",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "L561",
+	"cap": [
+		"98040"
+	],
+	"popolazione": 1352
+}

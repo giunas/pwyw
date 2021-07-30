@@ -1,0 +1,22 @@
+{
+	"nome": "Agliè",
+	"codice": "001001",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A074",
+	"cap": [
+		"10011"
+	],
+	"popolazione": 2644
+}

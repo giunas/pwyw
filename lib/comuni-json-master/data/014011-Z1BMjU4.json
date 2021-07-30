@@ -1,0 +1,22 @@
+{
+	"nome": "Caiolo",
+	"codice": "014011",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "B366",
+	"cap": [
+		"23010"
+	],
+	"popolazione": 1035
+}

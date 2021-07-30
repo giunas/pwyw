@@ -1,0 +1,22 @@
+{
+	"nome": "Olgiate Molgora",
+	"codice": "097058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "G026",
+	"cap": [
+		"23887"
+	],
+	"popolazione": 6190
+}

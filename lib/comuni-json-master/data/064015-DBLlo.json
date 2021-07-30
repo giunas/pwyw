@@ -1,0 +1,22 @@
+{
+	"nome": "Calitri",
+	"codice": "064015",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "B415",
+	"cap": [
+		"83045"
+	],
+	"popolazione": 4921
+}

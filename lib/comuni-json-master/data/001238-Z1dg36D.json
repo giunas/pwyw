@@ -1,0 +1,22 @@
+{
+	"nome": "San Colombano Belmonte",
+	"codice": "001238",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H804",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 376
+}

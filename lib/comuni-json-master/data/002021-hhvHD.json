@@ -1,0 +1,22 @@
+{
+	"nome": "Buronzo",
+	"codice": "002021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "B280",
+	"cap": [
+		"13040"
+	],
+	"popolazione": 916
+}

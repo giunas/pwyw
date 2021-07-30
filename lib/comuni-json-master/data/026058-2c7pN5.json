@@ -1,0 +1,22 @@
+{
+	"nome": "Ponte di Piave",
+	"codice": "026058",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "G846",
+	"cap": [
+		"31047"
+	],
+	"popolazione": 8312
+}

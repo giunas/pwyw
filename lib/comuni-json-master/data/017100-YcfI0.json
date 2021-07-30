@@ -1,0 +1,22 @@
+{
+	"nome": "Malegno",
+	"codice": "017100",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E851",
+	"cap": [
+		"25053"
+	],
+	"popolazione": 2078
+}

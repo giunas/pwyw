@@ -1,0 +1,22 @@
+{
+	"nome": "Miasino",
+	"codice": "003098",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "F191",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 887
+}

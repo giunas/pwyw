@@ -1,0 +1,22 @@
+{
+	"nome": "Maruggio",
+	"codice": "073014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "073",
+		"nome": "Taranto"
+	},
+	"sigla": "TA",
+	"codiceCatastale": "E995",
+	"cap": [
+		"74020"
+	],
+	"popolazione": 5411
+}

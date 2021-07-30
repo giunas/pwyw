@@ -1,0 +1,22 @@
+{
+	"nome": "Serravalle Langhe",
+	"codice": "004219",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "I659",
+	"cap": [
+		"12050"
+	],
+	"popolazione": 323
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Perdaxius",
+	"codice": "111054",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "G446",
+	"cap": [
+		"09010"
+	],
+	"popolazione": 1475
+}

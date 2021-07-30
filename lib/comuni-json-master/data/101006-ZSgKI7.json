@@ -1,0 +1,22 @@
+{
+	"nome": "Cerenzia",
+	"codice": "101006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "101",
+		"nome": "Crotone"
+	},
+	"sigla": "KR",
+	"codiceCatastale": "C501",
+	"cap": [
+		"88833"
+	],
+	"popolazione": 1215
+}

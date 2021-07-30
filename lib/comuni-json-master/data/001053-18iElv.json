@@ -1,0 +1,22 @@
+{
+	"nome": "Cantalupa",
+	"codice": "001053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B628",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 2527
+}

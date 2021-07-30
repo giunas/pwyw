@@ -1,0 +1,22 @@
+{
+	"nome": "Castel San Giorgio",
+	"codice": "065034",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C259",
+	"cap": [
+		"84083"
+	],
+	"popolazione": 13411
+}

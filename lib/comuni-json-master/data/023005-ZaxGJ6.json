@@ -1,0 +1,22 @@
+{
+	"nome": "Badia Calavena",
+	"codice": "023005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "A540",
+	"cap": [
+		"37030"
+	],
+	"popolazione": 2661
+}

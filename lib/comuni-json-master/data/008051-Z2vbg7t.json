@@ -1,0 +1,22 @@
+{
+	"nome": "Rocchetta Nervina",
+	"codice": "008051",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "H460",
+	"cap": [
+		"18030"
+	],
+	"popolazione": 272
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Forcola",
+	"codice": "014029",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "D694",
+	"cap": [
+		"23010"
+	],
+	"popolazione": 835
+}

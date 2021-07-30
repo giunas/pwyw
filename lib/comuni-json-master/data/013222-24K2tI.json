@@ -1,0 +1,22 @@
+{
+	"nome": "Tavernerio",
+	"codice": "013222",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "L071",
+	"cap": [
+		"22038"
+	],
+	"popolazione": 5705
+}

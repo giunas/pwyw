@@ -1,0 +1,22 @@
+{
+	"nome": "Piode",
+	"codice": "002097",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "G685",
+	"cap": [
+		"13020"
+	],
+	"popolazione": 193
+}

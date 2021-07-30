@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Olcese",
+	"codice": "010055",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "I346",
+	"cap": [
+		"16010"
+	],
+	"popolazione": 5911
+}

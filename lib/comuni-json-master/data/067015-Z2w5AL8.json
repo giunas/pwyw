@@ -1,0 +1,22 @@
+{
+	"nome": "Cellino Attanasio",
+	"codice": "067015",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C449",
+	"cap": [
+		"64036"
+	],
+	"popolazione": 2590
+}

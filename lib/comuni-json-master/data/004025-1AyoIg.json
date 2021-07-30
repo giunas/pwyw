@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo San Dalmazzo",
+	"codice": "004025",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "B033",
+	"cap": [
+		"12011"
+	],
+	"popolazione": 12372
+}

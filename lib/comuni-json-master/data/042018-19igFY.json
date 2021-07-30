@@ -1,0 +1,22 @@
+{
+	"nome": "Falconara Marittima",
+	"codice": "042018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "D472",
+	"cap": [
+		"60015"
+	],
+	"popolazione": 26710
+}

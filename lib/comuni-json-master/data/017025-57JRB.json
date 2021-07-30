@@ -1,0 +1,22 @@
+{
+	"nome": "Bovezzo",
+	"codice": "017025",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B102",
+	"cap": [
+		"25073"
+	],
+	"popolazione": 7483
+}

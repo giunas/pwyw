@@ -1,0 +1,22 @@
+{
+	"nome": "Villasimius",
+	"codice": "111105",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "B738",
+	"cap": [
+		"09049"
+	],
+	"popolazione": 3420
+}

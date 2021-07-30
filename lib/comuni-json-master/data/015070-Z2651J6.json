@@ -1,0 +1,22 @@
+{
+	"nome": "Cernusco sul Naviglio",
+	"codice": "015070",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C523",
+	"cap": [
+		"20063"
+	],
+	"popolazione": 30697
+}

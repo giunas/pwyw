@@ -1,0 +1,22 @@
+{
+	"nome": "Suello",
+	"codice": "097078",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "I996",
+	"cap": [
+		"23867"
+	],
+	"popolazione": 1686
+}

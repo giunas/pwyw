@@ -1,0 +1,22 @@
+{
+	"nome": "Servigliano",
+	"codice": "109038",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "C070",
+	"cap": [
+		"63839"
+	],
+	"popolazione": 2347
+}

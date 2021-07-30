@@ -1,0 +1,22 @@
+{
+	"nome": "Pontecurone",
+	"codice": "006132",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "G839",
+	"cap": [
+		"15055"
+	],
+	"popolazione": 3850
+}

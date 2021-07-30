@@ -1,0 +1,22 @@
+{
+	"nome": "Torricella del Pizzo",
+	"codice": "019108",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "L296",
+	"cap": [
+		"26040"
+	],
+	"popolazione": 678
+}

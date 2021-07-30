@@ -1,0 +1,22 @@
+{
+	"nome": "Campoli Appennino",
+	"codice": "060016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "B543",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 1749
+}

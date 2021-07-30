@@ -1,0 +1,22 @@
+{
+	"nome": "Ghemme",
+	"codice": "003073",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "E001",
+	"cap": [
+		"28074"
+	],
+	"popolazione": 3617
+}

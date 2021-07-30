@@ -1,0 +1,22 @@
+{
+	"nome": "Pagliara",
+	"codice": "083065",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "G234",
+	"cap": [
+		"98020"
+	],
+	"popolazione": 1230
+}

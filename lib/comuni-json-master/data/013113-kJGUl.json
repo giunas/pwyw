@@ -1,0 +1,22 @@
+{
+	"nome": "Griante",
+	"codice": "013113",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "E172",
+	"cap": [
+		"22011"
+	],
+	"popolazione": 623
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Striano",
+	"codice": "063081",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I978",
+	"cap": [
+		"80040"
+	],
+	"popolazione": 8204
+}

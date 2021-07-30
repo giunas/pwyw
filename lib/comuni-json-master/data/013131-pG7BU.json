@@ -1,0 +1,22 @@
+{
+	"nome": "Locate Varesino",
+	"codice": "013131",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "E638",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 4216
+}

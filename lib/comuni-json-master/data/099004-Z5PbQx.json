@@ -1,0 +1,22 @@
+{
+	"nome": "Gemmano",
+	"codice": "099004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "D961",
+	"cap": [
+		"47855"
+	],
+	"popolazione": 1152
+}

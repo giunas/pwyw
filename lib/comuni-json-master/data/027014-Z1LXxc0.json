@@ -1,0 +1,22 @@
+{
+	"nome": "Fiesso d'Artico",
+	"codice": "027014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "D578",
+	"cap": [
+		"30032"
+	],
+	"popolazione": 7728
+}

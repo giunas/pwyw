@@ -1,0 +1,22 @@
+{
+	"nome": "Colle Umberto",
+	"codice": "026020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "C848",
+	"cap": [
+		"31014"
+	],
+	"popolazione": 5177
+}

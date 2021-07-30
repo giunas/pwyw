@@ -1,0 +1,22 @@
+{
+	"nome": "Teramo",
+	"codice": "067041",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "L103",
+	"cap": [
+		"64100"
+	],
+	"popolazione": 54294
+}

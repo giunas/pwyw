@@ -1,0 +1,22 @@
+{
+	"nome": "Piedimulera",
+	"codice": "103053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "G600",
+	"cap": [
+		"28885"
+	],
+	"popolazione": 1559
+}

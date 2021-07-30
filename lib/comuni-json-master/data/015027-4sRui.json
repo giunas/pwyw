@@ -1,0 +1,22 @@
+{
+	"nome": "Bollate",
+	"codice": "015027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "A940",
+	"cap": [
+		"20021"
+	],
+	"popolazione": 35557
+}

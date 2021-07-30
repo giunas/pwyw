@@ -1,0 +1,22 @@
+{
+	"nome": "Montalto Uffugo",
+	"codice": "078081",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "F416",
+	"cap": [
+		"87046"
+	],
+	"popolazione": 18168
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Ogliastro Cilento",
+	"codice": "065081",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G011",
+	"cap": [
+		"84061"
+	],
+	"popolazione": 2241
+}

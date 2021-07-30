@@ -1,0 +1,22 @@
+{
+	"nome": "Belforte Monferrato",
+	"codice": "006014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "A738",
+	"cap": [
+		"15070"
+	],
+	"popolazione": 505
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Lugagnano Val d'Arda",
+	"codice": "033026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "033",
+		"nome": "Piacenza"
+	},
+	"sigla": "PC",
+	"codiceCatastale": "E726",
+	"cap": [
+		"29018"
+	],
+	"popolazione": 4155
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cesa",
+	"codice": "061029",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "C561",
+	"cap": [
+		"81030"
+	],
+	"popolazione": 8496
+}

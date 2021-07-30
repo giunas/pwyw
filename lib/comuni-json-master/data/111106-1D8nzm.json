@@ -1,0 +1,22 @@
+{
+	"nome": "Villasor",
+	"codice": "111106",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "M025",
+	"cap": [
+		"09034"
+	],
+	"popolazione": 6857
+}

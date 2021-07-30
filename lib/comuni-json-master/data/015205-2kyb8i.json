@@ -1,0 +1,22 @@
+{
+	"nome": "Segrate",
+	"codice": "015205",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I577",
+	"cap": [
+		"20090"
+	],
+	"popolazione": 33519
+}

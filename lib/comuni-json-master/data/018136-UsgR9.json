@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorgio di Lomellina",
+	"codice": "018136",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "H885",
+	"cap": [
+		"27020"
+	],
+	"popolazione": 1155
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Revine Lago",
+	"codice": "026067",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "H253",
+	"cap": [
+		"31020"
+	],
+	"popolazione": 2241
+}

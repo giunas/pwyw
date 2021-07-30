@@ -1,0 +1,22 @@
+{
+	"nome": "Sorgono",
+	"codice": "091086",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "I851",
+	"cap": [
+		"08038"
+	],
+	"popolazione": 1753
+}

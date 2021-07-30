@@ -1,0 +1,22 @@
+{
+	"nome": "Roccagloriosa",
+	"codice": "065107",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H412",
+	"cap": [
+		"84060"
+	],
+	"popolazione": 1716
+}

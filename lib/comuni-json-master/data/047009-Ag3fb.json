@@ -1,0 +1,22 @@
+{
+	"nome": "Monsummano Terme",
+	"codice": "047009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "F384",
+	"cap": [
+		"51015"
+	],
+	"popolazione": 20767
+}

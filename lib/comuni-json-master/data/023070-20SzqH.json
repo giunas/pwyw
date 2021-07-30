@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni Ilarione",
+	"codice": "023070",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H916",
+	"cap": [
+		"37035"
+	],
+	"popolazione": 5111
+}

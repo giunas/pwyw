@@ -1,0 +1,22 @@
+{
+	"nome": "Todi",
+	"codice": "054052",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "L188",
+	"cap": [
+		"06059"
+	],
+	"popolazione": 16900
+}

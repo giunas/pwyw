@@ -1,0 +1,22 @@
+{
+	"nome": "Costarainera",
+	"codice": "008024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "D114",
+	"cap": [
+		"18017"
+	],
+	"popolazione": 803
+}

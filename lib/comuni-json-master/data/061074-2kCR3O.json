@@ -1,0 +1,22 @@
+{
+	"nome": "San Cipriano d'Aversa",
+	"codice": "061074",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H798",
+	"cap": [
+		"81036"
+	],
+	"popolazione": 13416
+}

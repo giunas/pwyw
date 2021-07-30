@@ -1,0 +1,22 @@
+{
+	"nome": "Mandello del Lario",
+	"codice": "097046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "E879",
+	"cap": [
+		"23826"
+	],
+	"popolazione": 10578
+}

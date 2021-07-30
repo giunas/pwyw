@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Margherita di Belice",
+	"codice": "084038",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "I224",
+	"cap": [
+		"92018"
+	],
+	"popolazione": 6544
+}

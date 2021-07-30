@@ -1,0 +1,22 @@
+{
+	"nome": "Tonezza del Cimone",
+	"codice": "024106",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D717",
+	"cap": [
+		"36040"
+	],
+	"popolazione": 577
+}

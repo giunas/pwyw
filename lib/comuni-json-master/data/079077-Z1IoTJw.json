@@ -1,0 +1,22 @@
+{
+	"nome": "Miglierina",
+	"codice": "079077",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "F200",
+	"cap": [
+		"88040"
+	],
+	"popolazione": 799
+}

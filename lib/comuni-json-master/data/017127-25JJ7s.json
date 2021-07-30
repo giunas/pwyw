@@ -1,0 +1,22 @@
+{
+	"nome": "Ospitaletto",
+	"codice": "017127",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G170",
+	"cap": [
+		"25035"
+	],
+	"popolazione": 13579
+}

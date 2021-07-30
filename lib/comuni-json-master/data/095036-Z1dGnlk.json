@@ -1,0 +1,22 @@
+{
+	"nome": "Nureci",
+	"codice": "095036",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "F985",
+	"cap": [
+		"09080"
+	],
+	"popolazione": 348
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Lusiana Conco",
+	"codice": "024127",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "M427",
+	"cap": [
+		"36046",
+		"36062"
+	],
+	"popolazione": 4946
+}

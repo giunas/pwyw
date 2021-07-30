@@ -1,0 +1,22 @@
+{
+	"nome": "Crucoli",
+	"codice": "101011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "101",
+		"nome": "Crotone"
+	},
+	"sigla": "KR",
+	"codiceCatastale": "D189",
+	"cap": [
+		"88812"
+	],
+	"popolazione": 3243
+}

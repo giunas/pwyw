@@ -1,0 +1,22 @@
+{
+	"nome": "Orbetello",
+	"codice": "053018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "G088",
+	"cap": [
+		"58015"
+	],
+	"popolazione": 14705
+}

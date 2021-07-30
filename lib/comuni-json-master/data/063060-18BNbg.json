@@ -1,0 +1,22 @@
+{
+	"nome": "Pozzuoli",
+	"codice": "063060",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G964",
+	"cap": [
+		"80078"
+	],
+	"popolazione": 80357
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PWYW - Registrati</title>
+    <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css"> 
+    <link rel="stylesheet" href="login-register.css">
+    <script src="../../lib/jquery.min.js"></script>
+    <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../Frontend/controller/richiedi.js"></script>
+    <script src = "../controller/register.js"></script>
+    <script src="../../lib/codice-fiscale-js/dist/codice.fiscale.var.js"></script>
+</head>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">PWYW</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+          
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="login.html">Accedi</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+                <div class="card card-signin my-5">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Registrati</h5>
+                        <form class="form-signin" onSubmit="return registra(document.getElementById('inputNome').value, document.getElementById('inputCognome').value, document.querySelector('input[name=gender]:checked').value, document.getElementById('inputNascita').value, document.getElementById('inputComune').value, document.getElementById('inputResidenza').value, document.getElementById('inputIndirizzo').value, document.getElementById('inputTelefono').value, document.getElementById('inputEmail').value, document.getElementById('inputPassword').value, document.getElementById('inputConfPassword').value)">
+                            <div class="form-label-group">
+                                <input type="nome" id="inputNome" class="form-control" placeholder="Nome" required autofocus>
+                                <label for="inputNome">Nome</label>
+                            </div>
+                            <div class="form-label-group">
+                                <input type="cognome" id="inputCognome" class="form-control" placeholder="Cognome" required>
+                                <label for="inputCognome">Cognome</label>
+                            </div> 
+                            <div class="form-check form-check-inline">
+                                <input name="gender" type="radio" style="width:24px;" value="M" checked>
+                                <label for="inputGenere">Uomo</label>
+                            </div>
+                                <div class="form-check form-check-inline">
+                                <input name="gender" type="radio" style="width:24px;" value="F">
+                                <label for="inputGenere">Donna</label>
+                            </div>
+                            <div class="form-label-group">
+                                <input type="date" id="inputNascita" onchange="minAge(document.getElementById('inputNascita').value)" class="form-control" placeholder="GG/MM/YYYY" required>
+                                <label for="inputNascita">Data di nascita</label>
+                            </div> 
+                            <div class="form-label-group">
+                                <input type="comune" id="inputComune" class="form-control" placeholder="Comune di nascita" required>
+                                <label for="inputComune">Comune di nascita</label>
+                            </div>       
+                            <div class="form-label-group">
+                                <input type="residenza" id="inputResidenza" class="form-control" placeholder="Comune di residenza" required>
+                                <label for="inputResidenza">Comune di residenza</label>
+                            </div>  
+                            <div class="form-label-group">
+                                <input type="indirizzo" id="inputIndirizzo" class="form-control" placeholder="Indirizzo" required>
+                                <label for="inputIndirizzo">Indirizzo</label>
+                            </div>  
+                            <div class="form-label-group">
+                                <input type="tel" id="inputTelefono" class="form-control" placeholder="Telefono" pattern="[0-9]{9,10}" required>
+                                <label for="inputTelefono">Telefono</label>
+                            </div>   
+                            <div class="form-label-group">
+                                <input type="email" id="inputEmail" class="form-control" placeholder="nome@example.com" required>
+                                <label for="inputEmail">Email</label>
+                            </div> 
+                            <div class="form-label-group">
+                                <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+                                <label for="inputPassword">Password</label>
+                            </div> 
+                            <div class="form-label-group">
+                                <input type="password" id="inputConfPassword" class="form-control" placeholder="Conferma Password" required>
+                                <label for="inputConfPassword">Conferma Password</label>
+                            </div> 
+
+                            <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Registrati</button>
+                            <hr class="my-4">
+                            <div id="popup"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

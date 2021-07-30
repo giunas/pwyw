@@ -1,0 +1,22 @@
+{
+	"nome": "Taibon Agordino",
+	"codice": "025059",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "L030",
+	"cap": [
+		"32027"
+	],
+	"popolazione": 1788
+}

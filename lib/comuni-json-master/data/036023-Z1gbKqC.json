@@ -1,0 +1,27 @@
+{
+	"nome": "Modena",
+	"codice": "036023",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "F257",
+	"cap": [
+		"41121",
+		"41122",
+		"41123",
+		"41124",
+		"41125",
+		"41126"
+	],
+	"popolazione": 179149
+}

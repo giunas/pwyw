@@ -1,0 +1,22 @@
+{
+	"nome": "Fiano Romano",
+	"codice": "058036",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "D561",
+	"cap": [
+		"00065"
+	],
+	"popolazione": 13059
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Scicli",
+	"codice": "088011",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "I535",
+	"cap": [
+		"97018"
+	],
+	"popolazione": 25922
+}

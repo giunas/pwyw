@@ -1,0 +1,22 @@
+{
+	"nome": "Configni",
+	"codice": "057024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "C959",
+	"cap": [
+		"02040"
+	],
+	"popolazione": 672
+}

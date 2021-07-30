@@ -1,0 +1,22 @@
+{
+	"nome": "San Biagio della Cima",
+	"codice": "008053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "H780",
+	"cap": [
+		"18036"
+	],
+	"popolazione": 1278
+}

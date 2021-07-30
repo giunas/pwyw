@@ -1,0 +1,22 @@
+{
+	"nome": "Paternopoli",
+	"codice": "064070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "G370",
+	"cap": [
+		"83052"
+	],
+	"popolazione": 2489
+}

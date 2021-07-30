@@ -1,0 +1,22 @@
+{
+	"nome": "Palma Campania",
+	"codice": "063052",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G283",
+	"cap": [
+		"80036"
+	],
+	"popolazione": 14905
+}

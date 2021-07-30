@@ -1,0 +1,22 @@
+{
+	"nome": "Rubiera",
+	"codice": "035036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "H628",
+	"cap": [
+		"42048"
+	],
+	"popolazione": 14421
+}

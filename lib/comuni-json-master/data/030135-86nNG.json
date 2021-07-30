@@ -1,0 +1,22 @@
+{
+	"nome": "Visco",
+	"codice": "030135",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "M073",
+	"cap": [
+		"33040"
+	],
+	"popolazione": 775
+}

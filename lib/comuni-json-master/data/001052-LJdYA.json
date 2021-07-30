@@ -1,0 +1,22 @@
+{
+	"nome": "Canischio",
+	"codice": "001052",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B605",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 294
+}

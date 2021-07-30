@@ -1,0 +1,22 @@
+{
+	"nome": "Salaparuta",
+	"codice": "081017",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "H688",
+	"cap": [
+		"91020"
+	],
+	"popolazione": 1721
+}

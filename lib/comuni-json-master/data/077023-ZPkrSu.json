@@ -1,0 +1,22 @@
+{
+	"nome": "Rotondella",
+	"codice": "077023",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "H591",
+	"cap": [
+		"75026"
+	],
+	"popolazione": 2707
+}

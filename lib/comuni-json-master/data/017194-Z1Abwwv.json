@@ -1,0 +1,22 @@
+{
+	"nome": "Valvestino",
+	"codice": "017194",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "L468",
+	"cap": [
+		"25080"
+	],
+	"popolazione": 212
+}

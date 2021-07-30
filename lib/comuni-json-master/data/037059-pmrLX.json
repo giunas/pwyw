@@ -1,0 +1,22 @@
+{
+	"nome": "Vergato",
+	"codice": "037059",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "L762",
+	"cap": [
+		"40038"
+	],
+	"popolazione": 7642
+}

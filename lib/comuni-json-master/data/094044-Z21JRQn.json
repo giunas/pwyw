@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Agapito",
+	"codice": "094044",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "I189",
+	"cap": [
+		"86070"
+	],
+	"popolazione": 1387
+}

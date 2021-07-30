@@ -1,0 +1,22 @@
+{
+	"nome": "Porte",
+	"codice": "001200",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G900",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 1113
+}

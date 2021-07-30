@@ -1,0 +1,22 @@
+{
+	"nome": "Monte Rinaldo",
+	"codice": "109021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F599",
+	"cap": [
+		"63852"
+	],
+	"popolazione": 397
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Serle",
+	"codice": "017178",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "I631",
+	"cap": [
+		"25080"
+	],
+	"popolazione": 3092
+}

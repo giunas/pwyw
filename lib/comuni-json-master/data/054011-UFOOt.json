@@ -1,0 +1,22 @@
+{
+	"nome": "Citerna",
+	"codice": "054011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "C742",
+	"cap": [
+		"06010"
+	],
+	"popolazione": 3458
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sesto Fiorentino",
+	"codice": "048043",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "I684",
+	"cap": [
+		"50019"
+	],
+	"popolazione": 47742
+}

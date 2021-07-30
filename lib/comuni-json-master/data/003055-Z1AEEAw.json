@@ -1,0 +1,22 @@
+{
+	"nome": "Cressa",
+	"codice": "003055",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "D162",
+	"cap": [
+		"28012"
+	],
+	"popolazione": 1571
+}

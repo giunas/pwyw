@@ -1,0 +1,22 @@
+{
+	"nome": "Solbiate Arno",
+	"codice": "012121",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "I793",
+	"cap": [
+		"21048"
+	],
+	"popolazione": 4274
+}

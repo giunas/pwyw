@@ -1,0 +1,22 @@
+{
+	"nome": "Monterosso Grana",
+	"codice": "004139",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F608",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 536
+}

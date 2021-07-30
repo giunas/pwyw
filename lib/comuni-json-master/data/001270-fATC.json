@@ -1,0 +1,22 @@
+{
+	"nome": "Susa",
+	"codice": "001270",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L013",
+	"cap": [
+		"10059"
+	],
+	"popolazione": 6629
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Riardo",
+	"codice": "061068",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H268",
+	"cap": [
+		"81053"
+	],
+	"popolazione": 2412
+}

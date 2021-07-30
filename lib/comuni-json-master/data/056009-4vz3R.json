@@ -1,0 +1,22 @@
+{
+	"nome": "Bomarzo",
+	"codice": "056009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "A955",
+	"cap": [
+		"01020"
+	],
+	"popolazione": 1814
+}

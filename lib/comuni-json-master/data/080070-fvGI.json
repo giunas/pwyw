@@ -1,0 +1,22 @@
+{
+	"nome": "Samo",
+	"codice": "080070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "H013",
+	"cap": [
+		"89030"
+	],
+	"popolazione": 871
+}

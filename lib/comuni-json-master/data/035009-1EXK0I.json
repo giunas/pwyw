@@ -1,0 +1,22 @@
+{
+	"nome": "Campagnola Emilia",
+	"codice": "035009",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "B499",
+	"cap": [
+		"42012"
+	],
+	"popolazione": 5493
+}

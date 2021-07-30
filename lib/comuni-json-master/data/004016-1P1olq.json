@@ -1,0 +1,22 @@
+{
+	"nome": "Beinette",
+	"codice": "004016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "A735",
+	"cap": [
+		"12081"
+	],
+	"popolazione": 3200
+}

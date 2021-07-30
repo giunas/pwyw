@@ -1,0 +1,22 @@
+{
+	"nome": "San Lorenzo Bellizzi",
+	"codice": "078120",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "H961",
+	"cap": [
+		"87070"
+	],
+	"popolazione": 746
+}

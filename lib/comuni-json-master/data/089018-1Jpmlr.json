@@ -1,0 +1,22 @@
+{
+	"nome": "Solarino",
+	"codice": "089018",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "I785",
+	"cap": [
+		"96010"
+	],
+	"popolazione": 7853
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Momo",
+	"codice": "003100",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "F317",
+	"cap": [
+		"28015"
+	],
+	"popolazione": 2673
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Villasalto",
+	"codice": "111104",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "M016",
+	"cap": [
+		"09040"
+	],
+	"popolazione": 1127
+}

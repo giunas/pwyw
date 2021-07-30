@@ -1,0 +1,22 @@
+{
+	"nome": "Borore",
+	"codice": "091011",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "B056",
+	"cap": [
+		"08016"
+	],
+	"popolazione": 2190
+}

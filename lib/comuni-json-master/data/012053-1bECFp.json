@@ -1,0 +1,22 @@
+{
+	"nome": "Cocquio-Trevisago",
+	"codice": "012053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "C810",
+	"cap": [
+		"21034"
+	],
+	"popolazione": 4756
+}

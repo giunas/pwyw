@@ -1,0 +1,22 @@
+{
+	"nome": "Spresiano",
+	"codice": "026082",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "I927",
+	"cap": [
+		"31027"
+	],
+	"popolazione": 11659
+}

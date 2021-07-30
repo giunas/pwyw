@@ -1,0 +1,22 @@
+{
+	"nome": "Spilimbergo",
+	"codice": "093044",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "I904",
+	"cap": [
+		"33097"
+	],
+	"popolazione": 11902
+}

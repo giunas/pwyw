@@ -1,0 +1,22 @@
+{
+	"nome": "Arzachena",
+	"codice": "090006",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "A453",
+	"cap": [
+		"07021"
+	],
+	"popolazione": 11447
+}

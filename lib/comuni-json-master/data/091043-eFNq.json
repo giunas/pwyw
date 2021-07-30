@@ -1,0 +1,22 @@
+{
+	"nome": "Lula",
+	"codice": "091043",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "E736",
+	"cap": [
+		"08020"
+	],
+	"popolazione": 1495
+}

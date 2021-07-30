@@ -1,0 +1,22 @@
+{
+	"nome": "Grottaminarda",
+	"codice": "064038",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "E206",
+	"cap": [
+		"83035"
+	],
+	"popolazione": 8297
+}

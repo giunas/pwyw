@@ -1,0 +1,22 @@
+{
+	"nome": "Erbezzo",
+	"codice": "023033",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "D420",
+	"cap": [
+		"37020"
+	],
+	"popolazione": 767
+}

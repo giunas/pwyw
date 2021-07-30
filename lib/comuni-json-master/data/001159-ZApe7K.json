@@ -1,0 +1,22 @@
+{
+	"nome": "Montalenghe",
+	"codice": "001159",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F411",
+	"cap": [
+		"10090"
+	],
+	"popolazione": 1030
+}

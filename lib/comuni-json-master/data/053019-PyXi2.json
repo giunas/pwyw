@@ -1,0 +1,22 @@
+{
+	"nome": "Pitigliano",
+	"codice": "053019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "G716",
+	"cap": [
+		"58017"
+	],
+	"popolazione": 3870
+}

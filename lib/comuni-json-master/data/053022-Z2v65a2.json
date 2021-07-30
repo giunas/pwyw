@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Fiora",
+	"codice": "053022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "I187",
+	"cap": [
+		"58037"
+	],
+	"popolazione": 2702
+}

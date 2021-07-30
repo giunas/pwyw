@@ -1,0 +1,22 @@
+{
+	"nome": "Polino",
+	"codice": "055027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "G790",
+	"cap": [
+		"05030"
+	],
+	"popolazione": 246
+}

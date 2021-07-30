@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve Emanuele",
+	"codice": "015173",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "G634",
+	"cap": [
+		"20090"
+	],
+	"popolazione": 14868
+}

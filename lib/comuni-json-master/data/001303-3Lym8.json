@@ -1,0 +1,22 @@
+{
+	"nome": "Villar Dora",
+	"codice": "001303",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L999",
+	"cap": [
+		"10040"
+	],
+	"popolazione": 2951
+}

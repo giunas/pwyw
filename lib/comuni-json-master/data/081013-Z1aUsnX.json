@@ -1,0 +1,22 @@
+{
+	"nome": "Paceco",
+	"codice": "081013",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "G208",
+	"cap": [
+		"91027"
+	],
+	"popolazione": 11487
+}

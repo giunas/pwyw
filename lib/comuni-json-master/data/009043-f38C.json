@@ -1,0 +1,22 @@
+{
+	"nome": "Onzo",
+	"codice": "009043",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "G076",
+	"cap": [
+		"17037"
+	],
+	"popolazione": 234
+}

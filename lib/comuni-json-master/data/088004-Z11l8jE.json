@@ -1,0 +1,22 @@
+{
+	"nome": "Giarratana",
+	"codice": "088004",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "E016",
+	"cap": [
+		"97010"
+	],
+	"popolazione": 3143
+}

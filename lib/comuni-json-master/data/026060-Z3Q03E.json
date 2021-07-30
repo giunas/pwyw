@@ -1,0 +1,22 @@
+{
+	"nome": "Portobuffolè",
+	"codice": "026060",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "G909",
+	"cap": [
+		"31040"
+	],
+	"popolazione": 790
+}

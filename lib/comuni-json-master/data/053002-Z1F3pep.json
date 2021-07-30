@@ -1,0 +1,22 @@
+{
+	"nome": "Campagnatico",
+	"codice": "053002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "B497",
+	"cap": [
+		"58042"
+	],
+	"popolazione": 2498
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Villa San Pietro",
+	"codice": "092099",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": "Cagliari"
+	},
+	"sigla": "CA",
+	"codiceCatastale": "I118",
+	"cap": [
+		"09050"
+	],
+	"popolazione": 2009
+}

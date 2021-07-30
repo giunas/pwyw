@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo San Lorenzo",
+	"codice": "048004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "B036",
+	"cap": [
+		"50032"
+	],
+	"popolazione": 17854
+}

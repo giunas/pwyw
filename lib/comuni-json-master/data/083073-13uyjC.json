@@ -1,0 +1,22 @@
+{
+	"nome": "Roccavaldina",
+	"codice": "083073",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H380",
+	"cap": [
+		"98040"
+	],
+	"popolazione": 1149
+}

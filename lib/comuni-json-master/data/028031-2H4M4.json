@@ -1,0 +1,22 @@
+{
+	"nome": "Cinto Euganeo",
+	"codice": "028031",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "C713",
+	"cap": [
+		"35030"
+	],
+	"popolazione": 2023
+}

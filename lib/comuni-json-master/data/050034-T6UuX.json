@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Luce",
+	"codice": "050034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "I217",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 1737
+}

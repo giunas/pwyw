@@ -1,0 +1,22 @@
+{
+	"nome": "Petralia Soprana",
+	"codice": "082055",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "G510",
+	"cap": [
+		"90026"
+	],
+	"popolazione": 3443
+}

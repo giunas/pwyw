@@ -1,0 +1,22 @@
+{
+	"nome": "Capaccio Paestum",
+	"codice": "065025",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B644",
+	"cap": [
+		"84047"
+	],
+	"popolazione": 22016
+}

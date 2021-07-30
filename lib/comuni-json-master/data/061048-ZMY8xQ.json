@@ -1,0 +1,22 @@
+{
+	"nome": "Maddaloni",
+	"codice": "061048",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "E791",
+	"cap": [
+		"81024"
+	],
+	"popolazione": 39409
+}

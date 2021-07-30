@@ -1,0 +1,22 @@
+{
+	"nome": "Castel Frentano",
+	"codice": "069018",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "C114",
+	"cap": [
+		"66032"
+	],
+	"popolazione": 4311
+}

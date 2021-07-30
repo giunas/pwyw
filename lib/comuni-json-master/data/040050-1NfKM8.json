@@ -1,0 +1,22 @@
+{
+	"nome": "Verghereto",
+	"codice": "040050",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "L764",
+	"cap": [
+		"47028"
+	],
+	"popolazione": 1974
+}

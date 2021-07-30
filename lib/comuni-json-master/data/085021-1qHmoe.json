@@ -1,0 +1,22 @@
+{
+	"nome": "Vallelunga Pratameno",
+	"codice": "085021",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "085",
+		"nome": "Caltanissetta"
+	},
+	"sigla": "CL",
+	"codiceCatastale": "L609",
+	"cap": [
+		"93010"
+	],
+	"popolazione": 3641
+}

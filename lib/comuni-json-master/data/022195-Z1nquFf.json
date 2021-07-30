@@ -1,0 +1,22 @@
+{
+	"nome": "Terzolas",
+	"codice": "022195",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "L145",
+	"cap": [
+		"38027"
+	],
+	"popolazione": 606
+}

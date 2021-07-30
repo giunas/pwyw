@@ -1,0 +1,22 @@
+{
+	"nome": "Nurallao",
+	"codice": "111046",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "F982",
+	"cap": [
+		"09058"
+	],
+	"popolazione": 1357
+}

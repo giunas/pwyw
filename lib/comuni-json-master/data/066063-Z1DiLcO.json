@@ -1,0 +1,22 @@
+{
+	"nome": "Ortona dei Marsi",
+	"codice": "066063",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "G142",
+	"cap": [
+		"67050"
+	],
+	"popolazione": 592
+}

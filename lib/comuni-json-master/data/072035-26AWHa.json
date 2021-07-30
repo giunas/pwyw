@@ -1,0 +1,22 @@
+{
+	"nome": "Polignano a Mare",
+	"codice": "072035",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": "Bari"
+	},
+	"sigla": "BA",
+	"codiceCatastale": "G787",
+	"cap": [
+		"70044"
+	],
+	"popolazione": 17567
+}

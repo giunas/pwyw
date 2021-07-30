@@ -1,0 +1,22 @@
+{
+	"nome": "Concordia Sagittaria",
+	"codice": "027011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "C950",
+	"cap": [
+		"30023"
+	],
+	"popolazione": 10640
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Dueville",
+	"codice": "024038",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D379",
+	"cap": [
+		"36031"
+	],
+	"popolazione": 13888
+}

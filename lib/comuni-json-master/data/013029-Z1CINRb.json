@@ -1,0 +1,22 @@
+{
+	"nome": "Brenna",
+	"codice": "013029",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B144",
+	"cap": [
+		"22040"
+	],
+	"popolazione": 2011
+}

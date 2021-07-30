@@ -1,0 +1,22 @@
+{
+	"nome": "Petrizzi",
+	"codice": "079094",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "G517",
+	"cap": [
+		"88060"
+	],
+	"popolazione": 1167
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Frassinelle Polesine",
+	"codice": "029023",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "D776",
+	"cap": [
+		"45030"
+	],
+	"popolazione": 1529
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Dolceacqua",
+	"codice": "008029",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "D318",
+	"cap": [
+		"18035"
+	],
+	"popolazione": 1990
+}

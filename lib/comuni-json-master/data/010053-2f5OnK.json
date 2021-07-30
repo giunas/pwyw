@@ -1,0 +1,22 @@
+{
+	"nome": "San Colombano Certenoli",
+	"codice": "010053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "H802",
+	"cap": [
+		"16040"
+	],
+	"popolazione": 2687
+}

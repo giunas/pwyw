@@ -1,0 +1,22 @@
+{
+	"nome": "Cicerale",
+	"codice": "065042",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C676",
+	"cap": [
+		"84053"
+	],
+	"popolazione": 1233
+}

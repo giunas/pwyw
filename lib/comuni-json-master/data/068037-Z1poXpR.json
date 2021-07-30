@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Eufemia a Maiella",
+	"codice": "068037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "I332",
+	"cap": [
+		"65020"
+	],
+	"popolazione": 299
+}

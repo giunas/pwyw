@@ -1,0 +1,22 @@
+{
+	"nome": "Canelli",
+	"codice": "005017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "B594",
+	"cap": [
+		"14053"
+	],
+	"popolazione": 10569
+}

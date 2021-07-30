@@ -1,0 +1,22 @@
+{
+	"nome": "Nusco",
+	"codice": "064066",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F988",
+	"cap": [
+		"83051"
+	],
+	"popolazione": 4258
+}

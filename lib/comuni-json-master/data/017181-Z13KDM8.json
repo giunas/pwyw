@@ -1,0 +1,22 @@
+{
+	"nome": "Sonico",
+	"codice": "017181",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "I831",
+	"cap": [
+		"25048"
+	],
+	"popolazione": 1270
+}

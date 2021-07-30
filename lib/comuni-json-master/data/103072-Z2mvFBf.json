@@ -1,0 +1,26 @@
+{
+	"nome": "Verbania",
+	"codice": "103072",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "L746",
+	"cap": [
+		"28921",
+		"28922",
+		"28923",
+		"28924",
+		"28925"
+	],
+	"popolazione": 30332
+}

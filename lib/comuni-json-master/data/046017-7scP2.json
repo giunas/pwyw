@@ -1,0 +1,22 @@
+{
+	"nome": "Lucca",
+	"codice": "046017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "E715",
+	"cap": [
+		"55100"
+	],
+	"popolazione": 87200
+}

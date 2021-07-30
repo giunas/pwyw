@@ -1,0 +1,22 @@
+{
+	"nome": "Agliana",
+	"codice": "047002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "A071",
+	"cap": [
+		"51031"
+	],
+	"popolazione": 16792
+}

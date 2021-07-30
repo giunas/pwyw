@@ -1,0 +1,22 @@
+{
+	"nome": "Ornavasso",
+	"codice": "103051",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "G117",
+	"cap": [
+		"28877"
+	],
+	"popolazione": 3407
+}

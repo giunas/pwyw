@@ -1,0 +1,22 @@
+{
+	"nome": "Verrès",
+	"codice": "007073",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "02",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"provincia": {
+		"codice": "007",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"sigla": "AO",
+	"codiceCatastale": "C282",
+	"cap": [
+		"11029"
+	],
+	"popolazione": 2711
+}

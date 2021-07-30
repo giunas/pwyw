@@ -1,0 +1,22 @@
+{
+	"nome": "Brugnera",
+	"codice": "093007",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "B215",
+	"cap": [
+		"33070"
+	],
+	"popolazione": 9254
+}

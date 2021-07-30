@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro Mosezzo",
+	"codice": "003135",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "I116",
+	"cap": [
+		"28060"
+	],
+	"popolazione": 1996
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Carrodano",
+	"codice": "011010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "B839",
+	"cap": [
+		"19020"
+	],
+	"popolazione": 521
+}

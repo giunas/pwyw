@@ -1,0 +1,22 @@
+{
+	"nome": "Castellina in Chianti",
+	"codice": "052005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "C172",
+	"cap": [
+		"53011"
+	],
+	"popolazione": 2863
+}

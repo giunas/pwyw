@@ -1,0 +1,22 @@
+{
+	"nome": "Calcinaia",
+	"codice": "050004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "B392",
+	"cap": [
+		"56012"
+	],
+	"popolazione": 11684
+}

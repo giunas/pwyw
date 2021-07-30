@@ -1,0 +1,22 @@
+{
+	"nome": "Galgagnano",
+	"codice": "098027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "D868",
+	"cap": [
+		"26832"
+	],
+	"popolazione": 1208
+}

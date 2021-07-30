@@ -1,0 +1,22 @@
+{
+	"nome": "Buttigliera Alta",
+	"codice": "001045",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B305",
+	"cap": [
+		"10090"
+	],
+	"popolazione": 6386
+}

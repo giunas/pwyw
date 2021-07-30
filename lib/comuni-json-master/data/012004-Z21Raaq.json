@@ -1,0 +1,22 @@
+{
+	"nome": "Arcisate",
+	"codice": "012004",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A371",
+	"cap": [
+		"21051"
+	],
+	"popolazione": 9850
+}

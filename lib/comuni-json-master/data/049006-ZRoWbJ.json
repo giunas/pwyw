@@ -1,0 +1,22 @@
+{
+	"nome": "Castagneto Carducci",
+	"codice": "049006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "C044",
+	"cap": [
+		"57022"
+	],
+	"popolazione": 8462
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Ponte Buggianese",
+	"codice": "047016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "G833",
+	"cap": [
+		"51019"
+	],
+	"popolazione": 8771
+}

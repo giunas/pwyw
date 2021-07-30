@@ -1,0 +1,22 @@
+{
+	"nome": "Chiusa Sclafani",
+	"codice": "082029",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "C654",
+	"cap": [
+		"90033"
+	],
+	"popolazione": 2957
+}

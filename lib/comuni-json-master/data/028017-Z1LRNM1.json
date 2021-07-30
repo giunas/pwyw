@@ -1,0 +1,22 @@
+{
+	"nome": "Campodarsego",
+	"codice": "028017",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "B524",
+	"cap": [
+		"35011"
+	],
+	"popolazione": 14169
+}

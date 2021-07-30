@@ -1,0 +1,22 @@
+{
+	"nome": "Rovellasca",
+	"codice": "013201",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "H601",
+	"cap": [
+		"22069"
+	],
+	"popolazione": 7565
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Belgioioso",
+	"codice": "018013",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "A741",
+	"cap": [
+		"27011"
+	],
+	"popolazione": 6287
+}

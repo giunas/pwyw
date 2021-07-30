@@ -1,0 +1,22 @@
+{
+	"nome": "Crosio della Valle",
+	"codice": "012057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "D185",
+	"cap": [
+		"21020"
+	],
+	"popolazione": 611
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Livraga",
+	"codice": "098030",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "E627",
+	"cap": [
+		"26814"
+	],
+	"popolazione": 2602
+}

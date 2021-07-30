@@ -1,0 +1,22 @@
+{
+	"nome": "Cornaredo",
+	"codice": "015087",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "D018",
+	"cap": [
+		"20010"
+	],
+	"popolazione": 20121
+}

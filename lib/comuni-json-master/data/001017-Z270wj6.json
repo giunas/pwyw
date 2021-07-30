@@ -1,0 +1,22 @@
+{
+	"nome": "Baldissero Canavese",
+	"codice": "001017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A590",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 534
+}

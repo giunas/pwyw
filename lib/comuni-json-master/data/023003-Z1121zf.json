@@ -1,0 +1,22 @@
+{
+	"nome": "Angiari",
+	"codice": "023003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "A292",
+	"cap": [
+		"37050"
+	],
+	"popolazione": 2164
+}

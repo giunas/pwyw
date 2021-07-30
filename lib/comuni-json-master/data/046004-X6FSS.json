@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo a Mozzano",
+	"codice": "046004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "B007",
+	"cap": [
+		"55023"
+	],
+	"popolazione": 7227
+}

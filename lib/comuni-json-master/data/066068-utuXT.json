@@ -1,0 +1,22 @@
+{
+	"nome": "Pescasseroli",
+	"codice": "066068",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "G484",
+	"cap": [
+		"67032"
+	],
+	"popolazione": 2227
+}

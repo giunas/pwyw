@@ -1,0 +1,22 @@
+{
+	"nome": "Fragneto Monforte",
+	"codice": "062034",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "D756",
+	"cap": [
+		"82020"
+	],
+	"popolazione": 1889
+}

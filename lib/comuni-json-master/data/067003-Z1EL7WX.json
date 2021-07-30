@@ -1,0 +1,22 @@
+{
+	"nome": "Arsita",
+	"codice": "067003",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "A445",
+	"cap": [
+		"64031"
+	],
+	"popolazione": 871
+}

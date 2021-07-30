@@ -1,0 +1,22 @@
+{
+	"nome": "Castronuovo di Sant'Andrea",
+	"codice": "076026",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "C345",
+	"cap": [
+		"85030"
+	],
+	"popolazione": 1138
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Arcola",
+	"codice": "011002",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "A373",
+	"cap": [
+		"19021"
+	],
+	"popolazione": 10316
+}

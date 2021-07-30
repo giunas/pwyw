@@ -1,0 +1,22 @@
+{
+	"nome": "Senna Lodigiana",
+	"codice": "098053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "I612",
+	"cap": [
+		"26856"
+	],
+	"popolazione": 1997
+}

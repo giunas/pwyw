@@ -1,0 +1,22 @@
+{
+	"nome": "Catignano",
+	"codice": "068010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "C354",
+	"cap": [
+		"65011"
+	],
+	"popolazione": 1449
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cortemilia",
+	"codice": "004073",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D062",
+	"cap": [
+		"12074"
+	],
+	"popolazione": 2388
+}

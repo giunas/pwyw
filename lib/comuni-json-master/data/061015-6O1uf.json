@@ -1,0 +1,22 @@
+{
+	"nome": "Capua",
+	"codice": "061015",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B715",
+	"cap": [
+		"81043"
+	],
+	"popolazione": 19036
+}

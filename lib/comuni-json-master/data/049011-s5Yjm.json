@@ -1,0 +1,22 @@
+{
+	"nome": "Marciana Marina",
+	"codice": "049011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "E931",
+	"cap": [
+		"57033"
+	],
+	"popolazione": 1946
+}

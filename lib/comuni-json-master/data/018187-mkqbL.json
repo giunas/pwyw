@@ -1,0 +1,22 @@
+{
+	"nome": "Zenevredo",
+	"codice": "018187",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "M162",
+	"cap": [
+		"27049"
+	],
+	"popolazione": 478
+}

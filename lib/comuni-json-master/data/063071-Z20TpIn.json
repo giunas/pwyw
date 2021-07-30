@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Agnello",
+	"codice": "063071",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I208",
+	"cap": [
+		"80065"
+	],
+	"popolazione": 9029
+}

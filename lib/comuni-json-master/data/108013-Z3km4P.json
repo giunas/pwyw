@@ -1,0 +1,22 @@
+{
+	"nome": "Burago di Molgora",
+	"codice": "108013",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "B272",
+	"cap": [
+		"20875"
+	],
+	"popolazione": 4240
+}

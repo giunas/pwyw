@@ -1,0 +1,22 @@
+{
+	"nome": "Medolla",
+	"codice": "036021",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "F087",
+	"cap": [
+		"41036"
+	],
+	"popolazione": 6322
+}

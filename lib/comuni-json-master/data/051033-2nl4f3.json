@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni Valdarno",
+	"codice": "051033",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "H901",
+	"cap": [
+		"52027"
+	],
+	"popolazione": 16890
+}

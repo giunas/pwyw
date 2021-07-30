@@ -1,0 +1,22 @@
+{
+	"nome": "Ascea",
+	"codice": "065009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "A460",
+	"cap": [
+		"84046"
+	],
+	"popolazione": 5580
+}

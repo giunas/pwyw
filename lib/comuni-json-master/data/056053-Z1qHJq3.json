@@ -1,0 +1,22 @@
+{
+	"nome": "Valentano",
+	"codice": "056053",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "L569",
+	"cap": [
+		"01018"
+	],
+	"popolazione": 2895
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Torretta",
+	"codice": "082072",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "L282",
+	"cap": [
+		"90040"
+	],
+	"popolazione": 4141
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castel di Tora",
+	"codice": "057013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "C098",
+	"cap": [
+		"02020"
+	],
+	"popolazione": 299
+}

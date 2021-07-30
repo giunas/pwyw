@@ -1,0 +1,22 @@
+{
+	"nome": "Bolzano Novarese",
+	"codice": "003022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "A953",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 1176
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorgio su Legnano",
+	"codice": "015194",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "H884",
+	"cap": [
+		"20010"
+	],
+	"popolazione": 6730
+}

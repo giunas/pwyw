@@ -1,0 +1,22 @@
+{
+	"nome": "Rapolano Terme",
+	"codice": "052026",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "H185",
+	"cap": [
+		"53040"
+	],
+	"popolazione": 5129
+}

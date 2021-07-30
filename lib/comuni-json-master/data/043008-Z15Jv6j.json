@@ -1,0 +1,22 @@
+{
+	"nome": "Camporotondo di Fiastrone",
+	"codice": "043008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "B562",
+	"cap": [
+		"62020"
+	],
+	"popolazione": 589
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelmarte",
+	"codice": "013058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C206",
+	"cap": [
+		"22030"
+	],
+	"popolazione": 1286
+}

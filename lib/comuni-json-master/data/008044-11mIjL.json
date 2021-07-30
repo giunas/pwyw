@@ -1,0 +1,22 @@
+{
+	"nome": "Pompeiana",
+	"codice": "008044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G814",
+	"cap": [
+		"18015"
+	],
+	"popolazione": 809
+}

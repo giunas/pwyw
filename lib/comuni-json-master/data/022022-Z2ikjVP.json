@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo Valsugana",
+	"codice": "022022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "B006",
+	"cap": [
+		"38051"
+	],
+	"popolazione": 6826
+}

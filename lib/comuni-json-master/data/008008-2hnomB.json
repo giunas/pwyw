@@ -1,0 +1,22 @@
+{
+	"nome": "Bordighera",
+	"codice": "008008",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "A984",
+	"cap": [
+		"18012"
+	],
+	"popolazione": 10416
+}

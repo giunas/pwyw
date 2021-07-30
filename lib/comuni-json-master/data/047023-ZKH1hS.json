@@ -1,0 +1,22 @@
+{
+	"nome": "Abetone Cutigliano",
+	"codice": "047023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "M376",
+	"cap": [
+		"51024"
+	],
+	"popolazione": 2248
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Albizzate",
+	"codice": "012002",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A167",
+	"cap": [
+		"21041"
+	],
+	"popolazione": 5292
+}

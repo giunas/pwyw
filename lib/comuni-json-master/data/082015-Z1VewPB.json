@@ -1,0 +1,22 @@
+{
+	"nome": "Caltavuturo",
+	"codice": "082015",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "B430",
+	"cap": [
+		"90022"
+	],
+	"popolazione": 4171
+}

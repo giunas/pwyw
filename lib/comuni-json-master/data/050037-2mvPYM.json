@@ -1,0 +1,22 @@
+{
+	"nome": "Vecchiano",
+	"codice": "050037",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "L702",
+	"cap": [
+		"56019"
+	],
+	"popolazione": 12366
+}

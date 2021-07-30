@@ -1,0 +1,22 @@
+{
+	"nome": "Fluminimaggiore",
+	"codice": "111021",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "D639",
+	"cap": [
+		"09010"
+	],
+	"popolazione": 2966
+}

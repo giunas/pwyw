@@ -1,0 +1,22 @@
+{
+	"nome": "Amandola",
+	"codice": "109002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "A252",
+	"cap": [
+		"63857"
+	],
+	"popolazione": 3709
+}

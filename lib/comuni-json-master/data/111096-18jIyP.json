@@ -1,0 +1,22 @@
+{
+	"nome": "Villacidro",
+	"codice": "111096",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "L924",
+	"cap": [
+		"09039"
+	],
+	"popolazione": 14281
+}

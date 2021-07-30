@@ -1,0 +1,22 @@
+{
+	"nome": "Bagno a Ripoli",
+	"codice": "048001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "A564",
+	"cap": [
+		"50012"
+	],
+	"popolazione": 25403
+}

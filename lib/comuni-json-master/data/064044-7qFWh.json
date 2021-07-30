@@ -1,0 +1,22 @@
+{
+	"nome": "Lioni",
+	"codice": "064044",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "E605",
+	"cap": [
+		"83047"
+	],
+	"popolazione": 6335
+}

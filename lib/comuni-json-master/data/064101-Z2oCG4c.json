@@ -1,0 +1,22 @@
+{
+	"nome": "Solofra",
+	"codice": "064101",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "I805",
+	"cap": [
+		"83029"
+	],
+	"popolazione": 12419
+}

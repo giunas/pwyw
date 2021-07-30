@@ -1,0 +1,22 @@
+{
+	"nome": "Torrile",
+	"codice": "034041",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "L299",
+	"cap": [
+		"43056"
+	],
+	"popolazione": 7458
+}

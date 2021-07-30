@@ -1,0 +1,22 @@
+{
+	"nome": "Castelfranco Emilia",
+	"codice": "036006",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "C107",
+	"cap": [
+		"41013"
+	],
+	"popolazione": 31656
+}

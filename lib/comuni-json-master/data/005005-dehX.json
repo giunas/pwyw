@@ -1,0 +1,22 @@
+{
+	"nome": "Asti",
+	"codice": "005005",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "A479",
+	"cap": [
+		"14100"
+	],
+	"popolazione": 73899
+}

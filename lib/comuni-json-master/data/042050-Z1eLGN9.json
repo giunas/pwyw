@@ -1,0 +1,22 @@
+{
+	"nome": "Trecastelli",
+	"codice": "042050",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "M318",
+	"cap": [
+		"60012"
+	],
+	"popolazione": 7577
+}

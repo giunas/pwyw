@@ -1,0 +1,22 @@
+{
+	"nome": "Sinalunga",
+	"codice": "052033",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "A468",
+	"cap": [
+		"53048"
+	],
+	"popolazione": 12476
+}

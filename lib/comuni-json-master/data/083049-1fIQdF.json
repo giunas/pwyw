@@ -1,0 +1,22 @@
+{
+	"nome": "Milazzo",
+	"codice": "083049",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F206",
+	"cap": [
+		"98057"
+	],
+	"popolazione": 32146
+}

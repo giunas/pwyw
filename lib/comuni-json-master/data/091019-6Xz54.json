@@ -1,0 +1,22 @@
+{
+	"nome": "Elini",
+	"codice": "091019",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "D395",
+	"cap": [
+		"08040"
+	],
+	"popolazione": 550
+}

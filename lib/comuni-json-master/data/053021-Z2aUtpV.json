@@ -1,0 +1,22 @@
+{
+	"nome": "Roccastrada",
+	"codice": "053021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "H449",
+	"cap": [
+		"58036"
+	],
+	"popolazione": 9378
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Caltabellotta",
+	"codice": "084007",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "B427",
+	"cap": [
+		"92010"
+	],
+	"popolazione": 3907
+}

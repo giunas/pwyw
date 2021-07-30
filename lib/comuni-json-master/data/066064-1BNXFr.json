@@ -1,0 +1,22 @@
+{
+	"nome": "Ortucchio",
+	"codice": "066064",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "G145",
+	"cap": [
+		"67050"
+	],
+	"popolazione": 1863
+}

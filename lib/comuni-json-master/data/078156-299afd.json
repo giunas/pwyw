@@ -1,0 +1,22 @@
+{
+	"nome": "Casali del Manco",
+	"codice": "078156",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "M385",
+	"cap": [
+		"87059"
+	],
+	"popolazione": 10381
+}

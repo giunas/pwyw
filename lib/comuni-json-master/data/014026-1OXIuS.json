@@ -1,0 +1,22 @@
+{
+	"nome": "Delebio",
+	"codice": "014026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "D266",
+	"cap": [
+		"23014"
+	],
+	"popolazione": 3173
+}

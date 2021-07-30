@@ -1,0 +1,22 @@
+{
+	"nome": "Piubega",
+	"codice": "020041",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "G717",
+	"cap": [
+		"46040"
+	],
+	"popolazione": 1768
+}

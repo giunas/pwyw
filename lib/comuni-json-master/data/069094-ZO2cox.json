@@ -1,0 +1,22 @@
+{
+	"nome": "Torrevecchia Teatina",
+	"codice": "069094",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "L284",
+	"cap": [
+		"66010"
+	],
+	"popolazione": 4092
+}

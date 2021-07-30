@@ -1,0 +1,22 @@
+{
+	"nome": "Nulvi",
+	"codice": "090046",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "F977",
+	"cap": [
+		"07032"
+	],
+	"popolazione": 2851
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Camporosso",
+	"codice": "008011",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "B559",
+	"cap": [
+		"18033"
+	],
+	"popolazione": 5419
+}

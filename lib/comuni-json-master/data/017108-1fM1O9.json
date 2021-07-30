@@ -1,0 +1,22 @@
+{
+	"nome": "Milzano",
+	"codice": "017108",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "F216",
+	"cap": [
+		"25020"
+	],
+	"popolazione": 1799
+}

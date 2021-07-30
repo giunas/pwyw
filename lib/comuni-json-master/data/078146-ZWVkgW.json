@@ -1,0 +1,22 @@
+{
+	"nome": "Terranova da Sibari",
+	"codice": "078146",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "L124",
+	"cap": [
+		"87010"
+	],
+	"popolazione": 4999
+}

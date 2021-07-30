@@ -1,0 +1,22 @@
+{
+	"nome": "Mugnano del Cardinale",
+	"codice": "064065",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F798",
+	"cap": [
+		"83027"
+	],
+	"popolazione": 5312
+}

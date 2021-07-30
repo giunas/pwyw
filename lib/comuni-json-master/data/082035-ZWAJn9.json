@@ -1,0 +1,22 @@
+{
+	"nome": "Ficarazzi",
+	"codice": "082035",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "D567",
+	"cap": [
+		"90010"
+	],
+	"popolazione": 11484
+}

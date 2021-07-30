@@ -1,0 +1,22 @@
+{
+	"nome": "Sessame",
+	"codice": "005105",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "I678",
+	"cap": [
+		"14058"
+	],
+	"popolazione": 284
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Agrate Conturbia",
+	"codice": "003001",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "A088",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 1554
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Saponara",
+	"codice": "083092",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I420",
+	"cap": [
+		"98047"
+	],
+	"popolazione": 4078
+}

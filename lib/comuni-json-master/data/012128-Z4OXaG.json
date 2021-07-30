@@ -1,0 +1,22 @@
+{
+	"nome": "Travedona-Monate",
+	"codice": "012128",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "L342",
+	"cap": [
+		"21028"
+	],
+	"popolazione": 4022
+}

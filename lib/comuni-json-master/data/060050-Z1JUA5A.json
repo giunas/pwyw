@@ -1,0 +1,22 @@
+{
+	"nome": "Picinisco",
+	"codice": "060050",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "G591",
+	"cap": [
+		"03040"
+	],
+	"popolazione": 1255
+}

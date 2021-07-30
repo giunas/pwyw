@@ -1,0 +1,22 @@
+{
+	"nome": "Cisternino",
+	"codice": "074005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "074",
+		"nome": "Brindisi"
+	},
+	"sigla": "BR",
+	"codiceCatastale": "C741",
+	"cap": [
+		"72014"
+	],
+	"popolazione": 11745
+}

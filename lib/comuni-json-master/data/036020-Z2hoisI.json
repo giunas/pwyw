@@ -1,0 +1,22 @@
+{
+	"nome": "Marano sul Panaro",
+	"codice": "036020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "E905",
+	"cap": [
+		"41054"
+	],
+	"popolazione": 4787
+}

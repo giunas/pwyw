@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorio di Susa",
+	"codice": "001245",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H900",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 1040
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Vigasio",
+	"codice": "023094",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "L869",
+	"cap": [
+		"37068"
+	],
+	"popolazione": 9438
+}

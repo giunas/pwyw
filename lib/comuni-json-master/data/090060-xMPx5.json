@@ -1,0 +1,22 @@
+{
+	"nome": "Putifigari",
+	"codice": "090060",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "H095",
+	"cap": [
+		"07040"
+	],
+	"popolazione": 757
+}

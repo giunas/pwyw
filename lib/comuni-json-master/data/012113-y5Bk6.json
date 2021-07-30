@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Ceresio",
+	"codice": "012113",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "G906",
+	"cap": [
+		"21050"
+	],
+	"popolazione": 3001
+}

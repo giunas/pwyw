@@ -1,0 +1,22 @@
+{
+	"nome": "Acuto",
+	"codice": "060002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "A054",
+	"cap": [
+		"03010"
+	],
+	"popolazione": 1910
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Baricella",
+	"codice": "037003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "A665",
+	"cap": [
+		"40052"
+	],
+	"popolazione": 6763
+}

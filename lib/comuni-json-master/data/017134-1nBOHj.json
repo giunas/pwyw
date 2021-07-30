@@ -1,0 +1,22 @@
+{
+	"nome": "Paratico",
+	"codice": "017134",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G327",
+	"cap": [
+		"25030"
+	],
+	"popolazione": 4464
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Poviglio",
+	"codice": "035029",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "G947",
+	"cap": [
+		"42028"
+	],
+	"popolazione": 7045
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Spongano",
+	"codice": "075078",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "075",
+		"nome": "Lecce"
+	},
+	"sigla": "LE",
+	"codiceCatastale": "I923",
+	"cap": [
+		"73038"
+	],
+	"popolazione": 3742
+}

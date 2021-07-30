@@ -1,0 +1,22 @@
+{
+	"nome": "Monteflavio",
+	"codice": "058061",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F504",
+	"cap": [
+		"00010"
+	],
+	"popolazione": 1399
+}

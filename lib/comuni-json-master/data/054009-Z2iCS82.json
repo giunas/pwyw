@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione del Lago",
+	"codice": "054009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "C309",
+	"cap": [
+		"06061"
+	],
+	"popolazione": 15422
+}

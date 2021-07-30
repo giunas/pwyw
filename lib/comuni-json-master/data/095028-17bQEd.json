@@ -1,0 +1,22 @@
+{
+	"nome": "Mogorella",
+	"codice": "095028",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "F270",
+	"cap": [
+		"09080"
+	],
+	"popolazione": 463
+}

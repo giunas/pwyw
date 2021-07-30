@@ -1,0 +1,22 @@
+{
+	"nome": "Castellino del Biferno",
+	"codice": "070014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "070",
+		"nome": "Campobasso"
+	},
+	"sigla": "CB",
+	"codiceCatastale": "C175",
+	"cap": [
+		"86020"
+	],
+	"popolazione": 589
+}

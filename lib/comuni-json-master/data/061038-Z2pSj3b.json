@@ -1,0 +1,22 @@
+{
+	"nome": "Gallo Matese",
+	"codice": "061038",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "D884",
+	"cap": [
+		"81010"
+	],
+	"popolazione": 648
+}

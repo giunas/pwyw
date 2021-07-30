@@ -1,0 +1,22 @@
+{
+	"nome": "San Salvatore Monferrato",
+	"codice": "006154",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "I144",
+	"cap": [
+		"15046"
+	],
+	"popolazione": 4449
+}

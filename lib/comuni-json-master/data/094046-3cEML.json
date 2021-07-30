@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Angelo del Pesco",
+	"codice": "094046",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "I282",
+	"cap": [
+		"86080"
+	],
+	"popolazione": 368
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Suvereto",
+	"codice": "049020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "L019",
+	"cap": [
+		"57028"
+	],
+	"popolazione": 3142
+}

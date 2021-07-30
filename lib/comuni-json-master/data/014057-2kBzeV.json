@@ -1,0 +1,22 @@
+{
+	"nome": "Samolaco",
+	"codice": "014057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "H752",
+	"cap": [
+		"23027"
+	],
+	"popolazione": 2884
+}

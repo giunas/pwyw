@@ -1,0 +1,22 @@
+{
+	"nome": "Thiesi",
+	"codice": "090071",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "L158",
+	"cap": [
+		"07047"
+	],
+	"popolazione": 3005
+}

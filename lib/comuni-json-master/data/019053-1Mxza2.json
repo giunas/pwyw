@@ -1,0 +1,22 @@
+{
+	"nome": "Isola Dovarese",
+	"codice": "019053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "E356",
+	"cap": [
+		"26031"
+	],
+	"popolazione": 1231
+}

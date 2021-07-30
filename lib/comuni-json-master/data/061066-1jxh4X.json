@@ -1,0 +1,22 @@
+{
+	"nome": "Raviscanina",
+	"codice": "061066",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H202",
+	"cap": [
+		"81017"
+	],
+	"popolazione": 1376
+}

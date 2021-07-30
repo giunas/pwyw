@@ -1,0 +1,22 @@
+{
+	"nome": "Agrate Brianza",
+	"codice": "108001",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "A087",
+	"cap": [
+		"20864"
+	],
+	"popolazione": 14770
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Vische",
+	"codice": "001311",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M071",
+	"cap": [
+		"10030"
+	],
+	"popolazione": 1314
+}

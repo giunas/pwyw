@@ -1,0 +1,22 @@
+{
+	"nome": "Casaprota",
+	"codice": "057011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "B934",
+	"cap": [
+		"02030"
+	],
+	"popolazione": 723
+}

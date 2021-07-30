@@ -1,0 +1,22 @@
+{
+	"nome": "Rocchetta Belbo",
+	"codice": "004193",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H462",
+	"cap": [
+		"12050"
+	],
+	"popolazione": 181
+}

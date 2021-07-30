@@ -1,0 +1,22 @@
+{
+	"nome": "Masi",
+	"codice": "028049",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "F013",
+	"cap": [
+		"35040"
+	],
+	"popolazione": 1782
+}

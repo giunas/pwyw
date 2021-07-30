@@ -1,0 +1,22 @@
+{
+	"nome": "Colli del Tronto",
+	"codice": "044014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "C877",
+	"cap": [
+		"63079"
+	],
+	"popolazione": 3566
+}

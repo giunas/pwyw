@@ -1,0 +1,22 @@
+{
+	"nome": "Grumento Nova",
+	"codice": "076037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "E221",
+	"cap": [
+		"85050"
+	],
+	"popolazione": 1704
+}

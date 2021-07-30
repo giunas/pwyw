@@ -1,0 +1,22 @@
+{
+	"nome": "Aci Castello",
+	"codice": "087002",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "A026",
+	"cap": [
+		"95021"
+	],
+	"popolazione": 18122
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Tricerro",
+	"codice": "002147",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "L420",
+	"cap": [
+		"13038"
+	],
+	"popolazione": 709
+}

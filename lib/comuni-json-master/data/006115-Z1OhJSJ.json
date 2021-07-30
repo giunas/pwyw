@@ -1,0 +1,22 @@
+{
+	"nome": "Occimiano",
+	"codice": "006115",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "F995",
+	"cap": [
+		"15040"
+	],
+	"popolazione": 1367
+}

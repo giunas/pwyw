@@ -1,0 +1,22 @@
+{
+	"nome": "Montella",
+	"codice": "064057",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F546",
+	"cap": [
+		"83048"
+	],
+	"popolazione": 7877
+}

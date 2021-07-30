@@ -1,0 +1,22 @@
+{
+	"nome": "Gambara",
+	"codice": "017073",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "D891",
+	"cap": [
+		"25020"
+	],
+	"popolazione": 4697
+}

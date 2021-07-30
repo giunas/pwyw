@@ -1,0 +1,22 @@
+{
+	"nome": "Brandico",
+	"codice": "017026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B120",
+	"cap": [
+		"25030"
+	],
+	"popolazione": 1611
+}

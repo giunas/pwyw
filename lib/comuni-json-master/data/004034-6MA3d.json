@@ -1,0 +1,23 @@
+{
+	"nome": "Busca",
+	"codice": "004034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "B285",
+	"cap": [
+		"12022",
+		"12020"
+	],
+	"popolazione": 10113
+}

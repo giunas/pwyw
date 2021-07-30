@@ -1,0 +1,22 @@
+{
+	"nome": "Maniago",
+	"codice": "093025",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "E889",
+	"cap": [
+		"33085"
+	],
+	"popolazione": 11818
+}

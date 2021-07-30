@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Maria a Monte",
+	"codice": "050035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "I232",
+	"cap": [
+		"56020"
+	],
+	"popolazione": 12847
+}

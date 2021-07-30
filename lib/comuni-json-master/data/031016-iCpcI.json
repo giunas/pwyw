@@ -1,0 +1,22 @@
+{
+	"nome": "Ronchi dei Legionari",
+	"codice": "031016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "H531",
+	"cap": [
+		"34077"
+	],
+	"popolazione": 11960
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fontanigorda",
+	"codice": "010024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "D677",
+	"cap": [
+		"16023"
+	],
+	"popolazione": 274
+}

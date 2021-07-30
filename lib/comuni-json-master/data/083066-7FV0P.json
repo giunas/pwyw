@@ -1,0 +1,22 @@
+{
+	"nome": "Patti",
+	"codice": "083066",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "G377",
+	"cap": [
+		"98066"
+	],
+	"popolazione": 13325
+}

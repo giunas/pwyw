@@ -1,0 +1,22 @@
+{
+	"nome": "Tremestieri Etneo",
+	"codice": "087051",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "L369",
+	"cap": [
+		"95030"
+	],
+	"popolazione": 21032
+}

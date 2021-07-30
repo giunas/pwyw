@@ -1,0 +1,22 @@
+{
+	"nome": "Brandizzo",
+	"codice": "001034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B121",
+	"cap": [
+		"10032"
+	],
+	"popolazione": 8402
+}

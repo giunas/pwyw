@@ -1,0 +1,22 @@
+{
+	"nome": "Francofonte",
+	"codice": "089010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "D768",
+	"cap": [
+		"96015"
+	],
+	"popolazione": 12923
+}

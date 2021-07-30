@@ -1,0 +1,22 @@
+{
+	"nome": "Remanzacco",
+	"codice": "030091",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "H229",
+	"cap": [
+		"33047"
+	],
+	"popolazione": 6066
+}

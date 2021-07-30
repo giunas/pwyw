@@ -1,0 +1,22 @@
+{
+	"nome": "Sparone",
+	"codice": "001267",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I886",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 1085
+}

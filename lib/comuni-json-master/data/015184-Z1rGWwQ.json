@@ -1,0 +1,22 @@
+{
+	"nome": "Robecco sul Naviglio",
+	"codice": "015184",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "H373",
+	"cap": [
+		"20087"
+	],
+	"popolazione": 6842
+}

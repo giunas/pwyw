@@ -1,0 +1,22 @@
+{
+	"nome": "Argegno",
+	"codice": "013011",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "A391",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 667
+}

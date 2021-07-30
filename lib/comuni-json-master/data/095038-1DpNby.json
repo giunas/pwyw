@@ -1,0 +1,22 @@
+{
+	"nome": "Oristano",
+	"codice": "095038",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "G113",
+	"cap": [
+		"09170"
+	],
+	"popolazione": 31155
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Roccaraso",
+	"codice": "066084",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "H434",
+	"cap": [
+		"67037"
+	],
+	"popolazione": 1636
+}

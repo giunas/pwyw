@@ -1,0 +1,22 @@
+{
+	"nome": "Montaione",
+	"codice": "048027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "F398",
+	"cap": [
+		"50050"
+	],
+	"popolazione": 3776
+}

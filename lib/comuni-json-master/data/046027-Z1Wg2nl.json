@@ -1,0 +1,22 @@
+{
+	"nome": "San Romano in Garfagnana",
+	"codice": "046027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "I142",
+	"cap": [
+		"55038"
+	],
+	"popolazione": 1459
+}

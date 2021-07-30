@@ -1,0 +1,22 @@
+{
+	"nome": "San Zenone al Lambro",
+	"codice": "015202",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I415",
+	"cap": [
+		"20070"
+	],
+	"popolazione": 4186
+}

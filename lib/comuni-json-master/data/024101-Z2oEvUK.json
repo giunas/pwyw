@@ -1,0 +1,22 @@
+{
+	"nome": "Solagna",
+	"codice": "024101",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "I783",
+	"cap": [
+		"36020"
+	],
+	"popolazione": 1895
+}

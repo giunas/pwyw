@@ -1,0 +1,22 @@
+{
+	"nome": "Baone",
+	"codice": "028009",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "A613",
+	"cap": [
+		"35030"
+	],
+	"popolazione": 3108
+}

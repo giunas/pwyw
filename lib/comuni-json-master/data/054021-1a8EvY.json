@@ -1,0 +1,22 @@
+{
+	"nome": "Giano dell'Umbria",
+	"codice": "054021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "E012",
+	"cap": [
+		"06030"
+	],
+	"popolazione": 3816
+}

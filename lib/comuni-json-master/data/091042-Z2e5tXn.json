@@ -1,0 +1,22 @@
+{
+	"nome": "Lotzorai",
+	"codice": "091042",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "E700",
+	"cap": [
+		"08040"
+	],
+	"popolazione": 2151
+}

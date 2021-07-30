@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Domenica Vittoria",
+	"codice": "083083",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I184",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 1067
+}

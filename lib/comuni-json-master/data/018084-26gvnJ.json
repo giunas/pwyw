@@ -1,0 +1,22 @@
+{
+	"nome": "Lungavilla",
+	"codice": "018084",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B387",
+	"cap": [
+		"27053"
+	],
+	"popolazione": 2412
+}

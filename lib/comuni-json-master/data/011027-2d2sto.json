@@ -1,0 +1,22 @@
+{
+	"nome": "Sarzana",
+	"codice": "011027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "I449",
+	"cap": [
+		"19038"
+	],
+	"popolazione": 21829
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Capracotta",
+	"codice": "094006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "B682",
+	"cap": [
+		"86082"
+	],
+	"popolazione": 950
+}

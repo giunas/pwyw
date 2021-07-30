@@ -1,0 +1,22 @@
+{
+	"nome": "Celle di San Vito",
+	"codice": "071019",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "071",
+		"nome": "Foggia"
+	},
+	"sigla": "FG",
+	"codiceCatastale": "C442",
+	"cap": [
+		"71020"
+	],
+	"popolazione": 172
+}

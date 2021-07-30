@@ -1,0 +1,22 @@
+{
+	"nome": "Bolognetta",
+	"codice": "082011",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "A946",
+	"cap": [
+		"90030"
+	],
+	"popolazione": 3932
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Urzulei",
+	"codice": "091099",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "L506",
+	"cap": [
+		"08040"
+	],
+	"popolazione": 1295
+}

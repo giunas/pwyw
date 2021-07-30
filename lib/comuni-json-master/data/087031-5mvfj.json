@@ -1,0 +1,22 @@
+{
+	"nome": "Nicolosi",
+	"codice": "087031",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "F890",
+	"cap": [
+		"95030"
+	],
+	"popolazione": 7156
+}

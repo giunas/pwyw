@@ -1,0 +1,22 @@
+{
+	"nome": "Greve in Chianti",
+	"codice": "048021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "E169",
+	"cap": [
+		"50022"
+	],
+	"popolazione": 13886
+}

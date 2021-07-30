@@ -1,0 +1,22 @@
+{
+	"nome": "Galati Mamertino",
+	"codice": "083030",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D861",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 2794
+}

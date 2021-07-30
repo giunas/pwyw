@@ -1,0 +1,22 @@
+{
+	"nome": "Albano Laziale",
+	"codice": "058003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "A132",
+	"cap": [
+		"00041"
+	],
+	"popolazione": 38433
+}

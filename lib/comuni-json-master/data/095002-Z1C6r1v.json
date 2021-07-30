@@ -1,0 +1,22 @@
+{
+	"nome": "Aidomaggiore",
+	"codice": "095002",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "A097",
+	"cap": [
+		"09070"
+	],
+	"popolazione": 472
+}

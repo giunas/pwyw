@@ -1,0 +1,22 @@
+{
+	"nome": "Ercolano",
+	"codice": "063064",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "H243",
+	"cap": [
+		"80056"
+	],
+	"popolazione": 53677
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Torrazzo",
+	"codice": "096069",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "L239",
+	"cap": [
+		"13884"
+	],
+	"popolazione": 224
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Rizziconi",
+	"codice": "080065",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "H359",
+	"cap": [
+		"89016"
+	],
+	"popolazione": 7806
+}

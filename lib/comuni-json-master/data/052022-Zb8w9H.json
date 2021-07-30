@@ -1,0 +1,22 @@
+{
+	"nome": "Poggibonsi",
+	"codice": "052022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "G752",
+	"cap": [
+		"53036"
+	],
+	"popolazione": 28952
+}

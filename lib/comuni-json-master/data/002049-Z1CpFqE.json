@@ -1,0 +1,22 @@
+{
+	"nome": "Crescentino",
+	"codice": "002049",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "D154",
+	"cap": [
+		"13044"
+	],
+	"popolazione": 7984
+}

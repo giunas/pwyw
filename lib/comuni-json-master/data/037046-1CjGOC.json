@@ -1,0 +1,22 @@
+{
+	"nome": "Ozzano dell'Emilia",
+	"codice": "037046",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "G205",
+	"cap": [
+		"40064"
+	],
+	"popolazione": 12870
+}

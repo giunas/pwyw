@@ -1,0 +1,22 @@
+{
+	"nome": "Lucinasco",
+	"codice": "008033",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "E719",
+	"cap": [
+		"18020"
+	],
+	"popolazione": 280
+}

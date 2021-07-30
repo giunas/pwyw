@@ -1,0 +1,22 @@
+{
+	"nome": "Ballabio",
+	"codice": "097004",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "A594",
+	"cap": [
+		"23811"
+	],
+	"popolazione": 4018
+}

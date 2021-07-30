@@ -1,0 +1,22 @@
+{
+	"nome": "Portoferraio",
+	"codice": "049014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "G912",
+	"cap": [
+		"57037"
+	],
+	"popolazione": 11641
+}

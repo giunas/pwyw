@@ -1,0 +1,22 @@
+{
+	"nome": "Iseo",
+	"codice": "017085",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E333",
+	"cap": [
+		"25049"
+	],
+	"popolazione": 9100
+}

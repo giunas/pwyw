@@ -1,0 +1,22 @@
+{
+	"nome": "Bottanuco",
+	"codice": "016034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "B088",
+	"cap": [
+		"24040"
+	],
+	"popolazione": 5176
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fiorano Canavese",
+	"codice": "001105",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "D608",
+	"cap": [
+		"10010"
+	],
+	"popolazione": 837
+}

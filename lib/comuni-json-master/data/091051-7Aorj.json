@@ -1,0 +1,22 @@
+{
+	"nome": "Nuoro",
+	"codice": "091051",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "F979",
+	"cap": [
+		"08100"
+	],
+	"popolazione": 36674
+}

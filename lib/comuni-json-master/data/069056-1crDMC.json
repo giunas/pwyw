@@ -1,0 +1,22 @@
+{
+	"nome": "Mozzagrogna",
+	"codice": "069056",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "F785",
+	"cap": [
+		"66030"
+	],
+	"popolazione": 2291
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Virle Piemonte",
+	"codice": "001310",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M069",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 1191
+}

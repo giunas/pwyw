@@ -1,0 +1,22 @@
+{
+	"nome": "Calasca-Castiglione",
+	"codice": "103014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "B380",
+	"cap": [
+		"28873"
+	],
+	"popolazione": 681
+}

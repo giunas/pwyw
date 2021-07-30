@@ -1,0 +1,22 @@
+{
+	"nome": "Aci Catena",
+	"codice": "087003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "A027",
+	"cap": [
+		"95022"
+	],
+	"popolazione": 28749
+}

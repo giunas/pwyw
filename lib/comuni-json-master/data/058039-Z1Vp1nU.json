@@ -1,0 +1,22 @@
+{
+	"nome": "Frascati",
+	"codice": "058039",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "D773",
+	"cap": [
+		"00044"
+	],
+	"popolazione": 20755
+}

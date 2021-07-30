@@ -1,0 +1,22 @@
+{
+	"nome": "Stigliano",
+	"codice": "077027",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "I954",
+	"cap": [
+		"75018"
+	],
+	"popolazione": 4685
+}

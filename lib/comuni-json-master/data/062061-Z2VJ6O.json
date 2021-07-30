@@ -1,0 +1,22 @@
+{
+	"nome": "San Lorenzello",
+	"codice": "062061",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "H955",
+	"cap": [
+		"82030"
+	],
+	"popolazione": 2320
+}

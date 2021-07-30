@@ -1,0 +1,22 @@
+{
+	"nome": "Melito di Napoli",
+	"codice": "063045",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "F111",
+	"cap": [
+		"80017"
+	],
+	"popolazione": 36933
+}

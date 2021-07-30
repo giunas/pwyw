@@ -1,0 +1,22 @@
+{
+	"nome": "Vaiano",
+	"codice": "100006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "100",
+		"nome": "Prato"
+	},
+	"sigla": "PO",
+	"codiceCatastale": "L537",
+	"cap": [
+		"59021"
+	],
+	"popolazione": 9821
+}

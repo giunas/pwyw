@@ -1,0 +1,22 @@
+{
+	"nome": "Torrenova",
+	"codice": "083108",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "M286",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 4240
+}

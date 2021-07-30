@@ -1,0 +1,22 @@
+{
+	"nome": "Barberino di Mugello",
+	"codice": "048002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "A632",
+	"cap": [
+		"50031"
+	],
+	"popolazione": 10461
+}

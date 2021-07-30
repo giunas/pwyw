@@ -1,0 +1,22 @@
+{
+	"nome": "Villaurbana",
+	"codice": "095072",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "M030",
+	"cap": [
+		"09080"
+	],
+	"popolazione": 1731
+}

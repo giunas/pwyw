@@ -1,0 +1,22 @@
+{
+	"nome": "Frugarolo",
+	"codice": "006075",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "D813",
+	"cap": [
+		"15065"
+	],
+	"popolazione": 2012
+}

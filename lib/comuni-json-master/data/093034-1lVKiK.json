@@ -1,0 +1,22 @@
+{
+	"nome": "Prata di Pordenone",
+	"codice": "093034",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "G994",
+	"cap": [
+		"33080"
+	],
+	"popolazione": 8451
+}

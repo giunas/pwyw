@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>PWYW - Pannello Utente</title>
+
+  <link rel="stylesheet" href="panel.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/r-2.2.2/datatables.min.css"/>
+  <script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.1.1/jq-3.3.1/dt-1.10.18/r-2.2.2/datatables.min.js"></script>
+
+  <script src="../../Frontend/controller/richiedi.js"></script>
+  <script src="../controller/panel.js"></script>
+  <script src="../controller/logout.js"></script>
+  <script src="https://kit.fontawesome.com/f84a61e570.js"></script>
+
+  <script>
+  
+     $(document).ready(function() {
+
+      $('#example').DataTable({
+        "searching": false,
+        "responsive":true,
+        "iDisplayLength": 1,
+        "pagingType": "simple",
+        "bLengthChange": false,
+        "dom": '<"top"f>rt<"bottom"lp><"clear">',
+        "language": {
+          "sEmptyTable":     "Nessuna notifica disponibile.",
+          "oPaginate": {
+              "sFirst":      "Inizio",
+              "sPrevious":   "Precedente",
+              "sNext":       "Successivo",
+              "sLast":       "Fine"
+          }
+        }
+      });
+     })
+    </script>
+
+</head>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">PWYW</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="panel.html">Home</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" style="cursor:pointer;" onclick="slogga()">Logout</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<body>
+
+      <div class="box">
+          <div class="container">
+             <div class="row">
+             
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                     
+                <div class="box-part text-center">
+                              
+                              <i class="fas fa-wallet fa-3x" aria-hidden="true"></i>
+                              
+                  <div class="title">
+                    <h4>Saldo</h4>
+                  </div>
+                              
+                  <div class="text">
+                    <span id="Nomen"></span>
+                    <br><br>
+                    <span id="Importo"></span>
+                  </div>
+                     
+                              
+                 </div>
+              </div>	 
+              
+               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                     
+                <div class="box-part text-center">
+                    
+                    <i class="fas fa-chart-bar fa-3x" aria-hidden="true"></i>
+                          
+                  <div class="title">
+                    <h4>Movimenti</h4>
+                  </div>
+                              
+                  <div class="text">
+                    <span>Visualizza i tuoi movimenti o scarica l'estratto conto mensile.</span>
+                  </div>
+                              
+                  <a id="linkbox" href="transactions.html">Movimenti</a>
+                              
+                 </div>
+              </div>	 
+              
+               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                     
+                <div class="box-part text-center">
+                              
+                              <i class="fas fa-bell fa-3x" aria-hidden="true"></i>
+                              
+                  <div class="title">
+                    <h4>Notifiche</h4>
+                  </div>
+                              
+                  <div class="text" id="scrolltext">
+
+                    <div class="container-fluid">
+                      <table id="example" class="table table-striped table-bordered" style="width:100%">
+                          <thead>
+                              <tr>
+                                  <th>Richiedente</th>
+                                  <th>Importo</th>
+                                  <th></th>
+                              </tr>
+                          </thead>
+                  
+                          <tbody id="listanotifiche">
+                          </tbody>
+                      </table>
+                    </div>
+                  
+
+                  </div>
+                              
+                              
+                 </div>
+              </div>	 
+              
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                     
+                <div class="box-part text-center">
+                              
+                              <i class="fas fa-money-bill-wave fa-3x" aria-hidden="true"></i>
+                              
+                  <div class="title">
+                    <h4>Pagamenti</h4>
+                  </div>
+                              
+                  <div class="text">
+                    <span>Invia denaro ad altri utenti o esercizi commerciali o gestisci i tuoi abbonamenti.</span>
+                  </div>
+                              
+                  <a id="linkbox" href="sendmoney.html">Invia Denaro</a><br>
+                  <a id="linkbox" href="sendcommoney.html">Paga Esercizi Commerciali</a><br>
+                  <a id="linkbox" href="periodicalpayments.html">Pagamenti Periodici</a>
+                              
+                 </div>
+              </div>	 
+              
+               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                     
+                <div class="box-part text-center">
+                    
+                    <i class="fas fa-hand-holding-usd fa-3x" aria-hidden="true"></i>
+                          
+                  <div class="title">
+                    <h4>Richiedi Denaro</h4>
+                  </div>
+                              
+                  <div class="text">
+                    <span>Richiedi denaro ad altri utenti.</span>
+                  </div>
+                              
+                  <a id="linkbox" href="requestmoney.html">Richiedi Denaro</a>
+                              
+                 </div>
+              </div>	 
+              
+               <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                     
+                <div class="box-part text-center">
+                              
+                              <i class="fas fa-id-badge fa-3x" aria-hidden="true"></i>
+                              
+                  <div class="title">
+                    <h4>Gestisci Profilo</h4>
+                  </div>
+                              
+                  <div class="text">
+                    <span>Modifica il tuo profilo o gestisci i metodi di pagamento.</span>
+                  </div>
+                              
+                  <a id="linkbox" href="profile.html">Gestisci Profilo</a>
+                              
+                 </div>
+              </div>
+          
+          </div>		
+          </div>
+      </div>
+
+
+
+</body>
+</html>

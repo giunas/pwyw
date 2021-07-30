@@ -1,0 +1,22 @@
+{
+	"nome": "San Teodoro",
+	"codice": "083090",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I328",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 1421
+}

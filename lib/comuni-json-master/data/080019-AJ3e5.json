@@ -1,0 +1,22 @@
+{
+	"nome": "Candidoni",
+	"codice": "080019",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "B591",
+	"cap": [
+		"89020"
+	],
+	"popolazione": 389
+}

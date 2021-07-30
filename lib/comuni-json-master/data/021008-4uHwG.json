@@ -1,0 +1,22 @@
+{
+	"nome": "Bolzano",
+	"codice": "021008",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "A952",
+	"cap": [
+		"39100"
+	],
+	"popolazione": 102575
+}

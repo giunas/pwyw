@@ -1,0 +1,22 @@
+{
+	"nome": "Baldissero d'Alba",
+	"codice": "004010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "A589",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 1086
+}

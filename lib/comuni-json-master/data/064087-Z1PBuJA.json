@@ -1,0 +1,22 @@
+{
+	"nome": "San Sossio Baronia",
+	"codice": "064087",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "I163",
+	"cap": [
+		"83050"
+	],
+	"popolazione": 1697
+}

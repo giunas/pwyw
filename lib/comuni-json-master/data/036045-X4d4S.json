@@ -1,0 +1,22 @@
+{
+	"nome": "Spilamberto",
+	"codice": "036045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "I903",
+	"cap": [
+		"41057"
+	],
+	"popolazione": 12130
+}

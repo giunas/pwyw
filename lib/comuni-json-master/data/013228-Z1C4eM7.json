@@ -1,0 +1,22 @@
+{
+	"nome": "Uggiate-Trevano",
+	"codice": "013228",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "L487",
+	"cap": [
+		"22029"
+	],
+	"popolazione": 4451
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Monterosso al Mare",
+	"codice": "011019",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "F609",
+	"cap": [
+		"19016"
+	],
+	"popolazione": 1481
+}

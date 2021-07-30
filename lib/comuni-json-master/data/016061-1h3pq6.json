@@ -1,0 +1,22 @@
+{
+	"nome": "Cassiglio",
+	"codice": "016061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "C007",
+	"cap": [
+		"24010"
+	],
+	"popolazione": 122
+}

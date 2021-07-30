@@ -1,0 +1,22 @@
+{
+	"nome": "Campo San Martino",
+	"codice": "028020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "B564",
+	"cap": [
+		"35010"
+	],
+	"popolazione": 5724
+}

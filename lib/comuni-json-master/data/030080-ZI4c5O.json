@@ -1,0 +1,22 @@
+{
+	"nome": "Pradamano",
+	"codice": "030080",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "G969",
+	"cap": [
+		"33040"
+	],
+	"popolazione": 3536
+}

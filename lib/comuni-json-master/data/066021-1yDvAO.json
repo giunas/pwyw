@@ -1,0 +1,22 @@
+{
+	"nome": "Capitignano",
+	"codice": "066021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "B658",
+	"cap": [
+		"67014"
+	],
+	"popolazione": 680
+}

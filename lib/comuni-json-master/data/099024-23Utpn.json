@@ -1,0 +1,22 @@
+{
+	"nome": "Pennabilli",
+	"codice": "099024",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "G433",
+	"cap": [
+		"47864"
+	],
+	"popolazione": 3017
+}

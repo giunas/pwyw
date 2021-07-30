@@ -1,0 +1,22 @@
+{
+	"nome": "Caresana",
+	"codice": "002030",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "B767",
+	"cap": [
+		"13010"
+	],
+	"popolazione": 1028
+}

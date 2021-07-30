@@ -1,0 +1,22 @@
+{
+	"nome": "Casciana Terme Lari",
+	"codice": "050040",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "M327",
+	"cap": [
+		"56035"
+	],
+	"popolazione": 12366
+}

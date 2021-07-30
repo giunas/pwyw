@@ -1,0 +1,22 @@
+{
+	"nome": "Corvara",
+	"codice": "068016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "D078",
+	"cap": [
+		"65020"
+	],
+	"popolazione": 278
+}

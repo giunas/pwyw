@@ -1,0 +1,22 @@
+{
+	"nome": "Nimis",
+	"codice": "030065",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "F898",
+	"cap": [
+		"33045"
+	],
+	"popolazione": 2778
+}

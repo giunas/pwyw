@@ -1,0 +1,22 @@
+{
+	"nome": "Alì Terme",
+	"codice": "083003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "A201",
+	"cap": [
+		"98021"
+	],
+	"popolazione": 2567
+}

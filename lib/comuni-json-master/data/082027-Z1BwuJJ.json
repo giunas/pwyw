@@ -1,0 +1,22 @@
+{
+	"nome": "Cefalù",
+	"codice": "082027",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "C421",
+	"cap": [
+		"90015"
+	],
+	"popolazione": 14354
+}

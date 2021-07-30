@@ -1,0 +1,22 @@
+{
+	"nome": "Villaverla",
+	"codice": "024118",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "M032",
+	"cap": [
+		"36030"
+	],
+	"popolazione": 6169
+}

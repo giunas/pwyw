@@ -1,0 +1,22 @@
+{
+	"nome": "Soragna",
+	"codice": "034036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "I840",
+	"cap": [
+		"43019"
+	],
+	"popolazione": 4872
+}

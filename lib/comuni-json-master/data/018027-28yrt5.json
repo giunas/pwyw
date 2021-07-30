@@ -1,0 +1,22 @@
+{
+	"nome": "Candia Lomellina",
+	"codice": "018027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B587",
+	"cap": [
+		"27031"
+	],
+	"popolazione": 1636
+}

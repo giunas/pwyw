@@ -1,0 +1,22 @@
+{
+	"nome": "Anacapri",
+	"codice": "063004",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A268",
+	"cap": [
+		"80071"
+	],
+	"popolazione": 6546
+}

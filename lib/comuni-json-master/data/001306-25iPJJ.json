@@ -1,0 +1,22 @@
+{
+	"nome": "Villar Pellice",
+	"codice": "001306",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M013",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 1120
+}

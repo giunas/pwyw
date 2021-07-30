@@ -1,0 +1,22 @@
+{
+	"nome": "Vagli Sotto",
+	"codice": "046031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "L533",
+	"cap": [
+		"55030"
+	],
+	"popolazione": 991
+}

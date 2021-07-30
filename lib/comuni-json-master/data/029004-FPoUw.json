@@ -1,0 +1,22 @@
+{
+	"nome": "Badia Polesine",
+	"codice": "029004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "A539",
+	"cap": [
+		"45021"
+	],
+	"popolazione": 10536
+}

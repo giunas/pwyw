@@ -1,0 +1,22 @@
+{
+	"nome": "Enego",
+	"codice": "024039",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D407",
+	"cap": [
+		"36052"
+	],
+	"popolazione": 1825
+}

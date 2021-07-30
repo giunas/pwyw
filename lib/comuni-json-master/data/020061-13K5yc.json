@@ -1,0 +1,22 @@
+{
+	"nome": "Sermide e Felonica",
+	"codice": "020061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "I632",
+	"cap": [
+		"46028"
+	],
+	"popolazione": 7726
+}

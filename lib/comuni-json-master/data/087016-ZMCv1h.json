@@ -1,0 +1,22 @@
+{
+	"nome": "Fiumefreddo di Sicilia",
+	"codice": "087016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "D623",
+	"cap": [
+		"95013"
+	],
+	"popolazione": 9690
+}

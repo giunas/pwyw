@@ -1,0 +1,22 @@
+{
+	"nome": "Massazza",
+	"codice": "096031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "F037",
+	"cap": [
+		"13873"
+	],
+	"popolazione": 542
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro di Cadore",
+	"codice": "025047",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "I088",
+	"cap": [
+		"32040"
+	],
+	"popolazione": 1690
+}

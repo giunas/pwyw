@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Apollinare",
+	"codice": "060067",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "I302",
+	"cap": [
+		"03048"
+	],
+	"popolazione": 1931
+}

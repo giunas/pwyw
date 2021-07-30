@@ -1,0 +1,22 @@
+{
+	"nome": "Caposele",
+	"codice": "064017",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "B674",
+	"cap": [
+		"83040"
+	],
+	"popolazione": 3537
+}

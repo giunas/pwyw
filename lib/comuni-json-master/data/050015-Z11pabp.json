@@ -1,0 +1,22 @@
+{
+	"nome": "Guardistallo",
+	"codice": "050015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "E250",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 1254
+}

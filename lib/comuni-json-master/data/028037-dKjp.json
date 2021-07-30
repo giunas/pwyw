@@ -1,0 +1,22 @@
+{
+	"nome": "Este",
+	"codice": "028037",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "D442",
+	"cap": [
+		"35042"
+	],
+	"popolazione": 16576
+}

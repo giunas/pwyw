@@ -1,0 +1,22 @@
+{
+	"nome": "Campodimele",
+	"codice": "059003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "B527",
+	"cap": [
+		"04020"
+	],
+	"popolazione": 638
+}

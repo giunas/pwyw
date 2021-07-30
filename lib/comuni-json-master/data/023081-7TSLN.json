@@ -1,0 +1,22 @@
+{
+	"nome": "Soave",
+	"codice": "023081",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "I775",
+	"cap": [
+		"37038"
+	],
+	"popolazione": 6908
+}

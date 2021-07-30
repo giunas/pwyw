@@ -1,0 +1,22 @@
+{
+	"nome": "Tigliole",
+	"codice": "005108",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "L168",
+	"cap": [
+		"14016"
+	],
+	"popolazione": 1734
+}

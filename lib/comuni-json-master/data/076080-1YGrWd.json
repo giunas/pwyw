@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Arcangelo",
+	"codice": "076080",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "I305",
+	"cap": [
+		"85037"
+	],
+	"popolazione": 6506
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Rivodutri",
+	"codice": "057060",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "H354",
+	"cap": [
+		"02010"
+	],
+	"popolazione": 1297
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Ascoli Satriano",
+	"codice": "071005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "071",
+		"nome": "Foggia"
+	},
+	"sigla": "FG",
+	"codiceCatastale": "A463",
+	"cap": [
+		"71022"
+	],
+	"popolazione": 6194
+}

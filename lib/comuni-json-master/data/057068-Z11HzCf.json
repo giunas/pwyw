@@ -1,0 +1,22 @@
+{
+	"nome": "Toffia",
+	"codice": "057068",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "L189",
+	"cap": [
+		"02039"
+	],
+	"popolazione": 1002
+}

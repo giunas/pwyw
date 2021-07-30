@@ -1,0 +1,22 @@
+{
+	"nome": "Salsomaggiore Terme",
+	"codice": "034032",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "H720",
+	"cap": [
+		"43039"
+	],
+	"popolazione": 19505
+}

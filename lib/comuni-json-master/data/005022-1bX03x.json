@@ -1,0 +1,22 @@
+{
+	"nome": "Castagnole delle Lanze",
+	"codice": "005022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "C049",
+	"cap": [
+		"14054"
+	],
+	"popolazione": 3784
+}

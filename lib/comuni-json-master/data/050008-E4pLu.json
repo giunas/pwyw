@@ -1,0 +1,22 @@
+{
+	"nome": "Cascina",
+	"codice": "050008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "B950",
+	"cap": [
+		"56021"
+	],
+	"popolazione": 43833
+}

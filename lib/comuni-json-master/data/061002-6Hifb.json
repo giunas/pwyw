@@ -1,0 +1,22 @@
+{
+	"nome": "Alife",
+	"codice": "061002",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "A200",
+	"cap": [
+		"81011"
+	],
+	"popolazione": 7660
+}

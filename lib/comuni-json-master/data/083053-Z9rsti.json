@@ -1,0 +1,22 @@
+{
+	"nome": "Moio Alcantara",
+	"codice": "083053",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F277",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 756
+}

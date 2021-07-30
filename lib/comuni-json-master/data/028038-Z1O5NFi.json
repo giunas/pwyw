@@ -1,0 +1,22 @@
+{
+	"nome": "Fontaniva",
+	"codice": "028038",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "D679",
+	"cap": [
+		"35014"
+	],
+	"popolazione": 8168
+}

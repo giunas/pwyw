@@ -1,0 +1,22 @@
+{
+	"nome": "Mirto",
+	"codice": "083051",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F242",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 1000
+}

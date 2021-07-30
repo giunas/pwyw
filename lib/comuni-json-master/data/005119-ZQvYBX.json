@@ -1,0 +1,22 @@
+{
+	"nome": "Villa San Secondo",
+	"codice": "005119",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "M019",
+	"cap": [
+		"14020"
+	],
+	"popolazione": 410
+}

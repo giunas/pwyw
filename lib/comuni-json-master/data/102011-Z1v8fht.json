@@ -1,0 +1,22 @@
+{
+	"nome": "Filadelfia",
+	"codice": "102011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "102",
+		"nome": "Vibo Valentia"
+	},
+	"sigla": "VV",
+	"codiceCatastale": "D587",
+	"cap": [
+		"89814"
+	],
+	"popolazione": 5638
+}

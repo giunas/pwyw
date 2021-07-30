@@ -1,0 +1,22 @@
+{
+	"nome": "Colleferro",
+	"codice": "058034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C858",
+	"cap": [
+		"00034"
+	],
+	"popolazione": 21574
+}

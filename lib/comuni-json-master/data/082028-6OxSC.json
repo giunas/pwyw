@@ -1,0 +1,22 @@
+{
+	"nome": "Cerda",
+	"codice": "082028",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "C496",
+	"cap": [
+		"90010"
+	],
+	"popolazione": 5391
+}

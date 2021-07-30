@@ -1,0 +1,22 @@
+{
+	"nome": "Volturara Irpina",
+	"codice": "064119",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "M130",
+	"cap": [
+		"83050"
+	],
+	"popolazione": 3401
+}

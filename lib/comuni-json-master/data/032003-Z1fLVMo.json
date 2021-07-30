@@ -1,0 +1,22 @@
+{
+	"nome": "Muggia",
+	"codice": "032003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "032",
+		"nome": "Trieste"
+	},
+	"sigla": "TS",
+	"codiceCatastale": "F795",
+	"cap": [
+		"34015"
+	],
+	"popolazione": 13022
+}

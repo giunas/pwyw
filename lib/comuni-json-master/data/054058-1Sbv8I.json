@@ -1,0 +1,22 @@
+{
+	"nome": "Vallo di Nera",
+	"codice": "054058",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "L627",
+	"cap": [
+		"06040"
+	],
+	"popolazione": 401
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Zeno Naviglio",
+	"codice": "017173",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "I412",
+	"cap": [
+		"25010"
+	],
+	"popolazione": 4601
+}

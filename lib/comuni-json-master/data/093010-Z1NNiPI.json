@@ -1,0 +1,22 @@
+{
+	"nome": "Casarsa della Delizia",
+	"codice": "093010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "B940",
+	"cap": [
+		"33072"
+	],
+	"popolazione": 8440
+}

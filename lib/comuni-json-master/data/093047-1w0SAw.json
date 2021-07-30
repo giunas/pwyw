@@ -1,0 +1,22 @@
+{
+	"nome": "Travesio",
+	"codice": "093047",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "L347",
+	"cap": [
+		"33090"
+	],
+	"popolazione": 1814
+}

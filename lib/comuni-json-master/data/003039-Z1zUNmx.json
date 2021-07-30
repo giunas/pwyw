@@ -1,0 +1,22 @@
+{
+	"nome": "Casaleggio Novara",
+	"codice": "003039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "B883",
+	"cap": [
+		"28060"
+	],
+	"popolazione": 930
+}

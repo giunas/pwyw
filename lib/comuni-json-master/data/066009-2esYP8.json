@@ -1,0 +1,22 @@
+{
+	"nome": "Barisciano",
+	"codice": "066009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "A667",
+	"cap": [
+		"67021"
+	],
+	"popolazione": 1853
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cervicati",
+	"codice": "078038",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "C554",
+	"cap": [
+		"87010"
+	],
+	"popolazione": 888
+}

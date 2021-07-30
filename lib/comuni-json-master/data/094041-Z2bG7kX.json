@@ -1,0 +1,22 @@
+{
+	"nome": "Roccasicura",
+	"codice": "094041",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "H445",
+	"cap": [
+		"86080"
+	],
+	"popolazione": 559
+}

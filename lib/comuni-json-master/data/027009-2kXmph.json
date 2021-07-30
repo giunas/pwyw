@@ -1,0 +1,22 @@
+{
+	"nome": "Cinto Caomaggiore",
+	"codice": "027009",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "C714",
+	"cap": [
+		"30020"
+	],
+	"popolazione": 3285
+}

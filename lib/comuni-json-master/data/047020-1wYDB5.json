@@ -1,0 +1,22 @@
+{
+	"nome": "Serravalle Pistoiese",
+	"codice": "047020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "I660",
+	"cap": [
+		"51034"
+	],
+	"popolazione": 11517
+}

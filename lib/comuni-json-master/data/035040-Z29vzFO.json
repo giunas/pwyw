@@ -1,0 +1,22 @@
+{
+	"nome": "Scandiano",
+	"codice": "035040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "I496",
+	"cap": [
+		"42019"
+	],
+	"popolazione": 24792
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni del Dosso",
+	"codice": "020058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "H912",
+	"cap": [
+		"46020"
+	],
+	"popolazione": 1298
+}

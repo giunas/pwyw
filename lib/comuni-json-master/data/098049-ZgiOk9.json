@@ -1,0 +1,22 @@
+{
+	"nome": "San Rocco al Porto",
+	"codice": "098049",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "I140",
+	"cap": [
+		"26865"
+	],
+	"popolazione": 3464
+}

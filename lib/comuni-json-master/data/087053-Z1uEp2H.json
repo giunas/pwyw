@@ -1,0 +1,22 @@
+{
+	"nome": "Viagrande",
+	"codice": "087053",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "L828",
+	"cap": [
+		"95029"
+	],
+	"popolazione": 8155
+}

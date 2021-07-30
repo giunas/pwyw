@@ -1,0 +1,22 @@
+{
+	"nome": "Alto Reno Terme",
+	"codice": "037062",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "M369",
+	"cap": [
+		"40046"
+	],
+	"popolazione": 6967
+}

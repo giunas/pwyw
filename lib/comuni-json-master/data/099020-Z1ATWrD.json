@@ -1,0 +1,22 @@
+{
+	"nome": "Verucchio",
+	"codice": "099020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "L797",
+	"cap": [
+		"47826"
+	],
+	"popolazione": 9960
+}

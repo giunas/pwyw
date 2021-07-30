@@ -1,0 +1,22 @@
+{
+	"nome": "Massello",
+	"codice": "001145",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F041",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 58
+}

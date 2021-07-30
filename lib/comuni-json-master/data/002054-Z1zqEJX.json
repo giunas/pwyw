@@ -1,0 +1,22 @@
+{
+	"nome": "Desana",
+	"codice": "002054",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "D281",
+	"cap": [
+		"13034"
+	],
+	"popolazione": 1055
+}

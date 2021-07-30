@@ -1,0 +1,22 @@
+{
+	"nome": "San Giuliano Terme",
+	"codice": "050031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "A562",
+	"cap": [
+		"56017"
+	],
+	"popolazione": 31103
+}

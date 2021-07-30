@@ -1,0 +1,22 @@
+{
+	"nome": "Ficulle",
+	"codice": "055013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "D570",
+	"cap": [
+		"05016"
+	],
+	"popolazione": 1695
+}

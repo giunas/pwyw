@@ -1,0 +1,22 @@
+{
+	"nome": "Civiasco",
+	"codice": "002043",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "C757",
+	"cap": [
+		"13010"
+	],
+	"popolazione": 265
+}

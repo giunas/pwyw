@@ -1,0 +1,22 @@
+{
+	"nome": "Castelforte",
+	"codice": "059004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "C104",
+	"cap": [
+		"04021"
+	],
+	"popolazione": 4401
+}

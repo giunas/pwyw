@@ -1,0 +1,22 @@
+{
+	"nome": "Vallo della Lucania",
+	"codice": "065154",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "L628",
+	"cap": [
+		"84078"
+	],
+	"popolazione": 8680
+}

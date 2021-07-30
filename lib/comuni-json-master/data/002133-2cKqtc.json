@@ -1,0 +1,22 @@
+{
+	"nome": "Santhià",
+	"codice": "002133",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "I337",
+	"cap": [
+		"13048"
+	],
+	"popolazione": 8825
+}

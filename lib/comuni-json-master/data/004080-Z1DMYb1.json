@@ -1,0 +1,22 @@
+{
+	"nome": "Diano d'Alba",
+	"codice": "004080",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D291",
+	"cap": [
+		"12055"
+	],
+	"popolazione": 3451
+}

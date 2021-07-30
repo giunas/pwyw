@@ -1,0 +1,22 @@
+{
+	"nome": "Sanguinetto",
+	"codice": "023072",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H944",
+	"cap": [
+		"37058"
+	],
+	"popolazione": 4140
+}

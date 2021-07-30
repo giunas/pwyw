@@ -1,0 +1,22 @@
+{
+	"nome": "Montecorvino Rovella",
+	"codice": "065073",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F481",
+	"cap": [
+		"84096"
+	],
+	"popolazione": 12553
+}

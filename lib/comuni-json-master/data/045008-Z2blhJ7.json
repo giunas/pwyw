@@ -1,0 +1,22 @@
+{
+	"nome": "Fosdinovo",
+	"codice": "045008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "D735",
+	"cap": [
+		"54035"
+	],
+	"popolazione": 4971
+}

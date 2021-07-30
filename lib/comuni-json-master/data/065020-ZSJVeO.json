@@ -1,0 +1,22 @@
+{
+	"nome": "Calvanico",
+	"codice": "065020",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B437",
+	"cap": [
+		"84080"
+	],
+	"popolazione": 1570
+}

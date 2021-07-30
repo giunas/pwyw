@@ -1,0 +1,22 @@
+{
+	"nome": "Nereto",
+	"codice": "067031",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "F870",
+	"cap": [
+		"64015"
+	],
+	"popolazione": 5075
+}

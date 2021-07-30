@@ -1,0 +1,22 @@
+{
+	"nome": "Mazzano Romano",
+	"codice": "058058",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F064",
+	"cap": [
+		"00060"
+	],
+	"popolazione": 3056
+}

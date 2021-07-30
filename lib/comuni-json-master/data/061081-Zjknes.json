@@ -1,0 +1,22 @@
+{
+	"nome": "San Prisco",
+	"codice": "061081",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I131",
+	"cap": [
+		"81054"
+	],
+	"popolazione": 11903
+}

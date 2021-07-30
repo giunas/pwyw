@@ -1,0 +1,22 @@
+{
+	"nome": "Agnone",
+	"codice": "094002",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "A080",
+	"cap": [
+		"86081"
+	],
+	"popolazione": 5240
+}

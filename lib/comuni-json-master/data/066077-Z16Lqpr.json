@@ -1,0 +1,22 @@
+{
+	"nome": "Raiano",
+	"codice": "066077",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "H166",
+	"cap": [
+		"67027"
+	],
+	"popolazione": 2812
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Villanova Truschedu",
+	"codice": "095071",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "L991",
+	"cap": [
+		"09084"
+	],
+	"popolazione": 323
+}

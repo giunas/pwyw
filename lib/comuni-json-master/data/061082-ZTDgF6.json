@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Maria a Vico",
+	"codice": "061082",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I233",
+	"cap": [
+		"81028"
+	],
+	"popolazione": 14134
+}

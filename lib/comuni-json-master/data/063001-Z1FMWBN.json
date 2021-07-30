@@ -1,0 +1,22 @@
+{
+	"nome": "Acerra",
+	"codice": "063001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A024",
+	"cap": [
+		"80011"
+	],
+	"popolazione": 56465
+}

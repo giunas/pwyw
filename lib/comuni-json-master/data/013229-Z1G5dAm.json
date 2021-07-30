@@ -1,0 +1,22 @@
+{
+	"nome": "Valbrona",
+	"codice": "013229",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "L547",
+	"cap": [
+		"22039"
+	],
+	"popolazione": 2656
+}

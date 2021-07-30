@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Sofia d'Epiro",
+	"codice": "078133",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "I309",
+	"cap": [
+		"87048"
+	],
+	"popolazione": 2748
+}

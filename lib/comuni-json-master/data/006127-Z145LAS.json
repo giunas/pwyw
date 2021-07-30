@@ -1,0 +1,22 @@
+{
+	"nome": "Pasturana",
+	"codice": "006127",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "G367",
+	"cap": [
+		"15060"
+	],
+	"popolazione": 1256
+}

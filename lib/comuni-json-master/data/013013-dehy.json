@@ -1,0 +1,22 @@
+{
+	"nome": "Asso",
+	"codice": "013013",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "A476",
+	"cap": [
+		"22033"
+	],
+	"popolazione": 3625
+}

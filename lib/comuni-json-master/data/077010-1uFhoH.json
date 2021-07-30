@@ -1,0 +1,22 @@
+{
+	"nome": "Gorgoglione",
+	"codice": "077010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "E093",
+	"cap": [
+		"75010"
+	],
+	"popolazione": 1053
+}

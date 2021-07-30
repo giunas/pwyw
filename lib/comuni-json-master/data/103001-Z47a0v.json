@@ -1,0 +1,22 @@
+{
+	"nome": "Antrona Schieranco",
+	"codice": "103001",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "A317",
+	"cap": [
+		"28841"
+	],
+	"popolazione": 467
+}

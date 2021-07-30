@@ -1,0 +1,22 @@
+{
+	"nome": "Barga",
+	"codice": "046003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "A657",
+	"cap": [
+		"55051"
+	],
+	"popolazione": 10125
+}

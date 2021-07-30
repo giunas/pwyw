@@ -1,0 +1,22 @@
+{
+	"nome": "Loro Ciuffenna",
+	"codice": "051020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "E693",
+	"cap": [
+		"52024"
+	],
+	"popolazione": 5892
+}

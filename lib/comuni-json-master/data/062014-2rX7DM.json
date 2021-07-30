@@ -1,0 +1,22 @@
+{
+	"nome": "Campoli del Monte Taburno",
+	"codice": "062014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "B542",
+	"cap": [
+		"82030"
+	],
+	"popolazione": 1546
+}

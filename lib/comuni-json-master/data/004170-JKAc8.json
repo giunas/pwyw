@@ -1,0 +1,22 @@
+{
+	"nome": "Pocapaglia",
+	"codice": "004170",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G742",
+	"cap": [
+		"12060"
+	],
+	"popolazione": 3330
+}

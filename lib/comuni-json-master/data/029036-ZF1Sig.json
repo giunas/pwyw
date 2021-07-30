@@ -1,0 +1,22 @@
+{
+	"nome": "Pincara",
+	"codice": "029036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "G673",
+	"cap": [
+		"45020"
+	],
+	"popolazione": 1262
+}

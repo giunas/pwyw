@@ -1,0 +1,22 @@
+{
+	"nome": "Sutera",
+	"codice": "085020",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "085",
+		"nome": "Caltanissetta"
+	},
+	"sigla": "CL",
+	"codiceCatastale": "L016",
+	"cap": [
+		"93010"
+	],
+	"popolazione": 1436
+}

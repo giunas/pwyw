@@ -1,0 +1,22 @@
+{
+	"nome": "Velo Veronese",
+	"codice": "023090",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "L722",
+	"cap": [
+		"37030"
+	],
+	"popolazione": 781
+}

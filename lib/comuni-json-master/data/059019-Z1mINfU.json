@@ -1,0 +1,22 @@
+{
+	"nome": "Priverno",
+	"codice": "059019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "G698",
+	"cap": [
+		"04015"
+	],
+	"popolazione": 13891
+}

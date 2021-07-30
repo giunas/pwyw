@@ -1,0 +1,22 @@
+{
+	"nome": "Sapri",
+	"codice": "065134",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I422",
+	"cap": [
+		"84073"
+	],
+	"popolazione": 6809
+}

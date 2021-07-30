@@ -1,0 +1,22 @@
+{
+	"nome": "Cavargna",
+	"codice": "013062",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C381",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 242
+}

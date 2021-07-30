@@ -1,0 +1,22 @@
+{
+	"nome": "Laterina Pergine Valdarno",
+	"codice": "051042",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "M392",
+	"cap": [
+		"52019"
+	],
+	"popolazione": 6759
+}

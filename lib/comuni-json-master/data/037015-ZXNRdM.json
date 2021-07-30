@@ -1,0 +1,22 @@
+{
+	"nome": "Castel di Casio",
+	"codice": "037015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "B969",
+	"cap": [
+		"40030"
+	],
+	"popolazione": 3479
+}

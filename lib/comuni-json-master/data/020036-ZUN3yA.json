@@ -1,0 +1,22 @@
+{
+	"nome": "Monzambano",
+	"codice": "020036",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "F705",
+	"cap": [
+		"46040"
+	],
+	"popolazione": 4837
+}

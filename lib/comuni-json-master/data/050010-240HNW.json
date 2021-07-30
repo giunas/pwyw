@@ -1,0 +1,22 @@
+{
+	"nome": "Castellina Marittima",
+	"codice": "050010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "C174",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 1985
+}

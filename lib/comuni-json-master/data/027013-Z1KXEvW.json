@@ -1,0 +1,22 @@
+{
+	"nome": "Eraclea",
+	"codice": "027013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "D415",
+	"cap": [
+		"30020"
+	],
+	"popolazione": 12689
+}

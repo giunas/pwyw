@@ -1,0 +1,22 @@
+{
+	"nome": "Camastra",
+	"codice": "084008",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "B460",
+	"cap": [
+		"92020"
+	],
+	"popolazione": 2163
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Casalincontrada",
+	"codice": "069016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "B896",
+	"cap": [
+		"66012"
+	],
+	"popolazione": 3153
+}

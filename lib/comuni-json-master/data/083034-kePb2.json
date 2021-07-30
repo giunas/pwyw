@@ -1,0 +1,22 @@
+{
+	"nome": "Graniti",
+	"codice": "083034",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E142",
+	"cap": [
+		"98036"
+	],
+	"popolazione": 1522
+}

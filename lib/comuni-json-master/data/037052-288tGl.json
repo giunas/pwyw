@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorgio di Piano",
+	"codice": "037052",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "H896",
+	"cap": [
+		"40016"
+	],
+	"popolazione": 8201
+}

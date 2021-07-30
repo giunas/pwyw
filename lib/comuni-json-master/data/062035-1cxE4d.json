@@ -1,0 +1,22 @@
+{
+	"nome": "Frasso Telesino",
+	"codice": "062035",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "D784",
+	"cap": [
+		"82030"
+	],
+	"popolazione": 2404
+}

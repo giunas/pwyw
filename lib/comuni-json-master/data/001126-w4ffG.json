@@ -1,0 +1,22 @@
+{
+	"nome": "La Cassa",
+	"codice": "001126",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "E394",
+	"cap": [
+		"10040"
+	],
+	"popolazione": 1781
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Quarto d'Altino",
+	"codice": "027031",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "H117",
+	"cap": [
+		"30020"
+	],
+	"popolazione": 8199
+}

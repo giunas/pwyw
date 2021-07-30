@@ -1,0 +1,22 @@
+{
+	"nome": "Alpignano",
+	"codice": "001008",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A222",
+	"cap": [
+		"10091"
+	],
+	"popolazione": 16893
+}

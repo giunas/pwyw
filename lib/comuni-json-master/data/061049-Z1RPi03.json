@@ -1,0 +1,22 @@
+{
+	"nome": "Marcianise",
+	"codice": "061049",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "E932",
+	"cap": [
+		"81025"
+	],
+	"popolazione": 40297
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Scopa",
+	"codice": "002134",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "I544",
+	"cap": [
+		"13027"
+	],
+	"popolazione": 391
+}

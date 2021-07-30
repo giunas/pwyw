@@ -1,0 +1,22 @@
+{
+	"nome": "Cavriago",
+	"codice": "035017",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "C405",
+	"cap": [
+		"42025"
+	],
+	"popolazione": 9698
+}

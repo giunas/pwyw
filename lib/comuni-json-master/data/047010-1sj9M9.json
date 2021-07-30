@@ -1,0 +1,22 @@
+{
+	"nome": "Montale",
+	"codice": "047010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "F410",
+	"cap": [
+		"51037"
+	],
+	"popolazione": 10682
+}

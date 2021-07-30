@@ -1,0 +1,22 @@
+{
+	"nome": "Suno",
+	"codice": "003143",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L007",
+	"cap": [
+		"28019"
+	],
+	"popolazione": 2808
+}

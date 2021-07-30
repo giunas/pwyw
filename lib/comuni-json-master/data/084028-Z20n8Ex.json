@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Empedocle",
+	"codice": "084028",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "F299",
+	"cap": [
+		"92014"
+	],
+	"popolazione": 16841
+}

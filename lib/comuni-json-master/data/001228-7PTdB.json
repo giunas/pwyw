@@ -1,0 +1,22 @@
+{
+	"nome": "Rosta",
+	"codice": "001228",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H583",
+	"cap": [
+		"10090"
+	],
+	"popolazione": 4621
+}

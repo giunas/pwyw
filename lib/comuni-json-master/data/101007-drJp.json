@@ -1,0 +1,22 @@
+{
+	"nome": "Cirò",
+	"codice": "101007",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "101",
+		"nome": "Crotone"
+	},
+	"sigla": "KR",
+	"codiceCatastale": "C725",
+	"cap": [
+		"88813"
+	],
+	"popolazione": 3125
+}

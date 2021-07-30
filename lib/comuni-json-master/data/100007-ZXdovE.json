@@ -1,0 +1,22 @@
+{
+	"nome": "Vernio",
+	"codice": "100007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "100",
+		"nome": "Prato"
+	},
+	"sigla": "PO",
+	"codiceCatastale": "L775",
+	"cap": [
+		"59024"
+	],
+	"popolazione": 6012
+}

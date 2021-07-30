@@ -1,0 +1,22 @@
+{
+	"nome": "Bereguardo",
+	"codice": "018014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "A792",
+	"cap": [
+		"27021"
+	],
+	"popolazione": 2775
+}

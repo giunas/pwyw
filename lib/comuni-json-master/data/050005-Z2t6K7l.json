@@ -1,0 +1,22 @@
+{
+	"nome": "Capannoli",
+	"codice": "050005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "B647",
+	"cap": [
+		"56033"
+	],
+	"popolazione": 6213
+}

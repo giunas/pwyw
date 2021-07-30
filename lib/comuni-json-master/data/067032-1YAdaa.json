@@ -1,0 +1,22 @@
+{
+	"nome": "Notaresco",
+	"codice": "067032",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "F942",
+	"cap": [
+		"64024"
+	],
+	"popolazione": 6863
+}

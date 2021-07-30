@@ -1,0 +1,22 @@
+{
+	"nome": "Sermoneta",
+	"codice": "059027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "I634",
+	"cap": [
+		"04013"
+	],
+	"popolazione": 9129
+}

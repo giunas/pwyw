@@ -1,0 +1,22 @@
+{
+	"nome": "Macerata",
+	"codice": "043023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "E783",
+	"cap": [
+		"62100"
+	],
+	"popolazione": 42019
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fossombrone",
+	"codice": "041015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "D749",
+	"cap": [
+		"61034"
+	],
+	"popolazione": 9858
+}

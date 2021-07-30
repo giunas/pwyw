@@ -1,0 +1,22 @@
+{
+	"nome": "Selva di Progno",
+	"codice": "023080",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "I594",
+	"cap": [
+		"37030"
+	],
+	"popolazione": 934
+}

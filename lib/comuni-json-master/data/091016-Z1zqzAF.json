@@ -1,0 +1,22 @@
+{
+	"nome": "Desulo",
+	"codice": "091016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "D287",
+	"cap": [
+		"08032"
+	],
+	"popolazione": 2465
+}

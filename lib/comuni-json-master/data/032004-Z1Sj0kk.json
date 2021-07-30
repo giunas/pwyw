@@ -1,0 +1,22 @@
+{
+	"nome": "San Dorligo della Valle",
+	"codice": "032004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "032",
+		"nome": "Trieste"
+	},
+	"sigla": "TS",
+	"codiceCatastale": "D324",
+	"cap": [
+		"34018"
+	],
+	"popolazione": 5912
+}

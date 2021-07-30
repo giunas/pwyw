@@ -1,0 +1,22 @@
+{
+	"nome": "Cuccaro Vetere",
+	"codice": "065049",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "D195",
+	"cap": [
+		"84050"
+	],
+	"popolazione": 580
+}

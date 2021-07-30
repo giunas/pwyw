@@ -1,0 +1,22 @@
+{
+	"nome": "Narzole",
+	"codice": "004147",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F846",
+	"cap": [
+		"12068"
+	],
+	"popolazione": 3532
+}

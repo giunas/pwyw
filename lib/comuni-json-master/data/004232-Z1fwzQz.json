@@ -1,0 +1,22 @@
+{
+	"nome": "Trinità",
+	"codice": "004232",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "L427",
+	"cap": [
+		"12049"
+	],
+	"popolazione": 2188
+}

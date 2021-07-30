@@ -1,0 +1,22 @@
+{
+	"nome": "Mulazzo",
+	"codice": "045012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "F802",
+	"cap": [
+		"54026"
+	],
+	"popolazione": 2566
+}

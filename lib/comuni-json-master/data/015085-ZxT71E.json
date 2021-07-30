@@ -1,0 +1,22 @@
+{
+	"nome": "Corbetta",
+	"codice": "015085",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C986",
+	"cap": [
+		"20011"
+	],
+	"popolazione": 17460
+}

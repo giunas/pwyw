@@ -1,0 +1,22 @@
+{
+	"nome": "Atri",
+	"codice": "067004",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "A488",
+	"cap": [
+		"64032"
+	],
+	"popolazione": 11112
+}

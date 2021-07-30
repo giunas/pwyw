@@ -1,0 +1,22 @@
+{
+	"nome": "Ruoti",
+	"codice": "076071",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "H641",
+	"cap": [
+		"85056"
+	],
+	"popolazione": 3542
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Gaiole in Chianti",
+	"codice": "052013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "D858",
+	"cap": [
+		"53013"
+	],
+	"popolazione": 2758
+}

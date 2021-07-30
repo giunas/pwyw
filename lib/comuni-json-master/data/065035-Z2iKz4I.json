@@ -1,0 +1,22 @@
+{
+	"nome": "Castel San Lorenzo",
+	"codice": "065035",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C262",
+	"cap": [
+		"84049"
+	],
+	"popolazione": 2632
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Capraia Isola",
+	"codice": "049005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "B685",
+	"cap": [
+		"57032"
+	],
+	"popolazione": 394
+}

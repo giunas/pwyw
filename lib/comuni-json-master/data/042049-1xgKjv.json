@@ -1,0 +1,22 @@
+{
+	"nome": "Staffolo",
+	"codice": "042049",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "I932",
+	"cap": [
+		"60039"
+	],
+	"popolazione": 2290
+}

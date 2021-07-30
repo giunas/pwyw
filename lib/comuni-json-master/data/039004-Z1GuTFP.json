@@ -1,0 +1,22 @@
+{
+	"nome": "Brisighella",
+	"codice": "039004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "B188",
+	"cap": [
+		"48013"
+	],
+	"popolazione": 7664
+}

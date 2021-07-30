@@ -1,0 +1,22 @@
+{
+	"nome": "Castilenti",
+	"codice": "067014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C322",
+	"cap": [
+		"64035"
+	],
+	"popolazione": 1551
+}

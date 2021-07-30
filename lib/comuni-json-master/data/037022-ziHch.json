@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione dei Pepoli",
+	"codice": "037022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "C296",
+	"cap": [
+		"40035"
+	],
+	"popolazione": 5870
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Magnano",
+	"codice": "096030",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "E821",
+	"cap": [
+		"13887"
+	],
+	"popolazione": 378
+}

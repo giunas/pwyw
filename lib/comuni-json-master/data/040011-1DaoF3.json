@@ -1,0 +1,22 @@
+{
+	"nome": "Dovadola",
+	"codice": "040011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "D357",
+	"cap": [
+		"47013"
+	],
+	"popolazione": 1661
+}

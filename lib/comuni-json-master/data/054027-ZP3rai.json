@@ -1,0 +1,22 @@
+{
+	"nome": "Marsciano",
+	"codice": "054027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "E975",
+	"cap": [
+		"06055"
+	],
+	"popolazione": 18701
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Arizzano",
+	"codice": "103003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "A409",
+	"cap": [
+		"28811"
+	],
+	"popolazione": 2040
+}

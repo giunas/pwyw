@@ -1,0 +1,22 @@
+{
+	"nome": "Ardenno",
+	"codice": "014005",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "A382",
+	"cap": [
+		"23011"
+	],
+	"popolazione": 3270
+}

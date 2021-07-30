@@ -1,0 +1,22 @@
+{
+	"nome": "Caravonica",
+	"codice": "008012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "B734",
+	"cap": [
+		"18020"
+	],
+	"popolazione": 303
+}

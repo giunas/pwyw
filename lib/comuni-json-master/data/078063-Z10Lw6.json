@@ -1,0 +1,22 @@
+{
+	"nome": "Laino Borgo",
+	"codice": "078063",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "E417",
+	"cap": [
+		"87014"
+	],
+	"popolazione": 2027
+}

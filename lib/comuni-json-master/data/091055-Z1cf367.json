@@ -1,0 +1,22 @@
+{
+	"nome": "Oliena",
+	"codice": "091055",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "G031",
+	"cap": [
+		"08025"
+	],
+	"popolazione": 7355
+}

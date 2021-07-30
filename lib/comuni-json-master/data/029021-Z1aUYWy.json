@@ -1,0 +1,22 @@
+{
+	"nome": "Ficarolo",
+	"codice": "029021",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "D568",
+	"cap": [
+		"45036"
+	],
+	"popolazione": 2609
+}

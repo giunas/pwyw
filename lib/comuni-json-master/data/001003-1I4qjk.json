@@ -1,0 +1,22 @@
+{
+	"nome": "Ala di Stura",
+	"codice": "001003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A117",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 462
+}

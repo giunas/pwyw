@@ -1,0 +1,22 @@
+{
+	"nome": "Crotta d'Adda",
+	"codice": "019038",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "D186",
+	"cap": [
+		"26020"
+	],
+	"popolazione": 654
+}

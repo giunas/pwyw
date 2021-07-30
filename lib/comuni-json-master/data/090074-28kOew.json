@@ -1,0 +1,22 @@
+{
+	"nome": "Trinità d'Agultu e Vignola",
+	"codice": "090074",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "L428",
+	"cap": [
+		"07038"
+	],
+	"popolazione": 2155
+}

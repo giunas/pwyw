@@ -1,0 +1,22 @@
+{
+	"nome": "Nemi",
+	"codice": "058070",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F865",
+	"cap": [
+		"00074"
+	],
+	"popolazione": 1925
+}

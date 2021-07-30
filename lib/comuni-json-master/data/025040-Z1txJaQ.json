@@ -1,0 +1,22 @@
+{
+	"nome": "Ponte nelle Alpi",
+	"codice": "025040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "B662",
+	"cap": [
+		"32014"
+	],
+	"popolazione": 8387
+}

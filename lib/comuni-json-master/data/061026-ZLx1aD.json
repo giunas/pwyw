@@ -1,0 +1,22 @@
+{
+	"nome": "Castel Morrone",
+	"codice": "061026",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "C211",
+	"cap": [
+		"81020"
+	],
+	"popolazione": 3934
+}

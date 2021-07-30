@@ -1,0 +1,22 @@
+{
+	"nome": "Lambrugo",
+	"codice": "013121",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "E428",
+	"cap": [
+		"22045"
+	],
+	"popolazione": 2469
+}

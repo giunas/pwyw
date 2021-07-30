@@ -1,0 +1,22 @@
+{
+	"nome": "Falconara Albanese",
+	"codice": "078052",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "D473",
+	"cap": [
+		"87030"
+	],
+	"popolazione": 1405
+}

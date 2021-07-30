@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorgio Bigarello",
+	"codice": "020057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "H883",
+	"cap": [
+		"46030"
+	],
+	"popolazione": 11481
+}

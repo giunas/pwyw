@@ -1,0 +1,22 @@
+{
+	"nome": "Carbonate",
+	"codice": "013045",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B742",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 2905
+}

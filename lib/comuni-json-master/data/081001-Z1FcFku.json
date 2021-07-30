@@ -1,0 +1,22 @@
+{
+	"nome": "Alcamo",
+	"codice": "081001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "A176",
+	"cap": [
+		"91011"
+	],
+	"popolazione": 45314
+}

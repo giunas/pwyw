@@ -1,0 +1,22 @@
+{
+	"nome": "Florinas",
+	"codice": "090029",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "D637",
+	"cap": [
+		"07030"
+	],
+	"popolazione": 1547
+}

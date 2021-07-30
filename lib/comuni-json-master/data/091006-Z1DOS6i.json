@@ -1,0 +1,22 @@
+{
+	"nome": "Baunei",
+	"codice": "091006",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "A722",
+	"cap": [
+		"08040"
+	],
+	"popolazione": 3716
+}

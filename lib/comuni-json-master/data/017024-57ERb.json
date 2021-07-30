@@ -1,0 +1,22 @@
+{
+	"nome": "Bovegno",
+	"codice": "017024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B100",
+	"cap": [
+		"25061"
+	],
+	"popolazione": 2269
+}

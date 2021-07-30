@@ -1,0 +1,22 @@
+{
+	"nome": "Lanciano",
+	"codice": "069046",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "E435",
+	"cap": [
+		"66034"
+	],
+	"popolazione": 35921
+}

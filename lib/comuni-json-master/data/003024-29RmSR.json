@@ -1,0 +1,22 @@
+{
+	"nome": "Borgomanero",
+	"codice": "003024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "B019",
+	"cap": [
+		"28021"
+	],
+	"popolazione": 21166
+}

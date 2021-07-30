@@ -1,0 +1,22 @@
+{
+	"nome": "Vitulazio",
+	"codice": "061100",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "M092",
+	"cap": [
+		"81041"
+	],
+	"popolazione": 7020
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Civitella in Val di Chiana",
+	"codice": "051016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C774",
+	"cap": [
+		"52041"
+	],
+	"popolazione": 9111
+}

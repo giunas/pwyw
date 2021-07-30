@@ -1,0 +1,22 @@
+{
+	"nome": "Bibbiano",
+	"codice": "035004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "A850",
+	"cap": [
+		"42021"
+	],
+	"popolazione": 9965
+}

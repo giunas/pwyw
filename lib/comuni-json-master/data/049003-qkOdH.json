@@ -1,0 +1,22 @@
+{
+	"nome": "Campo nell'Elba",
+	"codice": "049003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "B553",
+	"cap": [
+		"57034"
+	],
+	"popolazione": 4553
+}

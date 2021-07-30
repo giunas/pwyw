@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Vittoria in Matenano",
+	"codice": "109036",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "I315",
+	"cap": [
+		"63854"
+	],
+	"popolazione": 1422
+}

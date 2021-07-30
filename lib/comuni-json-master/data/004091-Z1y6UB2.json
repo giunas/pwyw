@@ -1,0 +1,22 @@
+{
+	"nome": "Frabosa Sottana",
+	"codice": "004091",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D752",
+	"cap": [
+		"12083"
+	],
+	"popolazione": 1494
+}

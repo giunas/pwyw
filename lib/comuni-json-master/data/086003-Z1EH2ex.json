@@ -1,0 +1,22 @@
+{
+	"nome": "Assoro",
+	"codice": "086003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "A478",
+	"cap": [
+		"94010"
+	],
+	"popolazione": 5366
+}

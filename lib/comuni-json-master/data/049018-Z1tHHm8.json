@@ -1,0 +1,22 @@
+{
+	"nome": "San Vincenzo",
+	"codice": "049018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "I390",
+	"cap": [
+		"57027"
+	],
+	"popolazione": 7023
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Pettoranello del Molise",
+	"codice": "094034",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "G523",
+	"cap": [
+		"86090"
+	],
+	"popolazione": 459
+}

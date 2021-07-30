@@ -1,0 +1,22 @@
+{
+	"nome": "Lama Mocogno",
+	"codice": "036018",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "E426",
+	"cap": [
+		"41023"
+	],
+	"popolazione": 2844
+}

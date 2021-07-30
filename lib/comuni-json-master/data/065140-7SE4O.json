@@ -1,0 +1,22 @@
+{
+	"nome": "Serre",
+	"codice": "065140",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I666",
+	"cap": [
+		"84028"
+	],
+	"popolazione": 3956
+}

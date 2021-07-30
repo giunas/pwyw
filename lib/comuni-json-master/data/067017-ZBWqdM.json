@@ -1,0 +1,22 @@
+{
+	"nome": "Civitella del Tronto",
+	"codice": "067017",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C781",
+	"cap": [
+		"64010"
+	],
+	"popolazione": 5333
+}

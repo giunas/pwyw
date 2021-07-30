@@ -1,0 +1,22 @@
+{
+	"nome": "Altomonte",
+	"codice": "078009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "A240",
+	"cap": [
+		"87042"
+	],
+	"popolazione": 4341
+}

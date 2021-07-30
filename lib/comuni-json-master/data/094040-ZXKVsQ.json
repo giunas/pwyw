@@ -1,0 +1,22 @@
+{
+	"nome": "Roccamandolfi",
+	"codice": "094040",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "H420",
+	"cap": [
+		"86092"
+	],
+	"popolazione": 987
+}

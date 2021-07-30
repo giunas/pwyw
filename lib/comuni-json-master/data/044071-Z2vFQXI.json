@@ -1,0 +1,22 @@
+{
+	"nome": "Spinetoli",
+	"codice": "044071",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "I912",
+	"cap": [
+		"63078"
+	],
+	"popolazione": 7108
+}

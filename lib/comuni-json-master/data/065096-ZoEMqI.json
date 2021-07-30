@@ -1,0 +1,22 @@
+{
+	"nome": "Pisciotta",
+	"codice": "065096",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G707",
+	"cap": [
+		"84066"
+	],
+	"popolazione": 2748
+}

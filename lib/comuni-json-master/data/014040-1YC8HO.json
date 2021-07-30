@@ -1,0 +1,22 @@
+{
+	"nome": "Mazzo di Valtellina",
+	"codice": "014040",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "F070",
+	"cap": [
+		"23030"
+	],
+	"popolazione": 1041
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Voltago Agordino",
+	"codice": "025067",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "M124",
+	"cap": [
+		"32020"
+	],
+	"popolazione": 914
+}

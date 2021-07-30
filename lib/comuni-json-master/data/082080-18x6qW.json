@@ -1,0 +1,22 @@
+{
+	"nome": "Villafrati",
+	"codice": "082080",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "L951",
+	"cap": [
+		"90030"
+	],
+	"popolazione": 3377
+}

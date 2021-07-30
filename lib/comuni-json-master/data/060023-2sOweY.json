@@ -1,0 +1,22 @@
+{
+	"nome": "Castro dei Volsci",
+	"codice": "060023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "C338",
+	"cap": [
+		"03020"
+	],
+	"popolazione": 4903
+}

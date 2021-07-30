@@ -1,0 +1,22 @@
+{
+	"nome": "Rezzo",
+	"codice": "008049",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "H257",
+	"cap": [
+		"18026"
+	],
+	"popolazione": 371
+}

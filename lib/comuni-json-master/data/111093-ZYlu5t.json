@@ -1,0 +1,22 @@
+{
+	"nome": "Ussana",
+	"codice": "111093",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "L512",
+	"cap": [
+		"09020"
+	],
+	"popolazione": 4285
+}

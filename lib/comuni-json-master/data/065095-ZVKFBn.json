@@ -1,0 +1,22 @@
+{
+	"nome": "Piaggine",
+	"codice": "065095",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G538",
+	"cap": [
+		"84065"
+	],
+	"popolazione": 1447
+}

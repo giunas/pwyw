@@ -1,0 +1,22 @@
+{
+	"nome": "Appiano sulla strada del vino",
+	"codice": "021004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "A332",
+	"cap": [
+		"39057"
+	],
+	"popolazione": 13988
+}

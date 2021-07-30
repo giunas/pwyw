@@ -1,0 +1,22 @@
+{
+	"nome": "Ispica",
+	"codice": "088005",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "E366",
+	"cap": [
+		"97014"
+	],
+	"popolazione": 15122
+}

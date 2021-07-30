@@ -1,0 +1,22 @@
+{
+	"nome": "Controne",
+	"codice": "065045",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C973",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 872
+}

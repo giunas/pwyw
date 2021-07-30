@@ -1,0 +1,22 @@
+{
+	"nome": "Cernobbio",
+	"codice": "013065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C520",
+	"cap": [
+		"22012"
+	],
+	"popolazione": 6830
+}

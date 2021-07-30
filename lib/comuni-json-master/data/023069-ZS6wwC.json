@@ -1,0 +1,22 @@
+{
+	"nome": "San Bonifacio",
+	"codice": "023069",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H783",
+	"cap": [
+		"37047"
+	],
+	"popolazione": 20275
+}

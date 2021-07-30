@@ -1,0 +1,22 @@
+{
+	"nome": "Bivongi",
+	"codice": "080010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "A897",
+	"cap": [
+		"89040"
+	],
+	"popolazione": 1398
+}

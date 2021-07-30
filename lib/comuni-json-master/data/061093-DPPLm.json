@@ -1,0 +1,22 @@
+{
+	"nome": "Tora e Piccilli",
+	"codice": "061093",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "L205",
+	"cap": [
+		"81044"
+	],
+	"popolazione": 947
+}

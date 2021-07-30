@@ -1,0 +1,22 @@
+{
+	"nome": "Envie",
+	"codice": "004085",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D412",
+	"cap": [
+		"12030"
+	],
+	"popolazione": 2057
+}

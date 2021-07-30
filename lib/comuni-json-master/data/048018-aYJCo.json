@@ -1,0 +1,22 @@
+{
+	"nome": "Firenzuola",
+	"codice": "048018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "D613",
+	"cap": [
+		"50033"
+	],
+	"popolazione": 4828
+}

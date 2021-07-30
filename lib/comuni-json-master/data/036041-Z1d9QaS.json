@@ -1,0 +1,22 @@
+{
+	"nome": "Savignano sul Panaro",
+	"codice": "036041",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "I473",
+	"cap": [
+		"41056"
+	],
+	"popolazione": 9276
+}

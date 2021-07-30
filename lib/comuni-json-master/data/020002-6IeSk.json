@@ -1,0 +1,22 @@
+{
+	"nome": "Asola",
+	"codice": "020002",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "A470",
+	"cap": [
+		"46041"
+	],
+	"popolazione": 10077
+}

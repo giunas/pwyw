@@ -1,0 +1,22 @@
+{
+	"nome": "Partinico",
+	"codice": "082054",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "G348",
+	"cap": [
+		"90047"
+	],
+	"popolazione": 31401
+}

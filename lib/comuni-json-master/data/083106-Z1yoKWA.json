@@ -1,0 +1,22 @@
+{
+	"nome": "Terme Vigliatore",
+	"codice": "083106",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "M210",
+	"cap": [
+		"98050"
+	],
+	"popolazione": 7213
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cavaglià",
+	"codice": "096016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "C363",
+	"cap": [
+		"13881"
+	],
+	"popolazione": 3625
+}

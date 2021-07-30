@@ -1,0 +1,22 @@
+{
+	"nome": "Frontino",
+	"codice": "041017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "D807",
+	"cap": [
+		"61021"
+	],
+	"popolazione": 313
+}

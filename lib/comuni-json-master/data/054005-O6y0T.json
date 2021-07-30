@@ -1,0 +1,22 @@
+{
+	"nome": "Campello sul Clitunno",
+	"codice": "054005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "B504",
+	"cap": [
+		"06042"
+	],
+	"popolazione": 2500
+}

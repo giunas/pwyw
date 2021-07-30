@@ -1,0 +1,22 @@
+{
+	"nome": "Veglio",
+	"codice": "096075",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "L712",
+	"cap": [
+		"13824"
+	],
+	"popolazione": 566
+}

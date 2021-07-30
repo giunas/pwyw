@@ -1,0 +1,22 @@
+{
+	"nome": "Appiano Gentile",
+	"codice": "013010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "A333",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 7718
+}

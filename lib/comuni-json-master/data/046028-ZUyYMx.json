@@ -1,0 +1,22 @@
+{
+	"nome": "Seravezza",
+	"codice": "046028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "I622",
+	"cap": [
+		"55047"
+	],
+	"popolazione": 13238
+}

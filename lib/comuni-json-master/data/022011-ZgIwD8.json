@@ -1,0 +1,22 @@
+{
+	"nome": "Bedollo",
+	"codice": "022011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "A730",
+	"cap": [
+		"38043"
+	],
+	"popolazione": 1479
+}

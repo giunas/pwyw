@@ -1,0 +1,22 @@
+{
+	"nome": "Marigliano",
+	"codice": "063043",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E955",
+	"cap": [
+		"80034"
+	],
+	"popolazione": 30247
+}

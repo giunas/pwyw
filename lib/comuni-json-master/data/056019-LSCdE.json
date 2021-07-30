@@ -1,0 +1,22 @@
+{
+	"nome": "Celleno",
+	"codice": "056019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "C446",
+	"cap": [
+		"01020"
+	],
+	"popolazione": 1343
+}

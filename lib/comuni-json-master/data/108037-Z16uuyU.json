@@ -1,0 +1,22 @@
+{
+	"nome": "Renate",
+	"codice": "108037",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "H233",
+	"cap": [
+		"20838"
+	],
+	"popolazione": 4177
+}

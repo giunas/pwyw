@@ -1,0 +1,22 @@
+{
+	"nome": "Badia Tedalda",
+	"codice": "051003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "A541",
+	"cap": [
+		"52032"
+	],
+	"popolazione": 1091
+}

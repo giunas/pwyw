@@ -1,0 +1,22 @@
+{
+	"nome": "San Miniato",
+	"codice": "050032",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "I046",
+	"cap": [
+		"56028"
+	],
+	"popolazione": 27585
+}

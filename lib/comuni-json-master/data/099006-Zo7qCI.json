@@ -1,0 +1,22 @@
+{
+	"nome": "Mondaino",
+	"codice": "099006",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "F346",
+	"cap": [
+		"47836"
+	],
+	"popolazione": 1441
+}

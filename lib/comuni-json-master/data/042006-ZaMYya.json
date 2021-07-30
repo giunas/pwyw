@@ -1,0 +1,22 @@
+{
+	"nome": "Camerano",
+	"codice": "042006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "B468",
+	"cap": [
+		"60021"
+	],
+	"popolazione": 7213
+}

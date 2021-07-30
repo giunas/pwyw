@@ -1,0 +1,22 @@
+{
+	"nome": "Impruneta",
+	"codice": "048022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "E291",
+	"cap": [
+		"50023"
+	],
+	"popolazione": 14667
+}

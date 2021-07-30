@@ -1,0 +1,22 @@
+{
+	"nome": "Piegaro",
+	"codice": "054040",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "G601",
+	"cap": [
+		"06066"
+	],
+	"popolazione": 3799
+}

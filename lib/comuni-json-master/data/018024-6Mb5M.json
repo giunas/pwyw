@@ -1,0 +1,22 @@
+{
+	"nome": "Broni",
+	"codice": "018024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B201",
+	"cap": [
+		"27043"
+	],
+	"popolazione": 9073
+}

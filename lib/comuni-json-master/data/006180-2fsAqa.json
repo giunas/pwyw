@@ -1,0 +1,22 @@
+{
+	"nome": "Vignole Borbera",
+	"codice": "006180",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "L887",
+	"cap": [
+		"15060"
+	],
+	"popolazione": 2245
+}

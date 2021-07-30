@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca Sinibalda",
+	"codice": "057062",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "H446",
+	"cap": [
+		"02026"
+	],
+	"popolazione": 853
+}

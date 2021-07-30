@@ -1,0 +1,22 @@
+{
+	"nome": "Cazzano Sant'Andrea",
+	"codice": "016067",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "C410",
+	"cap": [
+		"24026"
+	],
+	"popolazione": 1594
+}

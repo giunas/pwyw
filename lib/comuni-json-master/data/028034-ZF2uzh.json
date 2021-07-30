@@ -1,0 +1,22 @@
+{
+	"nome": "Conselve",
+	"codice": "028034",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "C964",
+	"cap": [
+		"35026"
+	],
+	"popolazione": 10293
+}

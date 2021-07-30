@@ -1,0 +1,22 @@
+{
+	"nome": "Lirio",
+	"codice": "018082",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "E608",
+	"cap": [
+		"27040"
+	],
+	"popolazione": 136
+}

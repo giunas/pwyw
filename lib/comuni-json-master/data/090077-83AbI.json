@@ -1,0 +1,22 @@
+{
+	"nome": "Usini",
+	"codice": "090077",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "L509",
+	"cap": [
+		"07049"
+	],
+	"popolazione": 4321
+}

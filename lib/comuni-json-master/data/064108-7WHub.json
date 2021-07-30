@@ -1,0 +1,22 @@
+{
+	"nome": "Teora",
+	"codice": "064108",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L102",
+	"cap": [
+		"83056"
+	],
+	"popolazione": 1543
+}

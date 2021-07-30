@@ -1,0 +1,22 @@
+{
+	"nome": "Alvignano",
+	"codice": "061003",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "A243",
+	"cap": [
+		"81012"
+	],
+	"popolazione": 4914
+}

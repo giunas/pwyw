@@ -1,0 +1,22 @@
+{
+	"nome": "Contigliano",
+	"codice": "057025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "C969",
+	"cap": [
+		"02043"
+	],
+	"popolazione": 3601
+}

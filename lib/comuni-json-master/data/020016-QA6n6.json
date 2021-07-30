@@ -1,0 +1,22 @@
+{
+	"nome": "Castellucchio",
+	"codice": "020016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "C195",
+	"cap": [
+		"46014"
+	],
+	"popolazione": 5205
+}

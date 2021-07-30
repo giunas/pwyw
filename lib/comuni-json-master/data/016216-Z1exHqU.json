@@ -1,0 +1,22 @@
+{
+	"nome": "Torre de' Roveri",
+	"codice": "016216",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "L265",
+	"cap": [
+		"24060"
+	],
+	"popolazione": 2310
+}

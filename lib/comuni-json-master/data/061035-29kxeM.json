@@ -1,0 +1,22 @@
+{
+	"nome": "Formicola",
+	"codice": "061035",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "D709",
+	"cap": [
+		"81040"
+	],
+	"popolazione": 1504
+}

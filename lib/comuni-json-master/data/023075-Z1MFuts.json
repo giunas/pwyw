@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro di Morubio",
+	"codice": "023075",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "I105",
+	"cap": [
+		"37050"
+	],
+	"popolazione": 3024
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Solarolo",
+	"codice": "039018",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "I787",
+	"cap": [
+		"48027"
+	],
+	"popolazione": 4489
+}

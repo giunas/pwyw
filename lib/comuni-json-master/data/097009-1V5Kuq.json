@@ -1,0 +1,22 @@
+{
+	"nome": "Bosisio Parini",
+	"codice": "097009",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "B081",
+	"cap": [
+		"23842"
+	],
+	"popolazione": 3504
+}

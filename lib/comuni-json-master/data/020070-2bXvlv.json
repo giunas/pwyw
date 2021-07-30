@@ -1,0 +1,22 @@
+{
+	"nome": "Volta Mantovana",
+	"codice": "020070",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "M125",
+	"cap": [
+		"46049"
+	],
+	"popolazione": 7298
+}

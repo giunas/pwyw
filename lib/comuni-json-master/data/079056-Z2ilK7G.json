@@ -1,0 +1,22 @@
+{
+	"nome": "Gasperina",
+	"codice": "079056",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "D932",
+	"cap": [
+		"88060"
+	],
+	"popolazione": 2160
+}

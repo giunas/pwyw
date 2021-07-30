@@ -1,0 +1,22 @@
+{
+	"nome": "Cavriglia",
+	"codice": "051013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C407",
+	"cap": [
+		"52022"
+	],
+	"popolazione": 9458
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cerisano",
+	"codice": "078037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "C515",
+	"cap": [
+		"87044"
+	],
+	"popolazione": 3271
+}

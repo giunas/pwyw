@@ -1,0 +1,22 @@
+{
+	"nome": "Piateda",
+	"codice": "014049",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "G576",
+	"cap": [
+		"23020"
+	],
+	"popolazione": 2309
+}

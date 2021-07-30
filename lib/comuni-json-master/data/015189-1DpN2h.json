@@ -1,0 +1,22 @@
+{
+	"nome": "Rozzano",
+	"codice": "015189",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "H623",
+	"cap": [
+		"20089"
+	],
+	"popolazione": 39983
+}

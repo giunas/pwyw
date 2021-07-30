@@ -1,0 +1,22 @@
+{
+	"nome": "Palombara Sabina",
+	"codice": "058075",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "G293",
+	"cap": [
+		"00018"
+	],
+	"popolazione": 12167
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Alagna Valsesia",
+	"codice": "002002",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "A119",
+	"cap": [
+		"13021",
+		"13020"
+	],
+	"popolazione": 671
+}

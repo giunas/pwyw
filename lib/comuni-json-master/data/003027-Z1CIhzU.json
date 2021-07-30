@@ -1,0 +1,22 @@
+{
+	"nome": "Briona",
+	"codice": "003027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "B183",
+	"cap": [
+		"28072"
+	],
+	"popolazione": 1234
+}

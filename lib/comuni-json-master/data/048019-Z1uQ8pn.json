@@ -1,0 +1,22 @@
+{
+	"nome": "Fucecchio",
+	"codice": "048019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "D815",
+	"cap": [
+		"50054"
+	],
+	"popolazione": 22785
+}

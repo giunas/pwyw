@@ -1,0 +1,22 @@
+{
+	"nome": "Casola in Lunigiana",
+	"codice": "045004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "B979",
+	"cap": [
+		"54014"
+	],
+	"popolazione": 1003
+}

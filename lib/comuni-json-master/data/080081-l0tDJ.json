@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Eufemia d'Aspromonte",
+	"codice": "080081",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "I333",
+	"cap": [
+		"89027"
+	],
+	"popolazione": 4053
+}

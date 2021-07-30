@@ -1,0 +1,22 @@
+{
+	"nome": "Montescudaio",
+	"codice": "050020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "F640",
+	"cap": [
+		"56040"
+	],
+	"popolazione": 1958
+}

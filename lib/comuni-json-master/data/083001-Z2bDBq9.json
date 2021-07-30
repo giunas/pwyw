@@ -1,0 +1,22 @@
+{
+	"nome": "Alcara li Fusi",
+	"codice": "083001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "A177",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 2072
+}

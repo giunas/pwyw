@@ -1,0 +1,22 @@
+{
+	"nome": "Roddino",
+	"codice": "004195",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H473",
+	"cap": [
+		"12050"
+	],
+	"popolazione": 377
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cernusco Lombardone",
+	"codice": "097020",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "C521",
+	"cap": [
+		"23870"
+	],
+	"popolazione": 3851
+}

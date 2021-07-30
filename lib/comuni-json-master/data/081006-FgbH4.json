@@ -1,0 +1,22 @@
+{
+	"nome": "Castelvetrano",
+	"codice": "081006",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "C286",
+	"cap": [
+		"91022"
+	],
+	"popolazione": 31824
+}

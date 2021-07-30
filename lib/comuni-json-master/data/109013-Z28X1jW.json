@@ -1,0 +1,22 @@
+{
+	"nome": "Montappone",
+	"codice": "109013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F428",
+	"cap": [
+		"63835"
+	],
+	"popolazione": 1749
+}

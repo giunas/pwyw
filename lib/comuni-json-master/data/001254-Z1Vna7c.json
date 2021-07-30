@@ -1,0 +1,22 @@
+{
+	"nome": "San Secondo di Pinerolo",
+	"codice": "001254",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I154",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 3608
+}

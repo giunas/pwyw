@@ -1,0 +1,22 @@
+{
+	"nome": "Capovalle",
+	"codice": "017036",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B676",
+	"cap": [
+		"25070"
+	],
+	"popolazione": 388
+}

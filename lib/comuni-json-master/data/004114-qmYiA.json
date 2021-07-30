@@ -1,0 +1,22 @@
+{
+	"nome": "Magliano Alpi",
+	"codice": "004114",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "E808",
+	"cap": [
+		"12060"
+	],
+	"popolazione": 2231
+}

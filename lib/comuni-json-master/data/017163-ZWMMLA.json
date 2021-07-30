@@ -1,0 +1,22 @@
+{
+	"nome": "Rodengo Saiano",
+	"codice": "017163",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "H477",
+	"cap": [
+		"25050"
+	],
+	"popolazione": 8795
+}

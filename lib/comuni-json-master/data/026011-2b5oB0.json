@@ -1,0 +1,22 @@
+{
+	"nome": "Castelcucco",
+	"codice": "026011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "C073",
+	"cap": [
+		"31030"
+	],
+	"popolazione": 2189
+}

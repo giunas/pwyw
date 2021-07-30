@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Angelo d'Alife",
+	"codice": "061086",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I273",
+	"cap": [
+		"81017"
+	],
+	"popolazione": 2276
+}

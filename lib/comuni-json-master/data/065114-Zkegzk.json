@@ -1,0 +1,22 @@
+{
+	"nome": "Sala Consilina",
+	"codice": "065114",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H683",
+	"cap": [
+		"84036"
+	],
+	"popolazione": 12258
+}

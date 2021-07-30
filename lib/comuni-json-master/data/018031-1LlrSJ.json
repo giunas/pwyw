@@ -1,0 +1,22 @@
+{
+	"nome": "Casanova Lonati",
+	"codice": "018031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B929",
+	"cap": [
+		"27041"
+	],
+	"popolazione": 483
+}

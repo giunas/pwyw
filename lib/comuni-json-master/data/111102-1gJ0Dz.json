@@ -1,0 +1,22 @@
+{
+	"nome": "Villaperuccio",
+	"codice": "111102",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "M278",
+	"cap": [
+		"09010"
+	],
+	"popolazione": 1097
+}

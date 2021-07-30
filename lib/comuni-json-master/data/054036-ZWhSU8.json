@@ -1,0 +1,22 @@
+{
+	"nome": "Paciano",
+	"codice": "054036",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "G212",
+	"cap": [
+		"06060"
+	],
+	"popolazione": 982
+}

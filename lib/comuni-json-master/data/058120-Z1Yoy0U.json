@@ -1,0 +1,22 @@
+{
+	"nome": "Fiumicino",
+	"codice": "058120",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "M297",
+	"cap": [
+		"00054"
+	],
+	"popolazione": 67626
+}

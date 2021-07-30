@@ -1,0 +1,22 @@
+{
+	"nome": "Aprica",
+	"codice": "014004",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "A337",
+	"cap": [
+		"23031"
+	],
+	"popolazione": 1588
+}

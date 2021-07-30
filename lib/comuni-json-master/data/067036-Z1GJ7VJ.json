@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca Santa Maria",
+	"codice": "067036",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "H440",
+	"cap": [
+		"64010"
+	],
+	"popolazione": 569
+}

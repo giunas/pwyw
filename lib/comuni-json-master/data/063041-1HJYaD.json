@@ -1,0 +1,22 @@
+{
+	"nome": "Marano di Napoli",
+	"codice": "063041",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E906",
+	"cap": [
+		"80016"
+	],
+	"popolazione": 57204
+}

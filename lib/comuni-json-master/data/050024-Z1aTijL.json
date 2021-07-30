@@ -1,0 +1,22 @@
+{
+	"nome": "Palaia",
+	"codice": "050024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "G254",
+	"cap": [
+		"56036"
+	],
+	"popolazione": 4572
+}

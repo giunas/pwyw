@@ -1,0 +1,22 @@
+{
+	"nome": "Giussago",
+	"codice": "018072",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "E062",
+	"cap": [
+		"27010"
+	],
+	"popolazione": 5049
+}

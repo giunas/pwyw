@@ -1,0 +1,22 @@
+{
+	"nome": "Licodia Eubea",
+	"codice": "087020",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "E578",
+	"cap": [
+		"95040"
+	],
+	"popolazione": 3047
+}

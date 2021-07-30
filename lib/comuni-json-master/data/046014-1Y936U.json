@@ -1,0 +1,22 @@
+{
+	"nome": "Fosciandora",
+	"codice": "046014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "D734",
+	"cap": [
+		"55020"
+	],
+	"popolazione": 621
+}

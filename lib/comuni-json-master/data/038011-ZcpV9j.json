@@ -1,0 +1,22 @@
+{
+	"nome": "Lagosanto",
+	"codice": "038011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "E410",
+	"cap": [
+		"44023"
+	],
+	"popolazione": 4952
+}

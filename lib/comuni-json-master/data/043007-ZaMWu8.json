@@ -1,0 +1,22 @@
+{
+	"nome": "Camerino",
+	"codice": "043007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "B474",
+	"cap": [
+		"62032"
+	],
+	"popolazione": 6902
+}

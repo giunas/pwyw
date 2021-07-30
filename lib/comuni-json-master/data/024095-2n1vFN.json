@@ -1,0 +1,22 @@
+{
+	"nome": "Santorso",
+	"codice": "024095",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "I353",
+	"cap": [
+		"36014"
+	],
+	"popolazione": 5746
+}

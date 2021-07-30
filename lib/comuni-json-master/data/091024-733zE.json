@@ -1,0 +1,22 @@
+{
+	"nome": "Fonni",
+	"codice": "091024",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "D665",
+	"cap": [
+		"08023"
+	],
+	"popolazione": 4062
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Monterosi",
+	"codice": "056038",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "F606",
+	"cap": [
+		"01030"
+	],
+	"popolazione": 3868
+}

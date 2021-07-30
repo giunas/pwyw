@@ -1,0 +1,22 @@
+{
+	"nome": "Jesolo",
+	"codice": "027019",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "C388",
+	"cap": [
+		"30016"
+	],
+	"popolazione": 24479
+}

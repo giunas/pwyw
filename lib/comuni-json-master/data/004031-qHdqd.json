@@ -1,0 +1,22 @@
+{
+	"nome": "Briga Alta",
+	"codice": "004031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "B175",
+	"cap": [
+		"18025"
+	],
+	"popolazione": 48
+}

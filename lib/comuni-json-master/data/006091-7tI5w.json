@@ -1,0 +1,22 @@
+{
+	"nome": "Masio",
+	"codice": "006091",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "F015",
+	"cap": [
+		"15024"
+	],
+	"popolazione": 1465
+}

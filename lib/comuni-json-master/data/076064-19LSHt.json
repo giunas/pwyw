@@ -1,0 +1,22 @@
+{
+	"nome": "Rapolla",
+	"codice": "076064",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "H186",
+	"cap": [
+		"85027"
+	],
+	"popolazione": 4430
+}

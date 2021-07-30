@@ -1,0 +1,22 @@
+{
+	"nome": "Vietri di Potenza",
+	"codice": "076096",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "L859",
+	"cap": [
+		"85058"
+	],
+	"popolazione": 2917
+}

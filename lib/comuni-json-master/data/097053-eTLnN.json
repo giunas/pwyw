@@ -1,0 +1,22 @@
+{
+	"nome": "Montevecchia",
+	"codice": "097053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "F657",
+	"cap": [
+		"23874"
+	],
+	"popolazione": 2480
+}

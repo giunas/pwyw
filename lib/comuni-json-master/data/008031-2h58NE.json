@@ -1,0 +1,22 @@
+{
+	"nome": "Imperia",
+	"codice": "008031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "E290",
+	"cap": [
+		"18100"
+	],
+	"popolazione": 42322
+}

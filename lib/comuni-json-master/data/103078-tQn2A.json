@@ -1,0 +1,22 @@
+{
+	"nome": "Borgomezzavalle",
+	"codice": "103078",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "M370",
+	"cap": [
+		"28846"
+	],
+	"popolazione": 335
+}

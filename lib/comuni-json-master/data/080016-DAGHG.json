@@ -1,0 +1,22 @@
+{
+	"nome": "Calanna",
+	"codice": "080016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "B379",
+	"cap": [
+		"89050"
+	],
+	"popolazione": 979
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Gioia Tauro",
+	"codice": "080038",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "E041",
+	"cap": [
+		"89013"
+	],
+	"popolazione": 19063
+}

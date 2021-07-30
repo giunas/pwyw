@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Santa Lucia",
+	"codice": "060089",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "L905",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 2639
+}

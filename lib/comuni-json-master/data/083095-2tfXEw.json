@@ -1,0 +1,22 @@
+{
+	"nome": "Sinagra",
+	"codice": "083095",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I747",
+	"cap": [
+		"98069"
+	],
+	"popolazione": 2760
+}

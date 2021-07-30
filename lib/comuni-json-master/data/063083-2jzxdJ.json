@@ -1,0 +1,22 @@
+{
+	"nome": "Torre Annunziata",
+	"codice": "063083",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "L245",
+	"cap": [
+		"80058"
+	],
+	"popolazione": 43521
+}

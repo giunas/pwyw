@@ -1,0 +1,22 @@
+{
+	"nome": "Locatello",
+	"codice": "016127",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "E640",
+	"cap": [
+		"24030"
+	],
+	"popolazione": 819
+}

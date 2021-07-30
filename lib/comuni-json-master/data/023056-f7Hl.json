@@ -1,0 +1,22 @@
+{
+	"nome": "Palù",
+	"codice": "023056",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "G297",
+	"cap": [
+		"37050"
+	],
+	"popolazione": 1284
+}

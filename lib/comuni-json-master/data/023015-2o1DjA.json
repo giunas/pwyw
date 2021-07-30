@@ -1,0 +1,22 @@
+{
+	"nome": "Bussolengo",
+	"codice": "023015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "B296",
+	"cap": [
+		"37012"
+	],
+	"popolazione": 19483
+}

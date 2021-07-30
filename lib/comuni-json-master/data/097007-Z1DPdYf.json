@@ -1,0 +1,22 @@
+{
+	"nome": "Barzio",
+	"codice": "097007",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "A687",
+	"cap": [
+		"23816"
+	],
+	"popolazione": 1297
+}

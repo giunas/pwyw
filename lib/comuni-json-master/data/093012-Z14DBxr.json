@@ -1,0 +1,22 @@
+{
+	"nome": "Cavasso Nuovo",
+	"codice": "093012",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "C385",
+	"cap": [
+		"33092"
+	],
+	"popolazione": 1606
+}

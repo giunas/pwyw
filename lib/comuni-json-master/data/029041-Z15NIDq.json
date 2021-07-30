@@ -1,0 +1,22 @@
+{
+	"nome": "Rovigo",
+	"codice": "029041",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "H620",
+	"cap": [
+		"45100"
+	],
+	"popolazione": 50164
+}

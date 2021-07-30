@@ -1,0 +1,22 @@
+{
+	"nome": "Grazzanise",
+	"codice": "061042",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "E158",
+	"cap": [
+		"81046"
+	],
+	"popolazione": 7085
+}

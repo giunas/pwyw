@@ -1,0 +1,22 @@
+{
+	"nome": "Romagnano Sesia",
+	"codice": "003130",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "H502",
+	"cap": [
+		"28078"
+	],
+	"popolazione": 4049
+}

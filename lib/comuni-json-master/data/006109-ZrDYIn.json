@@ -1,0 +1,22 @@
+{
+	"nome": "Morano sul Po",
+	"codice": "006109",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "F707",
+	"cap": [
+		"15025"
+	],
+	"popolazione": 1511
+}

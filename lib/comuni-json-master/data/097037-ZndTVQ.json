@@ -1,0 +1,22 @@
+{
+	"nome": "Garbagnate Monastero",
+	"codice": "097037",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "D913",
+	"cap": [
+		"23846"
+	],
+	"popolazione": 2430
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Magliano di Tenna",
+	"codice": "109010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "E807",
+	"cap": [
+		"63832"
+	],
+	"popolazione": 1426
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Tre Ville",
+	"codice": "022247",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "M361",
+	"cap": [
+		"38095"
+	],
+	"popolazione": 1396
+}

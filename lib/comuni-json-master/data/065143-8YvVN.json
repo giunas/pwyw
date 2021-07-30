@@ -1,0 +1,22 @@
+{
+	"nome": "Sicignano degli Alburni",
+	"codice": "065143",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "M253",
+	"cap": [
+		"84029"
+	],
+	"popolazione": 3419
+}

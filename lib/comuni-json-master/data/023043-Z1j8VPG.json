@@ -1,0 +1,22 @@
+{
+	"nome": "Lazise",
+	"codice": "023043",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "E502",
+	"cap": [
+		"37017"
+	],
+	"popolazione": 6695
+}

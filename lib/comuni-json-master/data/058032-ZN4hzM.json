@@ -1,0 +1,22 @@
+{
+	"nome": "Civitavecchia",
+	"codice": "058032",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C773",
+	"cap": [
+		"00053"
+	],
+	"popolazione": 51229
+}

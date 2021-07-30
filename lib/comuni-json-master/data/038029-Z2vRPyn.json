@@ -1,0 +1,23 @@
+{
+	"nome": "Riva del Po",
+	"codice": "038029",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "M410",
+	"cap": [
+		"44033",
+		"44030"
+	],
+	"popolazione": 8508
+}

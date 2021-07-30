@@ -1,0 +1,22 @@
+{
+	"nome": "Cautano",
+	"codice": "062021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "C359",
+	"cap": [
+		"82030"
+	],
+	"popolazione": 2091
+}

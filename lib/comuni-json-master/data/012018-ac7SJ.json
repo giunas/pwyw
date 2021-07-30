@@ -1,0 +1,22 @@
+{
+	"nome": "Bregano",
+	"codice": "012018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B131",
+	"cap": [
+		"21020"
+	],
+	"popolazione": 839
+}

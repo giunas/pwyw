@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo del Garda",
+	"codice": "023022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "C225",
+	"cap": [
+		"37014"
+	],
+	"popolazione": 12199
+}

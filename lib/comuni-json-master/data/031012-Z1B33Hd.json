@@ -1,0 +1,22 @@
+{
+	"nome": "Monfalcone",
+	"codice": "031012",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "F356",
+	"cap": [
+		"34074"
+	],
+	"popolazione": 27041
+}

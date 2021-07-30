@@ -1,0 +1,22 @@
+{
+	"nome": "Amantea",
+	"codice": "078010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "A253",
+	"cap": [
+		"87032"
+	],
+	"popolazione": 13754
+}

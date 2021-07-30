@@ -1,0 +1,22 @@
+{
+	"nome": "Castel San Giovanni",
+	"codice": "033013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "033",
+		"nome": "Piacenza"
+	},
+	"sigla": "PC",
+	"codiceCatastale": "C261",
+	"cap": [
+		"29015"
+	],
+	"popolazione": 13629
+}

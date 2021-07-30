@@ -1,0 +1,22 @@
+{
+	"nome": "Monterchi",
+	"codice": "051024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "F594",
+	"cap": [
+		"52035"
+	],
+	"popolazione": 1822
+}

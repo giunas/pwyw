@@ -1,0 +1,22 @@
+{
+	"nome": "Loreglia",
+	"codice": "103038",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "E685",
+	"cap": [
+		"28893"
+	],
+	"popolazione": 262
+}

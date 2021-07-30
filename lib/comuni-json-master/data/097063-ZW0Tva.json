@@ -1,0 +1,22 @@
+{
+	"nome": "Pagnona",
+	"codice": "097063",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "G241",
+	"cap": [
+		"23833"
+	],
+	"popolazione": 402
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fonte",
+	"codice": "026029",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "D680",
+	"cap": [
+		"31010"
+	],
+	"popolazione": 6019
+}

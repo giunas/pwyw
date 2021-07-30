@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni a Piro",
+	"codice": "065119",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H907",
+	"cap": [
+		"84070"
+	],
+	"popolazione": 3818
+}

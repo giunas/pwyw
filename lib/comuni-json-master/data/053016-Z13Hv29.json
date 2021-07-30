@@ -1,0 +1,22 @@
+{
+	"nome": "Monte Argentario",
+	"codice": "053016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "F437",
+	"cap": [
+		"58019"
+	],
+	"popolazione": 12556
+}

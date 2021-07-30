@@ -1,0 +1,22 @@
+{
+	"nome": "Stroncone",
+	"codice": "055031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "I981",
+	"cap": [
+		"05039"
+	],
+	"popolazione": 4924
+}

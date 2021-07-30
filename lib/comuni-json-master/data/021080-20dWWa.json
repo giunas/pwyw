@@ -1,0 +1,22 @@
+{
+	"nome": "San Leonardo in Passiria",
+	"codice": "021080",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "H952",
+	"cap": [
+		"39015"
+	],
+	"popolazione": 3508
+}

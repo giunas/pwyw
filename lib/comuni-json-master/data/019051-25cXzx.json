@@ -1,0 +1,22 @@
+{
+	"nome": "Grumello Cremonese ed Uniti",
+	"codice": "019051",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "E217",
+	"cap": [
+		"26023"
+	],
+	"popolazione": 1873
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Brusnengo",
+	"codice": "096007",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "B229",
+	"cap": [
+		"13862"
+	],
+	"popolazione": 2168
+}

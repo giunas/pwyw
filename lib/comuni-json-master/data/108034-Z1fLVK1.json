@@ -1,0 +1,22 @@
+{
+	"nome": "Muggiò",
+	"codice": "108034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "F797",
+	"cap": [
+		"20835"
+	],
+	"popolazione": 23208
+}

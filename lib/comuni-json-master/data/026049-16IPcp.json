@@ -1,0 +1,22 @@
+{
+	"nome": "Motta di Livenza",
+	"codice": "026049",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "F770",
+	"cap": [
+		"31045"
+	],
+	"popolazione": 10681
+}

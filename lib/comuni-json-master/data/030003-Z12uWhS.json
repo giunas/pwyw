@@ -1,0 +1,22 @@
+{
+	"nome": "Ampezzo",
+	"codice": "030003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "A267",
+	"cap": [
+		"33021"
+	],
+	"popolazione": 1030
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Atina",
+	"codice": "060011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "A486",
+	"cap": [
+		"03042"
+	],
+	"popolazione": 4461
+}

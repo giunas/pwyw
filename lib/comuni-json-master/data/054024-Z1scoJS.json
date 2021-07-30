@@ -1,0 +1,22 @@
+{
+	"nome": "Gubbio",
+	"codice": "054024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "E256",
+	"cap": [
+		"06024"
+	],
+	"popolazione": 32432
+}

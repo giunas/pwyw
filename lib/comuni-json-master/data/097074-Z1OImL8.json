@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Maria Hoè",
+	"codice": "097074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "I243",
+	"cap": [
+		"23889"
+	],
+	"popolazione": 2207
+}

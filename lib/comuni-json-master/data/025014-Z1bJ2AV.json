@@ -1,0 +1,22 @@
+{
+	"nome": "Colle Santa Lucia",
+	"codice": "025014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "C872",
+	"cap": [
+		"32020"
+	],
+	"popolazione": 391
+}

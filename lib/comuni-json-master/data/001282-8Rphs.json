@@ -1,0 +1,22 @@
+{
+	"nome": "Usseglio",
+	"codice": "001282",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L516",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 219
+}

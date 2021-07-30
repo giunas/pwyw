@@ -1,0 +1,22 @@
+{
+	"nome": "Tornolo",
+	"codice": "034040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "L229",
+	"cap": [
+		"43059"
+	],
+	"popolazione": 1102
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Irsina",
+	"codice": "077013",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "E326",
+	"cap": [
+		"75022"
+	],
+	"popolazione": 5100
+}

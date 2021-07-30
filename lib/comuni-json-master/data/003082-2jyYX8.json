@@ -1,0 +1,22 @@
+{
+	"nome": "Invorio",
+	"codice": "003082",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "E314",
+	"cap": [
+		"28045"
+	],
+	"popolazione": 4464
+}

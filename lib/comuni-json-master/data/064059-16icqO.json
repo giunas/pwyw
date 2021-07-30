@@ -1,0 +1,22 @@
+{
+	"nome": "Montemiletto",
+	"codice": "064059",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F566",
+	"cap": [
+		"83038"
+	],
+	"popolazione": 5361
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Martinsicuro",
+	"codice": "067047",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "E989",
+	"cap": [
+		"64014"
+	],
+	"popolazione": 15484
+}

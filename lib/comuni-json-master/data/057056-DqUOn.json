@@ -1,0 +1,22 @@
+{
+	"nome": "Poggio San Lorenzo",
+	"codice": "057056",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "G770",
+	"cap": [
+		"02030"
+	],
+	"popolazione": 580
+}

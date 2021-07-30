@@ -1,0 +1,22 @@
+{
+	"nome": "Brezzo di Bedero",
+	"codice": "012020",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B166",
+	"cap": [
+		"21010"
+	],
+	"popolazione": 1185
+}

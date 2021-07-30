@@ -1,0 +1,22 @@
+{
+	"nome": "Castelfranco Piandiscò",
+	"codice": "051040",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "M322",
+	"cap": [
+		"52026"
+	],
+	"popolazione": 9518
+}

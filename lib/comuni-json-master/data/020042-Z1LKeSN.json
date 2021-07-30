@@ -1,0 +1,22 @@
+{
+	"nome": "Poggio Rusco",
+	"codice": "020042",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "G753",
+	"cap": [
+		"46025"
+	],
+	"popolazione": 6521
+}

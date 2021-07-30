@@ -1,0 +1,22 @@
+{
+	"nome": "Pozzoleone",
+	"codice": "024082",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "G957",
+	"cap": [
+		"36050"
+	],
+	"popolazione": 2793
+}

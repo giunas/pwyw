@@ -1,0 +1,22 @@
+{
+	"nome": "Mezzojuso",
+	"codice": "082047",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "F184",
+	"cap": [
+		"90030"
+	],
+	"popolazione": 3020
+}

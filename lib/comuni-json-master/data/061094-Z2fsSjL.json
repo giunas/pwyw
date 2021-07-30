@@ -1,0 +1,22 @@
+{
+	"nome": "Trentola Ducenta",
+	"codice": "061094",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "L379",
+	"cap": [
+		"81038"
+	],
+	"popolazione": 17797
+}

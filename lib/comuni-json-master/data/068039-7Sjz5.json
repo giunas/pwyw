@@ -1,0 +1,22 @@
+{
+	"nome": "Scafa",
+	"codice": "068039",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "I482",
+	"cap": [
+		"65027"
+	],
+	"popolazione": 3836
+}

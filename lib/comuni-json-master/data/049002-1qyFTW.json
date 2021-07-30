@@ -1,0 +1,22 @@
+{
+	"nome": "Campiglia Marittima",
+	"codice": "049002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "B509",
+	"cap": [
+		"57021"
+	],
+	"popolazione": 13220
+}

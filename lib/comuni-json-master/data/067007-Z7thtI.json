@@ -1,0 +1,22 @@
+{
+	"nome": "Bisenti",
+	"codice": "067007",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "A885",
+	"cap": [
+		"64033"
+	],
+	"popolazione": 2069
+}

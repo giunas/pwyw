@@ -1,0 +1,22 @@
+{
+	"nome": "Ollastra",
+	"codice": "095037",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "G043",
+	"cap": [
+		"09088"
+	],
+	"popolazione": 1255
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Collesalvetti",
+	"codice": "049008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "C869",
+	"cap": [
+		"57014"
+	],
+	"popolazione": 16707
+}

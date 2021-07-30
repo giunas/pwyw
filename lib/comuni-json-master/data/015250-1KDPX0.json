@@ -1,0 +1,22 @@
+{
+	"nome": "Baranzate",
+	"codice": "015250",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "A618",
+	"cap": [
+		"20021"
+	],
+	"popolazione": 10779
+}

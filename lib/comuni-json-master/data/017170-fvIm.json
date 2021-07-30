@@ -1,0 +1,22 @@
+{
+	"nome": "Salò",
+	"codice": "017170",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "H717",
+	"cap": [
+		"25087"
+	],
+	"popolazione": 10350
+}

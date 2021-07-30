@@ -1,0 +1,22 @@
+{
+	"nome": "Albano Sant'Alessandro",
+	"codice": "016003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A129",
+	"cap": [
+		"24061"
+	],
+	"popolazione": 8029
+}

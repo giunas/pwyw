@@ -1,0 +1,22 @@
+{
+	"nome": "Carovilli",
+	"codice": "094007",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "B810",
+	"cap": [
+		"86083"
+	],
+	"popolazione": 1428
+}

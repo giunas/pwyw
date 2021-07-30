@@ -1,0 +1,22 @@
+{
+	"nome": "Codognè",
+	"codice": "026019",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "C815",
+	"cap": [
+		"31013"
+	],
+	"popolazione": 5311
+}

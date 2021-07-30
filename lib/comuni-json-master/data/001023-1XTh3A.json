@@ -1,0 +1,22 @@
+{
+	"nome": "Barone Canavese",
+	"codice": "001023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A673",
+	"cap": [
+		"10010"
+	],
+	"popolazione": 599
+}

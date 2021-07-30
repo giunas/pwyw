@@ -1,0 +1,22 @@
+{
+	"nome": "Boves",
+	"codice": "004028",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "B101",
+	"cap": [
+		"12012"
+	],
+	"popolazione": 9725
+}

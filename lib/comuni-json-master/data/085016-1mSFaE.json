@@ -1,0 +1,22 @@
+{
+	"nome": "San Cataldo",
+	"codice": "085016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "085",
+		"nome": "Caltanissetta"
+	},
+	"sigla": "CL",
+	"codiceCatastale": "H792",
+	"cap": [
+		"93017"
+	],
+	"popolazione": 23424
+}

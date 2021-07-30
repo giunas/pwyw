@@ -1,0 +1,22 @@
+{
+	"nome": "Terlizzi",
+	"codice": "072043",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": "Bari"
+	},
+	"sigla": "BA",
+	"codiceCatastale": "L109",
+	"cap": [
+		"70038"
+	],
+	"popolazione": 26986
+}

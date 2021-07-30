@@ -1,0 +1,22 @@
+{
+	"nome": "San Felice Circeo",
+	"codice": "059025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "H836",
+	"cap": [
+		"04017"
+	],
+	"popolazione": 8709
+}

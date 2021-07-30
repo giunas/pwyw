@@ -1,0 +1,22 @@
+{
+	"nome": "San Leo",
+	"codice": "099025",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "H949",
+	"cap": [
+		"47865"
+	],
+	"popolazione": 2970
+}

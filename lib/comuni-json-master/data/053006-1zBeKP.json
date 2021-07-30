@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione della Pescaia",
+	"codice": "053006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "C310",
+	"cap": [
+		"58043"
+	],
+	"popolazione": 7076
+}

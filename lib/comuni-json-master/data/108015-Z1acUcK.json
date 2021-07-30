@@ -1,0 +1,22 @@
+{
+	"nome": "Carate Brianza",
+	"codice": "108015",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "B729",
+	"cap": [
+		"20841"
+	],
+	"popolazione": 17684
+}

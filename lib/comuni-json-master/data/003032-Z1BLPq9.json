@@ -1,0 +1,22 @@
+{
+	"nome": "Cameri",
+	"codice": "003032",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "B473",
+	"cap": [
+		"28062"
+	],
+	"popolazione": 10770
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Gregorio nelle Alpi",
+	"codice": "025045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "H938",
+	"cap": [
+		"32030"
+	],
+	"popolazione": 1607
+}

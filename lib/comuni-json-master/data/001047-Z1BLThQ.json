@@ -1,0 +1,22 @@
+{
+	"nome": "Caluso",
+	"codice": "001047",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B435",
+	"cap": [
+		"10014"
+	],
+	"popolazione": 7483
+}

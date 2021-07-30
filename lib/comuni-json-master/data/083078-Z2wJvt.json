@@ -1,0 +1,22 @@
+{
+	"nome": "San Fratello",
+	"codice": "083078",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H850",
+	"cap": [
+		"98075"
+	],
+	"popolazione": 3942
+}

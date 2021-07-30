@@ -1,0 +1,22 @@
+{
+	"nome": "Fusignano",
+	"codice": "039011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "D829",
+	"cap": [
+		"48034"
+	],
+	"popolazione": 8259
+}

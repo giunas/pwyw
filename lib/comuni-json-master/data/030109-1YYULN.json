@@ -1,0 +1,22 @@
+{
+	"nome": "Sedegliano",
+	"codice": "030109",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "I562",
+	"cap": [
+		"33039"
+	],
+	"popolazione": 3937
+}

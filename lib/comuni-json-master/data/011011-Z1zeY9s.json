@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo Magra",
+	"codice": "011011",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "C240",
+	"cap": [
+		"19033"
+	],
+	"popolazione": 8269
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Arpino",
+	"codice": "061087",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I306",
+	"cap": [
+		"81030"
+	],
+	"popolazione": 14076
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Borso del Grappa",
+	"codice": "026004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "B061",
+	"cap": [
+		"31030"
+	],
+	"popolazione": 5913
+}

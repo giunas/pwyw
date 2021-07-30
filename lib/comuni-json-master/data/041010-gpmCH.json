@@ -1,0 +1,22 @@
+{
+	"nome": "Cartoceto",
+	"codice": "041010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "B846",
+	"cap": [
+		"61030"
+	],
+	"popolazione": 7850
+}

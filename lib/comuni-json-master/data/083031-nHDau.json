@@ -1,0 +1,22 @@
+{
+	"nome": "Gallodoro",
+	"codice": "083031",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D885",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 381
+}

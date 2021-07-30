@@ -1,0 +1,22 @@
+{
+	"nome": "Marsicovetere",
+	"codice": "076046",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "E977",
+	"cap": [
+		"85050"
+	],
+	"popolazione": 5341
+}

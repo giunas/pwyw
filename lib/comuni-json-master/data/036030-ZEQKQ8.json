@@ -1,0 +1,22 @@
+{
+	"nome": "Pavullo nel Frignano",
+	"codice": "036030",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "G393",
+	"cap": [
+		"41026"
+	],
+	"popolazione": 17198
+}

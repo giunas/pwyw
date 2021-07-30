@@ -1,0 +1,22 @@
+{
+	"nome": "Bovolenta",
+	"codice": "028014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "B106",
+	"cap": [
+		"35024"
+	],
+	"popolazione": 3349
+}

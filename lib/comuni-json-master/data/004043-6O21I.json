@@ -1,0 +1,22 @@
+{
+	"nome": "Carrù",
+	"codice": "004043",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "B841",
+	"cap": [
+		"12061"
+	],
+	"popolazione": 4428
+}

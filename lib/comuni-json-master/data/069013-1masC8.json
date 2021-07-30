@@ -1,0 +1,22 @@
+{
+	"nome": "Casacanditella",
+	"codice": "069013",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "B859",
+	"cap": [
+		"66010"
+	],
+	"popolazione": 1340
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Mongardino",
+	"codice": "005071",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F361",
+	"cap": [
+		"14040"
+	],
+	"popolazione": 951
+}

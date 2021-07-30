@@ -1,0 +1,22 @@
+{
+	"nome": "San Gavino Monreale",
+	"codice": "111062",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "H856",
+	"cap": [
+		"09037"
+	],
+	"popolazione": 8894
+}

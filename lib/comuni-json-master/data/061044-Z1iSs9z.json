@@ -1,0 +1,22 @@
+{
+	"nome": "Letino",
+	"codice": "061044",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "E554",
+	"cap": [
+		"81010"
+	],
+	"popolazione": 715
+}

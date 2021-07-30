@@ -1,0 +1,22 @@
+{
+	"nome": "Bentivoglio",
+	"codice": "037005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "A785",
+	"cap": [
+		"40010"
+	],
+	"popolazione": 5358
+}

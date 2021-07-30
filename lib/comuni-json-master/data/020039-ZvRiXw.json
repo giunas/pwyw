@@ -1,0 +1,22 @@
+{
+	"nome": "Pegognaga",
+	"codice": "020039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "G417",
+	"cap": [
+		"46020"
+	],
+	"popolazione": 7244
+}

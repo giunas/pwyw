@@ -1,0 +1,22 @@
+{
+	"nome": "Ceregnano",
+	"codice": "029015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "C500",
+	"cap": [
+		"45010"
+	],
+	"popolazione": 3691
+}

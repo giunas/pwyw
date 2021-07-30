@@ -1,0 +1,22 @@
+{
+	"nome": "Massa Lubrense",
+	"codice": "063044",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "F030",
+	"cap": [
+		"80061"
+	],
+	"popolazione": 14020
+}

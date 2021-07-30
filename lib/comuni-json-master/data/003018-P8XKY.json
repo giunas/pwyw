@@ -1,0 +1,22 @@
+{
+	"nome": "Biandrate",
+	"codice": "003018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "A844",
+	"cap": [
+		"28061"
+	],
+	"popolazione": 1200
+}

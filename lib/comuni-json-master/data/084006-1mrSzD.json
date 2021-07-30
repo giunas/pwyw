@@ -1,0 +1,22 @@
+{
+	"nome": "Calamonaci",
+	"codice": "084006",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "B377",
+	"cap": [
+		"92010"
+	],
+	"popolazione": 1375
+}

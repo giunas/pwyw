@@ -1,0 +1,22 @@
+{
+	"nome": "Corrido",
+	"codice": "013077",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "D041",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 841
+}

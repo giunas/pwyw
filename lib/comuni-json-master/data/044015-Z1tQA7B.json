@@ -1,0 +1,22 @@
+{
+	"nome": "Comunanza",
+	"codice": "044015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "C935",
+	"cap": [
+		"63087"
+	],
+	"popolazione": 3204
+}

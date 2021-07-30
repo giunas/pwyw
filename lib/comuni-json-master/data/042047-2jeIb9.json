@@ -1,0 +1,22 @@
+{
+	"nome": "Serra San Quirico",
+	"codice": "042047",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "I653",
+	"cap": [
+		"60048"
+	],
+	"popolazione": 2967
+}

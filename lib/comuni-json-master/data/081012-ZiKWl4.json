@@ -1,0 +1,22 @@
+{
+	"nome": "Mazara del Vallo",
+	"codice": "081012",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "F061",
+	"cap": [
+		"91026"
+	],
+	"popolazione": 49995
+}

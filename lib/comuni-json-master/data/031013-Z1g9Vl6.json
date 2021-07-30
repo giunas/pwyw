@@ -1,0 +1,22 @@
+{
+	"nome": "Moraro",
+	"codice": "031013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "F710",
+	"cap": [
+		"34070"
+	],
+	"popolazione": 767
+}

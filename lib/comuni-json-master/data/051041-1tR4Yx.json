@@ -1,0 +1,22 @@
+{
+	"nome": "Pratovecchio Stia",
+	"codice": "051041",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "M329",
+	"cap": [
+		"52015"
+	],
+	"popolazione": 6011
+}

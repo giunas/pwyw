@@ -1,0 +1,22 @@
+{
+	"nome": "Andorno Micca",
+	"codice": "096002",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "A280",
+	"cap": [
+		"13811"
+	],
+	"popolazione": 3407
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Bernardino Verbano",
+	"codice": "103061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "H777",
+	"cap": [
+		"28804"
+	],
+	"popolazione": 1384
+}

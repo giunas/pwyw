@@ -1,0 +1,22 @@
+{
+	"nome": "Valle di Maddaloni",
+	"codice": "061097",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "L591",
+	"cap": [
+		"81020"
+	],
+	"popolazione": 2807
+}

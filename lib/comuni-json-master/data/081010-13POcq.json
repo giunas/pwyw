@@ -1,0 +1,22 @@
+{
+	"nome": "Gibellina",
+	"codice": "081010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "E023",
+	"cap": [
+		"91024"
+	],
+	"popolazione": 4264
+}

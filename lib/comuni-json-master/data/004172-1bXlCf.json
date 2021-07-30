@@ -1,0 +1,22 @@
+{
+	"nome": "Pontechianale",
+	"codice": "004172",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G837",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 182
+}

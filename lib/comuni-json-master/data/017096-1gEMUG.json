@@ -1,0 +1,22 @@
+{
+	"nome": "Lumezzane",
+	"codice": "017096",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E738",
+	"cap": [
+		"25065"
+	],
+	"popolazione": 23390
+}

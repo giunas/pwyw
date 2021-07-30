@@ -1,0 +1,22 @@
+{
+	"nome": "Roccasecca",
+	"codice": "060060",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "H443",
+	"cap": [
+		"03038"
+	],
+	"popolazione": 7536
+}

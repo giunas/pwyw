@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo di Val di Cecina",
+	"codice": "050011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "C244",
+	"cap": [
+		"56041"
+	],
+	"popolazione": 2290
+}

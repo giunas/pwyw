@@ -1,0 +1,22 @@
+{
+	"nome": "Piazzolo",
+	"codice": "016166",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "G588",
+	"cap": [
+		"24010"
+	],
+	"popolazione": 84
+}

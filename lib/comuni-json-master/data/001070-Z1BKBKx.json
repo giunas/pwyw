@@ -1,0 +1,22 @@
+{
+	"nome": "Cavour",
+	"codice": "001070",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C404",
+	"cap": [
+		"10061"
+	],
+	"popolazione": 5568
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Misano Adriatico",
+	"codice": "099005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "F244",
+	"cap": [
+		"47843"
+	],
+	"popolazione": 12252
+}

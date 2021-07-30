@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo Priolo",
+	"codice": "018016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "B028",
+	"cap": [
+		"27040"
+	],
+	"popolazione": 1382
+}

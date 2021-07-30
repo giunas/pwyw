@@ -1,0 +1,22 @@
+{
+	"nome": "Figline e Incisa Valdarno",
+	"codice": "048052",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "M321",
+	"cap": [
+		"50063"
+	],
+	"popolazione": 23124
+}

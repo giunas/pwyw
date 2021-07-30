@@ -1,0 +1,22 @@
+{
+	"nome": "Cardito",
+	"codice": "063016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B759",
+	"cap": [
+		"80024"
+	],
+	"popolazione": 22322
+}

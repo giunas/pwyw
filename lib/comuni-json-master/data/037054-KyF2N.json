@@ -1,0 +1,22 @@
+{
+	"nome": "San Lazzaro di Savena",
+	"codice": "037054",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "H945",
+	"cap": [
+		"40068"
+	],
+	"popolazione": 31091
+}

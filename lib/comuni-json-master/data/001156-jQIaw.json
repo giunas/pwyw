@@ -1,0 +1,22 @@
+{
+	"nome": "Moncalieri",
+	"codice": "001156",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F335",
+	"cap": [
+		"10024"
+	],
+	"popolazione": 55875
+}

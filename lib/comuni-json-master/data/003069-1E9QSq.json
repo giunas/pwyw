@@ -1,0 +1,22 @@
+{
+	"nome": "Garbagna Novarese",
+	"codice": "003069",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "D911",
+	"cap": [
+		"28070"
+	],
+	"popolazione": 1350
+}

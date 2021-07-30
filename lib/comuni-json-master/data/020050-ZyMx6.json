@@ -1,0 +1,22 @@
+{
+	"nome": "Rivarolo Mantovano",
+	"codice": "020050",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "H342",
+	"cap": [
+		"46017"
+	],
+	"popolazione": 2608
+}

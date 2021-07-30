@@ -1,0 +1,22 @@
+{
+	"nome": "Varese",
+	"codice": "012133",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "L682",
+	"cap": [
+		"21100"
+	],
+	"popolazione": 79793
+}

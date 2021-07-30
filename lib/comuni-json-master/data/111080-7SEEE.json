@@ -1,0 +1,22 @@
+{
+	"nome": "Setzu",
+	"codice": "111080",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "I705",
+	"cap": [
+		"09029"
+	],
+	"popolazione": 144
+}

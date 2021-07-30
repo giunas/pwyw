@@ -1,0 +1,22 @@
+{
+	"nome": "Barcellona Pozzo di Gotto",
+	"codice": "083005",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "A638",
+	"cap": [
+		"98051"
+	],
+	"popolazione": 41632
+}

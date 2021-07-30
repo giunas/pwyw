@@ -1,0 +1,22 @@
+{
+	"nome": "Rufina",
+	"codice": "048037",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "H635",
+	"cap": [
+		"50068"
+	],
+	"popolazione": 7382
+}

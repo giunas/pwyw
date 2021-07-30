@@ -1,0 +1,22 @@
+{
+	"nome": "Ascoli Piceno",
+	"codice": "044007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "A462",
+	"cap": [
+		"63100"
+	],
+	"popolazione": 49958
+}

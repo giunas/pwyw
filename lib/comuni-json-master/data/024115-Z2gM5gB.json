@@ -1,0 +1,22 @@
+{
+	"nome": "Velo d'Astico",
+	"codice": "024115",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "L723",
+	"cap": [
+		"36010"
+	],
+	"popolazione": 2400
+}

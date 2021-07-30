@@ -1,0 +1,22 @@
+{
+	"nome": "Marino",
+	"codice": "058057",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "E958",
+	"cap": [
+		"00047"
+	],
+	"popolazione": 38245
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione d'Adda",
+	"codice": "098014",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "C304",
+	"cap": [
+		"26823"
+	],
+	"popolazione": 4818
+}

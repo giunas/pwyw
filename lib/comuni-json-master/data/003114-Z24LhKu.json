@@ -1,0 +1,22 @@
+{
+	"nome": "Paruzzaro",
+	"codice": "003114",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "G349",
+	"cap": [
+		"28040"
+	],
+	"popolazione": 2088
+}

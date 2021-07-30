@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve a Nievole",
+	"codice": "047013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "G636",
+	"cap": [
+		"51018"
+	],
+	"popolazione": 9460
+}

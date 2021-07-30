@@ -1,0 +1,22 @@
+{
+	"nome": "Carinaro",
+	"codice": "061016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B779",
+	"cap": [
+		"81032"
+	],
+	"popolazione": 6886
+}

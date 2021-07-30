@@ -1,0 +1,23 @@
+{
+	"nome": "Forlì",
+	"codice": "040012",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "D704",
+	"cap": [
+		"47121",
+		"47122"
+	],
+	"popolazione": 116434
+}

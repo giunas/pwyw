@@ -1,0 +1,22 @@
+{
+	"nome": "Roccasecca dei Volsci",
+	"codice": "059023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "H444",
+	"cap": [
+		"04010"
+	],
+	"popolazione": 1126
+}

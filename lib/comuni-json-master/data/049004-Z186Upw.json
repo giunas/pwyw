@@ -1,0 +1,22 @@
+{
+	"nome": "Capoliveri",
+	"codice": "049004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "B669",
+	"cap": [
+		"57031"
+	],
+	"popolazione": 3763
+}

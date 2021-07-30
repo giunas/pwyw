@@ -1,0 +1,22 @@
+{
+	"nome": "Rapone",
+	"codice": "076065",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "H187",
+	"cap": [
+		"85020"
+	],
+	"popolazione": 1013
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fumane",
+	"codice": "023035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "D818",
+	"cap": [
+		"37022"
+	],
+	"popolazione": 4151
+}

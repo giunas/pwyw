@@ -1,0 +1,22 @@
+{
+	"nome": "Mignano Monte Lungo",
+	"codice": "061051",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "F203",
+	"cap": [
+		"81049"
+	],
+	"popolazione": 3258
+}

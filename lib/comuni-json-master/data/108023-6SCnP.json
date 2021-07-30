@@ -1,0 +1,22 @@
+{
+	"nome": "Desio",
+	"codice": "108023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "D286",
+	"cap": [
+		"20832"
+	],
+	"popolazione": 40397
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Pachino",
+	"codice": "089014",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "G211",
+	"cap": [
+		"96018"
+	],
+	"popolazione": 22068
+}

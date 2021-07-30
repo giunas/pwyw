@@ -1,0 +1,22 @@
+{
+	"nome": "Monfumo",
+	"codice": "026045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "F360",
+	"cap": [
+		"31010"
+	],
+	"popolazione": 1442
+}

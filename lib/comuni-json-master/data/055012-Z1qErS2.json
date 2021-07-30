@@ -1,0 +1,22 @@
+{
+	"nome": "Ferentillo",
+	"codice": "055012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "D538",
+	"cap": [
+		"05034"
+	],
+	"popolazione": 1963
+}

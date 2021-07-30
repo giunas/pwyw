@@ -1,0 +1,22 @@
+{
+	"nome": "Peschiera del Garda",
+	"codice": "023059",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "G489",
+	"cap": [
+		"37019"
+	],
+	"popolazione": 9598
+}

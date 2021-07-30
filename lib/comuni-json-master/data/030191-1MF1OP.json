@@ -1,0 +1,22 @@
+{
+	"nome": "Treppo Ligosullo",
+	"codice": "030191",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "M399",
+	"cap": [
+		"33014"
+	],
+	"popolazione": 784
+}

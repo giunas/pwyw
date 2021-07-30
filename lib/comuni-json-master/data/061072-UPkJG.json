@@ -1,0 +1,22 @@
+{
+	"nome": "Rocchetta e Croce",
+	"codice": "061072",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H459",
+	"cap": [
+		"81042"
+	],
+	"popolazione": 463
+}

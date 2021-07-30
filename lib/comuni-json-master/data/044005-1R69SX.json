@@ -1,0 +1,22 @@
+{
+	"nome": "Appignano del Tronto",
+	"codice": "044005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "A335",
+	"cap": [
+		"63083"
+	],
+	"popolazione": 1852
+}

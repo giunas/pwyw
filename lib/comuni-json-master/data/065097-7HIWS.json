@@ -1,0 +1,22 @@
+{
+	"nome": "Polla",
+	"codice": "065097",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G793",
+	"cap": [
+		"84035"
+	],
+	"popolazione": 5327
+}

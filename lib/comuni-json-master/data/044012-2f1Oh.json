@@ -1,0 +1,22 @@
+{
+	"nome": "Castignano",
+	"codice": "044012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "C321",
+	"cap": [
+		"63072"
+	],
+	"popolazione": 2947
+}

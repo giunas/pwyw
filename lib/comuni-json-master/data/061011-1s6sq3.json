@@ -1,0 +1,22 @@
+{
+	"nome": "Camigliano",
+	"codice": "061011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B477",
+	"cap": [
+		"81050"
+	],
+	"popolazione": 1902
+}

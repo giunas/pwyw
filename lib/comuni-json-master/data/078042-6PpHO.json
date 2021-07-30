@@ -1,0 +1,22 @@
+{
+	"nome": "Cleto",
+	"codice": "078042",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "C795",
+	"cap": [
+		"87030"
+	],
+	"popolazione": 1320
+}

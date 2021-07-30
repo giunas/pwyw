@@ -1,0 +1,22 @@
+{
+	"nome": "Portovenere",
+	"codice": "011022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "G925",
+	"cap": [
+		"19025"
+	],
+	"popolazione": 3702
+}

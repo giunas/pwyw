@@ -1,0 +1,22 @@
+{
+	"nome": "Serrara Fontana",
+	"codice": "063078",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I652",
+	"cap": [
+		"80081"
+	],
+	"popolazione": 3164
+}

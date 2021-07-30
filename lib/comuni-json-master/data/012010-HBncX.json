@@ -1,0 +1,22 @@
+{
+	"nome": "Bedero Valcuvia",
+	"codice": "012010",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A728",
+	"cap": [
+		"21039"
+	],
+	"popolazione": 667
+}

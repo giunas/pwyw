@@ -1,0 +1,22 @@
+{
+	"nome": "Melazzo",
+	"codice": "006092",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "F096",
+	"cap": [
+		"15010"
+	],
+	"popolazione": 1315
+}

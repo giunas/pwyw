@@ -1,0 +1,22 @@
+{
+	"nome": "Minerbe",
+	"codice": "023048",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "F218",
+	"cap": [
+		"37046"
+	],
+	"popolazione": 4667
+}

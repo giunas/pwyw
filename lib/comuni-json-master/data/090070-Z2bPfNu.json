@@ -1,0 +1,22 @@
+{
+	"nome": "Tempio Pausania",
+	"codice": "090070",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "L093",
+	"cap": [
+		"07029"
+	],
+	"popolazione": 13946
+}

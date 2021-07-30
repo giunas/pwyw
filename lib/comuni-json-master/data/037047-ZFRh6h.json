@@ -1,0 +1,22 @@
+{
+	"nome": "Pianoro",
+	"codice": "037047",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "G570",
+	"cap": [
+		"40065"
+	],
+	"popolazione": 16890
+}

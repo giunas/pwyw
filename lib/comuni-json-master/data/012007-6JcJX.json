@@ -1,0 +1,22 @@
+{
+	"nome": "Azzio",
+	"codice": "012007",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A532",
+	"cap": [
+		"21030"
+	],
+	"popolazione": 802
+}

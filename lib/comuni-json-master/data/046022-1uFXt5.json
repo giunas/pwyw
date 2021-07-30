@@ -1,0 +1,22 @@
+{
+	"nome": "Pescaglia",
+	"codice": "046022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "G480",
+	"cap": [
+		"55064"
+	],
+	"popolazione": 3645
+}

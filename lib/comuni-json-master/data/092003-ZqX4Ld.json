@@ -1,0 +1,22 @@
+{
+	"nome": "Assemini",
+	"codice": "092003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": "Cagliari"
+	},
+	"sigla": "CA",
+	"codiceCatastale": "A474",
+	"cap": [
+		"09032"
+	],
+	"popolazione": 26620
+}

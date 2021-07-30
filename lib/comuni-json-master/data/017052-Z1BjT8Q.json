@@ -1,0 +1,22 @@
+{
+	"nome": "Chiari",
+	"codice": "017052",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C618",
+	"cap": [
+		"25032"
+	],
+	"popolazione": 18391
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Maurizio d'Opaglio",
+	"codice": "003133",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "I025",
+	"cap": [
+		"28017"
+	],
+	"popolazione": 3104
+}

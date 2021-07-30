@@ -1,0 +1,22 @@
+{
+	"nome": "Busto Arsizio",
+	"codice": "012026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B300",
+	"cap": [
+		"21052"
+	],
+	"popolazione": 79692
+}

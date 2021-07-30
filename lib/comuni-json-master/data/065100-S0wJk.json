@@ -1,0 +1,22 @@
+{
+	"nome": "Positano",
+	"codice": "065100",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G932",
+	"cap": [
+		"84017"
+	],
+	"popolazione": 3858
+}

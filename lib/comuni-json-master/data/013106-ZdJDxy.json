@@ -1,0 +1,22 @@
+{
+	"nome": "Garzeno",
+	"codice": "013106",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "D930",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 852
+}

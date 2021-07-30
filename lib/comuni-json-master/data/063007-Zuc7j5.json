@@ -1,0 +1,22 @@
+{
+	"nome": "Barano d'Ischia",
+	"codice": "063007",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A617",
+	"cap": [
+		"80072"
+	],
+	"popolazione": 9882
+}

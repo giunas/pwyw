@@ -1,0 +1,22 @@
+{
+	"nome": "San Marco Evangelista",
+	"codice": "061104",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "F043",
+	"cap": [
+		"81020"
+	],
+	"popolazione": 6306
+}

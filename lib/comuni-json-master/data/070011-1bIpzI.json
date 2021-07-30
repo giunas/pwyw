@@ -1,0 +1,22 @@
+{
+	"nome": "Casacalenda",
+	"codice": "070011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "070",
+		"nome": "Campobasso"
+	},
+	"sigla": "CB",
+	"codiceCatastale": "B858",
+	"cap": [
+		"86043"
+	],
+	"popolazione": 2207
+}

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>PWYW - Profilo Utente</title>
+  <link rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="login-register.css">
+  <script src="../../lib/jquery.min.js"></script>
+  <script src="../../lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="../../Frontend/controller/richiedi.js"></script>
+  <script src="../../Frontend/controller/profile.js"></script>
+  <script src="../controller/logout.js"></script>
+  <script src="../../lib/codice-fiscale-js/dist/codice.fiscale.var.js"></script>
+  <script type="text/javascript">
+  window.onload = function () { 
+  
+  var today = new Date();
+  var dd = String(today.getDate()).padStart(2, '0');
+  var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+  var yyyy = today.getFullYear();
+  
+  today = yyyy + '-' + mm + '-' + dd;
+  document.getElementById("inputNascita").max=today; 
+
+  mostraCampi();
+}
+</script>
+
+</head>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">PWYW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="panel.html">Home</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link" href="transactions.html">Movimenti</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link" href="sendmoney.html">Invia Denaro</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="sendcommoney.html">Paga Esercizi Commerciali</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link" href="requestmoney.html">Richiedi Denaro</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link" href="periodicalpayments.html">Pagamenti Periodici</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">Gestisci Profilo</a>
+                    <div class="dropdown-menu dropdown-menu-right">
+                        <button class="dropdown-item" type="button" onClick="window.open('changepwd.html','_self',false)">Modifica Password</button>
+                        <div class="dropdown-divider"></div>
+                        <button class="dropdown-item" type="button" onClick="window.open('deletepayments.html','_self',false)">Rimuovi metodo di pagamento</button>
+                        <div class="dropdown-divider"></div>
+                        <button class="dropdown-item" type="button" data-toggle="modal" data-target="#myModal">Aggiungi metodo di pagamento</button>
+                    </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" style="cursor:pointer;" onclick="slogga()">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+                <div class="card card-signin my-5">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Il tuo profilo</h5>
+                        <form class="form-signin" onSubmit="return aggiorna(document.getElementById('inputNome').value, document.getElementById('inputCognome').value, document.querySelector('input[name=gender]:checked').value, document.getElementById('inputNascita').value, document.getElementById('inputComune').value, document.getElementById('inputResidenza').value, document.getElementById('inputIndirizzo').value, document.getElementById('inputTelefono').value, document.getElementById('inputEmail').value)">
+                            <div class="form-label-group">
+                                <input type="nome" id="inputNome" class="form-control" placeholder="Nome" required autofocus>
+                                <label for="inputNome">Nome</label>
+                            </div>
+                            <div class="form-label-group">
+                                <input type="cognome" id="inputCognome" class="form-control" placeholder="Cognome" required>
+                                <label for="inputCognome">Cognome</label>
+                            </div> 
+                            <div class="form-check form-check-inline">
+                                <input id="Maschio" name="gender" type="radio" style="width:24px;" value="M" required>
+                                <label for="inputGenere">Uomo</label>
+                            </div>
+                                <div class="form-check form-check-inline">
+                                <input id="Femmina" name="gender" type="radio" style="width:24px;" value="F">
+                                <label for="inputGenere">Donna</label>
+                            </div>
+                            <div class="form-label-group">
+                                <input type="date" id="inputNascita" onchange="minAge(document.getElementById('inputNascita').value)" class="form-control" placeholder="GG/MM/YYYY" required>
+                                <label for="inputNascita">Data di nascita</label>
+                            </div> 
+                            <div class="form-label-group">
+                                <input type="comune" id="inputComune" class="form-control" placeholder="Comune di nascita" required>
+                                <label for="inputComune">Comune di nascita</label>
+                            </div>       
+                            <div class="form-label-group">
+                                <input type="residenza" id="inputResidenza" class="form-control" placeholder="Comune di residenza" required>
+                                <label for="inputResidenza">Comune di residenza</label>
+                            </div>  
+                            <div class="form-label-group">
+                                <input type="indirizzo" id="inputIndirizzo" class="form-control" placeholder="Indirizzo" required>
+                                <label for="inputIndirizzo">Indirizzo</label>
+                            </div>  
+                            <div class="form-label-group">
+                                <input type="tel" id="inputTelefono" class="form-control" placeholder="Telefono" pattern="[0-9]{9,10}" required>
+                                <label for="inputTelefono">Telefono</label>
+                            </div>   
+                            <div class="form-label-group">
+                                <input type="email" id="inputEmail" readonly class="form-control" placeholder="nome@example.com" required>
+                                <label for="inputEmail">Email</label>
+                            </div> 
+                            <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Aggiorna</button>
+                            <hr class="my-4">
+                            <div id="popup"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+          <div class="modal-dialog">
+          
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Scegli il metodo di pagamento da aggiungere</h4>
+              </div>
+              <div class="modal-body">
+                <button onClick="window.open('linkcard.html','_self',false)" value="Collega Carta" class="btn btn-primary">Collega Carta</button>
+                <button onClick="window.open('linkiban.html','_self',false)" value="Collega Conto" class="btn btn-primary">Collega Conto</button>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Chiudi</button>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+    
+</body>
+</html>

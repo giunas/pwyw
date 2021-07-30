@@ -1,0 +1,22 @@
+{
+	"nome": "Spello",
+	"codice": "054050",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "I888",
+	"cap": [
+		"06038"
+	],
+	"popolazione": 8631
+}

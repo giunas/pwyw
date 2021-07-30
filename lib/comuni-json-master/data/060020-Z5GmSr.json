@@ -1,0 +1,22 @@
+{
+	"nome": "Castelliri",
+	"codice": "060020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "C177",
+	"cap": [
+		"03030"
+	],
+	"popolazione": 3533
+}

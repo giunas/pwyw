@@ -1,0 +1,22 @@
+{
+	"nome": "Settimo Torinese",
+	"codice": "001265",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I703",
+	"cap": [
+		"10036"
+	],
+	"popolazione": 46873
+}

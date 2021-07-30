@@ -1,0 +1,22 @@
+{
+	"nome": "San Fiorano",
+	"codice": "098047",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "H844",
+	"cap": [
+		"26848"
+	],
+	"popolazione": 1804
+}

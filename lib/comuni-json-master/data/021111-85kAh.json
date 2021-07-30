@@ -1,0 +1,22 @@
+{
+	"nome": "Varna",
+	"codice": "021111",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "L687",
+	"cap": [
+		"39040"
+	],
+	"popolazione": 4253
+}

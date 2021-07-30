@@ -1,0 +1,22 @@
+{
+	"nome": "Oleggio Castello",
+	"codice": "003109",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "G020",
+	"cap": [
+		"28040"
+	],
+	"popolazione": 1968
+}

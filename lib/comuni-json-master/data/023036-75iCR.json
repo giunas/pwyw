@@ -1,0 +1,22 @@
+{
+	"nome": "Garda",
+	"codice": "023036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "D915",
+	"cap": [
+		"37016"
+	],
+	"popolazione": 3978
+}

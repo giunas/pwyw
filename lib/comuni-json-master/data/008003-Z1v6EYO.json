@@ -1,0 +1,22 @@
+{
+	"nome": "Aquila d'Arroscia",
+	"codice": "008003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "A344",
+	"cap": [
+		"18020"
+	],
+	"popolazione": 176
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Borghi",
+	"codice": "040004",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "B001",
+	"cap": [
+		"47030"
+	],
+	"popolazione": 2718
+}

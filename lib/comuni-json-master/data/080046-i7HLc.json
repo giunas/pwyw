@@ -1,0 +1,22 @@
+{
+	"nome": "Maropati",
+	"codice": "080046",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "E968",
+	"cap": [
+		"89020"
+	],
+	"popolazione": 1583
+}

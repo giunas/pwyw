@@ -1,0 +1,22 @@
+{
+	"nome": "Morgano",
+	"codice": "026047",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "F725",
+	"cap": [
+		"31050"
+	],
+	"popolazione": 4362
+}

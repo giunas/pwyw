@@ -1,0 +1,22 @@
+{
+	"nome": "Qualiano",
+	"codice": "063062",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "H101",
+	"cap": [
+		"80019"
+	],
+	"popolazione": 24744
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montelupo Fiorentino",
+	"codice": "048028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "F551",
+	"cap": [
+		"50056"
+	],
+	"popolazione": 13653
+}

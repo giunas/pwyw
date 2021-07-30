@@ -1,0 +1,22 @@
+{
+	"nome": "Olevano Romano",
+	"codice": "058073",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "G022",
+	"cap": [
+		"00035"
+	],
+	"popolazione": 6742
+}

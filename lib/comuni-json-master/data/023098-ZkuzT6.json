@@ -1,0 +1,22 @@
+{
+	"nome": "Zimella",
+	"codice": "023098",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "M178",
+	"cap": [
+		"37040"
+	],
+	"popolazione": 4834
+}

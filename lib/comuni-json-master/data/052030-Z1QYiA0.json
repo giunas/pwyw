@@ -1,0 +1,22 @@
+{
+	"nome": "San Quirico d'Orcia",
+	"codice": "052030",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "I135",
+	"cap": [
+		"53027"
+	],
+	"popolazione": 2680
+}

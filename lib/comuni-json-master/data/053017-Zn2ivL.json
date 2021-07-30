@@ -1,0 +1,22 @@
+{
+	"nome": "Montieri",
+	"codice": "053017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "F677",
+	"cap": [
+		"58026"
+	],
+	"popolazione": 1147
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Pietragalla",
+	"codice": "076060",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "G616",
+	"cap": [
+		"85016"
+	],
+	"popolazione": 4267
+}

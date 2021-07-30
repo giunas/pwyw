@@ -1,0 +1,22 @@
+{
+	"nome": "Bultei",
+	"codice": "090018",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "B264",
+	"cap": [
+		"07010"
+	],
+	"popolazione": 1046
+}

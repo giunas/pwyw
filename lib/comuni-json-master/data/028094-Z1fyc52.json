@@ -1,0 +1,22 @@
+{
+	"nome": "Tribano",
+	"codice": "028094",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "L414",
+	"cap": [
+		"35020"
+	],
+	"popolazione": 4431
+}

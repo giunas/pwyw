@@ -1,0 +1,22 @@
+{
+	"nome": "Trentinara",
+	"codice": "065152",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "L377",
+	"cap": [
+		"84070"
+	],
+	"popolazione": 1683
+}

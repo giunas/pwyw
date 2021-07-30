@@ -1,0 +1,22 @@
+{
+	"nome": "Montignoso",
+	"codice": "045011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "F679",
+	"cap": [
+		"54038"
+	],
+	"popolazione": 10226
+}

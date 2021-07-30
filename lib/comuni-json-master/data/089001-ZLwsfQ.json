@@ -1,0 +1,22 @@
+{
+	"nome": "Augusta",
+	"codice": "089001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "A494",
+	"cap": [
+		"96011"
+	],
+	"popolazione": 36169
+}

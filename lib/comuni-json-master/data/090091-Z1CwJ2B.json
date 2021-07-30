@@ -1,0 +1,22 @@
+{
+	"nome": "Budoni",
+	"codice": "090091",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "B248",
+	"cap": [
+		"07051"
+	],
+	"popolazione": 4846
+}

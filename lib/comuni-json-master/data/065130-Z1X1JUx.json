@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Egidio del Monte Albino",
+	"codice": "065130",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I317",
+	"cap": [
+		"84010"
+	],
+	"popolazione": 8715
+}

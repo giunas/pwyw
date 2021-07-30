@@ -1,0 +1,22 @@
+{
+	"nome": "Poggiomarino",
+	"codice": "063055",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G762",
+	"cap": [
+		"80040"
+	],
+	"popolazione": 21206
+}

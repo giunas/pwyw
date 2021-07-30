@@ -1,0 +1,22 @@
+{
+	"nome": "Missaglia",
+	"codice": "097049",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "F248",
+	"cap": [
+		"23873"
+	],
+	"popolazione": 8579
+}

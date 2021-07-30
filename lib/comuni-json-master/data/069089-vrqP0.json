@@ -1,0 +1,22 @@
+{
+	"nome": "Taranta Peligna",
+	"codice": "069089",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "L047",
+	"cap": [
+		"66018"
+	],
+	"popolazione": 399
+}

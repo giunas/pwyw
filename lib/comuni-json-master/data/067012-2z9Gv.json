@@ -1,0 +1,22 @@
+{
+	"nome": "Castelli",
+	"codice": "067012",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C169",
+	"cap": [
+		"64041"
+	],
+	"popolazione": 1224
+}

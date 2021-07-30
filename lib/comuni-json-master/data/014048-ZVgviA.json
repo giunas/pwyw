@@ -1,0 +1,22 @@
+{
+	"nome": "Piantedo",
+	"codice": "014048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "G572",
+	"cap": [
+		"23010"
+	],
+	"popolazione": 1321
+}

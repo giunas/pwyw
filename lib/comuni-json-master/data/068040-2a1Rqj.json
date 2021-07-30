@@ -1,0 +1,22 @@
+{
+	"nome": "Serramonacesca",
+	"codice": "068040",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "I649",
+	"cap": [
+		"65025"
+	],
+	"popolazione": 582
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Chieti",
+	"codice": "069022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "C632",
+	"cap": [
+		"66100"
+	],
+	"popolazione": 51484
+}

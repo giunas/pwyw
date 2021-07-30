@@ -1,0 +1,22 @@
+{
+	"nome": "Carnate",
+	"codice": "108016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "B798",
+	"cap": [
+		"20866"
+	],
+	"popolazione": 7177
+}

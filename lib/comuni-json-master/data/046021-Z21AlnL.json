@@ -1,0 +1,22 @@
+{
+	"nome": "Montecarlo",
+	"codice": "046021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "F452",
+	"cap": [
+		"55015"
+	],
+	"popolazione": 4454
+}

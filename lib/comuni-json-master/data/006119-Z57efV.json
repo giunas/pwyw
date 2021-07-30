@@ -1,0 +1,22 @@
+{
+	"nome": "Orsara Bormida",
+	"codice": "006119",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "G124",
+	"cap": [
+		"15010"
+	],
+	"popolazione": 406
+}

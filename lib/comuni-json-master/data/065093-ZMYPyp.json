@@ -1,0 +1,22 @@
+{
+	"nome": "Pertosa",
+	"codice": "065093",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G476",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 705
+}

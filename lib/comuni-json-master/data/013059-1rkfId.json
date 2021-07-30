@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo Bozzente",
+	"codice": "013059",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C220",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 889
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Toscolano-Maderno",
+	"codice": "017187",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "L312",
+	"cap": [
+		"25088"
+	],
+	"popolazione": 7994
+}

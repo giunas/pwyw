@@ -1,0 +1,22 @@
+{
+	"nome": "Gera Lario",
+	"codice": "013107",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "D974",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 1016
+}

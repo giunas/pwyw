@@ -1,0 +1,22 @@
+{
+	"nome": "Pignola",
+	"codice": "076062",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "G663",
+	"cap": [
+		"85010"
+	],
+	"popolazione": 6699
+}

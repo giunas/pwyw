@@ -1,0 +1,22 @@
+{
+	"nome": "Mozzate",
+	"codice": "013159",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "F788",
+	"cap": [
+		"22076"
+	],
+	"popolazione": 8208
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Caprezzo",
+	"codice": "103018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "B694",
+	"cap": [
+		"28815"
+	],
+	"popolazione": 168
+}

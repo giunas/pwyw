@@ -1,0 +1,22 @@
+{
+	"nome": "San Prospero",
+	"codice": "036039",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "I133",
+	"cap": [
+		"41030"
+	],
+	"popolazione": 5841
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Paullo",
+	"codice": "015169",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "G385",
+	"cap": [
+		"20067"
+	],
+	"popolazione": 11014
+}

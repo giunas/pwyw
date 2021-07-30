@@ -1,0 +1,22 @@
+{
+	"nome": "Isola del Gran Sasso d'Italia",
+	"codice": "067026",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "E343",
+	"cap": [
+		"64045"
+	],
+	"popolazione": 4840
+}

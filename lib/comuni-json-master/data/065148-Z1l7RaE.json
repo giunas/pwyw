@@ -1,0 +1,22 @@
+{
+	"nome": "Torraca",
+	"codice": "065148",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "L233",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 1267
+}

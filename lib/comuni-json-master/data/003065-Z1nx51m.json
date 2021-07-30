@@ -1,0 +1,22 @@
+{
+	"nome": "Fara Novarese",
+	"codice": "003065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "D492",
+	"cap": [
+		"28073"
+	],
+	"popolazione": 2113
+}

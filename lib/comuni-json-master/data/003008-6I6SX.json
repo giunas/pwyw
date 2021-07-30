@@ -1,0 +1,22 @@
+{
+	"nome": "Arona",
+	"codice": "003008",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "A429",
+	"cap": [
+		"28041"
+	],
+	"popolazione": 14195
+}

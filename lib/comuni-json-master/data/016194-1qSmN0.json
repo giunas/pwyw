@@ -1,0 +1,22 @@
+{
+	"nome": "Scanzorosciate",
+	"codice": "016194",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "I506",
+	"cap": [
+		"24020"
+	],
+	"popolazione": 9835
+}

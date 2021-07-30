@@ -1,0 +1,22 @@
+{
+	"nome": "Bonassola",
+	"codice": "011005",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "A961",
+	"cap": [
+		"19011"
+	],
+	"popolazione": 995
+}

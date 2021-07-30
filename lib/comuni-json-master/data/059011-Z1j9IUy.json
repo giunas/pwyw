@@ -1,0 +1,22 @@
+{
+	"nome": "Latina",
+	"codice": "059011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "E472",
+	"cap": [
+		"04100"
+	],
+	"popolazione": 117892
+}

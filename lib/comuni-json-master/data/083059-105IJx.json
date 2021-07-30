@@ -1,0 +1,22 @@
+{
+	"nome": "Motta d'Affermo",
+	"codice": "083059",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F773",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 828
+}

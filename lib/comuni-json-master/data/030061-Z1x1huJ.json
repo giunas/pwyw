@@ -1,0 +1,22 @@
+{
+	"nome": "Montenars",
+	"codice": "030061",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "F574",
+	"cap": [
+		"33010"
+	],
+	"popolazione": 558
+}

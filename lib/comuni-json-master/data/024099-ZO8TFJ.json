@@ -1,0 +1,22 @@
+{
+	"nome": "Schiavon",
+	"codice": "024099",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "I527",
+	"cap": [
+		"36060"
+	],
+	"popolazione": 2600
+}

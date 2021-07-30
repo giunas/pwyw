@@ -1,0 +1,22 @@
+{
+	"nome": "Mezzana Rabattone",
+	"codice": "018091",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "F171",
+	"cap": [
+		"27030"
+	],
+	"popolazione": 502
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Giusta",
+	"codice": "095047",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "I205",
+	"cap": [
+		"09096"
+	],
+	"popolazione": 4811
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montaldo Scarampi",
+	"codice": "005074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F409",
+	"cap": [
+		"14048"
+	],
+	"popolazione": 788
+}

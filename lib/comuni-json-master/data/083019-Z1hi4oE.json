@@ -1,0 +1,22 @@
+{
+	"nome": "Falcone",
+	"codice": "083019",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D474",
+	"cap": [
+		"98060"
+	],
+	"popolazione": 2874
+}

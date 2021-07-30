@@ -1,0 +1,22 @@
+{
+	"nome": "Leni",
+	"codice": "083037",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E523",
+	"cap": [
+		"98050"
+	],
+	"popolazione": 702
+}

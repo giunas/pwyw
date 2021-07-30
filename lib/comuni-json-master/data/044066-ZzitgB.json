@@ -1,0 +1,22 @@
+{
+	"nome": "San Benedetto del Tronto",
+	"codice": "044066",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "H769",
+	"cap": [
+		"63074"
+	],
+	"popolazione": 46963
+}

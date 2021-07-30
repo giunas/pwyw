@@ -1,0 +1,22 @@
+{
+	"nome": "Vaglio Basilicata",
+	"codice": "076094",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "L532",
+	"cap": [
+		"85010"
+	],
+	"popolazione": 2074
+}

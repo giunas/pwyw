@@ -1,0 +1,22 @@
+{
+	"nome": "Monte Urano",
+	"codice": "109024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F653",
+	"cap": [
+		"63813"
+	],
+	"popolazione": 8283
+}

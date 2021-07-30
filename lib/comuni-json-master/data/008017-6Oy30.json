@@ -1,0 +1,22 @@
+{
+	"nome": "Cervo",
+	"codice": "008017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "C559",
+	"cap": [
+		"18010"
+	],
+	"popolazione": 1128
+}

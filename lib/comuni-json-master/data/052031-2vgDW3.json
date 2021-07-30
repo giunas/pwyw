@@ -1,0 +1,22 @@
+{
+	"nome": "Sarteano",
+	"codice": "052031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "I445",
+	"cap": [
+		"53047"
+	],
+	"popolazione": 4741
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fiastra",
+	"codice": "043017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "D564",
+	"cap": [
+		"62035"
+	],
+	"popolazione": 700
+}

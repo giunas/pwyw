@@ -1,0 +1,22 @@
+{
+	"nome": "Pessinetto",
+	"codice": "001188",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G505",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 607
+}

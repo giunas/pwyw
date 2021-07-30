@@ -1,0 +1,22 @@
+{
+	"nome": "Arquà Petrarca",
+	"codice": "028005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "A434",
+	"cap": [
+		"35032"
+	],
+	"popolazione": 1847
+}

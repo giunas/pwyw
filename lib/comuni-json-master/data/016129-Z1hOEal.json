@@ -1,0 +1,22 @@
+{
+	"nome": "Lurano",
+	"codice": "016129",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "E751",
+	"cap": [
+		"24050"
+	],
+	"popolazione": 2580
+}

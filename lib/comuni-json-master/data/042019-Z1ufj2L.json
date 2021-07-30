@@ -1,0 +1,22 @@
+{
+	"nome": "Filottrano",
+	"codice": "042019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "D597",
+	"cap": [
+		"60024"
+	],
+	"popolazione": 9622
+}

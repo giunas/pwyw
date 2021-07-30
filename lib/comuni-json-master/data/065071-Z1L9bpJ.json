@@ -1,0 +1,22 @@
+{
+	"nome": "Montecorice",
+	"codice": "065071",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F479",
+	"cap": [
+		"84060"
+	],
+	"popolazione": 2545
+}

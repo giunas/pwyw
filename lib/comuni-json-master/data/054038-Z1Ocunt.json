@@ -1,0 +1,22 @@
+{
+	"nome": "Passignano sul Trasimeno",
+	"codice": "054038",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "G359",
+	"cap": [
+		"06065"
+	],
+	"popolazione": 5522
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Strevi",
+	"codice": "006168",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "I977",
+	"cap": [
+		"15019"
+	],
+	"popolazione": 2039
+}

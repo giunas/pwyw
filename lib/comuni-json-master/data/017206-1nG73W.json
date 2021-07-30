@@ -1,0 +1,22 @@
+{
+	"nome": "Piancogno",
+	"codice": "017206",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G549",
+	"cap": [
+		"25052"
+	],
+	"popolazione": 4679
+}

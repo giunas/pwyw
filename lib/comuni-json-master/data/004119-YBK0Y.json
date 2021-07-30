@@ -1,0 +1,22 @@
+{
+	"nome": "Marmora",
+	"codice": "004119",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "E963",
+	"cap": [
+		"12020"
+	],
+	"popolazione": 74
+}

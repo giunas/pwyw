@@ -1,0 +1,22 @@
+{
+	"nome": "San Sebastiano al Vesuvio",
+	"codice": "063070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I151",
+	"cap": [
+		"80040"
+	],
+	"popolazione": 9167
+}

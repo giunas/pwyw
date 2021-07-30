@@ -1,0 +1,22 @@
+{
+	"nome": "Sagama",
+	"codice": "095086",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "H661",
+	"cap": [
+		"08010"
+	],
+	"popolazione": 193
+}

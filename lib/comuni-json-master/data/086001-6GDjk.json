@@ -1,0 +1,22 @@
+{
+	"nome": "Agira",
+	"codice": "086001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "A070",
+	"cap": [
+		"94011"
+	],
+	"popolazione": 8484
+}

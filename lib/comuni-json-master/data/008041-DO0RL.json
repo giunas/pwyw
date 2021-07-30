@@ -1,0 +1,22 @@
+{
+	"nome": "Pietrabruna",
+	"codice": "008041",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G607",
+	"cap": [
+		"18010"
+	],
+	"popolazione": 541
+}

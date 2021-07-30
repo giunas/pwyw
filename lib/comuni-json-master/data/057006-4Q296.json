@@ -1,0 +1,22 @@
+{
+	"nome": "Borbona",
+	"codice": "057006",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "A981",
+	"cap": [
+		"02010"
+	],
+	"popolazione": 650
+}

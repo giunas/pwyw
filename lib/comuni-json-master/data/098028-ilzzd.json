@@ -1,0 +1,22 @@
+{
+	"nome": "Graffignana",
+	"codice": "098028",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "E127",
+	"cap": [
+		"26813"
+	],
+	"popolazione": 2604
+}

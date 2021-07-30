@@ -1,0 +1,22 @@
+{
+	"nome": "Collegiove",
+	"codice": "057020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "C859",
+	"cap": [
+		"02020"
+	],
+	"popolazione": 169
+}

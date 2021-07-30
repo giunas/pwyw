@@ -1,0 +1,22 @@
+{
+	"nome": "Rubano",
+	"codice": "028072",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "H625",
+	"cap": [
+		"35030"
+	],
+	"popolazione": 15669
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Massignano",
+	"codice": "044029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "F044",
+	"cap": [
+		"63061"
+	],
+	"popolazione": 1655
+}

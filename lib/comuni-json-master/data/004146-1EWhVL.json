@@ -1,0 +1,22 @@
+{
+	"nome": "Murello",
+	"codice": "004146",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F811",
+	"cap": [
+		"12030"
+	],
+	"popolazione": 962
+}

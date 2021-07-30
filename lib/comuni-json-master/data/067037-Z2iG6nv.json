@@ -1,0 +1,22 @@
+{
+	"nome": "Roseto degli Abruzzi",
+	"codice": "067037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "F585",
+	"cap": [
+		"64026"
+	],
+	"popolazione": 24940
+}

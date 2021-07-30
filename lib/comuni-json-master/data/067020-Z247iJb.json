@@ -1,0 +1,22 @@
+{
+	"nome": "Controguerra",
+	"codice": "067020",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C972",
+	"cap": [
+		"64010"
+	],
+	"popolazione": 2422
+}

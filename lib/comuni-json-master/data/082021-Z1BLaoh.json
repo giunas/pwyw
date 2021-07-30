@@ -1,0 +1,22 @@
+{
+	"nome": "Carini",
+	"codice": "082021",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "B780",
+	"cap": [
+		"90044"
+	],
+	"popolazione": 35681
+}

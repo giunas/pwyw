@@ -1,0 +1,22 @@
+{
+	"nome": "Papozze",
+	"codice": "029034",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "G323",
+	"cap": [
+		"45010"
+	],
+	"popolazione": 1645
+}

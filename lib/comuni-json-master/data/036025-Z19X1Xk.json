@@ -1,0 +1,22 @@
+{
+	"nome": "Montefiorino",
+	"codice": "036025",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "F503",
+	"cap": [
+		"41045"
+	],
+	"popolazione": 2253
+}

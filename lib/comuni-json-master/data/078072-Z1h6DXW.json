@@ -1,0 +1,22 @@
+{
+	"nome": "Malito",
+	"codice": "078072",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "E859",
+	"cap": [
+		"87030"
+	],
+	"popolazione": 812
+}

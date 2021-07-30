@@ -1,0 +1,22 @@
+{
+	"nome": "Melito di Porto Salvo",
+	"codice": "080050",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "F112",
+	"cap": [
+		"89063"
+	],
+	"popolazione": 11115
+}

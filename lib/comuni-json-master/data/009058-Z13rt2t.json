@@ -1,0 +1,22 @@
+{
+	"nome": "Stella",
+	"codice": "009058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "I946",
+	"cap": [
+		"17044"
+	],
+	"popolazione": 3066
+}

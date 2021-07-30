@@ -1,0 +1,22 @@
+{
+	"nome": "Sennori",
+	"codice": "090067",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "I614",
+	"cap": [
+		"07036"
+	],
+	"popolazione": 7375
+}

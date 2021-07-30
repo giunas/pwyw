@@ -1,0 +1,22 @@
+{
+	"nome": "Cordignano",
+	"codice": "026022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "C992",
+	"cap": [
+		"31016"
+	],
+	"popolazione": 7096
+}

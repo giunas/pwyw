@@ -1,0 +1,22 @@
+{
+	"nome": "Castagnaro",
+	"codice": "023020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "C041",
+	"cap": [
+		"37043"
+	],
+	"popolazione": 3930
+}

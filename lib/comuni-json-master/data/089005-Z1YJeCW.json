@@ -1,0 +1,22 @@
+{
+	"nome": "Canicattini Bagni",
+	"codice": "089005",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "B603",
+	"cap": [
+		"96010"
+	],
+	"popolazione": 7186
+}

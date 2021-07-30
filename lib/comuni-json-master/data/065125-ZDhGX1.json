@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro al Tanagro",
+	"codice": "065125",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I089",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 1737
+}

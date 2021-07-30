@@ -1,0 +1,22 @@
+{
+	"nome": "Monte San Giovanni Campano",
+	"codice": "060044",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "F620",
+	"cap": [
+		"03025"
+	],
+	"popolazione": 12882
+}

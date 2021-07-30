@@ -1,0 +1,22 @@
+{
+	"nome": "Chiaramonti",
+	"codice": "090025",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "C613",
+	"cap": [
+		"07030"
+	],
+	"popolazione": 1735
+}

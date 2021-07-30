@@ -1,0 +1,22 @@
+{
+	"nome": "Cervignano d'Adda",
+	"codice": "098018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "C555",
+	"cap": [
+		"26832"
+	],
+	"popolazione": 2119
+}

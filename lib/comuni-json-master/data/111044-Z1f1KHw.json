@@ -1,0 +1,22 @@
+{
+	"nome": "Narcao",
+	"codice": "111044",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "F841",
+	"cap": [
+		"09010"
+	],
+	"popolazione": 3373
+}

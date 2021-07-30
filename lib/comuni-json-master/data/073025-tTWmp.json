@@ -1,0 +1,22 @@
+{
+	"nome": "San Marzano di San Giuseppe",
+	"codice": "073025",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "073",
+		"nome": "Taranto"
+	},
+	"sigla": "TA",
+	"codiceCatastale": "I018",
+	"cap": [
+		"74020"
+	],
+	"popolazione": 9269
+}

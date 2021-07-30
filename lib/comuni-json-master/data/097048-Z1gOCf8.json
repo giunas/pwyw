@@ -1,0 +1,22 @@
+{
+	"nome": "Merate",
+	"codice": "097048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "F133",
+	"cap": [
+		"23807"
+	],
+	"popolazione": 14583
+}

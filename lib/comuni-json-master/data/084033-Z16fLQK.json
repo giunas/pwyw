@@ -1,0 +1,22 @@
+{
+	"nome": "Ribera",
+	"codice": "084033",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "H269",
+	"cap": [
+		"92016"
+	],
+	"popolazione": 19302
+}

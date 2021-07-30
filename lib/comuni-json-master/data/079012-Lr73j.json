@@ -1,0 +1,22 @@
+{
+	"nome": "Botricello",
+	"codice": "079012",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "B085",
+	"cap": [
+		"88070"
+	],
+	"popolazione": 4906
+}

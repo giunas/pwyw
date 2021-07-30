@@ -1,0 +1,22 @@
+{
+	"nome": "Solaro",
+	"codice": "015213",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I786",
+	"cap": [
+		"20020"
+	],
+	"popolazione": 13890
+}

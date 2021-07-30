@@ -1,0 +1,22 @@
+{
+	"nome": "Pertusio",
+	"codice": "001187",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G477",
+	"cap": [
+		"10080"
+	],
+	"popolazione": 773
+}

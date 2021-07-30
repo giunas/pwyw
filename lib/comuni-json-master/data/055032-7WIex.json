@@ -1,0 +1,22 @@
+{
+	"nome": "Terni",
+	"codice": "055032",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "L117",
+	"cap": [
+		"05100"
+	],
+	"popolazione": 109193
+}

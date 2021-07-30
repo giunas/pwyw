@@ -1,0 +1,22 @@
+{
+	"nome": "Casavatore",
+	"codice": "063021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B946",
+	"cap": [
+		"80020"
+	],
+	"popolazione": 18663
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Santo Stefano Ticino",
+	"codice": "015200",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I361",
+	"cap": [
+		"20010"
+	],
+	"popolazione": 4801
+}

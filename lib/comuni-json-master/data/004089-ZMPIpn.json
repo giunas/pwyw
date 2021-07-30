@@ -1,0 +1,22 @@
+{
+	"nome": "Fossano",
+	"codice": "004089",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D742",
+	"cap": [
+		"12045"
+	],
+	"popolazione": 24710
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelspina",
+	"codice": "006054",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "C274",
+	"cap": [
+		"15070"
+	],
+	"popolazione": 422
+}

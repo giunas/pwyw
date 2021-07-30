@@ -1,0 +1,22 @@
+{
+	"nome": "Ardara",
+	"codice": "090005",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "A379",
+	"cap": [
+		"07010"
+	],
+	"popolazione": 800
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Mezzolombardo",
+	"codice": "022117",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "F187",
+	"cap": [
+		"38017"
+	],
+	"popolazione": 6817
+}

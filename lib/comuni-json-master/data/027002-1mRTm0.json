@@ -1,0 +1,22 @@
+{
+	"nome": "Campagna Lupia",
+	"codice": "027002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "B493",
+	"cap": [
+		"30010"
+	],
+	"popolazione": 6936
+}

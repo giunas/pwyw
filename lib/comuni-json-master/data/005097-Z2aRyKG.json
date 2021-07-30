@@ -1,0 +1,22 @@
+{
+	"nome": "San Damiano d'Asti",
+	"codice": "005097",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "H811",
+	"cap": [
+		"14015"
+	],
+	"popolazione": 8373
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castel Gandolfo",
+	"codice": "058022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C116",
+	"cap": [
+		"00073"
+	],
+	"popolazione": 8782
+}

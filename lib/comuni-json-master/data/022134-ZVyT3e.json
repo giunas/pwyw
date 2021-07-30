@@ -1,0 +1,22 @@
+{
+	"nome": "Panchià",
+	"codice": "022134",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "G305",
+	"cap": [
+		"38030"
+	],
+	"popolazione": 771
+}

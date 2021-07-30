@@ -1,0 +1,22 @@
+{
+	"nome": "Fisciano",
+	"codice": "065052",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "D615",
+	"cap": [
+		"84084"
+	],
+	"popolazione": 13677
+}

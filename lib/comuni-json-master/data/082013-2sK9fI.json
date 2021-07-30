@@ -1,0 +1,22 @@
+{
+	"nome": "Borgetto",
+	"codice": "082013",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "A991",
+	"cap": [
+		"90042"
+	],
+	"popolazione": 7021
+}

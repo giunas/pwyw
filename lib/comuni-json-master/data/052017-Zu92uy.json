@@ -1,0 +1,22 @@
+{
+	"nome": "Monteroni d'Arbia",
+	"codice": "052017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "F605",
+	"cap": [
+		"53014"
+	],
+	"popolazione": 8744
+}

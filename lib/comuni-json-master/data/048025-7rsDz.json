@@ -1,0 +1,22 @@
+{
+	"nome": "Londa",
+	"codice": "048025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "E668",
+	"cap": [
+		"50060"
+	],
+	"popolazione": 1827
+}

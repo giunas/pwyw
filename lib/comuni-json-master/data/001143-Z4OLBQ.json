@@ -1,0 +1,22 @@
+{
+	"nome": "Maglione",
+	"codice": "001143",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "E817",
+	"cap": [
+		"10030"
+	],
+	"popolazione": 468
+}

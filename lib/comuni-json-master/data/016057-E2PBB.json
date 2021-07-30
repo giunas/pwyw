@@ -1,0 +1,22 @@
+{
+	"nome": "Carvico",
+	"codice": "016057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "B854",
+	"cap": [
+		"24030"
+	],
+	"popolazione": 4666
+}

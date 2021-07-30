@@ -1,0 +1,22 @@
+{
+	"nome": "Sirmione",
+	"codice": "017179",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "I633",
+	"cap": [
+		"25019"
+	],
+	"popolazione": 7438
+}

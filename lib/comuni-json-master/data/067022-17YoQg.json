@@ -1,0 +1,22 @@
+{
+	"nome": "Cortino",
+	"codice": "067022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "D076",
+	"cap": [
+		"64040"
+	],
+	"popolazione": 683
+}

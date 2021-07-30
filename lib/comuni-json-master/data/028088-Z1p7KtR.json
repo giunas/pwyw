@@ -1,0 +1,22 @@
+{
+	"nome": "Stanghella",
+	"codice": "028088",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "I938",
+	"cap": [
+		"35048"
+	],
+	"popolazione": 4331
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Balestrate",
+	"codice": "082007",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "A592",
+	"cap": [
+		"90041"
+	],
+	"popolazione": 6413
+}

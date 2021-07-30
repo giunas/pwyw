@@ -1,0 +1,22 @@
+{
+	"nome": "Jolanda di Savoia",
+	"codice": "038010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "E320",
+	"cap": [
+		"44037"
+	],
+	"popolazione": 3003
+}

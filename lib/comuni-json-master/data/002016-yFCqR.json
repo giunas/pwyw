@@ -1,0 +1,22 @@
+{
+	"nome": "Borgosesia",
+	"codice": "002016",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "B041",
+	"cap": [
+		"13011"
+	],
+	"popolazione": 13031
+}

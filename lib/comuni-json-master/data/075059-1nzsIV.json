@@ -1,0 +1,22 @@
+{
+	"nome": "Parabita",
+	"codice": "075059",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "075",
+		"nome": "Lecce"
+	},
+	"sigla": "LE",
+	"codiceCatastale": "G325",
+	"cap": [
+		"73052"
+	],
+	"popolazione": 9323
+}

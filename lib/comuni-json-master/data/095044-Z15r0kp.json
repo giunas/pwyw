@@ -1,0 +1,22 @@
+{
+	"nome": "Ruinas",
+	"codice": "095044",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "F271",
+	"cap": [
+		"09085"
+	],
+	"popolazione": 728
+}

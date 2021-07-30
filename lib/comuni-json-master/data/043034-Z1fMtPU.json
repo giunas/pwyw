@@ -1,0 +1,22 @@
+{
+	"nome": "Muccia",
+	"codice": "043034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "F793",
+	"cap": [
+		"62034"
+	],
+	"popolazione": 929
+}

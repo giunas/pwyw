@@ -1,0 +1,22 @@
+{
+	"nome": "Ponsacco",
+	"codice": "050028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "G822",
+	"cap": [
+		"56038"
+	],
+	"popolazione": 15237
+}

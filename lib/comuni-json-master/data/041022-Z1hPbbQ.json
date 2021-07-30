@@ -1,0 +1,22 @@
+{
+	"nome": "Lunano",
+	"codice": "041022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "E743",
+	"cap": [
+		"61026"
+	],
+	"popolazione": 1528
+}

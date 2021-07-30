@@ -1,0 +1,22 @@
+{
+	"nome": "Casal di Principe",
+	"codice": "061019",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B872",
+	"cap": [
+		"81033"
+	],
+	"popolazione": 20828
+}

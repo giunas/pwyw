@@ -1,0 +1,22 @@
+{
+	"nome": "Villastellone",
+	"codice": "001308",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M027",
+	"cap": [
+		"10029"
+	],
+	"popolazione": 4864
+}

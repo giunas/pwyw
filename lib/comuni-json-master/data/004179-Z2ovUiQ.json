@@ -1,0 +1,22 @@
+{
+	"nome": "Racconigi",
+	"codice": "004179",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H150",
+	"cap": [
+		"12035"
+	],
+	"popolazione": 10028
+}

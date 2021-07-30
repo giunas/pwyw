@@ -1,0 +1,22 @@
+{
+	"nome": "Esperia",
+	"codice": "060031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "D440",
+	"cap": [
+		"03045"
+	],
+	"popolazione": 3903
+}

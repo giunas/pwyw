@@ -1,0 +1,22 @@
+{
+	"nome": "Priola",
+	"codice": "004177",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H069",
+	"cap": [
+		"12070"
+	],
+	"popolazione": 719
+}

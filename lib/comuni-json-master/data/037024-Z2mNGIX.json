@@ -1,0 +1,22 @@
+{
+	"nome": "Crevalcore",
+	"codice": "037024",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "D166",
+	"cap": [
+		"40014"
+	],
+	"popolazione": 13527
+}

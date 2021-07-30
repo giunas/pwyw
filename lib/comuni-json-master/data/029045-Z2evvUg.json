@@ -1,0 +1,22 @@
+{
+	"nome": "Stienta",
+	"codice": "029045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "I953",
+	"cap": [
+		"45039"
+	],
+	"popolazione": 3329
+}

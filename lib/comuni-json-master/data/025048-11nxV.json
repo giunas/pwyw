@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Giustina",
+	"codice": "025048",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "I206",
+	"cap": [
+		"32035"
+	],
+	"popolazione": 6767
+}

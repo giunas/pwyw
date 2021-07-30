@@ -1,0 +1,22 @@
+{
+	"nome": "Chianciano Terme",
+	"codice": "052009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "C608",
+	"cap": [
+		"53042"
+	],
+	"popolazione": 7058
+}

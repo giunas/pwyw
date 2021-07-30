@@ -1,0 +1,22 @@
+{
+	"nome": "Vanzaghello",
+	"codice": "015249",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "L664",
+	"cap": [
+		"20020"
+	],
+	"popolazione": 5344
+}

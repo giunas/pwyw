@@ -1,0 +1,22 @@
+{
+	"nome": "Taggia",
+	"codice": "008059",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "L024",
+	"cap": [
+		"18018"
+	],
+	"popolazione": 14032
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Medea",
+	"codice": "031011",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "F081",
+	"cap": [
+		"34076"
+	],
+	"popolazione": 970
+}

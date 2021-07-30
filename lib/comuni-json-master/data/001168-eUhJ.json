@@ -1,0 +1,22 @@
+{
+	"nome": "None",
+	"codice": "001168",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F931",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 7998
+}

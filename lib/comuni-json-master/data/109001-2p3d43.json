@@ -1,0 +1,22 @@
+{
+	"nome": "Altidona",
+	"codice": "109001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "A233",
+	"cap": [
+		"63824"
+	],
+	"popolazione": 3234
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Nocera Inferiore",
+	"codice": "065078",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F912",
+	"cap": [
+		"84014"
+	],
+	"popolazione": 46563
+}

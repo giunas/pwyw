@@ -1,0 +1,22 @@
+{
+	"nome": "Campobello di Mazara",
+	"codice": "081004",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "B521",
+	"cap": [
+		"91021"
+	],
+	"popolazione": 11580
+}

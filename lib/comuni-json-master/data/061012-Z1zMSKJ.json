@@ -1,0 +1,22 @@
+{
+	"nome": "Cancello ed Arnone",
+	"codice": "061012",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B581",
+	"cap": [
+		"81030"
+	],
+	"popolazione": 5428
+}

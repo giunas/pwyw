@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca d'Evandro",
+	"codice": "061069",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "H398",
+	"cap": [
+		"81040"
+	],
+	"popolazione": 3366
+}

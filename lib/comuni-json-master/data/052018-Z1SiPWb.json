@@ -1,0 +1,22 @@
+{
+	"nome": "Monticiano",
+	"codice": "052018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "F676",
+	"cap": [
+		"53015"
+	],
+	"popolazione": 1505
+}

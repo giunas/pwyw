@@ -1,0 +1,22 @@
+{
+	"nome": "San Didero",
+	"codice": "001239",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H820",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 566
+}

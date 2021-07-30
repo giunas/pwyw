@@ -1,0 +1,23 @@
+{
+	"nome": "Colceresa",
+	"codice": "024126",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "M426",
+	"cap": [
+		"36064",
+		"36060"
+	],
+	"popolazione": 6113
+}

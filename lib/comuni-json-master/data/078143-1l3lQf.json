@@ -1,0 +1,22 @@
+{
+	"nome": "Spezzano della Sila",
+	"codice": "078143",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "I896",
+	"cap": [
+		"87058"
+	],
+	"popolazione": 4490
+}

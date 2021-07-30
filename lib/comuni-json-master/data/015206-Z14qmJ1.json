@@ -1,0 +1,22 @@
+{
+	"nome": "Senago",
+	"codice": "015206",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "I602",
+	"cap": [
+		"20030"
+	],
+	"popolazione": 20914
+}

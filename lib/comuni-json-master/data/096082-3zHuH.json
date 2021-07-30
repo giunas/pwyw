@@ -1,0 +1,22 @@
+{
+	"nome": "Zubiena",
+	"codice": "096082",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "M196",
+	"cap": [
+		"13888"
+	],
+	"popolazione": 1251
+}

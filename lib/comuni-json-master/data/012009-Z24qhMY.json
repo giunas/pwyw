@@ -1,0 +1,22 @@
+{
+	"nome": "Bardello",
+	"codice": "012009",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A645",
+	"cap": [
+		"21020"
+	],
+	"popolazione": 1550
+}

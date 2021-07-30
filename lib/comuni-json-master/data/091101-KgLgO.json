@@ -1,0 +1,22 @@
+{
+	"nome": "Villagrande Strisaili",
+	"codice": "091101",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "L953",
+	"cap": [
+		"08049"
+	],
+	"popolazione": 3376
+}

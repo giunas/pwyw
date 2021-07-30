@@ -1,0 +1,22 @@
+{
+	"nome": "Coreglia Antelminelli",
+	"codice": "046011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "C996",
+	"cap": [
+		"55025"
+	],
+	"popolazione": 5232
+}

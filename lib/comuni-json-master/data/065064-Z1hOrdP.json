@@ -1,0 +1,22 @@
+{
+	"nome": "Lustra",
+	"codice": "065064",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "E767",
+	"cap": [
+		"84050"
+	],
+	"popolazione": 1100
+}

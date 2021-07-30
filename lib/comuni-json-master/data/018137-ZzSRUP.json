@@ -1,0 +1,22 @@
+{
+	"nome": "San Martino Siccomario",
+	"codice": "018137",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "I014",
+	"cap": [
+		"27028"
+	],
+	"popolazione": 5738
+}

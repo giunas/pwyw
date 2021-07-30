@@ -1,0 +1,22 @@
+{
+	"nome": "Oppido Lucano",
+	"codice": "076056",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "G081",
+	"cap": [
+		"85015"
+	],
+	"popolazione": 3860
+}

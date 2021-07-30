@@ -1,0 +1,22 @@
+{
+	"nome": "Basicò",
+	"codice": "083006",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "A698",
+	"cap": [
+		"98060"
+	],
+	"popolazione": 679
+}

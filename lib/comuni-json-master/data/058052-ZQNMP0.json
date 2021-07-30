@@ -1,0 +1,22 @@
+{
+	"nome": "Magliano Romano",
+	"codice": "058052",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "E813",
+	"cap": [
+		"00060"
+	],
+	"popolazione": 1470
+}

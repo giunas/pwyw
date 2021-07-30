@@ -1,0 +1,22 @@
+{
+	"nome": "Torrioni",
+	"codice": "064111",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L301",
+	"cap": [
+		"83010"
+	],
+	"popolazione": 578
+}

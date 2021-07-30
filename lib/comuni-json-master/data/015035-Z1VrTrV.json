@@ -1,0 +1,22 @@
+{
+	"nome": "Bubbiano",
+	"codice": "015035",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "B235",
+	"cap": [
+		"20080"
+	],
+	"popolazione": 2215
+}

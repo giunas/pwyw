@@ -1,0 +1,22 @@
+{
+	"nome": "Portula",
+	"codice": "096048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "G927",
+	"cap": [
+		"13833"
+	],
+	"popolazione": 1365
+}

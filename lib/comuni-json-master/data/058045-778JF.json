@@ -1,0 +1,22 @@
+{
+	"nome": "Gorga",
+	"codice": "058045",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "E091",
+	"cap": [
+		"00030"
+	],
+	"popolazione": 767
+}

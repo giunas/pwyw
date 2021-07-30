@@ -1,0 +1,22 @@
+{
+	"nome": "Acquaviva d'Isernia",
+	"codice": "094001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "A051",
+	"cap": [
+		"86080"
+	],
+	"popolazione": 455
+}

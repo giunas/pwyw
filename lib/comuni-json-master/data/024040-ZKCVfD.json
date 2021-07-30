@@ -1,0 +1,22 @@
+{
+	"nome": "Fara Vicentino",
+	"codice": "024040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D496",
+	"cap": [
+		"36030"
+	],
+	"popolazione": 3943
+}

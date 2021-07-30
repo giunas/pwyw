@@ -1,0 +1,22 @@
+{
+	"nome": "Novara",
+	"codice": "003106",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "F952",
+	"cap": [
+		"28100"
+	],
+	"popolazione": 101952
+}

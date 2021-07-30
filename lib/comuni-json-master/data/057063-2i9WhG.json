@@ -1,0 +1,22 @@
+{
+	"nome": "Salisano",
+	"codice": "057063",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "H713",
+	"cap": [
+		"02040"
+	],
+	"popolazione": 558
+}

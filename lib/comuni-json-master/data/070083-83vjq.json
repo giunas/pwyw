@@ -1,0 +1,22 @@
+{
+	"nome": "Ururi",
+	"codice": "070083",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "070",
+		"nome": "Campobasso"
+	},
+	"sigla": "CB",
+	"codiceCatastale": "L505",
+	"cap": [
+		"86049"
+	],
+	"popolazione": 2793
+}

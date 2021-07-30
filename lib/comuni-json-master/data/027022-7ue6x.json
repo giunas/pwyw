@@ -1,0 +1,22 @@
+{
+	"nome": "Meolo",
+	"codice": "027022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "F130",
+	"cap": [
+		"30020"
+	],
+	"popolazione": 6465
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Traona",
+	"codice": "014069",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "L330",
+	"cap": [
+		"23019"
+	],
+	"popolazione": 2536
+}

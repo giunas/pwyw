@@ -1,0 +1,22 @@
+{
+	"nome": "Racalmuto",
+	"codice": "084029",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "H148",
+	"cap": [
+		"92020"
+	],
+	"popolazione": 8345
+}

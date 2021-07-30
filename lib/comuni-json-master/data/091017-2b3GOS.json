@@ -1,0 +1,22 @@
+{
+	"nome": "Dorgali",
+	"codice": "091017",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "D345",
+	"cap": [
+		"08022"
+	],
+	"popolazione": 8524
+}

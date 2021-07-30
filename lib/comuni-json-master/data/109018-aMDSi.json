@@ -1,0 +1,22 @@
+{
+	"nome": "Montegranaro",
+	"codice": "109018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F522",
+	"cap": [
+		"63812"
+	],
+	"popolazione": 13153
+}

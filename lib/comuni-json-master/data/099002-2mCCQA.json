@@ -1,0 +1,22 @@
+{
+	"nome": "Cattolica",
+	"codice": "099002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "099",
+		"nome": "Rimini"
+	},
+	"sigla": "RN",
+	"codiceCatastale": "C357",
+	"cap": [
+		"47841"
+	],
+	"popolazione": 16550
+}

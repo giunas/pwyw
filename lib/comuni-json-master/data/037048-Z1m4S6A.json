@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve di Cento",
+	"codice": "037048",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "G643",
+	"cap": [
+		"40066"
+	],
+	"popolazione": 6895
+}

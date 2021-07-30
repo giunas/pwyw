@@ -1,0 +1,22 @@
+{
+	"nome": "Ponte San Nicolò",
+	"codice": "028069",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "G855",
+	"cap": [
+		"35020"
+	],
+	"popolazione": 13237
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Rovegno",
+	"codice": "010052",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "H599",
+	"cap": [
+		"16028"
+	],
+	"popolazione": 568
+}

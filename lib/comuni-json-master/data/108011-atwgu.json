@@ -1,0 +1,22 @@
+{
+	"nome": "Briosco",
+	"codice": "108011",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "B187",
+	"cap": [
+		"20836"
+	],
+	"popolazione": 5966
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Verrua Savoia",
+	"codice": "001294",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L787",
+	"cap": [
+		"10020"
+	],
+	"popolazione": 1459
+}

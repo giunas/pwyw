@@ -1,0 +1,23 @@
+{
+	"nome": "Sorbolo Mezzani",
+	"codice": "034051",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "M411",
+	"cap": [
+		"43055",
+		"43058"
+	],
+	"popolazione": 12984
+}

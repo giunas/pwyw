@@ -1,0 +1,22 @@
+{
+	"nome": "Pineto",
+	"codice": "067035",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "F831",
+	"cap": [
+		"64025"
+	],
+	"popolazione": 14631
+}

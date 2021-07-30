@@ -1,0 +1,22 @@
+{
+	"nome": "Binago",
+	"codice": "013023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "A870",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 4776
+}

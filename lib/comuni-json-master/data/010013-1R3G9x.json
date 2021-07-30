@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione Chiavarese",
+	"codice": "010013",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "C302",
+	"cap": [
+		"16030"
+	],
+	"popolazione": 1642
+}

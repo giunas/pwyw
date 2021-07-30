@@ -1,0 +1,22 @@
+{
+	"nome": "Carlentini",
+	"codice": "089006",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "B787",
+	"cap": [
+		"96013"
+	],
+	"popolazione": 17958
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Quindici",
+	"codice": "064077",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "H128",
+	"cap": [
+		"83020"
+	],
+	"popolazione": 1785
+}

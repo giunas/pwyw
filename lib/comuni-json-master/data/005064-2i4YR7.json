@@ -1,0 +1,22 @@
+{
+	"nome": "Mombaldone",
+	"codice": "005064",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F308",
+	"cap": [
+		"14050"
+	],
+	"popolazione": 221
+}

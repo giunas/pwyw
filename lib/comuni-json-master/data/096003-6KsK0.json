@@ -1,0 +1,22 @@
+{
+	"nome": "Benna",
+	"codice": "096003",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "A784",
+	"cap": [
+		"13871"
+	],
+	"popolazione": 1190
+}

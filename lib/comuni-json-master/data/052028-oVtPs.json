@@ -1,0 +1,22 @@
+{
+	"nome": "San Gimignano",
+	"codice": "052028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "H875",
+	"cap": [
+		"53037"
+	],
+	"popolazione": 7677
+}

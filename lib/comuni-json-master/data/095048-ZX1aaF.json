@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Sant'Antonio",
+	"codice": "095048",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "I298",
+	"cap": [
+		"09080"
+	],
+	"popolazione": 382
+}

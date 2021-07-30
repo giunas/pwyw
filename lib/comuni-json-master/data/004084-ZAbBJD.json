@@ -1,0 +1,22 @@
+{
+	"nome": "Entracque",
+	"codice": "004084",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D410",
+	"cap": [
+		"12010"
+	],
+	"popolazione": 807
+}

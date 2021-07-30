@@ -1,0 +1,22 @@
+{
+	"nome": "Strona",
+	"codice": "096065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "I980",
+	"cap": [
+		"13823"
+	],
+	"popolazione": 1157
+}

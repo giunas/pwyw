@@ -1,0 +1,22 @@
+{
+	"nome": "Santo Stefano Lodigiano",
+	"codice": "098051",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "I362",
+	"cap": [
+		"26849"
+	],
+	"popolazione": 1902
+}

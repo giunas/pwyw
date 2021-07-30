@@ -1,0 +1,22 @@
+{
+	"nome": "Corte Palasio",
+	"codice": "098024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "D068",
+	"cap": [
+		"26834"
+	],
+	"popolazione": 1550
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fossacesia",
+	"codice": "069033",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "D738",
+	"cap": [
+		"66022"
+	],
+	"popolazione": 6217
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelnuovo",
+	"codice": "022049",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "C216",
+	"cap": [
+		"38050"
+	],
+	"popolazione": 1035
+}

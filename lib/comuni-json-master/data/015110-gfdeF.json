@@ -1,0 +1,22 @@
+{
+	"nome": "Grezzago",
+	"codice": "015110",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E170",
+	"cap": [
+		"20056"
+	],
+	"popolazione": 2842
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Adria",
+	"codice": "029001",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "A059",
+	"cap": [
+		"45011"
+	],
+	"popolazione": 20233
+}

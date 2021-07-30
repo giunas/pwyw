@@ -1,0 +1,22 @@
+{
+	"nome": "Pannarano",
+	"codice": "062047",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "G311",
+	"cap": [
+		"82017"
+	],
+	"popolazione": 2082
+}

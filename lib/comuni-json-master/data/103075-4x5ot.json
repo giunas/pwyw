@@ -1,0 +1,22 @@
+{
+	"nome": "Villadossola",
+	"codice": "103075",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "L906",
+	"cap": [
+		"28844"
+	],
+	"popolazione": 6777
+}

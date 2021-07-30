@@ -1,0 +1,22 @@
+{
+	"nome": "Vittoria",
+	"codice": "088012",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "M088",
+	"cap": [
+		"97019"
+	],
+	"popolazione": 61006
+}

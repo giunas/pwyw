@@ -1,0 +1,22 @@
+{
+	"nome": "Bruzolo",
+	"codice": "001040",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B232",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 1545
+}

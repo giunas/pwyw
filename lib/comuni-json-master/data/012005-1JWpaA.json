@@ -1,0 +1,22 @@
+{
+	"nome": "Arsago Seprio",
+	"codice": "012005",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "A441",
+	"cap": [
+		"21010"
+	],
+	"popolazione": 4845
+}

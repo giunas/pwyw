@@ -1,0 +1,22 @@
+{
+	"nome": "Roccaforte Mondovì",
+	"codice": "004190",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H407",
+	"cap": [
+		"12088"
+	],
+	"popolazione": 2148
+}

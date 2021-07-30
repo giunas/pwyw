@@ -1,0 +1,22 @@
+{
+	"nome": "Arzano",
+	"codice": "063005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A455",
+	"cap": [
+		"80022"
+	],
+	"popolazione": 34933
+}

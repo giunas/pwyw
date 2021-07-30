@@ -1,0 +1,22 @@
+{
+	"nome": "Acquaviva delle Fonti",
+	"codice": "072001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": "Bari"
+	},
+	"sigla": "BA",
+	"codiceCatastale": "A048",
+	"cap": [
+		"70021"
+	],
+	"popolazione": 21038
+}

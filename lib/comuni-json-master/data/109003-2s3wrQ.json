@@ -1,0 +1,22 @@
+{
+	"nome": "Belmonte Piceno",
+	"codice": "109003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "A760",
+	"cap": [
+		"63838"
+	],
+	"popolazione": 664
+}

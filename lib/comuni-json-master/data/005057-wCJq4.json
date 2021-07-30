@@ -1,0 +1,22 @@
+{
+	"nome": "Grazzano Badoglio",
+	"codice": "005057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "E159",
+	"cap": [
+		"14035"
+	],
+	"popolazione": 618
+}

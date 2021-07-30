@@ -1,0 +1,22 @@
+{
+	"nome": "Bellona",
+	"codice": "061007",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "A755",
+	"cap": [
+		"81041"
+	],
+	"popolazione": 5705
+}

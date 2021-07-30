@@ -1,0 +1,22 @@
+{
+	"nome": "Paderno Dugnano",
+	"codice": "015166",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "G220",
+	"cap": [
+		"20037"
+	],
+	"popolazione": 46562
+}

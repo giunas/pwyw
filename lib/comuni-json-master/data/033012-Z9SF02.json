@@ -1,0 +1,22 @@
+{
+	"nome": "Castell'Arquato",
+	"codice": "033012",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "033",
+		"nome": "Piacenza"
+	},
+	"sigla": "PC",
+	"codiceCatastale": "C145",
+	"cap": [
+		"29014"
+	],
+	"popolazione": 4712
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sora",
+	"codice": "060074",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "I838",
+	"cap": [
+		"03039"
+	],
+	"popolazione": 26247
+}

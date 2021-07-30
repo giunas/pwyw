@@ -1,0 +1,22 @@
+{
+	"nome": "Montalcino",
+	"codice": "052037",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "M378",
+	"cap": [
+		"53024"
+	],
+	"popolazione": 6043
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cava de' Tirreni",
+	"codice": "065037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C361",
+	"cap": [
+		"84013"
+	],
+	"popolazione": 53885
+}

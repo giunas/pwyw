@@ -1,0 +1,22 @@
+{
+	"nome": "Fonte Nuova",
+	"codice": "058122",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "M309",
+	"cap": [
+		"00013"
+	],
+	"popolazione": 30572
+}

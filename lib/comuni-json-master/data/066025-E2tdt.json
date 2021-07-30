@@ -1,0 +1,22 @@
+{
+	"nome": "Carsoli",
+	"codice": "066025",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "B842",
+	"cap": [
+		"67061"
+	],
+	"popolazione": 5419
+}

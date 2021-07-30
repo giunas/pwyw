@@ -1,0 +1,22 @@
+{
+	"nome": "Cinisi",
+	"codice": "082031",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "C708",
+	"cap": [
+		"90045"
+	],
+	"popolazione": 12031
+}

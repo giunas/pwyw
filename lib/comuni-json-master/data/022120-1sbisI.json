@@ -1,0 +1,22 @@
+{
+	"nome": "Molveno",
+	"codice": "022120",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "F307",
+	"cap": [
+		"38018"
+	],
+	"popolazione": 1110
+}

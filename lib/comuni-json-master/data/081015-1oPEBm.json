@@ -1,0 +1,22 @@
+{
+	"nome": "Partanna",
+	"codice": "081015",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "G347",
+	"cap": [
+		"91028"
+	],
+	"popolazione": 10854
+}

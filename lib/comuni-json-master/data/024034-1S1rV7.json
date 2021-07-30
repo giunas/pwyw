@@ -1,0 +1,22 @@
+{
+	"nome": "Cornedo Vicentino",
+	"codice": "024034",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "D020",
+	"cap": [
+		"36073"
+	],
+	"popolazione": 11939
+}

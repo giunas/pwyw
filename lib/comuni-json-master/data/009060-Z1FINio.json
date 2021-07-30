@@ -1,0 +1,22 @@
+{
+	"nome": "Testico",
+	"codice": "009060",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "L152",
+	"cap": [
+		"17020"
+	],
+	"popolazione": 212
+}

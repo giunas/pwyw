@@ -1,0 +1,22 @@
+{
+	"nome": "Pontevico",
+	"codice": "017149",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G859",
+	"cap": [
+		"25026"
+	],
+	"popolazione": 7121
+}

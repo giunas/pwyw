@@ -1,0 +1,22 @@
+{
+	"nome": "Arcevia",
+	"codice": "042003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "A366",
+	"cap": [
+		"60011"
+	],
+	"popolazione": 4914
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Asolo",
+	"codice": "026003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "A471",
+	"cap": [
+		"31011"
+	],
+	"popolazione": 8952
+}

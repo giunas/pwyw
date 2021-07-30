@@ -1,0 +1,22 @@
+{
+	"nome": "Arborio",
+	"codice": "002006",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "A358",
+	"cap": [
+		"13031"
+	],
+	"popolazione": 909
+}

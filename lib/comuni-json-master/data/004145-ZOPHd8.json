@@ -1,0 +1,22 @@
+{
+	"nome": "Murazzano",
+	"codice": "004145",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F809",
+	"cap": [
+		"12060"
+	],
+	"popolazione": 840
+}

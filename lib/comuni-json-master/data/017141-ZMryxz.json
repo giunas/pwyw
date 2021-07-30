@@ -1,0 +1,22 @@
+{
+	"nome": "Pezzaze",
+	"codice": "017141",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G529",
+	"cap": [
+		"25060"
+	],
+	"popolazione": 1586
+}

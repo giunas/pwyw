@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro Val Lemina",
+	"codice": "001250",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I090",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 1430
+}

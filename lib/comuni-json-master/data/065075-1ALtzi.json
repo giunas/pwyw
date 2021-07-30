@@ -1,0 +1,22 @@
+{
+	"nome": "Monte San Giacomo",
+	"codice": "065075",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "F618",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 1630
+}

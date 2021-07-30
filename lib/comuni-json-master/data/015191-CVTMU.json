@@ -1,0 +1,22 @@
+{
+	"nome": "San Colombano al Lambro",
+	"codice": "015191",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "H803",
+	"cap": [
+		"20078"
+	],
+	"popolazione": 7336
+}

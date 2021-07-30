@@ -1,0 +1,22 @@
+{
+	"nome": "Andria",
+	"codice": "110001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "110",
+		"nome": "Barletta-Andria-Trani"
+	},
+	"sigla": "BT",
+	"codiceCatastale": "A285",
+	"cap": [
+		"76123"
+	],
+	"popolazione": 100052
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Marco d'Alunzio",
+	"codice": "083079",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H982",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 2083
+}

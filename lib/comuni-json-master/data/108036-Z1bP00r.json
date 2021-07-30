@@ -1,0 +1,22 @@
+{
+	"nome": "Ornago",
+	"codice": "108036",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "G116",
+	"cap": [
+		"20876"
+	],
+	"popolazione": 4702
+}

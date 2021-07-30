@@ -1,0 +1,22 @@
+{
+	"nome": "Torrevecchia Pia",
+	"codice": "018160",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "L285",
+	"cap": [
+		"27010"
+	],
+	"popolazione": 3427
+}

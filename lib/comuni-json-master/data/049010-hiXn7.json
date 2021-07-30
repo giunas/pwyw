@@ -1,0 +1,22 @@
+{
+	"nome": "Marciana",
+	"codice": "049010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "E930",
+	"cap": [
+		"57030"
+	],
+	"popolazione": 2208
+}

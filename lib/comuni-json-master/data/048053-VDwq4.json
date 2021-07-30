@@ -1,0 +1,22 @@
+{
+	"nome": "Scarperia e San Piero",
+	"codice": "048053",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "M326",
+	"cap": [
+		"50038"
+	],
+	"popolazione": 11968
+}

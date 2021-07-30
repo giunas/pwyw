@@ -1,0 +1,22 @@
+{
+	"nome": "San Nicolò Gerrei",
+	"codice": "111064",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "G383",
+	"cap": [
+		"09040"
+	],
+	"popolazione": 846
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Troina",
+	"codice": "086018",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "L448",
+	"cap": [
+		"94018"
+	],
+	"popolazione": 9628
+}

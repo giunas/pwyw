@@ -1,0 +1,22 @@
+{
+	"nome": "Campagna",
+	"codice": "065022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B492",
+	"cap": [
+		"84022"
+	],
+	"popolazione": 15953
+}

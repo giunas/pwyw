@@ -1,0 +1,22 @@
+{
+	"nome": "Cembra Lisignago",
+	"codice": "022241",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "M355",
+	"cap": [
+		"38034"
+	],
+	"popolazione": 2332
+}

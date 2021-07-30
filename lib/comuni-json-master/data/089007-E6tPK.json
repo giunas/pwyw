@@ -1,0 +1,22 @@
+{
+	"nome": "Cassaro",
+	"codice": "089007",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "C006",
+	"cap": [
+		"96010"
+	],
+	"popolazione": 813
+}

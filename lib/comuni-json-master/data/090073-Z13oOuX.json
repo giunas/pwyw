@@ -1,0 +1,22 @@
+{
+	"nome": "Torralba",
+	"codice": "090073",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "L235",
+	"cap": [
+		"07048"
+	],
+	"popolazione": 998
+}

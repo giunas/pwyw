@@ -1,0 +1,22 @@
+{
+	"nome": "Bolzano Vicentino",
+	"codice": "024013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "A954",
+	"cap": [
+		"36050"
+	],
+	"popolazione": 6509
+}

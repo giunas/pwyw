@@ -1,0 +1,22 @@
+{
+	"nome": "Loro Piceno",
+	"codice": "043022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "E694",
+	"cap": [
+		"62020"
+	],
+	"popolazione": 2481
+}

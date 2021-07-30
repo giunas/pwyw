@@ -1,0 +1,22 @@
+{
+	"nome": "Cassinetta di Lugagnano",
+	"codice": "015061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C033",
+	"cap": [
+		"20081"
+	],
+	"popolazione": 1884
+}

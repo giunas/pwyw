@@ -1,0 +1,22 @@
+{
+	"nome": "Giacciano con Baruchella",
+	"codice": "029027",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "E008",
+	"cap": [
+		"45020"
+	],
+	"popolazione": 2182
+}

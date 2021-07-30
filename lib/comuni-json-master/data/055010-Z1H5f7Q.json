@@ -1,0 +1,22 @@
+{
+	"nome": "Castel Viscardo",
+	"codice": "055010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "C289",
+	"cap": [
+		"05014"
+	],
+	"popolazione": 3028
+}

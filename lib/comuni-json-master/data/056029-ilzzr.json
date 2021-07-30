@@ -1,0 +1,22 @@
+{
+	"nome": "Graffignano",
+	"codice": "056029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "E128",
+	"cap": [
+		"01020"
+	],
+	"popolazione": 2319
+}

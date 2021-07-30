@@ -1,0 +1,22 @@
+{
+	"nome": "Voghera",
+	"codice": "018182",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "M109",
+	"cap": [
+		"27058"
+	],
+	"popolazione": 38174
+}

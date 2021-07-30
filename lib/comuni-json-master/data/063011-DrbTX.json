@@ -1,0 +1,22 @@
+{
+	"nome": "Caivano",
+	"codice": "063011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B371",
+	"cap": [
+		"80023"
+	],
+	"popolazione": 37654
+}

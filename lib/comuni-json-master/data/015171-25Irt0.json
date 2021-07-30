@@ -1,0 +1,22 @@
+{
+	"nome": "Peschiera Borromeo",
+	"codice": "015171",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "G488",
+	"cap": [
+		"20068"
+	],
+	"popolazione": 22254
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Sofia",
+	"codice": "040043",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "I310",
+	"cap": [
+		"47018"
+	],
+	"popolazione": 4193
+}

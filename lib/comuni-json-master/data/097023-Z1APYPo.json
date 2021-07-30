@@ -1,0 +1,22 @@
+{
+	"nome": "Colico",
+	"codice": "097023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "C839",
+	"cap": [
+		"23823"
+	],
+	"popolazione": 7473
+}

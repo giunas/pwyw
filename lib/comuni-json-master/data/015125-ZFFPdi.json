@@ -1,0 +1,22 @@
+{
+	"nome": "Locate di Triulzi",
+	"codice": "015125",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E639",
+	"cap": [
+		"20085"
+	],
+	"popolazione": 9655
+}

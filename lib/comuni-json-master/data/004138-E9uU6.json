@@ -1,0 +1,22 @@
+{
+	"nome": "Montemale di Cuneo",
+	"codice": "004138",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F558",
+	"cap": [
+		"12025"
+	],
+	"popolazione": 218
+}

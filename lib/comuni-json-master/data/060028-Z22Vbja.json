@@ -1,0 +1,22 @@
+{
+	"nome": "Collepardo",
+	"codice": "060028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "C864",
+	"cap": [
+		"03010"
+	],
+	"popolazione": 975
+}

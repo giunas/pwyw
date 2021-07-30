@@ -1,0 +1,22 @@
+{
+	"nome": "Castell'Umberto",
+	"codice": "083014",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "C051",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 3295
+}

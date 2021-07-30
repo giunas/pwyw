@@ -1,0 +1,22 @@
+{
+	"nome": "Lauro",
+	"codice": "064043",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "E487",
+	"cap": [
+		"83023"
+	],
+	"popolazione": 3608
+}

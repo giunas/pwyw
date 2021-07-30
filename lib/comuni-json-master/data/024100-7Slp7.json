@@ -1,0 +1,22 @@
+{
+	"nome": "Schio",
+	"codice": "024100",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "I531",
+	"cap": [
+		"36015"
+	],
+	"popolazione": 39131
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Pago del Vallo di Lauro",
+	"codice": "064068",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "G242",
+	"cap": [
+		"83020"
+	],
+	"popolazione": 1851
+}

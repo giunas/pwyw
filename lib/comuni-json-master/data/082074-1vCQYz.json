@@ -1,0 +1,22 @@
+{
+	"nome": "Trappeto",
+	"codice": "082074",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "L332",
+	"cap": [
+		"90040"
+	],
+	"popolazione": 3211
+}

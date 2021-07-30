@@ -1,0 +1,22 @@
+{
+	"nome": "Acquedolci",
+	"codice": "083107",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "M211",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 5744
+}

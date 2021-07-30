@@ -1,0 +1,22 @@
+{
+	"nome": "Gualdo Tadino",
+	"codice": "054023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "E230",
+	"cap": [
+		"06023"
+	],
+	"popolazione": 15453
+}

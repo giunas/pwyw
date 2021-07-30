@@ -1,0 +1,22 @@
+{
+	"nome": "Valeggio sul Mincio",
+	"codice": "023089",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "L567",
+	"cap": [
+		"37067"
+	],
+	"popolazione": 14300
+}

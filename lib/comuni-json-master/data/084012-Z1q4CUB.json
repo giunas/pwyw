@@ -1,0 +1,22 @@
+{
+	"nome": "Casteltermini",
+	"codice": "084012",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "084",
+		"nome": "Agrigento"
+	},
+	"sigla": "AG",
+	"codiceCatastale": "C275",
+	"cap": [
+		"92025"
+	],
+	"popolazione": 8422
+}

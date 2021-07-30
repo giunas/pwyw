@@ -1,0 +1,22 @@
+{
+	"nome": "Vallesaccarda",
+	"codice": "064115",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L616",
+	"cap": [
+		"83050"
+	],
+	"popolazione": 1418
+}

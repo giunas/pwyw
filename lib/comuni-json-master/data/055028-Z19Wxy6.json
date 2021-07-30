@@ -1,0 +1,22 @@
+{
+	"nome": "Porano",
+	"codice": "055028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "G881",
+	"cap": [
+		"05010"
+	],
+	"popolazione": 1989
+}

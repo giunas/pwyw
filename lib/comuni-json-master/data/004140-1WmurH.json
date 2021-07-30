@@ -1,0 +1,22 @@
+{
+	"nome": "Monteu Roero",
+	"codice": "004140",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F654",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 1667
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione in Teverina",
+	"codice": "056018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "C315",
+	"cap": [
+		"01024"
+	],
+	"popolazione": 2385
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Caerano di San Marco",
+	"codice": "026006",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "B349",
+	"cap": [
+		"31031"
+	],
+	"popolazione": 7941
+}

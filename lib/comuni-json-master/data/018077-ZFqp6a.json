@@ -1,0 +1,22 @@
+{
+	"nome": "Inverno e Monteleone",
+	"codice": "018077",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "E310",
+	"cap": [
+		"27010"
+	],
+	"popolazione": 1390
+}

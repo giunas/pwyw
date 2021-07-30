@@ -1,0 +1,22 @@
+{
+	"nome": "Boltiere",
+	"codice": "016029",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A950",
+	"cap": [
+		"24040"
+	],
+	"popolazione": 5814
+}

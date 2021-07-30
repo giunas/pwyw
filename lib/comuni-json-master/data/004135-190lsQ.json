@@ -1,0 +1,22 @@
+{
+	"nome": "Montaldo Roero",
+	"codice": "004135",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F408",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 872
+}

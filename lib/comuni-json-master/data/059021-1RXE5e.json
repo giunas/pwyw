@@ -1,0 +1,22 @@
+{
+	"nome": "Roccagorga",
+	"codice": "059021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "H413",
+	"cap": [
+		"04010"
+	],
+	"popolazione": 4552
+}

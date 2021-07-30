@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglion Fiorentino",
+	"codice": "051012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C319",
+	"cap": [
+		"52043"
+	],
+	"popolazione": 13166
+}

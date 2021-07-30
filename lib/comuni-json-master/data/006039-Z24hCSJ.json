@@ -1,0 +1,22 @@
+{
+	"nome": "Casale Monferrato",
+	"codice": "006039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "B885",
+	"cap": [
+		"15033"
+	],
+	"popolazione": 34812
+}

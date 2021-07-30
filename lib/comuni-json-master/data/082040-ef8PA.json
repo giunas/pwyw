@@ -1,0 +1,22 @@
+{
+	"nome": "Godrano",
+	"codice": "082040",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "E074",
+	"cap": [
+		"90030"
+	],
+	"popolazione": 1153
+}

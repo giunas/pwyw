@@ -1,0 +1,22 @@
+{
+	"nome": "Trofarello",
+	"codice": "001280",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L445",
+	"cap": [
+		"10028"
+	],
+	"popolazione": 10911
+}

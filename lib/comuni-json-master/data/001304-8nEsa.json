@@ -1,0 +1,22 @@
+{
+	"nome": "Villareggia",
+	"codice": "001304",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M004",
+	"cap": [
+		"10030"
+	],
+	"popolazione": 1012
+}

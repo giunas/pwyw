@@ -1,0 +1,22 @@
+{
+	"nome": "Altare",
+	"codice": "009005",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "A226",
+	"cap": [
+		"17041"
+	],
+	"popolazione": 2127
+}

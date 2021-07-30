@@ -1,0 +1,22 @@
+{
+	"nome": "Neive",
+	"codice": "004148",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F863",
+	"cap": [
+		"12052"
+	],
+	"popolazione": 3341
+}

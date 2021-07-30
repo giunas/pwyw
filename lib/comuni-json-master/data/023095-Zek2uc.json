@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Bartolomea",
+	"codice": "023095",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "L912",
+	"cap": [
+		"37049"
+	],
+	"popolazione": 5841
+}

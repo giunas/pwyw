@@ -1,0 +1,22 @@
+{
+	"nome": "Chiusdino",
+	"codice": "052010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "C661",
+	"cap": [
+		"53012"
+	],
+	"popolazione": 1877
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montecarotto",
+	"codice": "042026",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "F453",
+	"cap": [
+		"60036"
+	],
+	"popolazione": 2080
+}

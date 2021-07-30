@@ -1,0 +1,22 @@
+{
+	"nome": "Collebeato",
+	"codice": "017057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C850",
+	"cap": [
+		"25060"
+	],
+	"popolazione": 4698
+}

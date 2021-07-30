@@ -1,0 +1,22 @@
+{
+	"nome": "Argelato",
+	"codice": "037002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "A392",
+	"cap": [
+		"40050"
+	],
+	"popolazione": 9656
+}

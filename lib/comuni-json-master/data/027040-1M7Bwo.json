@@ -1,0 +1,22 @@
+{
+	"nome": "Teglio Veneto",
+	"codice": "027040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "L085",
+	"cap": [
+		"30025"
+	],
+	"popolazione": 2325
+}

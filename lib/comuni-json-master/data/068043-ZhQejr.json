@@ -1,0 +1,22 @@
+{
+	"nome": "Torre de' Passeri",
+	"codice": "068043",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "L263",
+	"cap": [
+		"65029"
+	],
+	"popolazione": 3174
+}

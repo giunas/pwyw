@@ -1,0 +1,22 @@
+{
+	"nome": "Vigone",
+	"codice": "001299",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L898",
+	"cap": [
+		"10067"
+	],
+	"popolazione": 5217
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Seren del Grappa",
+	"codice": "025055",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "I626",
+	"cap": [
+		"32030"
+	],
+	"popolazione": 2557
+}

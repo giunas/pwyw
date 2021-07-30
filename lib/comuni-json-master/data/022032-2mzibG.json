@@ -1,0 +1,22 @@
+{
+	"nome": "Calceranica al Lago",
+	"codice": "022032",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "B389",
+	"cap": [
+		"38050"
+	],
+	"popolazione": 1305
+}

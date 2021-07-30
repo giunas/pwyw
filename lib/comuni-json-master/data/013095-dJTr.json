@@ -1,0 +1,22 @@
+{
+	"nome": "Erba",
+	"codice": "013095",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "D416",
+	"cap": [
+		"22036"
+	],
+	"popolazione": 16503
+}

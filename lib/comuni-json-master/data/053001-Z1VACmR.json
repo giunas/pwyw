@@ -1,0 +1,22 @@
+{
+	"nome": "Arcidosso",
+	"codice": "053001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "A369",
+	"cap": [
+		"58031"
+	],
+	"popolazione": 4313
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Pescia",
+	"codice": "047012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "047",
+		"nome": "Pistoia"
+	},
+	"sigla": "PT",
+	"codiceCatastale": "G491",
+	"cap": [
+		"51017"
+	],
+	"popolazione": 19435
+}

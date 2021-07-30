@@ -1,0 +1,22 @@
+{
+	"nome": "Borgomasino",
+	"codice": "001031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B021",
+	"cap": [
+		"10031"
+	],
+	"popolazione": 835
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Casola di Napoli",
+	"codice": "063022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B980",
+	"cap": [
+		"80050"
+	],
+	"popolazione": 3852
+}

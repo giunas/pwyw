@@ -1,0 +1,22 @@
+{
+	"nome": "Vinchio",
+	"codice": "005120",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "M058",
+	"cap": [
+		"14040"
+	],
+	"popolazione": 657
+}

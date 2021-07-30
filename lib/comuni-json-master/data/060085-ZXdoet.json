@@ -1,0 +1,22 @@
+{
+	"nome": "Veroli",
+	"codice": "060085",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "L780",
+	"cap": [
+		"03029"
+	],
+	"popolazione": 20763
+}

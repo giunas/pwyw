@@ -1,0 +1,22 @@
+{
+	"nome": "Vobarno",
+	"codice": "017204",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "M104",
+	"cap": [
+		"25079"
+	],
+	"popolazione": 8150
+}

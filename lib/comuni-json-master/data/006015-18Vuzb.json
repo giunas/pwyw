@@ -1,0 +1,22 @@
+{
+	"nome": "Bergamasco",
+	"codice": "006015",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "A793",
+	"cap": [
+		"15022"
+	],
+	"popolazione": 765
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Roverè Veronese",
+	"codice": "023067",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H608",
+	"cap": [
+		"37028"
+	],
+	"popolazione": 2127
+}

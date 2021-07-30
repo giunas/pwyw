@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione del Genovesi",
+	"codice": "065036",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C306",
+	"cap": [
+		"84090"
+	],
+	"popolazione": 1356
+}

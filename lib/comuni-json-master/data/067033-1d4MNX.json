@@ -1,0 +1,22 @@
+{
+	"nome": "Penna Sant'Andrea",
+	"codice": "067033",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "G437",
+	"cap": [
+		"64039"
+	],
+	"popolazione": 1728
+}

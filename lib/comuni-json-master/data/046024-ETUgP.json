@@ -1,0 +1,22 @@
+{
+	"nome": "Pietrasanta",
+	"codice": "046024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "G628",
+	"cap": [
+		"55045"
+	],
+	"popolazione": 24179
+}

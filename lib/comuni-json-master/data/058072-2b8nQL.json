@@ -1,0 +1,22 @@
+{
+	"nome": "Nettuno",
+	"codice": "058072",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F880",
+	"cap": [
+		"00048"
+	],
+	"popolazione": 45460
+}

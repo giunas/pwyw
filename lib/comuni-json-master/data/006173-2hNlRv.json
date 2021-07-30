@@ -1,0 +1,22 @@
+{
+	"nome": "Ticineto",
+	"codice": "006173",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "L165",
+	"cap": [
+		"15040"
+	],
+	"popolazione": 1424
+}

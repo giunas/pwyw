@@ -1,0 +1,22 @@
+{
+	"nome": "Lonate Ceppino",
+	"codice": "012089",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "E665",
+	"cap": [
+		"21050"
+	],
+	"popolazione": 4860
+}

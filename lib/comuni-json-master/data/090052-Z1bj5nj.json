@@ -1,0 +1,22 @@
+{
+	"nome": "Ozieri",
+	"codice": "090052",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "G203",
+	"cap": [
+		"07014"
+	],
+	"popolazione": 10881
+}

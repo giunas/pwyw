@@ -1,0 +1,22 @@
+{
+	"nome": "Calolziocorte",
+	"codice": "097013",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "B423",
+	"cap": [
+		"23801"
+	],
+	"popolazione": 14009
+}

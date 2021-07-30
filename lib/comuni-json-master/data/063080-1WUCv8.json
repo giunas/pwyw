@@ -1,0 +1,22 @@
+{
+	"nome": "Sorrento",
+	"codice": "063080",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I862",
+	"cap": [
+		"80067"
+	],
+	"popolazione": 16563
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Palombaro",
+	"codice": "069062",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G294",
+	"cap": [
+		"66010"
+	],
+	"popolazione": 1108
+}

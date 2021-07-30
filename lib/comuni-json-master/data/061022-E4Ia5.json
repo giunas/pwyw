@@ -1,0 +1,22 @@
+{
+	"nome": "Caserta",
+	"codice": "061022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B963",
+	"cap": [
+		"81100"
+	],
+	"popolazione": 75640
+}

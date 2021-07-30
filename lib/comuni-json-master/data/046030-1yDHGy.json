@@ -1,0 +1,22 @@
+{
+	"nome": "Stazzema",
+	"codice": "046030",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "I942",
+	"cap": [
+		"55040"
+	],
+	"popolazione": 3318
+}

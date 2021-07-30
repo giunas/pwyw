@@ -1,0 +1,22 @@
+{
+	"nome": "Casaleone",
+	"codice": "023019",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "B886",
+	"cap": [
+		"37052"
+	],
+	"popolazione": 5939
+}

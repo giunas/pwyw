@@ -1,0 +1,22 @@
+{
+	"nome": "Cerreto Guidi",
+	"codice": "048011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "C529",
+	"cap": [
+		"50050"
+	],
+	"popolazione": 10364
+}

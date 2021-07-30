@@ -1,0 +1,22 @@
+{
+	"nome": "Torgiano",
+	"codice": "054053",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "L216",
+	"cap": [
+		"06089"
+	],
+	"popolazione": 6520
+}

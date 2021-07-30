@@ -1,0 +1,22 @@
+{
+	"nome": "Cicciano",
+	"codice": "063027",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "C675",
+	"cap": [
+		"80033"
+	],
+	"popolazione": 12698
+}

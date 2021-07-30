@@ -1,0 +1,22 @@
+{
+	"nome": "Villanuova sul Clisi",
+	"codice": "017201",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "L995",
+	"cap": [
+		"25089"
+	],
+	"popolazione": 5661
+}

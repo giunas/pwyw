@@ -1,0 +1,22 @@
+{
+	"nome": "Seborga",
+	"codice": "008057",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "I556",
+	"cap": [
+		"18012"
+	],
+	"popolazione": 323
+}

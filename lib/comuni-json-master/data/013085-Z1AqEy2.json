@@ -1,0 +1,22 @@
+{
+	"nome": "Cusino",
+	"codice": "013085",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "D232",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 238
+}

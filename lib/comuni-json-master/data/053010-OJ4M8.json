@@ -1,0 +1,22 @@
+{
+	"nome": "Gavorrano",
+	"codice": "053010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "D948",
+	"cap": [
+		"58023"
+	],
+	"popolazione": 8660
+}

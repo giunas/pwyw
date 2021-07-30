@@ -1,0 +1,22 @@
+{
+	"nome": "Capriati a Volturno",
+	"codice": "061014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B704",
+	"cap": [
+		"81014"
+	],
+	"popolazione": 1594
+}

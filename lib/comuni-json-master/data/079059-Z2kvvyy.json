@@ -1,0 +1,22 @@
+{
+	"nome": "Girifalco",
+	"codice": "079059",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "E050",
+	"cap": [
+		"88024"
+	],
+	"popolazione": 6120
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Volla",
+	"codice": "063089",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "M115",
+	"cap": [
+		"80040"
+	],
+	"popolazione": 22989
+}

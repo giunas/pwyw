@@ -1,0 +1,22 @@
+{
+	"nome": "Stroppiana",
+	"codice": "002142",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "I984",
+	"cap": [
+		"13010"
+	],
+	"popolazione": 1258
+}

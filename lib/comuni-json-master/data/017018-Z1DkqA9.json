@@ -1,0 +1,22 @@
+{
+	"nome": "Bienno",
+	"codice": "017018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "A861",
+	"cap": [
+		"25040"
+	],
+	"popolazione": 3958
+}

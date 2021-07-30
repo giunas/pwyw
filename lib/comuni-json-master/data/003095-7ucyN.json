@@ -1,0 +1,22 @@
+{
+	"nome": "Meina",
+	"codice": "003095",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "F093",
+	"cap": [
+		"28046"
+	],
+	"popolazione": 2556
+}

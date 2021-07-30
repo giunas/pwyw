@@ -1,0 +1,22 @@
+{
+	"nome": "Grantorto",
+	"codice": "028042",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "E145",
+	"cap": [
+		"35010"
+	],
+	"popolazione": 4661
+}

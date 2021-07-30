@@ -1,0 +1,22 @@
+{
+	"nome": "Monteforte Irpino",
+	"codice": "064054",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "F506",
+	"cap": [
+		"83024"
+	],
+	"popolazione": 10878
+}

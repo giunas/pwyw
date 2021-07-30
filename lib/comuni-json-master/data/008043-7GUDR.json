@@ -1,0 +1,22 @@
+{
+	"nome": "Pigna",
+	"codice": "008043",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G660",
+	"cap": [
+		"18037"
+	],
+	"popolazione": 894
+}

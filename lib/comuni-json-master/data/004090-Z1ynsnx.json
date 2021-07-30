@@ -1,0 +1,22 @@
+{
+	"nome": "Frabosa Soprana",
+	"codice": "004090",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D751",
+	"cap": [
+		"12082"
+	],
+	"popolazione": 815
+}

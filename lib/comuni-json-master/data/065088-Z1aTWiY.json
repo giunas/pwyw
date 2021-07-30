@@ -1,0 +1,22 @@
+{
+	"nome": "Pagani",
+	"codice": "065088",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G230",
+	"cap": [
+		"84016"
+	],
+	"popolazione": 34671
+}

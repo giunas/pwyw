@@ -1,0 +1,22 @@
+{
+	"nome": "Savignano sul Rubicone",
+	"codice": "040045",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "I472",
+	"cap": [
+		"47039"
+	],
+	"popolazione": 17521
+}

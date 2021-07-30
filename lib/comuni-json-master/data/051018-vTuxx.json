@@ -1,0 +1,22 @@
+{
+	"nome": "Foiano della Chiana",
+	"codice": "051018",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "D649",
+	"cap": [
+		"52045"
+	],
+	"popolazione": 9348
+}

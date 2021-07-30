@@ -1,0 +1,22 @@
+{
+	"nome": "Gallese",
+	"codice": "056027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "D870",
+	"cap": [
+		"01035"
+	],
+	"popolazione": 2994
+}

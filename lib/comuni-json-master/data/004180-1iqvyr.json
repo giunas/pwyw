@@ -1,0 +1,22 @@
+{
+	"nome": "Revello",
+	"codice": "004180",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H247",
+	"cap": [
+		"12036"
+	],
+	"popolazione": 4203
+}

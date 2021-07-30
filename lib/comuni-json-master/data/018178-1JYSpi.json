@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Biscossi",
+	"codice": "018178",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "L917",
+	"cap": [
+		"27035"
+	],
+	"popolazione": 75
+}

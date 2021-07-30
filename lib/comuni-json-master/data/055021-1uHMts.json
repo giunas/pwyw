@@ -1,0 +1,22 @@
+{
+	"nome": "Monteleone d'Orvieto",
+	"codice": "055021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "F543",
+	"cap": [
+		"05017"
+	],
+	"popolazione": 1559
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sabaudia",
+	"codice": "059024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "H647",
+	"cap": [
+		"04016"
+	],
+	"popolazione": 18812
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Brusimpiano",
+	"codice": "012024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B228",
+	"cap": [
+		"21050"
+	],
+	"popolazione": 1208
+}

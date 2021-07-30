@@ -1,0 +1,22 @@
+{
+	"nome": "Celle Enomondo",
+	"codice": "005034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "C440",
+	"cap": [
+		"14010"
+	],
+	"popolazione": 480
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castagnole Piemonte",
+	"codice": "001065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C048",
+	"cap": [
+		"10060"
+	],
+	"popolazione": 2193
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Roccafiorita",
+	"codice": "083071",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H405",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 228
+}

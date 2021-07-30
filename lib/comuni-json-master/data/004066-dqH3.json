@@ -1,0 +1,22 @@
+{
+	"nome": "Ceva",
+	"codice": "004066",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "C589",
+	"cap": [
+		"12073"
+	],
+	"popolazione": 5757
+}

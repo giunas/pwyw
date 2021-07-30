@@ -1,0 +1,22 @@
+{
+	"nome": "Lamon",
+	"codice": "025026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "E429",
+	"cap": [
+		"32033"
+	],
+	"popolazione": 3046
+}

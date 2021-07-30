@@ -1,0 +1,22 @@
+{
+	"nome": "Terre del Reno",
+	"codice": "038028",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "M381",
+	"cap": [
+		"44047"
+	],
+	"popolazione": 10571
+}

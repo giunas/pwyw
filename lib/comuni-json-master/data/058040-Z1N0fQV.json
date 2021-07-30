@@ -1,0 +1,22 @@
+{
+	"nome": "Gallicano nel Lazio",
+	"codice": "058040",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "D875",
+	"cap": [
+		"00010"
+	],
+	"popolazione": 5749
+}

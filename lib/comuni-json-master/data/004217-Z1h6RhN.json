@@ -1,0 +1,22 @@
+{
+	"nome": "Scarnafigi",
+	"codice": "004217",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "I512",
+	"cap": [
+		"12030"
+	],
+	"popolazione": 2094
+}

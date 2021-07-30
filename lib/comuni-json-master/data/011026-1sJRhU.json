@@ -1,0 +1,22 @@
+{
+	"nome": "Santo Stefano di Magra",
+	"codice": "011026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "011",
+		"nome": "La Spezia"
+	},
+	"sigla": "SP",
+	"codiceCatastale": "I363",
+	"cap": [
+		"19037"
+	],
+	"popolazione": 8790
+}

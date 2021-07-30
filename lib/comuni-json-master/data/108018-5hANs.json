@@ -1,0 +1,22 @@
+{
+	"nome": "Ceriano Laghetto",
+	"codice": "108018",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "C512",
+	"cap": [
+		"20816"
+	],
+	"popolazione": 6324
+}

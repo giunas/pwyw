@@ -1,0 +1,22 @@
+{
+	"nome": "Maleo",
+	"codice": "098035",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "E852",
+	"cap": [
+		"26847"
+	],
+	"popolazione": 3249
+}

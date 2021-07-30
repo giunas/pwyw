@@ -1,0 +1,22 @@
+{
+	"nome": "Gairo",
+	"codice": "091026",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "D859",
+	"cap": [
+		"08040"
+	],
+	"popolazione": 1514
+}

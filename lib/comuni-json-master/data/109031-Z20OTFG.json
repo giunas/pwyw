@@ -1,0 +1,22 @@
+{
+	"nome": "Petritoli",
+	"codice": "109031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "G516",
+	"cap": [
+		"63848"
+	],
+	"popolazione": 2440
+}

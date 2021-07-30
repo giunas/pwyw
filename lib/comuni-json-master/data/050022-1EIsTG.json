@@ -1,0 +1,22 @@
+{
+	"nome": "Montopoli in Val d'Arno",
+	"codice": "050022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "F686",
+	"cap": [
+		"56020"
+	],
+	"popolazione": 11167
+}

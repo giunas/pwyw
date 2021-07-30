@@ -1,0 +1,22 @@
+{
+	"nome": "Ospedaletti",
+	"codice": "008039",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G164",
+	"cap": [
+		"18014"
+	],
+	"popolazione": 3386
+}

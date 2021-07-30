@@ -1,0 +1,22 @@
+{
+	"nome": "Ospitale di Cadore",
+	"codice": "025035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "G169",
+	"cap": [
+		"32010"
+	],
+	"popolazione": 326
+}

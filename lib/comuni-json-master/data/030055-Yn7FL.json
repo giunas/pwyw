@@ -1,0 +1,22 @@
+{
+	"nome": "Manzano",
+	"codice": "030055",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "E899",
+	"cap": [
+		"33044"
+	],
+	"popolazione": 6581
+}

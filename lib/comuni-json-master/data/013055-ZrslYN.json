@@ -1,0 +1,22 @@
+{
+	"nome": "Cassina Rizzardi",
+	"codice": "013055",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C020",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 3175
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Flavia",
+	"codice": "082067",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "I188",
+	"cap": [
+		"90017"
+	],
+	"popolazione": 10751
+}

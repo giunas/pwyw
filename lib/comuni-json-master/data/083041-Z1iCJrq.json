@@ -1,0 +1,22 @@
+{
+	"nome": "Lipari",
+	"codice": "083041",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E606",
+	"cap": [
+		"98055"
+	],
+	"popolazione": 11642
+}

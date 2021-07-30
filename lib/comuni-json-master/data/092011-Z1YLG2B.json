@@ -1,0 +1,22 @@
+{
+	"nome": "Capoterra",
+	"codice": "092011",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": "Cagliari"
+	},
+	"sigla": "CA",
+	"codiceCatastale": "B675",
+	"cap": [
+		"09012"
+	],
+	"popolazione": 23255
+}

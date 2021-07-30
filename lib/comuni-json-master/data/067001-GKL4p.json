@@ -1,0 +1,22 @@
+{
+	"nome": "Alba Adriatica",
+	"codice": "067001",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "A125",
+	"cap": [
+		"64011"
+	],
+	"popolazione": 11565
+}

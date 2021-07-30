@@ -1,0 +1,22 @@
+{
+	"nome": "Monteriggioni",
+	"codice": "052016",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "F598",
+	"cap": [
+		"53035"
+	],
+	"popolazione": 9264
+}

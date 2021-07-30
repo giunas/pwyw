@@ -1,0 +1,22 @@
+{
+	"nome": "Collazzone",
+	"codice": "054014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "C845",
+	"cap": [
+		"06050"
+	],
+	"popolazione": 3578
+}

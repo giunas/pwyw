@@ -1,0 +1,22 @@
+{
+	"nome": "Pombia",
+	"codice": "003121",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "G809",
+	"cap": [
+		"28050"
+	],
+	"popolazione": 2182
+}

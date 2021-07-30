@@ -1,0 +1,22 @@
+{
+	"nome": "Cenate Sotto",
+	"codice": "016069",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "C457",
+	"cap": [
+		"24069"
+	],
+	"popolazione": 3494
+}

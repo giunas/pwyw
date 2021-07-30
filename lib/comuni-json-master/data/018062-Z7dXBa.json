@@ -1,0 +1,22 @@
+{
+	"nome": "Ferrera Erbognone",
+	"codice": "018062",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "D552",
+	"cap": [
+		"27032"
+	],
+	"popolazione": 1121
+}

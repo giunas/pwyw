@@ -1,0 +1,22 @@
+{
+	"nome": "Bozzole",
+	"codice": "006023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "B109",
+	"cap": [
+		"15040"
+	],
+	"popolazione": 331
+}

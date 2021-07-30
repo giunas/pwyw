@@ -1,0 +1,22 @@
+{
+	"nome": "Arbus",
+	"codice": "111001",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "A359",
+	"cap": [
+		"09031"
+	],
+	"popolazione": 6575
+}

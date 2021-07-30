@@ -1,0 +1,22 @@
+{
+	"nome": "Carbonara Scrivia",
+	"codice": "006030",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "B736",
+	"cap": [
+		"15050"
+	],
+	"popolazione": 1055
+}

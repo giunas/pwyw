@@ -1,0 +1,22 @@
+{
+	"nome": "Verolengo",
+	"codice": "001293",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L779",
+	"cap": [
+		"10038"
+	],
+	"popolazione": 4962
+}

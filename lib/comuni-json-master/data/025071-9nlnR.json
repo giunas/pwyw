@@ -1,0 +1,22 @@
+{
+	"nome": "Longarone",
+	"codice": "025071",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "M342",
+	"cap": [
+		"32013"
+	],
+	"popolazione": 5555
+}

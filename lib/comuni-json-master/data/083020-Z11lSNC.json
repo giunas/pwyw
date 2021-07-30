@@ -1,0 +1,22 @@
+{
+	"nome": "Ficarra",
+	"codice": "083020",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D569",
+	"cap": [
+		"98062"
+	],
+	"popolazione": 1566
+}

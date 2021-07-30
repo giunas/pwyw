@@ -1,0 +1,22 @@
+{
+	"nome": "Tredozio",
+	"codice": "040049",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "L361",
+	"cap": [
+		"47019"
+	],
+	"popolazione": 1259
+}

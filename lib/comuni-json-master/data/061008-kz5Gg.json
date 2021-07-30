@@ -1,0 +1,22 @@
+{
+	"nome": "Caianello",
+	"codice": "061008",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B361",
+	"cap": [
+		"81059"
+	],
+	"popolazione": 1782
+}

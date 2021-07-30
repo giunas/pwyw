@@ -1,0 +1,22 @@
+{
+	"nome": "Manerba del Garda",
+	"codice": "017102",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E883",
+	"cap": [
+		"25080"
+	],
+	"popolazione": 4902
+}

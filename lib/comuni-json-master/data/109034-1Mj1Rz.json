@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Sant'Elpidio",
+	"codice": "109034",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "G921",
+	"cap": [
+		"63821"
+	],
+	"popolazione": 25324
+}

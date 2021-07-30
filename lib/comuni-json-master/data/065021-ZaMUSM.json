@@ -1,0 +1,22 @@
+{
+	"nome": "Camerota",
+	"codice": "065021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B476",
+	"cap": [
+		"84059"
+	],
+	"popolazione": 6751
+}

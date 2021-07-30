@@ -1,0 +1,22 @@
+{
+	"nome": "Mugnano di Napoli",
+	"codice": "063048",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "F799",
+	"cap": [
+		"80018"
+	],
+	"popolazione": 34504
+}

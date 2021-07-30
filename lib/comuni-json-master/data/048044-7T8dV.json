@@ -1,0 +1,22 @@
+{
+	"nome": "Signa",
+	"codice": "048044",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "I728",
+	"cap": [
+		"50058"
+	],
+	"popolazione": 17451
+}

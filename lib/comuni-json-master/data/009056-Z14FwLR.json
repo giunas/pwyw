@@ -1,0 +1,22 @@
+{
+	"nome": "Savona",
+	"codice": "009056",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "I480",
+	"cap": [
+		"17100"
+	],
+	"popolazione": 60661
+}

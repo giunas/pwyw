@@ -1,0 +1,22 @@
+{
+	"nome": "Trezzano sul Naviglio",
+	"codice": "015220",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "L409",
+	"cap": [
+		"20090"
+	],
+	"popolazione": 20018
+}

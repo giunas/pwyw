@@ -1,0 +1,22 @@
+{
+	"nome": "Colliano",
+	"codice": "065043",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C879",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 3764
+}

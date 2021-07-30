@@ -1,0 +1,22 @@
+{
+	"nome": "Fiumedinisi",
+	"codice": "083021",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D622",
+	"cap": [
+		"98022"
+	],
+	"popolazione": 1559
+}

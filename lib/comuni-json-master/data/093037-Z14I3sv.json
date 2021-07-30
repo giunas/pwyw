@@ -1,0 +1,22 @@
+{
+	"nome": "Sacile",
+	"codice": "093037",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "H657",
+	"cap": [
+		"33077"
+	],
+	"popolazione": 19897
+}

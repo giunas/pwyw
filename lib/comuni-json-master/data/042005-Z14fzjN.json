@@ -1,0 +1,22 @@
+{
+	"nome": "Belvedere Ostrense",
+	"codice": "042005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "A769",
+	"cap": [
+		"60030"
+	],
+	"popolazione": 2288
+}

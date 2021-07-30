@@ -1,0 +1,22 @@
+{
+	"nome": "Carpi",
+	"codice": "036005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "B819",
+	"cap": [
+		"41012"
+	],
+	"popolazione": 67268
+}

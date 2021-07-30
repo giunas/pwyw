@@ -1,0 +1,22 @@
+{
+	"nome": "Nuvolento",
+	"codice": "017119",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "F989",
+	"cap": [
+		"25080"
+	],
+	"popolazione": 4011
+}

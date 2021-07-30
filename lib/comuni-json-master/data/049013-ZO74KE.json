@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Azzurro",
+	"codice": "049013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "E680",
+	"cap": [
+		"57036"
+	],
+	"popolazione": 3826
+}

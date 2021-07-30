@@ -1,0 +1,22 @@
+{
+	"nome": "Pezzana",
+	"codice": "002093",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "G528",
+	"cap": [
+		"13010"
+	],
+	"popolazione": 1346
+}

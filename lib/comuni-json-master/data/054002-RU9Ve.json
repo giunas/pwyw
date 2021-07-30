@@ -1,0 +1,22 @@
+{
+	"nome": "Bastia Umbra",
+	"codice": "054002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "A710",
+	"cap": [
+		"06083"
+	],
+	"popolazione": 21653
+}

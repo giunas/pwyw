@@ -1,0 +1,22 @@
+{
+	"nome": "Bussoleno",
+	"codice": "001044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B297",
+	"cap": [
+		"10053"
+	],
+	"popolazione": 6363
+}

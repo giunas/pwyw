@@ -1,0 +1,22 @@
+{
+	"nome": "Procida",
+	"codice": "063061",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "H072",
+	"cap": [
+		"80079"
+	],
+	"popolazione": 10228
+}

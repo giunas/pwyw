@@ -1,0 +1,22 @@
+{
+	"nome": "Maltignano",
+	"codice": "044027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "E868",
+	"cap": [
+		"63085"
+	],
+	"popolazione": 2483
+}

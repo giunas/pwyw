@@ -1,0 +1,22 @@
+{
+	"nome": "Pagno",
+	"codice": "004158",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G240",
+	"cap": [
+		"12030"
+	],
+	"popolazione": 572
+}

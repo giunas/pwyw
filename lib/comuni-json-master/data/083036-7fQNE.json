@@ -1,0 +1,22 @@
+{
+	"nome": "Itala",
+	"codice": "083036",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "E374",
+	"cap": [
+		"98025"
+	],
+	"popolazione": 1663
+}

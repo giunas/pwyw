@@ -1,0 +1,22 @@
+{
+	"nome": "Castello di Annone",
+	"codice": "005028",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "A300",
+	"cap": [
+		"14034"
+	],
+	"popolazione": 1928
+}

@@ -1,0 +1,32 @@
+{
+	"nome": "Ancona",
+	"codice": "042002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "A271",
+	"cap": [
+		"60121",
+		"60122",
+		"60123",
+		"60124",
+		"60125",
+		"60126",
+		"60127",
+		"60128",
+		"60129",
+		"60130",
+		"60131"
+	],
+	"popolazione": 100497
+}

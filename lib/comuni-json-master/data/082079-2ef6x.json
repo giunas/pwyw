@@ -1,0 +1,22 @@
+{
+	"nome": "Villabate",
+	"codice": "082079",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "L916",
+	"cap": [
+		"90039"
+	],
+	"popolazione": 19819
+}

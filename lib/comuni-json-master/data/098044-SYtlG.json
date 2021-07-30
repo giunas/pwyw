@@ -1,0 +1,22 @@
+{
+	"nome": "Ossago Lodigiano",
+	"codice": "098044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "G171",
+	"cap": [
+		"26816"
+	],
+	"popolazione": 1412
+}

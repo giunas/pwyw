@@ -1,0 +1,22 @@
+{
+	"nome": "Spoleto",
+	"codice": "054051",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "I921",
+	"cap": [
+		"06049"
+	],
+	"popolazione": 38429
+}

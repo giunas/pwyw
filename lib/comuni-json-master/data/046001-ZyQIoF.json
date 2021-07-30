@@ -1,0 +1,22 @@
+{
+	"nome": "Altopascio",
+	"codice": "046001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "A241",
+	"cap": [
+		"55011"
+	],
+	"popolazione": 15072
+}

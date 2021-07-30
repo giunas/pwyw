@@ -1,0 +1,22 @@
+{
+	"nome": "Vaglia",
+	"codice": "048046",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "L529",
+	"cap": [
+		"50036"
+	],
+	"popolazione": 5065
+}

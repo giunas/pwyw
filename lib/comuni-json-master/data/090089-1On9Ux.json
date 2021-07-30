@@ -1,0 +1,22 @@
+{
+	"nome": "Stintino",
+	"codice": "090089",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "M290",
+	"cap": [
+		"07040"
+	],
+	"popolazione": 1501
+}

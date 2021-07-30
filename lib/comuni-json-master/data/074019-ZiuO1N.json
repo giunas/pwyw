@@ -1,0 +1,22 @@
+{
+	"nome": "Torre Santa Susanna",
+	"codice": "074019",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "074",
+		"nome": "Brindisi"
+	},
+	"sigla": "BR",
+	"codiceCatastale": "L280",
+	"cap": [
+		"72028"
+	],
+	"popolazione": 10703
+}

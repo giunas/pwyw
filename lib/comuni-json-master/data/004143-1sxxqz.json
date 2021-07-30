@@ -1,0 +1,22 @@
+{
+	"nome": "Moretta",
+	"codice": "004143",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F723",
+	"cap": [
+		"12033"
+	],
+	"popolazione": 4237
+}

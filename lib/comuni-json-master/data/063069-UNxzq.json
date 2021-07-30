@@ -1,0 +1,22 @@
+{
+	"nome": "San Paolo Bel Sito",
+	"codice": "063069",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I073",
+	"cap": [
+		"80030"
+	],
+	"popolazione": 3422
+}

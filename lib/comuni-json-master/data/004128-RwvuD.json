@@ -1,0 +1,22 @@
+{
+	"nome": "Monasterolo di Savigliano",
+	"codice": "004128",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F330",
+	"cap": [
+		"12030"
+	],
+	"popolazione": 1357
+}

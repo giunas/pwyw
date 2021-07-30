@@ -1,0 +1,22 @@
+{
+	"nome": "Bevagna",
+	"codice": "054004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "A835",
+	"cap": [
+		"06031"
+	],
+	"popolazione": 5074
+}

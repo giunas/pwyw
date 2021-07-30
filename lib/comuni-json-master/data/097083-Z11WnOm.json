@@ -1,0 +1,22 @@
+{
+	"nome": "Valmadrera",
+	"codice": "097083",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "L634",
+	"cap": [
+		"23868"
+	],
+	"popolazione": 11612
+}

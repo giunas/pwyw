@@ -1,0 +1,22 @@
+{
+	"nome": "Eboli",
+	"codice": "065050",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "D390",
+	"cap": [
+		"84025"
+	],
+	"popolazione": 38219
+}

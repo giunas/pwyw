@@ -1,0 +1,22 @@
+{
+	"nome": "Certosa di Pavia",
+	"codice": "018046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "C541",
+	"cap": [
+		"27012"
+	],
+	"popolazione": 5004
+}

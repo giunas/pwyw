@@ -1,0 +1,22 @@
+{
+	"nome": "Capalbio",
+	"codice": "053003",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "B646",
+	"cap": [
+		"58011"
+	],
+	"popolazione": 4066
+}

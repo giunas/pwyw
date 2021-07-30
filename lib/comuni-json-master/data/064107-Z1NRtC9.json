@@ -1,0 +1,22 @@
+{
+	"nome": "Taurasi",
+	"codice": "064107",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L062",
+	"cap": [
+		"83030"
+	],
+	"popolazione": 2444
+}

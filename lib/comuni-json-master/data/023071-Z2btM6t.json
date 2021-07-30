@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni Lupatoto",
+	"codice": "023071",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H924",
+	"cap": [
+		"37057"
+	],
+	"popolazione": 24148
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Trivigliano",
+	"codice": "060081",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "L437",
+	"cap": [
+		"03010"
+	],
+	"popolazione": 1693
+}

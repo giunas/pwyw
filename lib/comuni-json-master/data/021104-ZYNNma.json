@@ -1,0 +1,22 @@
+{
+	"nome": "Ultimo",
+	"codice": "021104",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "L490",
+	"cap": [
+		"39016"
+	],
+	"popolazione": 2920
+}

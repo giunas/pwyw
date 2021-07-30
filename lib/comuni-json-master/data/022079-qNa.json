@@ -1,0 +1,22 @@
+{
+	"nome": "Dro",
+	"codice": "022079",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "D371",
+	"cap": [
+		"38074"
+	],
+	"popolazione": 4566
+}

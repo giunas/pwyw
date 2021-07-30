@@ -1,0 +1,22 @@
+{
+	"nome": "Sestriere",
+	"codice": "001263",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I692",
+	"cap": [
+		"10058"
+	],
+	"popolazione": 838
+}

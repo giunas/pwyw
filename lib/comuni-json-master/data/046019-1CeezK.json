@@ -1,0 +1,22 @@
+{
+	"nome": "Minucciano",
+	"codice": "046019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "F225",
+	"cap": [
+		"55034"
+	],
+	"popolazione": 2221
+}

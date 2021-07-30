@@ -1,0 +1,22 @@
+{
+	"nome": "Altissimo",
+	"codice": "024005",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "A236",
+	"cap": [
+		"36070"
+	],
+	"popolazione": 2266
+}

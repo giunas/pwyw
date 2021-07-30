@@ -1,0 +1,22 @@
+{
+	"nome": "Colledara",
+	"codice": "067018",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "C311",
+	"cap": [
+		"64042"
+	],
+	"popolazione": 2237
+}

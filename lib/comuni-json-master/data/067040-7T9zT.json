@@ -1,0 +1,22 @@
+{
+	"nome": "Silvi",
+	"codice": "067040",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "I741",
+	"cap": [
+		"64028"
+	],
+	"popolazione": 15401
+}

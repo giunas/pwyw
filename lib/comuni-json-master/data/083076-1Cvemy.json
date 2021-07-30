@@ -1,0 +1,22 @@
+{
+	"nome": "Rometta",
+	"codice": "083076",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H519",
+	"cap": [
+		"98043"
+	],
+	"popolazione": 6541
+}

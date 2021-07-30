@@ -1,0 +1,22 @@
+{
+	"nome": "Sarezzo",
+	"codice": "017174",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "I433",
+	"cap": [
+		"25068"
+	],
+	"popolazione": 13469
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montagna in Valtellina",
+	"codice": "014044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "F393",
+	"cap": [
+		"23020"
+	],
+	"popolazione": 3031
+}

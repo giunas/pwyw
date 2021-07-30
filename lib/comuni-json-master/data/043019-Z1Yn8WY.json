@@ -1,0 +1,22 @@
+{
+	"nome": "Fiuminata",
+	"codice": "043019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "D628",
+	"cap": [
+		"62025"
+	],
+	"popolazione": 1497
+}

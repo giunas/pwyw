@@ -1,0 +1,22 @@
+{
+	"nome": "Frattamaggiore",
+	"codice": "063032",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "D789",
+	"cap": [
+		"80027"
+	],
+	"popolazione": 30241
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Martino Buon Albergo",
+	"codice": "023073",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "I003",
+	"cap": [
+		"37036"
+	],
+	"popolazione": 14283
+}

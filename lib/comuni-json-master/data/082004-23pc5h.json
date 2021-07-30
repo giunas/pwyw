@@ -1,0 +1,22 @@
+{
+	"nome": "Altavilla Milicia",
+	"codice": "082004",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "A229",
+	"cap": [
+		"90010"
+	],
+	"popolazione": 7429
+}

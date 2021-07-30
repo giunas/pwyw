@@ -1,0 +1,22 @@
+{
+	"nome": "Pietracamela",
+	"codice": "067034",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "G608",
+	"cap": [
+		"64047"
+	],
+	"popolazione": 304
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cordenons",
+	"codice": "093017",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "C991",
+	"cap": [
+		"33084"
+	],
+	"popolazione": 18203
+}

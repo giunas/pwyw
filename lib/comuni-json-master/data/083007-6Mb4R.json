@@ -1,0 +1,22 @@
+{
+	"nome": "Brolo",
+	"codice": "083007",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "B198",
+	"cap": [
+		"98061"
+	],
+	"popolazione": 5826
+}

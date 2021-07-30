@@ -1,0 +1,22 @@
+{
+	"nome": "Trevi",
+	"codice": "054054",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "L397",
+	"cap": [
+		"06039"
+	],
+	"popolazione": 8335
+}

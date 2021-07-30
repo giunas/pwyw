@@ -1,0 +1,22 @@
+{
+	"nome": "Bibbona",
+	"codice": "049001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "A852",
+	"cap": [
+		"57020"
+	],
+	"popolazione": 3209
+}

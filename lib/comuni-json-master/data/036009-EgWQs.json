@@ -1,0 +1,22 @@
+{
+	"nome": "Cavezzo",
+	"codice": "036009",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "C398",
+	"cap": [
+		"41032"
+	],
+	"popolazione": 7196
+}

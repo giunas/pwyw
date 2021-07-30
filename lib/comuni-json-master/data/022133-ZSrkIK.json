@@ -1,0 +1,22 @@
+{
+	"nome": "Palù del Fersina",
+	"codice": "022133",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "G296",
+	"cap": [
+		"38050"
+	],
+	"popolazione": 169
+}

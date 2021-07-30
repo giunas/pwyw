@@ -1,0 +1,22 @@
+{
+	"nome": "Bovolone",
+	"codice": "023012",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "B107",
+	"cap": [
+		"37051"
+	],
+	"popolazione": 15846
+}

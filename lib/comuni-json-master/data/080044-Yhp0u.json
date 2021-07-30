@@ -1,0 +1,22 @@
+{
+	"nome": "Mammola",
+	"codice": "080044",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "E873",
+	"cap": [
+		"89045"
+	],
+	"popolazione": 2971
+}

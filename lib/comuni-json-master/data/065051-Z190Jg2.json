@@ -1,0 +1,22 @@
+{
+	"nome": "Felitto",
+	"codice": "065051",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "D527",
+	"cap": [
+		"84055"
+	],
+	"popolazione": 1296
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Raffaele Cimena",
+	"codice": "001252",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I137",
+	"cap": [
+		"10090"
+	],
+	"popolazione": 3107
+}

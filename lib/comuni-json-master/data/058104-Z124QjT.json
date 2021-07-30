@@ -1,0 +1,22 @@
+{
+	"nome": "Tivoli",
+	"codice": "058104",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "L182",
+	"cap": [
+		"00019"
+	],
+	"popolazione": 52910
+}

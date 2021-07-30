@@ -1,0 +1,22 @@
+{
+	"nome": "Gurro",
+	"codice": "103036",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "E269",
+	"cap": [
+		"28828"
+	],
+	"popolazione": 247
+}

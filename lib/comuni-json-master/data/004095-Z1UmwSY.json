@@ -1,0 +1,22 @@
+{
+	"nome": "Garessio",
+	"codice": "004095",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D920",
+	"cap": [
+		"12075"
+	],
+	"popolazione": 3362
+}

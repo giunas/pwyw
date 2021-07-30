@@ -1,0 +1,22 @@
+{
+	"nome": "San Marzano sul Sarno",
+	"codice": "065122",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I019",
+	"cap": [
+		"84010"
+	],
+	"popolazione": 10225
+}

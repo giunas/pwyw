@@ -1,0 +1,22 @@
+{
+	"nome": "Orsogna",
+	"codice": "069057",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G128",
+	"cap": [
+		"66036"
+	],
+	"popolazione": 4008
+}

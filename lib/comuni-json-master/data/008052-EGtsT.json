@@ -1,0 +1,22 @@
+{
+	"nome": "San Bartolomeo al Mare",
+	"codice": "008052",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "H763",
+	"cap": [
+		"18016"
+	],
+	"popolazione": 3127
+}

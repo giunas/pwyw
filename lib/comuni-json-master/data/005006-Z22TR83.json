@@ -1,0 +1,22 @@
+{
+	"nome": "Azzano d'Asti",
+	"codice": "005006",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "A527",
+	"cap": [
+		"14030"
+	],
+	"popolazione": 419
+}

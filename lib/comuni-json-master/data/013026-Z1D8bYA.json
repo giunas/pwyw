@@ -1,0 +1,22 @@
+{
+	"nome": "Blevio",
+	"codice": "013026",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "A905",
+	"cap": [
+		"22020"
+	],
+	"popolazione": 1185
+}

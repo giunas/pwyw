@@ -1,0 +1,22 @@
+{
+	"nome": "Campofelice di Roccella",
+	"codice": "082017",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "B532",
+	"cap": [
+		"90010"
+	],
+	"popolazione": 6918
+}

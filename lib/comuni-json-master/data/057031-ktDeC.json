@@ -1,0 +1,22 @@
+{
+	"nome": "Greccio",
+	"codice": "057031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "E160",
+	"cap": [
+		"02045"
+	],
+	"popolazione": 1520
+}

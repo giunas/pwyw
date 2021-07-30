@@ -1,0 +1,22 @@
+{
+	"nome": "Negrar di Valpolicella",
+	"codice": "023052",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "F861",
+	"cap": [
+		"37024"
+	],
+	"popolazione": 16935
+}

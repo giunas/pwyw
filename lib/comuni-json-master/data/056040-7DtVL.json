@@ -1,0 +1,22 @@
+{
+	"nome": "Onano",
+	"codice": "056040",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "G065",
+	"cap": [
+		"01010"
+	],
+	"popolazione": 1017
+}

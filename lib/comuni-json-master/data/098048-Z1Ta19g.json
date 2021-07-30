@@ -1,0 +1,22 @@
+{
+	"nome": "San Martino in Strada",
+	"codice": "098048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "I012",
+	"cap": [
+		"26817"
+	],
+	"popolazione": 3624
+}

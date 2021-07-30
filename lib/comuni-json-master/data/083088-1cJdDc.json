@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Angelo di Brolo",
+	"codice": "083088",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I283",
+	"cap": [
+		"98060"
+	],
+	"popolazione": 3297
+}

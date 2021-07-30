@@ -1,0 +1,22 @@
+{
+	"nome": "Marzi",
+	"codice": "078078",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "F001",
+	"cap": [
+		"87050"
+	],
+	"popolazione": 996
+}

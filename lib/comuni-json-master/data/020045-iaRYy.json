@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Mantovano",
+	"codice": "020045",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "G917",
+	"cap": [
+		"46047"
+	],
+	"popolazione": 15918
+}

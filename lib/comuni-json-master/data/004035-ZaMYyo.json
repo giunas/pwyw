@@ -1,0 +1,22 @@
+{
+	"nome": "Camerana",
+	"codice": "004035",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "B467",
+	"cap": [
+		"12072"
+	],
+	"popolazione": 655
+}

@@ -1,0 +1,24 @@
+{
+	"nome": "Taranto",
+	"codice": "073027",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "073",
+		"nome": "Taranto"
+	},
+	"sigla": "TA",
+	"codiceCatastale": "L049",
+	"cap": [
+		"74121",
+		"74122",
+		"74123"
+	],
+	"popolazione": 200154
+}

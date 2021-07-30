@@ -1,0 +1,22 @@
+{
+	"nome": "Cervere",
+	"codice": "004065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "C550",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 2162
+}

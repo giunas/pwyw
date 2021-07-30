@@ -1,0 +1,22 @@
+{
+	"nome": "Monte Sant'Angelo",
+	"codice": "071033",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "071",
+		"nome": "Foggia"
+	},
+	"sigla": "FG",
+	"codiceCatastale": "F631",
+	"cap": [
+		"71037"
+	],
+	"popolazione": 13098
+}

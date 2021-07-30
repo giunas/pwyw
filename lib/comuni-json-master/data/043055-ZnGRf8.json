@@ -1,0 +1,22 @@
+{
+	"nome": "Urbisaglia",
+	"codice": "043055",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "L501",
+	"cap": [
+		"62010"
+	],
+	"popolazione": 2712
+}

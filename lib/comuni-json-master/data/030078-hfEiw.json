@@ -1,0 +1,22 @@
+{
+	"nome": "Povoletto",
+	"codice": "030078",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "G949",
+	"cap": [
+		"33040"
+	],
+	"popolazione": 5572
+}

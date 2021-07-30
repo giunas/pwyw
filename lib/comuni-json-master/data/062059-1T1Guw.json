@@ -1,0 +1,22 @@
+{
+	"nome": "San Giorgio La Molara",
+	"codice": "062059",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "H898",
+	"cap": [
+		"82020"
+	],
+	"popolazione": 3050
+}

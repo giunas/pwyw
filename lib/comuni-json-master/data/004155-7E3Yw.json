@@ -1,0 +1,22 @@
+{
+	"nome": "Ormea",
+	"codice": "004155",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G114",
+	"cap": [
+		"12078"
+	],
+	"popolazione": 1723
+}

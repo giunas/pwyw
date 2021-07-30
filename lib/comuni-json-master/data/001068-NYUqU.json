@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglione Torinese",
+	"codice": "001068",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C307",
+	"cap": [
+		"10090"
+	],
+	"popolazione": 6363
+}

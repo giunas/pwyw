@@ -1,0 +1,22 @@
+{
+	"nome": "Doberdò del Lago",
+	"codice": "031003",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "D312",
+	"cap": [
+		"34070"
+	],
+	"popolazione": 1441
+}

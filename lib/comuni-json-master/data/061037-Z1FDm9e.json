@@ -1,0 +1,22 @@
+{
+	"nome": "Frignano",
+	"codice": "061037",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "D799",
+	"cap": [
+		"81030"
+	],
+	"popolazione": 8733
+}

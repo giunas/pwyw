@@ -1,0 +1,22 @@
+{
+	"nome": "Cossogno",
+	"codice": "103023",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "D099",
+	"cap": [
+		"28801"
+	],
+	"popolazione": 588
+}

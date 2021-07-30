@@ -1,0 +1,22 @@
+{
+	"nome": "Ginestra",
+	"codice": "076099",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "E033",
+	"cap": [
+		"85020"
+	],
+	"popolazione": 741
+}

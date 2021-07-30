@@ -1,0 +1,22 @@
+{
+	"nome": "Valsinni",
+	"codice": "077030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "D513",
+	"cap": [
+		"75029"
+	],
+	"popolazione": 1634
+}

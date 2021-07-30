@@ -1,0 +1,22 @@
+{
+	"nome": "San Nicola Baronia",
+	"codice": "064085",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "I061",
+	"cap": [
+		"83050"
+	],
+	"popolazione": 784
+}

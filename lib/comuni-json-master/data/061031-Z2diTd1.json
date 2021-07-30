@@ -1,0 +1,22 @@
+{
+	"nome": "Conca della Campania",
+	"codice": "061031",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "C939",
+	"cap": [
+		"81044"
+	],
+	"popolazione": 1256
+}

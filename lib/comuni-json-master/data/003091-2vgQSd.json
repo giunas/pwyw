@@ -1,0 +1,22 @@
+{
+	"nome": "Marano Ticino",
+	"codice": "003091",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "E907",
+	"cap": [
+		"28040"
+	],
+	"popolazione": 1554
+}

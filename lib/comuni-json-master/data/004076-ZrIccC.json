@@ -1,0 +1,22 @@
+{
+	"nome": "Cravanzana",
+	"codice": "004076",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D133",
+	"cap": [
+		"12050"
+	],
+	"popolazione": 408
+}

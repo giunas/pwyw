@@ -1,0 +1,22 @@
+{
+	"nome": "Villanova d'Albenga",
+	"codice": "009068",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "L975",
+	"cap": [
+		"17038"
+	],
+	"popolazione": 2522
+}

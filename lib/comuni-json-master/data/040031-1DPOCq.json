@@ -1,0 +1,22 @@
+{
+	"nome": "Portico e San Benedetto",
+	"codice": "040031",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "G904",
+	"cap": [
+		"47010"
+	],
+	"popolazione": 769
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sale delle Langhe",
+	"codice": "004199",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H695",
+	"cap": [
+		"12070"
+	],
+	"popolazione": 525
+}

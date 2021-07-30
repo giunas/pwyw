@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Santa Lucia degli Abruzzi",
+	"codice": "066104",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "M021",
+	"cap": [
+		"67020"
+	],
+	"popolazione": 141
+}

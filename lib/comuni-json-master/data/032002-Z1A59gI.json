@@ -1,0 +1,22 @@
+{
+	"nome": "Monrupino",
+	"codice": "032002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "032",
+		"nome": "Trieste"
+	},
+	"sigla": "TS",
+	"codiceCatastale": "F378",
+	"cap": [
+		"34016"
+	],
+	"popolazione": 881
+}

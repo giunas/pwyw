@@ -1,0 +1,22 @@
+{
+	"nome": "Castroreale",
+	"codice": "083016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "C347",
+	"cap": [
+		"98053"
+	],
+	"popolazione": 2548
+}

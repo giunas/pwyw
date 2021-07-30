@@ -1,0 +1,22 @@
+{
+	"nome": "Roveredo di Guà",
+	"codice": "023066",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H610",
+	"cap": [
+		"37040"
+	],
+	"popolazione": 1541
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montemignaio",
+	"codice": "051023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "F565",
+	"cap": [
+		"52010"
+	],
+	"popolazione": 576
+}

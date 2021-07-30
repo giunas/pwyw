@@ -1,0 +1,23 @@
+{
+	"nome": "Saluzzo",
+	"codice": "004203",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "H727",
+	"cap": [
+		"12037",
+		"12030"
+	],
+	"popolazione": 17224
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Tammaro",
+	"codice": "061085",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I261",
+	"cap": [
+		"81050"
+	],
+	"popolazione": 5064
+}

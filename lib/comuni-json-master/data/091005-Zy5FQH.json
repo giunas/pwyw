@@ -1,0 +1,22 @@
+{
+	"nome": "Bari Sardo",
+	"codice": "091005",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "A663",
+	"cap": [
+		"08042"
+	],
+	"popolazione": 3938
+}

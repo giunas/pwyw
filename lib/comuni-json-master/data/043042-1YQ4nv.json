@@ -1,0 +1,22 @@
+{
+	"nome": "Porto Recanati",
+	"codice": "043042",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "G919",
+	"cap": [
+		"62017"
+	],
+	"popolazione": 11495
+}

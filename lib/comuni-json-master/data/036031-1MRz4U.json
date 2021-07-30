@@ -1,0 +1,22 @@
+{
+	"nome": "Pievepelago",
+	"codice": "036031",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "G649",
+	"cap": [
+		"41027"
+	],
+	"popolazione": 2241
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Fondachelli-Fantina",
+	"codice": "083023",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D661",
+	"cap": [
+		"98050"
+	],
+	"popolazione": 1090
+}

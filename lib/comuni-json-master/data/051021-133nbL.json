@@ -1,0 +1,22 @@
+{
+	"nome": "Lucignano",
+	"codice": "051021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "E718",
+	"cap": [
+		"52046"
+	],
+	"popolazione": 3615
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Forza d'Agrò",
+	"codice": "083024",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D733",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 878
+}

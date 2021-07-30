@@ -1,0 +1,22 @@
+{
+	"nome": "Villarbasse",
+	"codice": "001302",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M002",
+	"cap": [
+		"10090"
+	],
+	"popolazione": 3323
+}

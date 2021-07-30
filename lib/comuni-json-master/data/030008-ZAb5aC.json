@@ -1,0 +1,22 @@
+{
+	"nome": "Bagnaria Arsa",
+	"codice": "030008",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "030",
+		"nome": "Udine"
+	},
+	"sigla": "UD",
+	"codiceCatastale": "A553",
+	"cap": [
+		"33050"
+	],
+	"popolazione": 3577
+}

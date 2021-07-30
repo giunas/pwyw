@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Lucia di Serino",
+	"codice": "064088",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "I219",
+	"cap": [
+		"83020"
+	],
+	"popolazione": 1446
+}

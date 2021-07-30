@@ -1,0 +1,22 @@
+{
+	"nome": "Cisterna di Latina",
+	"codice": "059005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "C740",
+	"cap": [
+		"04012"
+	],
+	"popolazione": 35551
+}

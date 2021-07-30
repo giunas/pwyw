@@ -1,0 +1,22 @@
+{
+	"nome": "Tregnago",
+	"codice": "023087",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "L364",
+	"cap": [
+		"37039"
+	],
+	"popolazione": 4926
+}

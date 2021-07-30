@@ -1,0 +1,22 @@
+{
+	"nome": "Canda",
+	"codice": "029010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "B582",
+	"cap": [
+		"45020"
+	],
+	"popolazione": 1007
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Narni",
+	"codice": "055022",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "F844",
+	"cap": [
+		"05035"
+	],
+	"popolazione": 20054
+}

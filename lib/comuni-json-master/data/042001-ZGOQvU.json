@@ -1,0 +1,22 @@
+{
+	"nome": "Agugliano",
+	"codice": "042001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "A092",
+	"cap": [
+		"60020"
+	],
+	"popolazione": 4870
+}

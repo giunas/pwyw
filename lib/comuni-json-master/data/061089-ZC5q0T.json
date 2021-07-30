@@ -1,0 +1,22 @@
+{
+	"nome": "Sparanise",
+	"codice": "061089",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I885",
+	"cap": [
+		"81056"
+	],
+	"popolazione": 7509
+}

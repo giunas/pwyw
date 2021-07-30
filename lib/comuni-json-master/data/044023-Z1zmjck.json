@@ -1,0 +1,22 @@
+{
+	"nome": "Grottammare",
+	"codice": "044023",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "E207",
+	"cap": [
+		"63066"
+	],
+	"popolazione": 15615
+}

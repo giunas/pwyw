@@ -1,0 +1,22 @@
+{
+	"nome": "Torresina",
+	"codice": "004229",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "L281",
+	"cap": [
+		"12070"
+	],
+	"popolazione": 65
+}

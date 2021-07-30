@@ -1,0 +1,22 @@
+{
+	"nome": "Perosa Argentina",
+	"codice": "001184",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G463",
+	"cap": [
+		"10063"
+	],
+	"popolazione": 3405
+}

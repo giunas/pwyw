@@ -1,0 +1,22 @@
+{
+	"nome": "Monforte d'Alba",
+	"codice": "004132",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F358",
+	"cap": [
+		"12065"
+	],
+	"popolazione": 2042
+}

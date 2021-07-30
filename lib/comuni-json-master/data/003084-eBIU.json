@@ -1,0 +1,22 @@
+{
+	"nome": "Lesa",
+	"codice": "003084",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "E544",
+	"cap": [
+		"28040"
+	],
+	"popolazione": 2236
+}

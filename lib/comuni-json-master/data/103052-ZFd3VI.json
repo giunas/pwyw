@@ -1,0 +1,22 @@
+{
+	"nome": "Pallanzeno",
+	"codice": "103052",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "G280",
+	"cap": [
+		"28884"
+	],
+	"popolazione": 1176
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cavaso del Tomba",
+	"codice": "026014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "C384",
+	"cap": [
+		"31034"
+	],
+	"popolazione": 2996
+}

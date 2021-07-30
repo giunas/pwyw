@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Alessio Siculo",
+	"codice": "083085",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "I215",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 1497
+}

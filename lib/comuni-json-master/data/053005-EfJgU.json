@@ -1,0 +1,22 @@
+{
+	"nome": "Castell'Azzara",
+	"codice": "053005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "C147",
+	"cap": [
+		"58034"
+	],
+	"popolazione": 1601
+}

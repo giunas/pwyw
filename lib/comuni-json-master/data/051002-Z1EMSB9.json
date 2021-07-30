@@ -1,0 +1,22 @@
+{
+	"nome": "Arezzo",
+	"codice": "051002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "A390",
+	"cap": [
+		"52100"
+	],
+	"popolazione": 98144
+}

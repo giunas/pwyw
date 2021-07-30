@@ -1,0 +1,22 @@
+{
+	"nome": "Cerreto d'Esi",
+	"codice": "042013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "C524",
+	"cap": [
+		"60043"
+	],
+	"popolazione": 3967
+}

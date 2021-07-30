@@ -1,0 +1,22 @@
+{
+	"nome": "Mirandola",
+	"codice": "036022",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "F240",
+	"cap": [
+		"41037"
+	],
+	"popolazione": 23960
+}

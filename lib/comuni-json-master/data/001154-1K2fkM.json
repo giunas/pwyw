@@ -1,0 +1,22 @@
+{
+	"nome": "Mompantero",
+	"codice": "001154",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F318",
+	"cap": [
+		"10059"
+	],
+	"popolazione": 651
+}

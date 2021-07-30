@@ -1,0 +1,22 @@
+{
+	"nome": "Torre Beretti e Castellaro",
+	"codice": "018156",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "L250",
+	"cap": [
+		"27030"
+	],
+	"popolazione": 588
+}

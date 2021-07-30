@@ -1,0 +1,22 @@
+{
+	"nome": "Torre Le Nocelle",
+	"codice": "064110",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L272",
+	"cap": [
+		"83030"
+	],
+	"popolazione": 1360
+}

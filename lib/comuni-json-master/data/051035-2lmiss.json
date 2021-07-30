@@ -1,0 +1,22 @@
+{
+	"nome": "Sestino",
+	"codice": "051035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "I681",
+	"cap": [
+		"52038"
+	],
+	"popolazione": 1421
+}

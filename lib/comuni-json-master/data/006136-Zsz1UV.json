@@ -1,0 +1,22 @@
+{
+	"nome": "Ponzone",
+	"codice": "006136",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "G877",
+	"cap": [
+		"15010"
+	],
+	"popolazione": 1071
+}

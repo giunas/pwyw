@@ -1,0 +1,22 @@
+{
+	"nome": "Empoli",
+	"codice": "048014",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "D403",
+	"cap": [
+		"50053"
+	],
+	"popolazione": 46541
+}

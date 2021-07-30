@@ -1,0 +1,22 @@
+{
+	"nome": "Conca dei Marini",
+	"codice": "065044",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C940",
+	"cap": [
+		"84010"
+	],
+	"popolazione": 730
+}

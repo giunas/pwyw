@@ -1,0 +1,22 @@
+{
+	"nome": "Quarona",
+	"codice": "002107",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "H108",
+	"cap": [
+		"13017"
+	],
+	"popolazione": 4246
+}

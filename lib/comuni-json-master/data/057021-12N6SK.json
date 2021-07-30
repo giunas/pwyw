@@ -1,0 +1,22 @@
+{
+	"nome": "Collevecchio",
+	"codice": "057021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "C876",
+	"cap": [
+		"02042"
+	],
+	"popolazione": 1595
+}

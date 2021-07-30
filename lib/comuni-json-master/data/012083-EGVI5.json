@@ -1,0 +1,22 @@
+{
+	"nome": "Induno Olona",
+	"codice": "012083",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "E299",
+	"cap": [
+		"21056"
+	],
+	"popolazione": 10336
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Motta de' Conti",
+	"codice": "002082",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "F774",
+	"cap": [
+		"13010"
+	],
+	"popolazione": 804
+}

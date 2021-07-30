@@ -1,0 +1,22 @@
+{
+	"nome": "Caravate",
+	"codice": "012031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "B732",
+	"cap": [
+		"21032"
+	],
+	"popolazione": 2612
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Calatabiano",
+	"codice": "087010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "B384",
+	"cap": [
+		"95011"
+	],
+	"popolazione": 5383
+}

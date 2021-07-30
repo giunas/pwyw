@@ -1,0 +1,22 @@
+{
+	"nome": "San Donato Val di Comino",
+	"codice": "060062",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "H824",
+	"cap": [
+		"03046"
+	],
+	"popolazione": 2122
+}

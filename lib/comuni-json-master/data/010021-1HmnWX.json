@@ -1,0 +1,22 @@
+{
+	"nome": "Davagna",
+	"codice": "010021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "D255",
+	"cap": [
+		"16022"
+	],
+	"popolazione": 1927
+}

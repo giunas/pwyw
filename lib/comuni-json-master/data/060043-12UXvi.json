@@ -1,0 +1,22 @@
+{
+	"nome": "Isola del Liri",
+	"codice": "060043",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "E340",
+	"cap": [
+		"03036"
+	],
+	"popolazione": 11963
+}

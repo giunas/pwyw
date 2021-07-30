@@ -1,0 +1,22 @@
+{
+	"nome": "Calopezzati",
+	"codice": "078021",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "B424",
+	"cap": [
+		"87060"
+	],
+	"popolazione": 1293
+}

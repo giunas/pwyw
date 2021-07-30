@@ -1,0 +1,22 @@
+{
+	"nome": "Cona",
+	"codice": "027010",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "C938",
+	"cap": [
+		"30010"
+	],
+	"popolazione": 3175
+}

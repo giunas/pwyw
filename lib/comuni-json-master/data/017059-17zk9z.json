@@ -1,0 +1,22 @@
+{
+	"nome": "Cologne",
+	"codice": "017059",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C893",
+	"cap": [
+		"25033"
+	],
+	"popolazione": 7534
+}

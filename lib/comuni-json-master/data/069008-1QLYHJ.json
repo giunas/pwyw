@@ -1,0 +1,22 @@
+{
+	"nome": "Bucchianico",
+	"codice": "069008",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "B238",
+	"cap": [
+		"66011"
+	],
+	"popolazione": 5221
+}

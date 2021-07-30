@@ -1,0 +1,22 @@
+{
+	"nome": "Pianfei",
+	"codice": "004165",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G561",
+	"cap": [
+		"12080"
+	],
+	"popolazione": 2222
+}

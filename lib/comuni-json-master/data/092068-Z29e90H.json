@@ -1,0 +1,22 @@
+{
+	"nome": "Selargius",
+	"codice": "092068",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": "Cagliari"
+	},
+	"sigla": "CA",
+	"codiceCatastale": "I580",
+	"cap": [
+		"09047"
+	],
+	"popolazione": 28684
+}

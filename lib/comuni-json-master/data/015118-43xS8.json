@@ -1,0 +1,22 @@
+{
+	"nome": "Legnano",
+	"codice": "015118",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E514",
+	"cap": [
+		"20025"
+	],
+	"popolazione": 57647
+}

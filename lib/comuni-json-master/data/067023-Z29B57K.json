@@ -1,0 +1,22 @@
+{
+	"nome": "Crognaleto",
+	"codice": "067023",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "D179",
+	"cap": [
+		"64043"
+	],
+	"popolazione": 1416
+}

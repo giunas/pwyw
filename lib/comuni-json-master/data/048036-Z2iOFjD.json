@@ -1,0 +1,22 @@
+{
+	"nome": "Rignano sull'Arno",
+	"codice": "048036",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "H286",
+	"cap": [
+		"50067"
+	],
+	"popolazione": 8600
+}

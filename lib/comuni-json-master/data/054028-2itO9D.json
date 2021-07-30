@@ -1,0 +1,22 @@
+{
+	"nome": "Massa Martana",
+	"codice": "054028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "F024",
+	"cap": [
+		"06056"
+	],
+	"popolazione": 3822
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Ragusa",
+	"codice": "088009",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "H163",
+	"cap": [
+		"97100"
+	],
+	"popolazione": 69794
+}

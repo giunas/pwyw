@@ -1,0 +1,22 @@
+{
+	"nome": "Bagnolo Mella",
+	"codice": "017009",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "A569",
+	"cap": [
+		"25021"
+	],
+	"popolazione": 12692
+}

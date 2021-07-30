@@ -1,0 +1,22 @@
+{
+	"nome": "Chiusi della Verna",
+	"codice": "051015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C663",
+	"cap": [
+		"52010"
+	],
+	"popolazione": 2058
+}

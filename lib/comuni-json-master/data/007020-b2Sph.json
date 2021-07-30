@@ -1,0 +1,22 @@
+{
+	"nome": "Châtillon",
+	"codice": "007020",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "02",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"provincia": {
+		"codice": "007",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"sigla": "AO",
+	"codiceCatastale": "C294",
+	"cap": [
+		"11024"
+	],
+	"popolazione": 4946
+}

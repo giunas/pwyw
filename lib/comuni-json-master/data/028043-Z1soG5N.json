@@ -1,0 +1,22 @@
+{
+	"nome": "Granze",
+	"codice": "028043",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "E146",
+	"cap": [
+		"35040"
+	],
+	"popolazione": 2022
+}

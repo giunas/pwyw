@@ -1,0 +1,22 @@
+{
+	"nome": "Marsico Nuovo",
+	"codice": "076045",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "E976",
+	"cap": [
+		"85052"
+	],
+	"popolazione": 4358
+}

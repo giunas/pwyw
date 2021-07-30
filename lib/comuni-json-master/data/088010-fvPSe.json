@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Croce Camerina",
+	"codice": "088010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "I178",
+	"cap": [
+		"97017"
+	],
+	"popolazione": 9452
+}

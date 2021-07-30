@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni in Persiceto",
+	"codice": "037053",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "G467",
+	"cap": [
+		"40017"
+	],
+	"popolazione": 26992
+}

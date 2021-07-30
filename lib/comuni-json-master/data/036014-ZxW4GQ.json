@@ -1,0 +1,22 @@
+{
+	"nome": "Fiumalbo",
+	"codice": "036014",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "D617",
+	"cap": [
+		"41022"
+	],
+	"popolazione": 1304
+}

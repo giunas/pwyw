@@ -1,0 +1,22 @@
+{
+	"nome": "Castel San Niccolò",
+	"codice": "051010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C263",
+	"cap": [
+		"52018"
+	],
+	"popolazione": 2739
+}

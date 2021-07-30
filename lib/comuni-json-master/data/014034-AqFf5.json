@@ -1,0 +1,22 @@
+{
+	"nome": "Grosotto",
+	"codice": "014034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "E201",
+	"cap": [
+		"23034"
+	],
+	"popolazione": 1615
+}

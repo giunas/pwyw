@@ -1,0 +1,22 @@
+{
+	"nome": "Silanus",
+	"codice": "091083",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "I730",
+	"cap": [
+		"08017"
+	],
+	"popolazione": 2200
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Bessude",
+	"codice": "090010",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "A827",
+	"cap": [
+		"07040"
+	],
+	"popolazione": 428
+}

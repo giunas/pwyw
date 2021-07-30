@@ -1,0 +1,22 @@
+{
+	"nome": "Corinaldo",
+	"codice": "042015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "D007",
+	"cap": [
+		"60013"
+	],
+	"popolazione": 5106
+}

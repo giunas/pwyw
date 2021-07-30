@@ -1,0 +1,22 @@
+{
+	"nome": "Pomarance",
+	"codice": "050027",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "G804",
+	"cap": [
+		"56045"
+	],
+	"popolazione": 5845
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Volterra",
+	"codice": "050039",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "050",
+		"nome": "Pisa"
+	},
+	"sigla": "PI",
+	"codiceCatastale": "M126",
+	"cap": [
+		"56048"
+	],
+	"popolazione": 10689
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Sebastiano Curone",
+	"codice": "006155",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "I150",
+	"cap": [
+		"15056"
+	],
+	"popolazione": 591
+}

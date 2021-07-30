@@ -1,0 +1,22 @@
+{
+	"nome": "Bagnoli Irpino",
+	"codice": "064009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "A566",
+	"cap": [
+		"83043"
+	],
+	"popolazione": 3274
+}

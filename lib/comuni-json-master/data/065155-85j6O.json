@@ -1,0 +1,22 @@
+{
+	"nome": "Valva",
+	"codice": "065155",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "L656",
+	"cap": [
+		"84020"
+	],
+	"popolazione": 1712
+}

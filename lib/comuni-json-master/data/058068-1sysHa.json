@@ -1,0 +1,22 @@
+{
+	"nome": "Morlupo",
+	"codice": "058068",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F734",
+	"cap": [
+		"00067"
+	],
+	"popolazione": 8122
+}

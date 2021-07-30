@@ -1,0 +1,22 @@
+{
+	"nome": "Borgo Veneto",
+	"codice": "028107",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "M402",
+	"cap": [
+		"35046"
+	],
+	"popolazione": 6981
+}

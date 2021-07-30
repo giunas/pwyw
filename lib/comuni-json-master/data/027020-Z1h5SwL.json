@@ -1,0 +1,22 @@
+{
+	"nome": "Marcon",
+	"codice": "027020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "E936",
+	"cap": [
+		"30020"
+	],
+	"popolazione": 16215
+}

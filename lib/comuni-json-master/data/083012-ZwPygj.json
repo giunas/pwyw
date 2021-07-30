@@ -1,0 +1,22 @@
+{
+	"nome": "Casalvecchio Siculo",
+	"codice": "083012",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "B918",
+	"cap": [
+		"98032"
+	],
+	"popolazione": 907
+}

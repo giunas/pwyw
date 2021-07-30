@@ -1,0 +1,22 @@
+{
+	"nome": "Grotteria",
+	"codice": "080040",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "E212",
+	"cap": [
+		"89043"
+	],
+	"popolazione": 3274
+}

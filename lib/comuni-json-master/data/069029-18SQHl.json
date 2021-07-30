@@ -1,0 +1,22 @@
+{
+	"nome": "Dogliola",
+	"codice": "069029",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "D315",
+	"cap": [
+		"66050"
+	],
+	"popolazione": 389
+}

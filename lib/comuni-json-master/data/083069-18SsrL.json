@@ -1,0 +1,22 @@
+{
+	"nome": "Raccuja",
+	"codice": "083069",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H151",
+	"cap": [
+		"98067"
+	],
+	"popolazione": 1139
+}

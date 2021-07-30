@@ -1,0 +1,22 @@
+{
+	"nome": "Alimena",
+	"codice": "082002",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "A202",
+	"cap": [
+		"90020"
+	],
+	"popolazione": 2152
+}

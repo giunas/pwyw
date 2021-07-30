@@ -1,0 +1,22 @@
+{
+	"nome": "Gaggi",
+	"codice": "083029",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D844",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 3138
+}

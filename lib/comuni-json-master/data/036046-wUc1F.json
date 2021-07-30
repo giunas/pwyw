@@ -1,0 +1,22 @@
+{
+	"nome": "Vignola",
+	"codice": "036046",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "L885",
+	"cap": [
+		"41058"
+	],
+	"popolazione": 24344
+}

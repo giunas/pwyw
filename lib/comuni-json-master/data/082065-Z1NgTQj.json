@@ -1,0 +1,22 @@
+{
+	"nome": "San Mauro Castelverde",
+	"codice": "082065",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "I028",
+	"cap": [
+		"90010"
+	],
+	"popolazione": 1847
+}

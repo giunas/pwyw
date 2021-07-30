@@ -1,0 +1,22 @@
+{
+	"nome": "Schiavi di Abruzzo",
+	"codice": "069088",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "I526",
+	"cap": [
+		"66045"
+	],
+	"popolazione": 931
+}

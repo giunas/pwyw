@@ -1,0 +1,22 @@
+{
+	"nome": "Coccaglio",
+	"codice": "017056",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C806",
+	"cap": [
+		"25030"
+	],
+	"popolazione": 8469
+}

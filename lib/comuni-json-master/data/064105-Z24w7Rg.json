@@ -1,0 +1,22 @@
+{
+	"nome": "Summonte",
+	"codice": "064105",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L004",
+	"cap": [
+		"83010"
+	],
+	"popolazione": 1613
+}

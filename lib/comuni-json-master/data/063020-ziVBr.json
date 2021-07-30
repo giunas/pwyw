@@ -1,0 +1,22 @@
+{
+	"nome": "Casandrino",
+	"codice": "063020",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B925",
+	"cap": [
+		"80025"
+	],
+	"popolazione": 13295
+}

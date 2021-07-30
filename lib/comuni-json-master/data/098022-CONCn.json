@@ -1,0 +1,22 @@
+{
+	"nome": "Corno Giovine",
+	"codice": "098022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "D028",
+	"cap": [
+		"26846"
+	],
+	"popolazione": 1193
+}

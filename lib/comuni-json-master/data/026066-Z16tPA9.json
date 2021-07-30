@@ -1,0 +1,22 @@
+{
+	"nome": "Resana",
+	"codice": "026066",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "H238",
+	"cap": [
+		"31023"
+	],
+	"popolazione": 9290
+}

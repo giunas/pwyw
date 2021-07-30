@@ -1,0 +1,22 @@
+{
+	"nome": "Birori",
+	"codice": "091008",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "A880",
+	"cap": [
+		"08010"
+	],
+	"popolazione": 561
+}

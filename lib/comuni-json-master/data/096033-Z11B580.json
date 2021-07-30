@@ -1,0 +1,22 @@
+{
+	"nome": "Mezzana Mortigliengo",
+	"codice": "096033",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "F167",
+	"cap": [
+		"13831"
+	],
+	"popolazione": 561
+}

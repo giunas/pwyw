@@ -1,0 +1,22 @@
+{
+	"nome": "Ortezzano",
+	"codice": "109029",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "G137",
+	"cap": [
+		"63851"
+	],
+	"popolazione": 791
+}

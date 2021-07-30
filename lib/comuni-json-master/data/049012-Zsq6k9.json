@@ -1,0 +1,22 @@
+{
+	"nome": "Piombino",
+	"codice": "049012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "049",
+		"nome": "Livorno"
+	},
+	"sigla": "LI",
+	"codiceCatastale": "G687",
+	"cap": [
+		"57025"
+	],
+	"popolazione": 34419
+}

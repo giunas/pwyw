@@ -1,0 +1,22 @@
+{
+	"nome": "Montelparo",
+	"codice": "109020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F549",
+	"cap": [
+		"63853"
+	],
+	"popolazione": 861
+}

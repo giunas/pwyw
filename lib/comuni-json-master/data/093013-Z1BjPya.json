@@ -1,0 +1,22 @@
+{
+	"nome": "Chions",
+	"codice": "093013",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "C640",
+	"cap": [
+		"33083"
+	],
+	"popolazione": 5188
+}

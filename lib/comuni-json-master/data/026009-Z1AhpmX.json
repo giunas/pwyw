@@ -1,0 +1,22 @@
+{
+	"nome": "Casale sul Sile",
+	"codice": "026009",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "B879",
+	"cap": [
+		"31032"
+	],
+	"popolazione": 12722
+}

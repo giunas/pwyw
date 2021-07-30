@@ -1,0 +1,22 @@
+{
+	"nome": "Susegana",
+	"codice": "026083",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "L014",
+	"cap": [
+		"31058"
+	],
+	"popolazione": 11702
+}

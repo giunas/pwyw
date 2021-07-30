@@ -1,0 +1,22 @@
+{
+	"nome": "Tavernole sul Mella",
+	"codice": "017183",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C698",
+	"cap": [
+		"25060"
+	],
+	"popolazione": 1359
+}

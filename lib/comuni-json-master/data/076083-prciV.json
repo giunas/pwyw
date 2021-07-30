@@ -1,0 +1,22 @@
+{
+	"nome": "Satriano di Lucania",
+	"codice": "076083",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "G614",
+	"cap": [
+		"85050"
+	],
+	"popolazione": 2406
+}

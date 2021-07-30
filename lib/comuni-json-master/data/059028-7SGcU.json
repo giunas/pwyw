@@ -1,0 +1,22 @@
+{
+	"nome": "Sezze",
+	"codice": "059028",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "I712",
+	"cap": [
+		"04018"
+	],
+	"popolazione": 24114
+}

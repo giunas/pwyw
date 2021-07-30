@@ -1,0 +1,22 @@
+{
+	"nome": "Treviso",
+	"codice": "026086",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "L407",
+	"cap": [
+		"31100"
+	],
+	"popolazione": 81014
+}

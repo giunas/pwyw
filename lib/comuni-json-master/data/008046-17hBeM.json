@@ -1,0 +1,22 @@
+{
+	"nome": "Pornassio",
+	"codice": "008046",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G890",
+	"cap": [
+		"18024"
+	],
+	"popolazione": 584
+}

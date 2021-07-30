@@ -1,0 +1,22 @@
+{
+	"nome": "Decollatura",
+	"codice": "079043",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "D261",
+	"cap": [
+		"88041"
+	],
+	"popolazione": 3252
+}

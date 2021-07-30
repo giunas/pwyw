@@ -1,0 +1,22 @@
+{
+	"nome": "Corsico",
+	"codice": "015093",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "D045",
+	"cap": [
+		"20094"
+	],
+	"popolazione": 33669
+}

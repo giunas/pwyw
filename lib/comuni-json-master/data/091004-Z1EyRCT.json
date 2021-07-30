@@ -1,0 +1,22 @@
+{
+	"nome": "Austis",
+	"codice": "091004",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "A503",
+	"cap": [
+		"08030"
+	],
+	"popolazione": 876
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montiano",
+	"codice": "040028",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "F668",
+	"cap": [
+		"47020"
+	],
+	"popolazione": 1701
+}

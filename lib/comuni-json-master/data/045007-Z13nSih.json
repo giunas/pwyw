@@ -1,0 +1,22 @@
+{
+	"nome": "Fivizzano",
+	"codice": "045007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "D629",
+	"cap": [
+		"54013"
+	],
+	"popolazione": 8267
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Trecate",
+	"codice": "003149",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L356",
+	"cap": [
+		"28069"
+	],
+	"popolazione": 19856
+}

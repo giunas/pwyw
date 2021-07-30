@@ -1,0 +1,22 @@
+{
+	"nome": "Ventimiglia",
+	"codice": "008065",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "L741",
+	"cap": [
+		"18039"
+	],
+	"popolazione": 23926
+}

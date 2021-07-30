@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve del Grappa",
+	"codice": "026096",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "M422",
+	"cap": [
+		"31017"
+	],
+	"popolazione": 6882
+}

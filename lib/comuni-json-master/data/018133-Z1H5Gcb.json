@@ -1,0 +1,22 @@
+{
+	"nome": "San Cipriano Po",
+	"codice": "018133",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "H799",
+	"cap": [
+		"27043"
+	],
+	"popolazione": 516
+}

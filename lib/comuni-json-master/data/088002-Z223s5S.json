@@ -1,0 +1,22 @@
+{
+	"nome": "Chiaramonte Gulfi",
+	"codice": "088002",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "C612",
+	"cap": [
+		"97012"
+	],
+	"popolazione": 8224
+}

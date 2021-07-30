@@ -1,0 +1,22 @@
+{
+	"nome": "Jerzu",
+	"codice": "091035",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "E387",
+	"cap": [
+		"08044"
+	],
+	"popolazione": 3228
+}

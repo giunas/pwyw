@@ -1,0 +1,22 @@
+{
+	"nome": "Villa d'Ogna",
+	"codice": "016241",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "L938",
+	"cap": [
+		"24020"
+	],
+	"popolazione": 1971
+}

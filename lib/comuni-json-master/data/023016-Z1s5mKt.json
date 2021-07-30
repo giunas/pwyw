@@ -1,0 +1,22 @@
+{
+	"nome": "Buttapietra",
+	"codice": "023016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "B304",
+	"cap": [
+		"37060"
+	],
+	"popolazione": 6867
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Rotella",
+	"codice": "044065",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "044",
+		"nome": "Ascoli Piceno"
+	},
+	"sigla": "AP",
+	"codiceCatastale": "H588",
+	"cap": [
+		"63071"
+	],
+	"popolazione": 936
+}

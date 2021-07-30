@@ -1,0 +1,22 @@
+{
+	"nome": "Monghidoro",
+	"codice": "037040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "F363",
+	"cap": [
+		"40063"
+	],
+	"popolazione": 3806
+}

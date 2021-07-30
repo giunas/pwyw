@@ -1,0 +1,22 @@
+{
+	"nome": "Viù",
+	"codice": "001313",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "M094",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 1118
+}

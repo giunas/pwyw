@@ -1,0 +1,22 @@
+{
+	"nome": "Nurachi",
+	"codice": "095035",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "095",
+		"nome": "Oristano"
+	},
+	"sigla": "OR",
+	"codiceCatastale": "F980",
+	"cap": [
+		"09070"
+	],
+	"popolazione": 1790
+}

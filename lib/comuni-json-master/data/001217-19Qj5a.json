@@ -1,0 +1,22 @@
+{
+	"nome": "Rivarolo Canavese",
+	"codice": "001217",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "H340",
+	"cap": [
+		"10086"
+	],
+	"popolazione": 12356
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castel Giorgio",
+	"codice": "055009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "C117",
+	"cap": [
+		"05013"
+	],
+	"popolazione": 2178
+}

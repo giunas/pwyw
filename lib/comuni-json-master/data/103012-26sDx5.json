@@ -1,0 +1,22 @@
+{
+	"nome": "Bognanco",
+	"codice": "103012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "A925",
+	"cap": [
+		"28842"
+	],
+	"popolazione": 230
+}

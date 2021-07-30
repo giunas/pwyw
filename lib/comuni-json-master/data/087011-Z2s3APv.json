@@ -1,0 +1,22 @@
+{
+	"nome": "Caltagirone",
+	"codice": "087011",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "B428",
+	"cap": [
+		"95041"
+	],
+	"popolazione": 38123
+}

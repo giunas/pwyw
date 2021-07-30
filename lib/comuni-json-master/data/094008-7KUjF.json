@@ -1,0 +1,22 @@
+{
+	"nome": "Carpinone",
+	"codice": "094008",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "B830",
+	"cap": [
+		"86093"
+	],
+	"popolazione": 1226
+}

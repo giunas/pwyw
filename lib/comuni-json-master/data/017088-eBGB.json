@@ -1,0 +1,22 @@
+{
+	"nome": "Leno",
+	"codice": "017088",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "E526",
+	"cap": [
+		"25024"
+	],
+	"popolazione": 14364
+}

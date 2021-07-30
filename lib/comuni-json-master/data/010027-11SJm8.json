@@ -1,0 +1,22 @@
+{
+	"nome": "Isola del Cantone",
+	"codice": "010027",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "E341",
+	"cap": [
+		"16017"
+	],
+	"popolazione": 1535
+}

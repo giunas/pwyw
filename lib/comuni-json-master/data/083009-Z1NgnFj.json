@@ -1,0 +1,22 @@
+{
+	"nome": "Capo d'Orlando",
+	"codice": "083009",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "B666",
+	"cap": [
+		"98071"
+	],
+	"popolazione": 13260
+}

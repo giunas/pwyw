@@ -1,0 +1,22 @@
+{
+	"nome": "Carmagnola",
+	"codice": "001059",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "B791",
+	"cap": [
+		"10022"
+	],
+	"popolazione": 28563
+}

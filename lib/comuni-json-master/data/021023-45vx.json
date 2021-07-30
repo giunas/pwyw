@@ -1,0 +1,22 @@
+{
+	"nome": "Cornedo all'Isarco",
+	"codice": "021023",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "B799",
+	"cap": [
+		"39053"
+	],
+	"popolazione": 3312
+}

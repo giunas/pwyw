@@ -1,0 +1,22 @@
+{
+	"nome": "Roccella Valdemone",
+	"codice": "083074",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H455",
+	"cap": [
+		"98030"
+	],
+	"popolazione": 711
+}

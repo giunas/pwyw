@@ -1,0 +1,22 @@
+{
+	"nome": "Fossato di Vico",
+	"codice": "054019",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "D745",
+	"cap": [
+		"06022"
+	],
+	"popolazione": 2817
+}

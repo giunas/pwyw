@@ -1,0 +1,22 @@
+{
+	"nome": "Sauze d'Oulx",
+	"codice": "001259",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I466",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 1111
+}

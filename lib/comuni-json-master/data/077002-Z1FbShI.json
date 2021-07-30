@@ -1,0 +1,22 @@
+{
+	"nome": "Aliano",
+	"codice": "077002",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "A196",
+	"cap": [
+		"75010"
+	],
+	"popolazione": 1082
+}

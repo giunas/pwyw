@@ -1,0 +1,22 @@
+{
+	"nome": "Rosora",
+	"codice": "042040",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "H575",
+	"cap": [
+		"60030"
+	],
+	"popolazione": 1988
+}

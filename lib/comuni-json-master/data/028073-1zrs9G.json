@@ -1,0 +1,22 @@
+{
+	"nome": "Saccolongo",
+	"codice": "028073",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "H655",
+	"cap": [
+		"35030"
+	],
+	"popolazione": 4934
+}

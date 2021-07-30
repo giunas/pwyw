@@ -1,0 +1,22 @@
+{
+	"nome": "Vaprio d'Agogna",
+	"codice": "003153",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L668",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 1015
+}

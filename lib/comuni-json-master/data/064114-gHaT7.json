@@ -1,0 +1,22 @@
+{
+	"nome": "Vallata",
+	"codice": "064114",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "L589",
+	"cap": [
+		"83059"
+	],
+	"popolazione": 2856
+}

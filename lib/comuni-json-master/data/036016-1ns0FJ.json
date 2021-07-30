@@ -1,0 +1,22 @@
+{
+	"nome": "Frassinoro",
+	"codice": "036016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "D783",
+	"cap": [
+		"41044"
+	],
+	"popolazione": 1997
+}

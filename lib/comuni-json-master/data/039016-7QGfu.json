@@ -1,0 +1,22 @@
+{
+	"nome": "Russi",
+	"codice": "039016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "H642",
+	"cap": [
+		"48026"
+	],
+	"popolazione": 12083
+}

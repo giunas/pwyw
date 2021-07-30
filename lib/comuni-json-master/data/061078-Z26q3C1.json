@@ -1,0 +1,22 @@
+{
+	"nome": "San Nicola la Strada",
+	"codice": "061078",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I056",
+	"cap": [
+		"81020"
+	],
+	"popolazione": 21157
+}

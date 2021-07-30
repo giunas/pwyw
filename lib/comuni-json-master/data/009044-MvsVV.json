@@ -1,0 +1,22 @@
+{
+	"nome": "Orco Feglino",
+	"codice": "009044",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "D522",
+	"cap": [
+		"17024"
+	],
+	"popolazione": 895
+}

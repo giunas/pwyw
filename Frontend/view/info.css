@@ -1,0 +1,24 @@
+html, body{
+    height: 100%;
+  }
+
+  body {
+    background: #2c3e50;
+    background: linear-gradient(to right, #2c3e50, #4ca1af);
+}
+
+.slogan h1{
+    font-family:"Verdana"; 
+    font-weight:bold; 
+    font-style:italic;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.slogan {
+    margin:0 auto;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

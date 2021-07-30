@@ -1,0 +1,22 @@
+{
+	"nome": "Cesenatico",
+	"codice": "040008",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "C574",
+	"cap": [
+		"47042"
+	],
+	"popolazione": 25412
+}

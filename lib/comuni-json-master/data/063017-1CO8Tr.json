@@ -1,0 +1,22 @@
+{
+	"nome": "Casalnuovo di Napoli",
+	"codice": "063017",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B905",
+	"cap": [
+		"80013"
+	],
+	"popolazione": 48621
+}

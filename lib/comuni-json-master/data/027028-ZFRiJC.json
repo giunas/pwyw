@@ -1,0 +1,22 @@
+{
+	"nome": "Pianiga",
+	"codice": "027028",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "G565",
+	"cap": [
+		"30030"
+	],
+	"popolazione": 11968
+}

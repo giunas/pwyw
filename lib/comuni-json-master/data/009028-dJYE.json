@@ -1,0 +1,22 @@
+{
+	"nome": "Erli",
+	"codice": "009028",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "D424",
+	"cap": [
+		"17030"
+	],
+	"popolazione": 256
+}

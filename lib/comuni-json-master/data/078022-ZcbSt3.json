@@ -1,0 +1,22 @@
+{
+	"nome": "Caloveto",
+	"codice": "078022",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "B426",
+	"cap": [
+		"87060"
+	],
+	"popolazione": 1283
+}

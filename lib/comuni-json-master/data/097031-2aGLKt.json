@@ -1,0 +1,22 @@
+{
+	"nome": "Dolzago",
+	"codice": "097031",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "D327",
+	"cap": [
+		"23843"
+	],
+	"popolazione": 2307
+}

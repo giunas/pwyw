@@ -1,0 +1,22 @@
+{
+	"nome": "Mozzecane",
+	"codice": "023051",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "F789",
+	"cap": [
+		"37060"
+	],
+	"popolazione": 7005
+}

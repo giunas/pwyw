@@ -1,0 +1,22 @@
+{
+	"nome": "San Martino di Lupari",
+	"codice": "028077",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "I008",
+	"cap": [
+		"35018"
+	],
+	"popolazione": 13052
+}

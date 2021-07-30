@@ -1,0 +1,22 @@
+{
+	"nome": "Missanello",
+	"codice": "076049",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "F249",
+	"cap": [
+		"85010"
+	],
+	"popolazione": 548
+}

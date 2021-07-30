@@ -1,0 +1,22 @@
+{
+	"nome": "Montevarchi",
+	"codice": "051026",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "F656",
+	"cap": [
+		"52025"
+	],
+	"popolazione": 23971
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Concesio",
+	"codice": "017061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "C948",
+	"cap": [
+		"25062"
+	],
+	"popolazione": 14813
+}

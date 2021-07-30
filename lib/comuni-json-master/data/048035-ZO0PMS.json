@@ -1,0 +1,22 @@
+{
+	"nome": "Reggello",
+	"codice": "048035",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "H222",
+	"cap": [
+		"50066"
+	],
+	"popolazione": 16076
+}

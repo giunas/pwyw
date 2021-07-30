@@ -1,0 +1,22 @@
+{
+	"nome": "Bosco Marengo",
+	"codice": "006021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "B071",
+	"cap": [
+		"15062"
+	],
+	"popolazione": 2531
+}

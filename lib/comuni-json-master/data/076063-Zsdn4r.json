@@ -1,0 +1,22 @@
+{
+	"nome": "Potenza",
+	"codice": "076063",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "G942",
+	"cap": [
+		"85100"
+	],
+	"popolazione": 66777
+}

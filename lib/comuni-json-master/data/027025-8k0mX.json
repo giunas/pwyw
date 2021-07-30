@@ -1,0 +1,22 @@
+{
+	"nome": "Musile di Piave",
+	"codice": "027025",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "F826",
+	"cap": [
+		"30024"
+	],
+	"popolazione": 11518
+}

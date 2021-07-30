@@ -1,0 +1,22 @@
+{
+	"nome": "Calatafimi-Segesta",
+	"codice": "081003",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "B385",
+	"cap": [
+		"91013"
+	],
+	"popolazione": 6938
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Castelpizzuto",
+	"codice": "094011",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "C247",
+	"cap": [
+		"86090"
+	],
+	"popolazione": 159
+}

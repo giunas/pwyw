@@ -1,0 +1,22 @@
+{
+	"nome": "Smerillo",
+	"codice": "109039",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "I774",
+	"cap": [
+		"63856"
+	],
+	"popolazione": 389
+}

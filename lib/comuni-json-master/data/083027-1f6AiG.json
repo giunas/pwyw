@@ -1,0 +1,22 @@
+{
+	"nome": "Furci Siculo",
+	"codice": "083027",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "D824",
+	"cap": [
+		"98023"
+	],
+	"popolazione": 3428
+}

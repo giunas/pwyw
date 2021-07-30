@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Ambrogio di Torino",
+	"codice": "001255",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I258",
+	"cap": [
+		"10057"
+	],
+	"popolazione": 4753
+}

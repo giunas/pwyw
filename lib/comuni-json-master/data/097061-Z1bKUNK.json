@@ -1,0 +1,22 @@
+{
+	"nome": "Osnago",
+	"codice": "097061",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "G161",
+	"cap": [
+		"23875"
+	],
+	"popolazione": 4807
+}

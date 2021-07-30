@@ -1,0 +1,22 @@
+{
+	"nome": "Sessa Aurunca",
+	"codice": "061088",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I676",
+	"cap": [
+		"81037"
+	],
+	"popolazione": 22216
+}

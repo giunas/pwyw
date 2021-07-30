@@ -1,0 +1,22 @@
+{
+	"nome": "Montepulciano",
+	"codice": "052015",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "F592",
+	"cap": [
+		"53045"
+	],
+	"popolazione": 14237
+}

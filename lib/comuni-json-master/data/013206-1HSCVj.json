@@ -1,0 +1,22 @@
+{
+	"nome": "San Fermo della Battaglia",
+	"codice": "013206",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "H840",
+	"cap": [
+		"22042"
+	],
+	"popolazione": 7380
+}

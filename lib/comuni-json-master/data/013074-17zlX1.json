@@ -1,0 +1,22 @@
+{
+	"nome": "Colonno",
+	"codice": "013074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "C902",
+	"cap": [
+		"22010"
+	],
+	"popolazione": 529
+}

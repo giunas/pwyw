@@ -1,0 +1,22 @@
+{
+	"nome": "Cargeghe",
+	"codice": "090022",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "B772",
+	"cap": [
+		"07030"
+	],
+	"popolazione": 644
+}

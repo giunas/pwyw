@@ -1,0 +1,22 @@
+{
+	"nome": "Fiè allo Sciliar",
+	"codice": "021031",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "D571",
+	"cap": [
+		"39050"
+	],
+	"popolazione": 3451
+}

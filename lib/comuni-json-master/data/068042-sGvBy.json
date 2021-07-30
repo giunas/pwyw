@@ -1,0 +1,22 @@
+{
+	"nome": "Tocco da Casauria",
+	"codice": "068042",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "L186",
+	"cap": [
+		"65028"
+	],
+	"popolazione": 2721
+}

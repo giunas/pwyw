@@ -1,0 +1,22 @@
+{
+	"nome": "Teulada",
+	"codice": "111089",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "L154",
+	"cap": [
+		"09019"
+	],
+	"popolazione": 3773
+}

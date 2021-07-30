@@ -1,0 +1,22 @@
+{
+	"nome": "Vico nel Lazio",
+	"codice": "060087",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "L843",
+	"cap": [
+		"03010"
+	],
+	"popolazione": 2256
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Cinigiano",
+	"codice": "053007",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "C705",
+	"cap": [
+		"58044"
+	],
+	"popolazione": 2662
+}

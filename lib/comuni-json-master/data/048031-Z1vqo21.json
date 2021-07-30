@@ -1,0 +1,22 @@
+{
+	"nome": "Palazzuolo sul Senio",
+	"codice": "048031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "G270",
+	"cap": [
+		"50035"
+	],
+	"popolazione": 1188
+}

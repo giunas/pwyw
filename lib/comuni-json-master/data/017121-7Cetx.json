@@ -1,0 +1,22 @@
+{
+	"nome": "Odolo",
+	"codice": "017121",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "G001",
+	"cap": [
+		"25076"
+	],
+	"popolazione": 2086
+}

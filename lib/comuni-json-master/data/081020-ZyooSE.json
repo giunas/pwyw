@@ -1,0 +1,22 @@
+{
+	"nome": "San Vito Lo Capo",
+	"codice": "081020",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "I407",
+	"cap": [
+		"91010"
+	],
+	"popolazione": 4415
+}

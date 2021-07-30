@@ -1,0 +1,22 @@
+{
+	"nome": "Sassari",
+	"codice": "090064",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "I452",
+	"cap": [
+		"07100"
+	],
+	"popolazione": 123782
+}

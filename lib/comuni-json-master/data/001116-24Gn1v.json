@@ -1,0 +1,22 @@
+{
+	"nome": "Givoletto",
+	"codice": "001116",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "E067",
+	"cap": [
+		"10040"
+	],
+	"popolazione": 3640
+}

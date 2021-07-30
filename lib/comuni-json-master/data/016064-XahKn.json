@@ -1,0 +1,22 @@
+{
+	"nome": "Castione della Presolana",
+	"codice": "016064",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "C324",
+	"cap": [
+		"24020"
+	],
+	"popolazione": 3455
+}

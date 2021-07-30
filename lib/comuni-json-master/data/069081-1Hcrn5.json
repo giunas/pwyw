@@ -1,0 +1,22 @@
+{
+	"nome": "San Giovanni Teatino",
+	"codice": "069081",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "D690",
+	"cap": [
+		"66020"
+	],
+	"popolazione": 12733
+}

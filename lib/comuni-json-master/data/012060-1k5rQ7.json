@@ -1,0 +1,22 @@
+{
+	"nome": "Cunardo",
+	"codice": "012060",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "D204",
+	"cap": [
+		"21035"
+	],
+	"popolazione": 2887
+}

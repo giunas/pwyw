@@ -1,0 +1,22 @@
+{
+	"nome": "Senigallia",
+	"codice": "042045",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "042",
+		"nome": "Ancona"
+	},
+	"sigla": "AN",
+	"codiceCatastale": "I608",
+	"cap": [
+		"60019"
+	],
+	"popolazione": 44361
+}

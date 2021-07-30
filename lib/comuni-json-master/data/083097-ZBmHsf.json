@@ -1,0 +1,22 @@
+{
+	"nome": "Taormina",
+	"codice": "083097",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "L042",
+	"cap": [
+		"98039"
+	],
+	"popolazione": 11084
+}

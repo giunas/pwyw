@@ -1,0 +1,22 @@
+{
+	"nome": "Grammichele",
+	"codice": "087018",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "E133",
+	"cap": [
+		"95042"
+	],
+	"popolazione": 13064
+}

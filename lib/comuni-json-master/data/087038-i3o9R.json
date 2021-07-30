@@ -1,0 +1,22 @@
+{
+	"nome": "Randazzo",
+	"codice": "087038",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "H175",
+	"cap": [
+		"95036"
+	],
+	"popolazione": 11108
+}

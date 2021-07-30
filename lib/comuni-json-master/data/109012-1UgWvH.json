@@ -1,0 +1,22 @@
+{
+	"nome": "Monsampietro Morico",
+	"codice": "109012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F379",
+	"cap": [
+		"63842"
+	],
+	"popolazione": 682
+}

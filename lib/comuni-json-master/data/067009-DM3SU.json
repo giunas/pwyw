@@ -1,0 +1,22 @@
+{
+	"nome": "Canzano",
+	"codice": "067009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "067",
+		"nome": "Teramo"
+	},
+	"sigla": "TE",
+	"codiceCatastale": "B640",
+	"cap": [
+		"64020"
+	],
+	"popolazione": 1955
+}

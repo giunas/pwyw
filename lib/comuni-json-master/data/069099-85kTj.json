@@ -1,0 +1,22 @@
+{
+	"nome": "Vasto",
+	"codice": "069099",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "E372",
+	"cap": [
+		"66054"
+	],
+	"popolazione": 38747
+}

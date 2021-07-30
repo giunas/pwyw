@@ -1,0 +1,22 @@
+{
+	"nome": "Rocca Grimalda",
+	"codice": "006147",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "H414",
+	"cap": [
+		"15078"
+	],
+	"popolazione": 1495
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Peveragno",
+	"codice": "004163",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G526",
+	"cap": [
+		"12016"
+	],
+	"popolazione": 5481
+}

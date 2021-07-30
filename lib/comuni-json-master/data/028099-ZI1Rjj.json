@@ -1,0 +1,22 @@
+{
+	"nome": "Vigodarzere",
+	"codice": "028099",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "L892",
+	"cap": [
+		"35010"
+	],
+	"popolazione": 12885
+}

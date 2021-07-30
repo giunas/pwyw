@@ -1,0 +1,22 @@
+{
+	"nome": "Varallo Pombia",
+	"codice": "003154",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L670",
+	"cap": [
+		"28040"
+	],
+	"popolazione": 5004
+}

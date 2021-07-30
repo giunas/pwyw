@@ -1,0 +1,22 @@
+{
+	"nome": "Montone",
+	"codice": "054033",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "F685",
+	"cap": [
+		"06014"
+	],
+	"popolazione": 1663
+}

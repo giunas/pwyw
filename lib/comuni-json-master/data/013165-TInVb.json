@@ -1,0 +1,22 @@
+{
+	"nome": "Olgiate Comasco",
+	"codice": "013165",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "G025",
+	"cap": [
+		"22077"
+	],
+	"popolazione": 11401
+}

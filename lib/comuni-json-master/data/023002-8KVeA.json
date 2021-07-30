@@ -1,0 +1,22 @@
+{
+	"nome": "Albaredo d'Adige",
+	"codice": "023002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "A137",
+	"cap": [
+		"37041"
+	],
+	"popolazione": 5232
+}

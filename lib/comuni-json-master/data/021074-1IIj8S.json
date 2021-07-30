@@ -1,0 +1,22 @@
+{
+	"nome": "Rio di Pusteria",
+	"codice": "021074",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "H299",
+	"cap": [
+		"39037"
+	],
+	"popolazione": 2912
+}

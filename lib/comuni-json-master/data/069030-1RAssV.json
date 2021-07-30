@@ -1,0 +1,22 @@
+{
+	"nome": "Fara Filiorum Petri",
+	"codice": "069030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "D494",
+	"cap": [
+		"66010"
+	],
+	"popolazione": 1955
+}

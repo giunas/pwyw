@@ -1,0 +1,22 @@
+{
+	"nome": "San Pietro Infine",
+	"codice": "061079",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "I113",
+	"cap": [
+		"81049"
+	],
+	"popolazione": 949
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Casaletto Spartano",
+	"codice": "065027",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B888",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 1463
+}

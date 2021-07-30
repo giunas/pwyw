@@ -1,0 +1,22 @@
+{
+	"nome": "Postiglione",
+	"codice": "065101",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G939",
+	"cap": [
+		"84026"
+	],
+	"popolazione": 2198
+}

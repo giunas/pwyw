@@ -1,0 +1,22 @@
+{
+	"nome": "Brogliano",
+	"codice": "024017",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "B196",
+	"cap": [
+		"36070"
+	],
+	"popolazione": 3900
+}

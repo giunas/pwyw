@@ -1,0 +1,22 @@
+{
+	"nome": "Fara San Martino",
+	"codice": "069031",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "D495",
+	"cap": [
+		"66015"
+	],
+	"popolazione": 1524
+}

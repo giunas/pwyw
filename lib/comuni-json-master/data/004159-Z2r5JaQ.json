@@ -1,0 +1,22 @@
+{
+	"nome": "Pamparato",
+	"codice": "004159",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "G302",
+	"cap": [
+		"12087"
+	],
+	"popolazione": 329
+}

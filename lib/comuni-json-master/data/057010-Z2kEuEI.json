@@ -1,0 +1,22 @@
+{
+	"nome": "Cantalupo in Sabina",
+	"codice": "057010",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "B631",
+	"cap": [
+		"02040"
+	],
+	"popolazione": 1736
+}

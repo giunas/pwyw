@@ -1,0 +1,22 @@
+{
+	"nome": "Bracigliano",
+	"codice": "065016",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "B115",
+	"cap": [
+		"84082"
+	],
+	"popolazione": 5439
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Rotzo",
+	"codice": "024089",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "H594",
+	"cap": [
+		"36010"
+	],
+	"popolazione": 638
+}

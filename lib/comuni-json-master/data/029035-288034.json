@@ -1,0 +1,22 @@
+{
+	"nome": "Pettorazza Grimani",
+	"codice": "029035",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "G525",
+	"cap": [
+		"45010"
+	],
+	"popolazione": 1669
+}

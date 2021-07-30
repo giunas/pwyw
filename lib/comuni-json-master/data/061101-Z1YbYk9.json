@@ -1,0 +1,22 @@
+{
+	"nome": "Falciano del Massico",
+	"codice": "061101",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "D471",
+	"cap": [
+		"81030"
+	],
+	"popolazione": 3673
+}

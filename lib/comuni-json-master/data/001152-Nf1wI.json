@@ -1,0 +1,22 @@
+{
+	"nome": "Mezzenile",
+	"codice": "001152",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "F182",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 834
+}

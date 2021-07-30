@@ -1,0 +1,22 @@
+{
+	"nome": "Pisano",
+	"codice": "003119",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "G703",
+	"cap": [
+		"28010"
+	],
+	"popolazione": 770
+}

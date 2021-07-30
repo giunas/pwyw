@@ -1,0 +1,22 @@
+{
+	"nome": "San Rufo",
+	"codice": "065126",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I143",
+	"cap": [
+		"84030"
+	],
+	"popolazione": 1729
+}

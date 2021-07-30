@@ -1,0 +1,22 @@
+{
+	"nome": "Gorizia",
+	"codice": "031007",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "E098",
+	"cap": [
+		"34170"
+	],
+	"popolazione": 35212
+}

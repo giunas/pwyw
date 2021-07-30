@@ -1,0 +1,22 @@
+{
+	"nome": "Cigliano",
+	"codice": "002042",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "C680",
+	"cap": [
+		"13043"
+	],
+	"popolazione": 4547
+}

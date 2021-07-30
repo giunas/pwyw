@@ -1,0 +1,22 @@
+{
+	"nome": "Cerro Veronese",
+	"codice": "023026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "C538",
+	"cap": [
+		"37020"
+	],
+	"popolazione": 2434
+}

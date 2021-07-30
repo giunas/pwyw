@@ -1,0 +1,22 @@
+{
+	"nome": "Corneliano d'Alba",
+	"codice": "004072",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "D022",
+	"cap": [
+		"12040"
+	],
+	"popolazione": 2037
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Montesegale",
+	"codice": "018098",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "F644",
+	"cap": [
+		"27052"
+	],
+	"popolazione": 307
+}

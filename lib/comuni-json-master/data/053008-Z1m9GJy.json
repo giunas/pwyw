@@ -1,0 +1,22 @@
+{
+	"nome": "Civitella Paganico",
+	"codice": "053008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "C782",
+	"cap": [
+		"58045"
+	],
+	"popolazione": 3136
+}

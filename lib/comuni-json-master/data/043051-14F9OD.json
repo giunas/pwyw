@@ -1,0 +1,22 @@
+{
+	"nome": "Serrapetrona",
+	"codice": "043051",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "I651",
+	"cap": [
+		"62020"
+	],
+	"popolazione": 1008
+}

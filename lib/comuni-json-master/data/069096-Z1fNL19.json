@@ -1,0 +1,22 @@
+{
+	"nome": "Treglio",
+	"codice": "069096",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "L363",
+	"cap": [
+		"66030"
+	],
+	"popolazione": 1575
+}

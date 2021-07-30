@@ -1,0 +1,22 @@
+{
+	"nome": "Cipressa",
+	"codice": "008021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "C718",
+	"cap": [
+		"18017"
+	],
+	"popolazione": 1271
+}

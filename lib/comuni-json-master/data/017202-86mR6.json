@@ -1,0 +1,22 @@
+{
+	"nome": "Vione",
+	"codice": "017202",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "M065",
+	"cap": [
+		"25050"
+	],
+	"popolazione": 723
+}

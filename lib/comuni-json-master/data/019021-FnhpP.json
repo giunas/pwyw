@@ -1,0 +1,22 @@
+{
+	"nome": "Casalmaggiore",
+	"codice": "019021",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "B898",
+	"cap": [
+		"26041"
+	],
+	"popolazione": 15111
+}

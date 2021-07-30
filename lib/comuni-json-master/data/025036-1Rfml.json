@@ -1,0 +1,22 @@
+{
+	"nome": "Pedavena",
+	"codice": "025036",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "G404",
+	"cap": [
+		"32034"
+	],
+	"popolazione": 4429
+}

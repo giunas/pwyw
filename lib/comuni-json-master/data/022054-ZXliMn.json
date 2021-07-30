@@ -1,0 +1,22 @@
+{
+	"nome": "Cavizzana",
+	"codice": "022054",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "C400",
+	"cap": [
+		"38022"
+	],
+	"popolazione": 259
+}

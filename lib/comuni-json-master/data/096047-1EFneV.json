@@ -1,0 +1,22 @@
+{
+	"nome": "Ponderano",
+	"codice": "096047",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "G820",
+	"cap": [
+		"13875"
+	],
+	"popolazione": 3927
+}

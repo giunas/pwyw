@@ -1,0 +1,22 @@
+{
+	"nome": "Quarto",
+	"codice": "063063",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "H114",
+	"cap": [
+		"80010"
+	],
+	"popolazione": 39221
+}

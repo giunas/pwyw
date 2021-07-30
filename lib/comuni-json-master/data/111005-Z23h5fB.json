@@ -1,0 +1,22 @@
+{
+	"nome": "Barumini",
+	"codice": "111005",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "A681",
+	"cap": [
+		"09021"
+	],
+	"popolazione": 1310
+}

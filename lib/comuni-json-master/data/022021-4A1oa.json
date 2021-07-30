@@ -1,0 +1,22 @@
+{
+	"nome": "Bondone",
+	"codice": "022021",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "A968",
+	"cap": [
+		"38080"
+	],
+	"popolazione": 668
+}

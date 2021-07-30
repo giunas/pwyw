@@ -1,0 +1,22 @@
+{
+	"nome": "Anguillara Sabazia",
+	"codice": "058005",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "A297",
+	"cap": [
+		"00061"
+	],
+	"popolazione": 18575
+}

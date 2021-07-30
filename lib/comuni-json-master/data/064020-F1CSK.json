@@ -1,0 +1,22 @@
+{
+	"nome": "Casalbore",
+	"codice": "064020",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "B866",
+	"cap": [
+		"83034"
+	],
+	"popolazione": 1922
+}

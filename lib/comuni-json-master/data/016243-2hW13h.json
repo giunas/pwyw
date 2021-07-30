@@ -1,0 +1,22 @@
+{
+	"nome": "Vilminore di Scalve",
+	"codice": "016243",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "M050",
+	"cap": [
+		"24020"
+	],
+	"popolazione": 1491
+}

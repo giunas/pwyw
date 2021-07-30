@@ -1,0 +1,22 @@
+{
+	"nome": "Bortigali",
+	"codice": "091012",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "B062",
+	"cap": [
+		"08012"
+	],
+	"popolazione": 1417
+}

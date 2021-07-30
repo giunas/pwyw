@@ -1,0 +1,22 @@
+{
+	"nome": "Laerru",
+	"codice": "090034",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "E401",
+	"cap": [
+		"07030"
+	],
+	"popolazione": 945
+}

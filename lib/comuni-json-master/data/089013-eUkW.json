@@ -1,0 +1,22 @@
+{
+	"nome": "Noto",
+	"codice": "089013",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "F943",
+	"cap": [
+		"96017"
+	],
+	"popolazione": 23704
+}

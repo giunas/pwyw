@@ -1,0 +1,22 @@
+{
+	"nome": "Mamoiada",
+	"codice": "091046",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "E874",
+	"cap": [
+		"08024"
+	],
+	"popolazione": 2559
+}

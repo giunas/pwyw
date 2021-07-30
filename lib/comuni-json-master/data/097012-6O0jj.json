@@ -1,0 +1,22 @@
+{
+	"nome": "Calco",
+	"codice": "097012",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "B396",
+	"cap": [
+		"23885"
+	],
+	"popolazione": 5113
+}

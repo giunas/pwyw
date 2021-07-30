@@ -1,0 +1,22 @@
+{
+	"nome": "Agerola",
+	"codice": "063003",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "A068",
+	"cap": [
+		"80051"
+	],
+	"popolazione": 7373
+}

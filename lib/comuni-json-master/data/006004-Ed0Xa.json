@@ -1,0 +1,22 @@
+{
+	"nome": "Alfiano Natta",
+	"codice": "006004",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "A189",
+	"cap": [
+		"15021"
+	],
+	"popolazione": 754
+}

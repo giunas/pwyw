@@ -1,0 +1,22 @@
+{
+	"nome": "Monterotondo",
+	"codice": "058065",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F611",
+	"cap": [
+		"00015"
+	],
+	"popolazione": 39502
+}

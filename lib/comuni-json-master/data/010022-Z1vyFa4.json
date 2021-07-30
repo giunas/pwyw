@@ -1,0 +1,22 @@
+{
+	"nome": "Fascia",
+	"codice": "010022",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "D509",
+	"cap": [
+		"16020"
+	],
+	"popolazione": 100
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Gemonio",
+	"codice": "012074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "D963",
+	"cap": [
+		"21036"
+	],
+	"popolazione": 2883
+}

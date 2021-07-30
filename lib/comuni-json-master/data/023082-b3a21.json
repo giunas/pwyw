@@ -1,0 +1,22 @@
+{
+	"nome": "Sommacampagna",
+	"codice": "023082",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "I821",
+	"cap": [
+		"37066"
+	],
+	"popolazione": 14615
+}

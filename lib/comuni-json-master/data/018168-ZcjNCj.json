@@ -1,0 +1,22 @@
+{
+	"nome": "Valle Lomellina",
+	"codice": "018168",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "L593",
+	"cap": [
+		"27020"
+	],
+	"popolazione": 2153
+}

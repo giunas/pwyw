@@ -1,0 +1,22 @@
+{
+	"nome": "Villa di Chiavenna",
+	"codice": "014077",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "L907",
+	"cap": [
+		"23029"
+	],
+	"popolazione": 1030
+}

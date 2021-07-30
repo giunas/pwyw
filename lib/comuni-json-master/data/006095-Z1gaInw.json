@@ -1,0 +1,22 @@
+{
+	"nome": "Molare",
+	"codice": "006095",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "F281",
+	"cap": [
+		"15074"
+	],
+	"popolazione": 2269
+}

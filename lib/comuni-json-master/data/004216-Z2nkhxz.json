@@ -1,0 +1,22 @@
+{
+	"nome": "Scagnello",
+	"codice": "004216",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "I484",
+	"cap": [
+		"12070"
+	],
+	"popolazione": 207
+}

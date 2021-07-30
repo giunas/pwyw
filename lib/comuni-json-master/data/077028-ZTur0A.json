@@ -1,0 +1,22 @@
+{
+	"nome": "Tricarico",
+	"codice": "077028",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "L418",
+	"cap": [
+		"75019"
+	],
+	"popolazione": 5669
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Barbianello",
+	"codice": "018008",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "A634",
+	"cap": [
+		"27041"
+	],
+	"popolazione": 890
+}

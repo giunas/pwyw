@@ -1,0 +1,22 @@
+{
+	"nome": "Dormelletto",
+	"codice": "003062",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "D347",
+	"cap": [
+		"28040"
+	],
+	"popolazione": 2643
+}

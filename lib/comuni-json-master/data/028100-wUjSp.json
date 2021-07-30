@@ -1,0 +1,22 @@
+{
+	"nome": "Vigonza",
+	"codice": "028100",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "L900",
+	"cap": [
+		"35010"
+	],
+	"popolazione": 21993
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Lanuvio",
+	"codice": "058050",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C767",
+	"cap": [
+		"00075"
+	],
+	"popolazione": 13006
+}

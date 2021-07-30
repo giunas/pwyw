@@ -1,0 +1,22 @@
+{
+	"nome": "Uta",
+	"codice": "092090",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": "Cagliari"
+	},
+	"sigla": "CA",
+	"codiceCatastale": "L521",
+	"cap": [
+		"09068"
+	],
+	"popolazione": 7859
+}

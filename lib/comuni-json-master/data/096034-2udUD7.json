@@ -1,0 +1,22 @@
+{
+	"nome": "Miagliano",
+	"codice": "096034",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "F189",
+	"cap": [
+		"13816"
+	],
+	"popolazione": 638
+}

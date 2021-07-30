@@ -1,0 +1,22 @@
+{
+	"nome": "Noviglio",
+	"codice": "015158",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "F968",
+	"cap": [
+		"20082"
+	],
+	"popolazione": 4237
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Scarlino",
+	"codice": "053024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "I510",
+	"cap": [
+		"58020"
+	],
+	"popolazione": 3699
+}

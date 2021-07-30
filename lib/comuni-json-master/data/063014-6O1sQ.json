@@ -1,0 +1,22 @@
+{
+	"nome": "Capri",
+	"codice": "063014",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B696",
+	"cap": [
+		"80073"
+	],
+	"popolazione": 6831
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Vespolate",
+	"codice": "003158",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "003",
+		"nome": "Novara"
+	},
+	"sigla": "NO",
+	"codiceCatastale": "L808",
+	"cap": [
+		"28079"
+	],
+	"popolazione": 2067
+}

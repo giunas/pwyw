@@ -1,0 +1,22 @@
+{
+	"nome": "Zogno",
+	"codice": "016246",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "M184",
+	"cap": [
+		"24019"
+	],
+	"popolazione": 9054
+}

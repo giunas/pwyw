@@ -1,0 +1,22 @@
+{
+	"nome": "Cappadocia",
+	"codice": "066023",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "B677",
+	"cap": [
+		"67060"
+	],
+	"popolazione": 551
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Militello Rosmarino",
+	"codice": "083050",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F210",
+	"cap": [
+		"98070"
+	],
+	"popolazione": 1334
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Occhieppo Superiore",
+	"codice": "096041",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "F993",
+	"cap": [
+		"13898"
+	],
+	"popolazione": 2821
+}

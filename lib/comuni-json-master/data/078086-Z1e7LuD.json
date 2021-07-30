@@ -1,0 +1,22 @@
+{
+	"nome": "Nocara",
+	"codice": "078086",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "078",
+		"nome": "Cosenza"
+	},
+	"sigla": "CS",
+	"codiceCatastale": "F907",
+	"cap": [
+		"87070"
+	],
+	"popolazione": 422
+}

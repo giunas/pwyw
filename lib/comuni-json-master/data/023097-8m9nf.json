@@ -1,0 +1,22 @@
+{
+	"nome": "Zevio",
+	"codice": "023097",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "M172",
+	"cap": [
+		"37059"
+	],
+	"popolazione": 14413
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Ilario d'Enza",
+	"codice": "035039",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "I342",
+	"cap": [
+		"42049"
+	],
+	"popolazione": 10939
+}

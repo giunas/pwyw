@@ -1,0 +1,22 @@
+{
+	"nome": "Predappio",
+	"codice": "040032",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "040",
+		"nome": "Forlì-Cesena"
+	},
+	"sigla": "FC",
+	"codiceCatastale": "H017",
+	"cap": [
+		"47016"
+	],
+	"popolazione": 6519
+}

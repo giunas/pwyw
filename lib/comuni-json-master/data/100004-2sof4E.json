@@ -1,0 +1,22 @@
+{
+	"nome": "Poggio a Caiano",
+	"codice": "100004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "100",
+		"nome": "Prato"
+	},
+	"sigla": "PO",
+	"codiceCatastale": "G754",
+	"cap": [
+		"59016"
+	],
+	"popolazione": 9626
+}

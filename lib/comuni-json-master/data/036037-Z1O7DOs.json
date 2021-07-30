@@ -1,0 +1,22 @@
+{
+	"nome": "San Felice sul Panaro",
+	"codice": "036037",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "H835",
+	"cap": [
+		"41038"
+	],
+	"popolazione": 11026
+}

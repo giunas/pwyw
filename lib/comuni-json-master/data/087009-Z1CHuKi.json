@@ -1,0 +1,22 @@
+{
+	"nome": "Bronte",
+	"codice": "087009",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "B202",
+	"cap": [
+		"95034"
+	],
+	"popolazione": 19234
+}

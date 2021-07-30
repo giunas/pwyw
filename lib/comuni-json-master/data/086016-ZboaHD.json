@@ -1,0 +1,22 @@
+{
+	"nome": "Regalbuto",
+	"codice": "086016",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "086",
+		"nome": "Enna"
+	},
+	"sigla": "EN",
+	"codiceCatastale": "H221",
+	"cap": [
+		"94017"
+	],
+	"popolazione": 7388
+}

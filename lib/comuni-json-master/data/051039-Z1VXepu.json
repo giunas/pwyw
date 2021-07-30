@@ -1,0 +1,22 @@
+{
+	"nome": "Terranuova Bracciolini",
+	"codice": "051039",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "L123",
+	"cap": [
+		"52028"
+	],
+	"popolazione": 12302
+}

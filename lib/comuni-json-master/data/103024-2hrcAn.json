@@ -1,0 +1,22 @@
+{
+	"nome": "Craveggia",
+	"codice": "103024",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "D134",
+	"cap": [
+		"28852"
+	],
+	"popolazione": 728
+}

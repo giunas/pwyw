@@ -1,0 +1,22 @@
+{
+	"nome": "Trinitapoli",
+	"codice": "110010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"provincia": {
+		"codice": "110",
+		"nome": "Barletta-Andria-Trani"
+	},
+	"sigla": "BT",
+	"codiceCatastale": "B915",
+	"cap": [
+		"76015"
+	],
+	"popolazione": 14293
+}

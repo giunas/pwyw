@@ -1,0 +1,22 @@
+{
+	"nome": "Pozzallo",
+	"codice": "088008",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "088",
+		"nome": "Ragusa"
+	},
+	"sigla": "RG",
+	"codiceCatastale": "G953",
+	"cap": [
+		"97016"
+	],
+	"popolazione": 18929
+}

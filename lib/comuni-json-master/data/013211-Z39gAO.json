@@ -1,0 +1,22 @@
+{
+	"nome": "Schignano",
+	"codice": "013211",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "I529",
+	"cap": [
+		"22020"
+	],
+	"popolazione": 874
+}

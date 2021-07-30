@@ -1,0 +1,22 @@
+{
+	"nome": "Prezza",
+	"codice": "066076",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "H056",
+	"cap": [
+		"67030"
+	],
+	"popolazione": 1015
+}

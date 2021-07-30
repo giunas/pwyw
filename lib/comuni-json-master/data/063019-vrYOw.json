@@ -1,0 +1,22 @@
+{
+	"nome": "Casamicciola Terme",
+	"codice": "063019",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B924",
+	"cap": [
+		"80074"
+	],
+	"popolazione": 8080
+}

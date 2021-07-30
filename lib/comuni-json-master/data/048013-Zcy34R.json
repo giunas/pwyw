@@ -1,0 +1,22 @@
+{
+	"nome": "Dicomano",
+	"codice": "048013",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "D299",
+	"cap": [
+		"50062"
+	],
+	"popolazione": 5670
+}

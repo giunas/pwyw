@@ -1,0 +1,22 @@
+{
+	"nome": "Picerno",
+	"codice": "076059",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "G590",
+	"cap": [
+		"85055"
+	],
+	"popolazione": 6080
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Colverde",
+	"codice": "013251",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "M336",
+	"cap": [
+		"22041"
+	],
+	"popolazione": 5234
+}

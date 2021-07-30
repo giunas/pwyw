@@ -1,0 +1,22 @@
+{
+	"nome": "Tortona",
+	"codice": "006174",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "L304",
+	"cap": [
+		"15057"
+	],
+	"popolazione": 25986
+}

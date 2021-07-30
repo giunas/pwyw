@@ -1,0 +1,22 @@
+{
+	"nome": "Termini Imerese",
+	"codice": "082070",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "L112",
+	"cap": [
+		"90018"
+	],
+	"popolazione": 26201
+}

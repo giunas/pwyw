@@ -1,0 +1,22 @@
+{
+	"nome": "Chiusa di San Michele",
+	"codice": "001081",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C655",
+	"cap": [
+		"10050"
+	],
+	"popolazione": 1691
+}

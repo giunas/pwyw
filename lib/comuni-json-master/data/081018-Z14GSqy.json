@@ -1,0 +1,22 @@
+{
+	"nome": "Salemi",
+	"codice": "081018",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "H700",
+	"cap": [
+		"91018"
+	],
+	"popolazione": 10871
+}

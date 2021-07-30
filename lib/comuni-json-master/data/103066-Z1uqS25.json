@@ -1,0 +1,22 @@
+{
+	"nome": "Trarego Viggiona",
+	"codice": "103066",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "L333",
+	"cap": [
+		"28826"
+	],
+	"popolazione": 392
+}

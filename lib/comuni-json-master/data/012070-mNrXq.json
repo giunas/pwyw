@@ -1,0 +1,22 @@
+{
+	"nome": "Gallarate",
+	"codice": "012070",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "012",
+		"nome": "Varese"
+	},
+	"sigla": "VA",
+	"codiceCatastale": "D869",
+	"cap": [
+		"21013"
+	],
+	"popolazione": 50456
+}

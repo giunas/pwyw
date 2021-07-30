@@ -1,0 +1,22 @@
+{
+	"nome": "Balocco",
+	"codice": "002009",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "A601",
+	"cap": [
+		"13040"
+	],
+	"popolazione": 239
+}

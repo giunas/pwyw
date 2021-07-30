@@ -1,0 +1,22 @@
+{
+	"nome": "Scorzè",
+	"codice": "027037",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": "Venezia"
+	},
+	"sigla": "VE",
+	"codiceCatastale": "I551",
+	"cap": [
+		"30037"
+	],
+	"popolazione": 18904
+}

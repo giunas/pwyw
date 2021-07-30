@@ -1,0 +1,22 @@
+{
+	"nome": "Corleone",
+	"codice": "082034",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": "Palermo"
+	},
+	"sigla": "PA",
+	"codiceCatastale": "D009",
+	"cap": [
+		"90034"
+	],
+	"popolazione": 11286
+}

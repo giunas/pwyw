@@ -1,0 +1,22 @@
+{
+	"nome": "San Biagio di Callalta",
+	"codice": "026071",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "H781",
+	"cap": [
+		"31048"
+	],
+	"popolazione": 13039
+}

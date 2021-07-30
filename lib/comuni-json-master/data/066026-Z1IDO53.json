@@ -1,0 +1,22 @@
+{
+	"nome": "Castel del Monte",
+	"codice": "066026",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "C083",
+	"cap": [
+		"67023"
+	],
+	"popolazione": 447
+}

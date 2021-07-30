@@ -1,0 +1,22 @@
+{
+	"nome": "Tirolo",
+	"codice": "021101",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "L178",
+	"cap": [
+		"39019"
+	],
+	"popolazione": 2450
+}

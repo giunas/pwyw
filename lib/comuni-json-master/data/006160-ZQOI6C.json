@@ -1,0 +1,22 @@
+{
+	"nome": "Serravalle Scrivia",
+	"codice": "006160",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "I657",
+	"cap": [
+		"15069"
+	],
+	"popolazione": 6322
+}

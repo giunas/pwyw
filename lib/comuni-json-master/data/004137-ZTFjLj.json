@@ -1,0 +1,22 @@
+{
+	"nome": "Montelupo Albese",
+	"codice": "004137",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "F550",
+	"cap": [
+		"12050"
+	],
+	"popolazione": 531
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Condove",
+	"codice": "001093",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "C955",
+	"cap": [
+		"10055"
+	],
+	"popolazione": 4670
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Bonorva",
+	"codice": "090013",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "A978",
+	"cap": [
+		"07012"
+	],
+	"popolazione": 3669
+}

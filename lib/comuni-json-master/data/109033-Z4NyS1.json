@@ -1,0 +1,22 @@
+{
+	"nome": "Porto San Giorgio",
+	"codice": "109033",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "G920",
+	"cap": [
+		"63822"
+	],
+	"popolazione": 15957
+}

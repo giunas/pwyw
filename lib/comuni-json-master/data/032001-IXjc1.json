@@ -1,0 +1,22 @@
+{
+	"nome": "Duino Aurisina",
+	"codice": "032001",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "032",
+		"nome": "Trieste"
+	},
+	"sigla": "TS",
+	"codiceCatastale": "D383",
+	"cap": [
+		"34011"
+	],
+	"popolazione": 8586
+}

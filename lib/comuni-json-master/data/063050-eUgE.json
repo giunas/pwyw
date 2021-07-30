@@ -1,0 +1,22 @@
+{
+	"nome": "Nola",
+	"codice": "063050",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "F924",
+	"cap": [
+		"80035"
+	],
+	"popolazione": 33979
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "San Casciano in Val di Pesa",
+	"codice": "048038",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "H791",
+	"cap": [
+		"50026"
+	],
+	"popolazione": 16883
+}

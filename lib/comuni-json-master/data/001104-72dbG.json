@@ -1,0 +1,22 @@
+{
+	"nome": "Fiano",
+	"codice": "001104",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "D562",
+	"cap": [
+		"10070"
+	],
+	"popolazione": 2713
+}

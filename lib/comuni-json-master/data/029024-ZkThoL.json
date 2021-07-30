@@ -1,0 +1,22 @@
+{
+	"nome": "Fratta Polesine",
+	"codice": "029024",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "029",
+		"nome": "Rovigo"
+	},
+	"sigla": "RO",
+	"codiceCatastale": "D788",
+	"cap": [
+		"45025"
+	],
+	"popolazione": 2782
+}

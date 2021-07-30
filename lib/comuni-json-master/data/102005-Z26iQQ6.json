@@ -1,0 +1,22 @@
+{
+	"nome": "Capistrano",
+	"codice": "102005",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "102",
+		"nome": "Vibo Valentia"
+	},
+	"sigla": "VV",
+	"codiceCatastale": "B655",
+	"cap": [
+		"89818"
+	],
+	"popolazione": 1097
+}

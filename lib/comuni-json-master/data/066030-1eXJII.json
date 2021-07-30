@@ -1,0 +1,22 @@
+{
+	"nome": "Castelvecchio Calvisio",
+	"codice": "066030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "C278",
+	"cap": [
+		"67020"
+	],
+	"popolazione": 159
+}

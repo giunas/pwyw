@@ -1,0 +1,22 @@
+{
+	"nome": "Castiglion Fibocchi",
+	"codice": "051011",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "C318",
+	"cap": [
+		"52029"
+	],
+	"popolazione": 2218
+}

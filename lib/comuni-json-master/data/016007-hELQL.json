@@ -1,0 +1,22 @@
+{
+	"nome": "Almenno San Salvatore",
+	"codice": "016007",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A217",
+	"cap": [
+		"24031"
+	],
+	"popolazione": 5831
+}

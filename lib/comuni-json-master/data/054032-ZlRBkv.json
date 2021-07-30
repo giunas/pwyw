@@ -1,0 +1,22 @@
+{
+	"nome": "Monte Santa Maria Tiberina",
+	"codice": "054032",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "F629",
+	"cap": [
+		"06010"
+	],
+	"popolazione": 1216
+}

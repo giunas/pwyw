@@ -1,0 +1,22 @@
+{
+	"nome": "Cremeno",
+	"codice": "097029",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "097",
+		"nome": "Lecco"
+	},
+	"sigla": "LC",
+	"codiceCatastale": "D145",
+	"cap": [
+		"23814"
+	],
+	"popolazione": 1438
+}

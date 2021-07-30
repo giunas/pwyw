@@ -1,0 +1,22 @@
+{
+	"nome": "Cornale e Bastida",
+	"codice": "018191",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "018",
+		"nome": "Pavia"
+	},
+	"sigla": "PV",
+	"codiceCatastale": "M338",
+	"cap": [
+		"27056"
+	],
+	"popolazione": 895
+}

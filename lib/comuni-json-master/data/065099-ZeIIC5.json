@@ -1,0 +1,22 @@
+{
+	"nome": "Pontecagnano Faiano",
+	"codice": "065099",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "G834",
+	"cap": [
+		"84098"
+	],
+	"popolazione": 25096
+}

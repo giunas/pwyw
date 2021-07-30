@@ -1,0 +1,22 @@
+{
+	"nome": "Villa d'Almè",
+	"codice": "016239",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A215",
+	"cap": [
+		"24018"
+	],
+	"popolazione": 6811
+}

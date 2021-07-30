@@ -1,0 +1,22 @@
+{
+	"nome": "Rossiglione",
+	"codice": "010051",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "H581",
+	"cap": [
+		"16010"
+	],
+	"popolazione": 2932
+}

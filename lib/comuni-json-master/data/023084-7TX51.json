@@ -1,0 +1,22 @@
+{
+	"nome": "Sorgà",
+	"codice": "023084",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "I850",
+	"cap": [
+		"37060"
+	],
+	"popolazione": 3112
+}

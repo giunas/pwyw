@@ -1,0 +1,22 @@
+{
+	"nome": "Montegrosso d'Asti",
+	"codice": "005076",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F527",
+	"cap": [
+		"14048"
+	],
+	"popolazione": 2264
+}

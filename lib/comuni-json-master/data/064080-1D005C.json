@@ -1,0 +1,22 @@
+{
+	"nome": "Rotondi",
+	"codice": "064080",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "H592",
+	"cap": [
+		"83017"
+	],
+	"popolazione": 3580
+}

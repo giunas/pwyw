@@ -1,0 +1,22 @@
+{
+	"nome": "Motta San Giovanni",
+	"codice": "080054",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": "Reggio Calabria"
+	},
+	"sigla": "RC",
+	"codiceCatastale": "F779",
+	"cap": [
+		"89065"
+	],
+	"popolazione": 6122
+}

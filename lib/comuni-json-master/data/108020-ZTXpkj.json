@@ -1,0 +1,22 @@
+{
+	"nome": "Cogliate",
+	"codice": "108020",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "108",
+		"nome": "Monza e della Brianza"
+	},
+	"sigla": "MB",
+	"codiceCatastale": "C820",
+	"cap": [
+		"20815"
+	],
+	"popolazione": 8450
+}

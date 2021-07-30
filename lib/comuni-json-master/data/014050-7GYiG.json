@@ -1,0 +1,22 @@
+{
+	"nome": "Piuro",
+	"codice": "014050",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "014",
+		"nome": "Sondrio"
+	},
+	"sigla": "SO",
+	"codiceCatastale": "G718",
+	"cap": [
+		"23020"
+	],
+	"popolazione": 1950
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Zeri",
+	"codice": "045017",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "045",
+		"nome": "Massa-Carrara"
+	},
+	"sigla": "MS",
+	"codiceCatastale": "M169",
+	"cap": [
+		"54029"
+	],
+	"popolazione": 1201
+}

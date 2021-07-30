@@ -1,0 +1,22 @@
+{
+	"nome": "Ailoche",
+	"codice": "096001",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "A107",
+	"cap": [
+		"13861"
+	],
+	"popolazione": 330
+}

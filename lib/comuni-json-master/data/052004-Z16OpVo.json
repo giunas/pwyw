@@ -1,0 +1,22 @@
+{
+	"nome": "Casole d'Elsa",
+	"codice": "052004",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "B984",
+	"cap": [
+		"53031"
+	],
+	"popolazione": 3886
+}

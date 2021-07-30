@@ -1,0 +1,22 @@
+{
+	"nome": "Careggine",
+	"codice": "046008",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "B760",
+	"cap": [
+		"55030"
+	],
+	"popolazione": 584
+}

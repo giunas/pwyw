@@ -1,0 +1,22 @@
+{
+	"nome": "Roasio",
+	"codice": "002116",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "H365",
+	"cap": [
+		"13060"
+	],
+	"popolazione": 2465
+}

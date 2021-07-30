@@ -1,0 +1,22 @@
+{
+	"nome": "Martirano",
+	"codice": "079073",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "E990",
+	"cap": [
+		"88040"
+	],
+	"popolazione": 937
+}

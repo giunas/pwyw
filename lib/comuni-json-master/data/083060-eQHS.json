@@ -1,0 +1,22 @@
+{
+	"nome": "Naso",
+	"codice": "083060",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": "Messina"
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F848",
+	"cap": [
+		"98074"
+	],
+	"popolazione": 4015
+}

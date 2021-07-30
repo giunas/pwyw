@@ -1,0 +1,22 @@
+{
+	"nome": "Monteroduni",
+	"codice": "094030",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "F601",
+	"cap": [
+		"86075"
+	],
+	"popolazione": 2267
+}

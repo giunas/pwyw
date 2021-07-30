@@ -1,0 +1,22 @@
+{
+	"nome": "Villafranca Padovana",
+	"codice": "028103",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "L947",
+	"cap": [
+		"35010"
+	],
+	"popolazione": 9797
+}

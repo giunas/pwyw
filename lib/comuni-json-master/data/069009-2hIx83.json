@@ -1,0 +1,22 @@
+{
+	"nome": "Montebello sul Sangro",
+	"codice": "069009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "B268",
+	"cap": [
+		"66040"
+	],
+	"popolazione": 99
+}

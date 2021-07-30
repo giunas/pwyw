@@ -1,0 +1,22 @@
+{
+	"nome": "Cervinara",
+	"codice": "064025",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "C557",
+	"cap": [
+		"83012"
+	],
+	"popolazione": 9969
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Laigueglia",
+	"codice": "009033",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "E414",
+	"cap": [
+		"17053"
+	],
+	"popolazione": 1800
+}

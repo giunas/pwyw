@@ -1,0 +1,22 @@
+{
+	"nome": "Tolentino",
+	"codice": "043053",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "L191",
+	"cap": [
+		"62029"
+	],
+	"popolazione": 20336
+}

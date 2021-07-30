@@ -1,0 +1,22 @@
+{
+	"nome": "Miazzina",
+	"codice": "103045",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "F192",
+	"cap": [
+		"28817"
+	],
+	"popolazione": 414
+}

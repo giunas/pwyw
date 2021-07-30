@@ -1,0 +1,22 @@
+{
+	"nome": "Certaldo",
+	"codice": "048012",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "C540",
+	"cap": [
+		"50052"
+	],
+	"popolazione": 15935
+}

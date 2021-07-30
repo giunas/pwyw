@@ -1,0 +1,22 @@
+{
+	"nome": "Boscotrecase",
+	"codice": "063009",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B077",
+	"cap": [
+		"80042"
+	],
+	"popolazione": 10416
+}

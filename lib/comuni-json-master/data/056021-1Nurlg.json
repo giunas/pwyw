@@ -1,0 +1,22 @@
+{
+	"nome": "Civita Castellana",
+	"codice": "056021",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "C765",
+	"cap": [
+		"01033"
+	],
+	"popolazione": 15596
+}

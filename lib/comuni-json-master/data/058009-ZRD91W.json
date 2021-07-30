@@ -1,0 +1,22 @@
+{
+	"nome": "Ariccia",
+	"codice": "058009",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "A401",
+	"cap": [
+		"00072"
+	],
+	"popolazione": 18311
+}

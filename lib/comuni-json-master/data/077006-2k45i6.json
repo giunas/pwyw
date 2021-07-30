@@ -1,0 +1,22 @@
+{
+	"nome": "Colobraro",
+	"codice": "077006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "077",
+		"nome": "Matera"
+	},
+	"sigla": "MT",
+	"codiceCatastale": "C888",
+	"cap": [
+		"75021"
+	],
+	"popolazione": 1342
+}

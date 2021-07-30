@@ -1,0 +1,22 @@
+{
+	"nome": "Bregnano",
+	"codice": "013028",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B134",
+	"cap": [
+		"22070"
+	],
+	"popolazione": 6229
+}

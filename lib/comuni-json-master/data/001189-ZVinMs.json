@@ -1,0 +1,22 @@
+{
+	"nome": "Pianezza",
+	"codice": "001189",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G559",
+	"cap": [
+		"10044"
+	],
+	"popolazione": 14169
+}

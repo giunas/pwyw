@@ -1,0 +1,22 @@
+{
+	"nome": "Formigine",
+	"codice": "036015",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "D711",
+	"cap": [
+		"41043"
+	],
+	"popolazione": 33667
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Voghiera",
+	"codice": "038023",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "M110",
+	"cap": [
+		"44019"
+	],
+	"popolazione": 3847
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Tramonti di Sotto",
+	"codice": "093046",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "093",
+		"nome": "Pordenone"
+	},
+	"sigla": "PN",
+	"codiceCatastale": "L325",
+	"cap": [
+		"33090"
+	],
+	"popolazione": 410
+}

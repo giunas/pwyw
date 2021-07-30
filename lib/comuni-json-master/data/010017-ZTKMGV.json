@@ -1,0 +1,22 @@
+{
+	"nome": "Cogoleto",
+	"codice": "010017",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": "Genova"
+	},
+	"sigla": "GE",
+	"codiceCatastale": "C823",
+	"cap": [
+		"16016"
+	],
+	"popolazione": 9145
+}

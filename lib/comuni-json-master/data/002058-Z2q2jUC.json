@@ -1,0 +1,22 @@
+{
+	"nome": "Fontanetto Po",
+	"codice": "002058",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "002",
+		"nome": "Vercelli"
+	},
+	"sigla": "VC",
+	"codiceCatastale": "D676",
+	"cap": [
+		"13040"
+	],
+	"popolazione": 1203
+}

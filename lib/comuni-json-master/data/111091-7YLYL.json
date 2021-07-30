@@ -1,0 +1,22 @@
+{
+	"nome": "Tuili",
+	"codice": "111091",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "SU",
+	"codiceCatastale": "L463",
+	"cap": [
+		"09029"
+	],
+	"popolazione": 1062
+}

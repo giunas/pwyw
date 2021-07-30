@@ -1,0 +1,22 @@
+{
+	"nome": "Sassuolo",
+	"codice": "036040",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "I462",
+	"cap": [
+		"41049"
+	],
+	"popolazione": 39885
+}

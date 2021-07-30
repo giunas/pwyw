@@ -1,0 +1,22 @@
+{
+	"nome": "Sassinoro",
+	"codice": "062072",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "I455",
+	"cap": [
+		"82026"
+	],
+	"popolazione": 659
+}

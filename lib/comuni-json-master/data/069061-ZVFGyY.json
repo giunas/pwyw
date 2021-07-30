@@ -1,0 +1,22 @@
+{
+	"nome": "Palmoli",
+	"codice": "069061",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "G290",
+	"cap": [
+		"66050"
+	],
+	"popolazione": 980
+}

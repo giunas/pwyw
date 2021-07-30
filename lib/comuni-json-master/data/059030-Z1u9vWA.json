@@ -1,0 +1,22 @@
+{
+	"nome": "Sperlonga",
+	"codice": "059030",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "I892",
+	"cap": [
+		"04029"
+	],
+	"popolazione": 3334
+}

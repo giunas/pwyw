@@ -1,0 +1,22 @@
+{
+	"nome": "Amatrice",
+	"codice": "057002",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "A258",
+	"cap": [
+		"02012"
+	],
+	"popolazione": 2646
+}

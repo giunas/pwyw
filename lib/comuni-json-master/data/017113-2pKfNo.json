@@ -1,0 +1,22 @@
+{
+	"nome": "Montichiari",
+	"codice": "017113",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "F471",
+	"cap": [
+		"25018"
+	],
+	"popolazione": 23734
+}

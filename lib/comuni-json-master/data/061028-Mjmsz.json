@@ -1,0 +1,22 @@
+{
+	"nome": "Cervino",
+	"codice": "061028",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "C558",
+	"cap": [
+		"81023"
+	],
+	"popolazione": 5024
+}

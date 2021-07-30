@@ -1,0 +1,22 @@
+{
+	"nome": "Mombercelli",
+	"codice": "005066",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "005",
+		"nome": "Asti"
+	},
+	"sigla": "AT",
+	"codiceCatastale": "F316",
+	"cap": [
+		"14047"
+	],
+	"popolazione": 2343
+}

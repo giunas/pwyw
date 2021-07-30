@@ -1,0 +1,22 @@
+{
+	"nome": "Castelsardo",
+	"codice": "090023",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "090",
+		"nome": "Sassari"
+	},
+	"sigla": "SS",
+	"codiceCatastale": "C272",
+	"cap": [
+		"07031"
+	],
+	"popolazione": 5737
+}

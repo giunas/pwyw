@@ -1,0 +1,22 @@
+{
+	"nome": "Vignanello",
+	"codice": "056058",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "L882",
+	"cap": [
+		"01039"
+	],
+	"popolazione": 4826
+}

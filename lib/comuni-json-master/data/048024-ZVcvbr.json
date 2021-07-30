@@ -1,0 +1,22 @@
+{
+	"nome": "Lastra a Signa",
+	"codice": "048024",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": "Firenze"
+	},
+	"sigla": "FI",
+	"codiceCatastale": "E466",
+	"cap": [
+		"50055"
+	],
+	"popolazione": 18960
+}

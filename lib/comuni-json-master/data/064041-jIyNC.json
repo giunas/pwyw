@@ -1,0 +1,22 @@
+{
+	"nome": "Lacedonia",
+	"codice": "064041",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "E397",
+	"cap": [
+		"83046"
+	],
+	"popolazione": 2465
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Maserà di Padova",
+	"codice": "028048",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "F011",
+	"cap": [
+		"35020"
+	],
+	"popolazione": 9045
+}

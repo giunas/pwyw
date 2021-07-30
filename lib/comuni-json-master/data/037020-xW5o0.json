@@ -1,0 +1,22 @@
+{
+	"nome": "Castel San Pietro Terme",
+	"codice": "037020",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": "Bologna"
+	},
+	"sigla": "BO",
+	"codiceCatastale": "C265",
+	"cap": [
+		"40024"
+	],
+	"popolazione": 20468
+}

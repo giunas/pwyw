@@ -1,0 +1,22 @@
+{
+	"nome": "Villa Cortese",
+	"codice": "015248",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "L928",
+	"cap": [
+		"20020"
+	],
+	"popolazione": 6150
+}

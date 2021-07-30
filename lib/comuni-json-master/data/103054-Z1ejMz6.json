@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve Vergonte",
+	"codice": "103054",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "103",
+		"nome": "Verbano-Cusio-Ossola"
+	},
+	"sigla": "VB",
+	"codiceCatastale": "G658",
+	"cap": [
+		"28886"
+	],
+	"popolazione": 2644
+}

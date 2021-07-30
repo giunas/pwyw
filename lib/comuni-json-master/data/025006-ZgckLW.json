@@ -1,0 +1,22 @@
+{
+	"nome": "Belluno",
+	"codice": "025006",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "A757",
+	"cap": [
+		"32100"
+	],
+	"popolazione": 35591
+}

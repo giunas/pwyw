@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve di Teco",
+	"codice": "008042",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "G632",
+	"cap": [
+		"18026"
+	],
+	"popolazione": 1400
+}

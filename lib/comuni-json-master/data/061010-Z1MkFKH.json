@@ -1,0 +1,22 @@
+{
+	"nome": "Calvi Risorta",
+	"codice": "061010",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "B445",
+	"cap": [
+		"81042"
+	],
+	"popolazione": 5785
+}

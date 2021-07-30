@@ -1,0 +1,22 @@
+{
+	"nome": "Albaretto della Torre",
+	"codice": "004004",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "A139",
+	"cap": [
+		"12050"
+	],
+	"popolazione": 259
+}

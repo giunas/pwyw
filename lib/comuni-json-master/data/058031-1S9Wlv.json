@@ -1,0 +1,22 @@
+{
+	"nome": "Cineto Romano",
+	"codice": "058031",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": "Roma"
+	},
+	"sigla": "RM",
+	"codiceCatastale": "C702",
+	"cap": [
+		"00020"
+	],
+	"popolazione": 641
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Godega di Sant'Urbano",
+	"codice": "026033",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "026",
+		"nome": "Treviso"
+	},
+	"sigla": "TV",
+	"codiceCatastale": "E071",
+	"cap": [
+		"31010"
+	],
+	"popolazione": 6112
+}

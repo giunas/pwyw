@@ -1,0 +1,22 @@
+{
+	"nome": "Castel di Iudica",
+	"codice": "087013",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": "Catania"
+	},
+	"sigla": "CT",
+	"codiceCatastale": "C091",
+	"cap": [
+		"95040"
+	],
+	"popolazione": 4748
+}

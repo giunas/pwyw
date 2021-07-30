@@ -1,0 +1,22 @@
+{
+	"nome": "Atripalda",
+	"codice": "064006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "A489",
+	"cap": [
+		"83042"
+	],
+	"popolazione": 10926
+}

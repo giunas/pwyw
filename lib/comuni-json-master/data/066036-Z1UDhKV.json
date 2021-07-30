@@ -1,0 +1,22 @@
+{
+	"nome": "Civitella Roveto",
+	"codice": "066036",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "C783",
+	"cap": [
+		"67054"
+	],
+	"popolazione": 3374
+}

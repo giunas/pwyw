@@ -1,0 +1,22 @@
+{
+	"nome": "Cortina d'Ampezzo",
+	"codice": "025016",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "A266",
+	"cap": [
+		"32043"
+	],
+	"popolazione": 5890
+}

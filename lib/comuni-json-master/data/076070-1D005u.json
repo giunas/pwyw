@@ -1,0 +1,22 @@
+{
+	"nome": "Rotonda",
+	"codice": "076070",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "H590",
+	"cap": [
+		"85048"
+	],
+	"popolazione": 3519
+}

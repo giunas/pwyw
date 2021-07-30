@@ -1,0 +1,22 @@
+{
+	"nome": "Castano Primo",
+	"codice": "015062",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C052",
+	"cap": [
+		"20022"
+	],
+	"popolazione": 10990
+}

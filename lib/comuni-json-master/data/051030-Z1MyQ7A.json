@@ -1,0 +1,22 @@
+{
+	"nome": "Pieve Santo Stefano",
+	"codice": "051030",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "G653",
+	"cap": [
+		"52036"
+	],
+	"popolazione": 3190
+}

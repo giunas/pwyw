@@ -1,0 +1,22 @@
+{
+	"nome": "Sant'Angelo Lodigiano",
+	"codice": "098050",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "I274",
+	"cap": [
+		"26866"
+	],
+	"popolazione": 12665
+}

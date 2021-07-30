@@ -1,0 +1,22 @@
+{
+	"nome": "Chiusano di San Domenico",
+	"codice": "064028",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "C659",
+	"cap": [
+		"83040"
+	],
+	"popolazione": 2351
+}

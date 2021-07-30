@@ -1,0 +1,22 @@
+{
+	"nome": "Floridia",
+	"codice": "089009",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "089",
+		"nome": "Siracusa"
+	},
+	"sigla": "SR",
+	"codiceCatastale": "D636",
+	"cap": [
+		"96014"
+	],
+	"popolazione": 22685
+}

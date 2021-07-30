@@ -1,0 +1,22 @@
+{
+	"nome": "Cerro Maggiore",
+	"codice": "015072",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": "Milano"
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C537",
+	"cap": [
+		"20023"
+	],
+	"popolazione": 14735
+}

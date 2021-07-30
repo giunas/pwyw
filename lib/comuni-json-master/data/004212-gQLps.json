@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Vittoria d'Alba",
+	"codice": "004212",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "004",
+		"nome": "Cuneo"
+	},
+	"sigla": "CN",
+	"codiceCatastale": "I316",
+	"cap": [
+		"12069"
+	],
+	"popolazione": 2748
+}

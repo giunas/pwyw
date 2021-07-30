@@ -1,0 +1,22 @@
+{
+	"nome": "Somma Vesuviana",
+	"codice": "063079",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": "Napoli"
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I820",
+	"cap": [
+		"80049"
+	],
+	"popolazione": 34592
+}

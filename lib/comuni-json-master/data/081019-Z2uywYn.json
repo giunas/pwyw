@@ -1,0 +1,22 @@
+{
+	"nome": "Santa Ninfa",
+	"codice": "081019",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"provincia": {
+		"codice": "081",
+		"nome": "Trapani"
+	},
+	"sigla": "TP",
+	"codiceCatastale": "I291",
+	"cap": [
+		"91029"
+	],
+	"popolazione": 5095
+}

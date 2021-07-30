@@ -1,0 +1,22 @@
+{
+	"nome": "Torrice",
+	"codice": "060079",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "L290",
+	"cap": [
+		"03020"
+	],
+	"popolazione": 4608
+}

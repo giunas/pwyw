@@ -1,0 +1,22 @@
+{
+	"nome": "Zanè",
+	"codice": "024119",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "024",
+		"nome": "Vicenza"
+	},
+	"sigla": "VI",
+	"codiceCatastale": "M145",
+	"cap": [
+		"36010"
+	],
+	"popolazione": 6642
+}

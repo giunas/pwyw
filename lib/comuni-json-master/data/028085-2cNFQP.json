@@ -1,0 +1,22 @@
+{
+	"nome": "Saonara",
+	"codice": "028085",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "I418",
+	"cap": [
+		"35020"
+	],
+	"popolazione": 10043
+}

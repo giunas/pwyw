@@ -1,0 +1,22 @@
+{
+	"nome": "Santo Stefano di Cadore",
+	"codice": "025050",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "C919",
+	"cap": [
+		"32045"
+	],
+	"popolazione": 2663
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Seggiano",
+	"codice": "053025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "053",
+		"nome": "Grosseto"
+	},
+	"sigla": "GR",
+	"codiceCatastale": "I571",
+	"cap": [
+		"58038"
+	],
+	"popolazione": 1004
+}

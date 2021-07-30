@@ -1,0 +1,22 @@
+{
+	"nome": "Monte San Savino",
+	"codice": "051025",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "F628",
+	"cap": [
+		"52048"
+	],
+	"popolazione": 8743
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Carugo",
+	"codice": "013048",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "013",
+		"nome": "Como"
+	},
+	"sigla": "CO",
+	"codiceCatastale": "B851",
+	"cap": [
+		"22060"
+	],
+	"popolazione": 6243
+}

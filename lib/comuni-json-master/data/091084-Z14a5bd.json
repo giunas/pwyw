@@ -1,0 +1,22 @@
+{
+	"nome": "Sindia",
+	"codice": "091084",
+	"zona": {
+		"codice": "5",
+		"nome": "Isole"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"provincia": {
+		"codice": "091",
+		"nome": "Nuoro"
+	},
+	"sigla": "NU",
+	"codiceCatastale": "I748",
+	"cap": [
+		"08018"
+	],
+	"popolazione": 1811
+}

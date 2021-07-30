@@ -1,0 +1,22 @@
+{
+	"nome": "Gagliole",
+	"codice": "043020",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "D853",
+	"cap": [
+		"62022"
+	],
+	"popolazione": 655
+}

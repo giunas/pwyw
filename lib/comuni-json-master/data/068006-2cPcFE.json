@@ -1,0 +1,22 @@
+{
+	"nome": "Cappelle sul Tavo",
+	"codice": "068006",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "B681",
+	"cap": [
+		"65010"
+	],
+	"popolazione": 3959
+}

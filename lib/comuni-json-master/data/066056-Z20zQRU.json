@@ -1,0 +1,22 @@
+{
+	"nome": "Montereale",
+	"codice": "066056",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"provincia": {
+		"codice": "066",
+		"nome": "L'Aquila"
+	},
+	"sigla": "AQ",
+	"codiceCatastale": "F595",
+	"cap": [
+		"67015"
+	],
+	"popolazione": 2812
+}

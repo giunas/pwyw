@@ -1,0 +1,22 @@
+{
+	"nome": "Pinerolo",
+	"codice": "001191",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": "Torino"
+	},
+	"sigla": "TO",
+	"codiceCatastale": "G674",
+	"cap": [
+		"10064"
+	],
+	"popolazione": 34854
+}

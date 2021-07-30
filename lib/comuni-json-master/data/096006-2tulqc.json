@@ -1,0 +1,22 @@
+{
+	"nome": "Borriana",
+	"codice": "096006",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"provincia": {
+		"codice": "096",
+		"nome": "Biella"
+	},
+	"sigla": "BI",
+	"codiceCatastale": "B058",
+	"cap": [
+		"13872"
+	],
+	"popolazione": 880
+}

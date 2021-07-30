@@ -1,0 +1,22 @@
+{
+	"nome": "Roccadaspide",
+	"codice": "065106",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H394",
+	"cap": [
+		"84069"
+	],
+	"popolazione": 7354
+}

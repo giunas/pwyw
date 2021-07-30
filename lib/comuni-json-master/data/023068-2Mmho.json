@@ -1,0 +1,22 @@
+{
+	"nome": "Salizzole",
+	"codice": "023068",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "H714",
+	"cap": [
+		"37056"
+	],
+	"popolazione": 3745
+}

@@ -1,0 +1,22 @@
+{
+	"nome": "Laureana Cilento",
+	"codice": "065060",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "E480",
+	"cap": [
+		"84050"
+	],
+	"popolazione": 1151
+}

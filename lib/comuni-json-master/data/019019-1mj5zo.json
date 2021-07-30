@@ -1,0 +1,22 @@
+{
+	"nome": "Casaletto di Sopra",
+	"codice": "019019",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "B890",
+	"cap": [
+		"26014"
+	],
+	"popolazione": 548
+}

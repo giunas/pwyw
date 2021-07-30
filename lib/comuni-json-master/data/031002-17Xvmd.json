@@ -1,0 +1,22 @@
+{
+	"nome": "Cormons",
+	"codice": "031002",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "D014",
+	"cap": [
+		"34071"
+	],
+	"popolazione": 7543
+}

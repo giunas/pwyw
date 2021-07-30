@@ -1,0 +1,22 @@
+{
+	"nome": "Assisi",
+	"codice": "054001",
+	"zona": {
+		"codice": "3",
+		"nome": "Centro"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "A475",
+	"cap": [
+		"06081"
+	],
+	"popolazione": 27377
+}

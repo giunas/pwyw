@@ -1,0 +1,22 @@
+{
+	"nome": "Montese",
+	"codice": "036026",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "036",
+		"nome": "Modena"
+	},
+	"sigla": "MO",
+	"codiceCatastale": "F642",
+	"cap": [
+		"41055"
+	],
+	"popolazione": 3357
+}

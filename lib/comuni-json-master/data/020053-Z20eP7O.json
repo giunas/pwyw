@@ -1,0 +1,22 @@
+{
+	"nome": "Roverbella",
+	"codice": "020053",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"provincia": {
+		"codice": "020",
+		"nome": "Mantova"
+	},
+	"sigla": "MN",
+	"codiceCatastale": "H604",
+	"cap": [
+		"46048"
+	],
+	"popolazione": 8500
+}

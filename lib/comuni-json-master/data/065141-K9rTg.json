@@ -1,0 +1,22 @@
+{
+	"nome": "Sessa Cilento",
+	"codice": "065141",
+	"zona": {
+		"codice": "4",
+		"nome": "Sud"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "I677",
+	"cap": [
+		"84074"
+	],
+	"popolazione": 1366
+}

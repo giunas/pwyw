@@ -1,0 +1,22 @@
+{
+	"nome": "Villeneuve",
+	"codice": "007074",
+	"zona": {
+		"codice": "1",
+		"nome": "Nord-ovest"
+	},
+	"regione": {
+		"codice": "02",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"provincia": {
+		"codice": "007",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"sigla": "AO",
+	"codiceCatastale": "L981",
+	"cap": [
+		"11018"
+	],
+	"popolazione": 1236
+}

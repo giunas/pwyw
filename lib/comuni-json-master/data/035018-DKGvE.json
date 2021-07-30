@@ -1,0 +1,22 @@
+{
+	"nome": "Canossa",
+	"codice": "035018",
+	"zona": {
+		"codice": "2",
+		"nome": "Nord-est"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "C669",
+	"cap": [
+		"42026"
+	],
+	"popolazione": 3785
+}
